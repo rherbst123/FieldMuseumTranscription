@@ -8,6 +8,9 @@ A program Using Gpt4 to Transcribe and Categorize Images
  - Secondly, Install the openAI API
  > pip install --upgrade openai
 
+ -Important for Linux Users
+ > Users MUST do these imports in the ide of choice they are using and must apply these imports to the file on your machine
+
  # In Your IDE of Choice
  - Change The API Key
  > Line 10 Change your api key. Instructions can be found at https://platform.openai.com/docs/introduction
