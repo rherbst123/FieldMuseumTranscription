@@ -20,7 +20,7 @@ prompt_file_path = ""
 url_text = ""
 
 #Filepath for folder holding images
-image_file = ""
+image_folder = ""
 
 #Filepath for textfile 
 output_file = ""
@@ -59,7 +59,7 @@ def download_images(file_path, save_folder):
 
 # Download images and collect URLs
 image_urls = download_images(url_text, 
-                             image_file)
+                             image_folder)
 
 user_confirmation = input("Proceed with parsing the images? (yes/no): ").strip().lower()
 if user_confirmation != "yes":
@@ -72,7 +72,7 @@ def encode_image(image_path):
         return base64.b64encode(image_file.read()).decode('utf-8')
 
 # Path to your folder containing images
-folder_path = image_file
+folder_path = image_folder
 
 # Headers for the request
 headers = {
@@ -106,7 +106,7 @@ with open(output_file, "w", encoding="utf-8") as file:
     for image_name, url in zip(os.listdir(folder_path), image_urls):
         image_path = os.path.join(folder_path, image_name)
         
-        # Check if it's a file
+        
         if os.path.isfile(image_path):
             print(f"Processing entry {counter + 1}: {image_name}")
             start_time = time.time()
@@ -148,11 +148,11 @@ with open(output_file, "w", encoding="utf-8") as file:
         
             file.write(f"URL: {url}\n" + "="*50 + "\n")
             print(f"Completed processing: {image_name}")
-            end_time = time.time()  # End the timer
-            elapsed_time = end_time - start_time  # Calculate the elapsed time
+            end_time = time.time()  
+            elapsed_time = end_time - start_time 
             print(f"Completed processing entry {counter + 1} in {elapsed_time:.2f} seconds")
 
-            counter += 1  # Increment the counter
+            counter += 1  
 
 print(f"Results saved to {output_file}")
 print(f"Total entries processed: {counter}")
