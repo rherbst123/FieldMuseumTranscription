@@ -9,7 +9,7 @@ import time
 
 
 #THIS ITERATION WAS MADE ON 2-27-24#
-#Put all filepaths in double quiotes
+#Put all filepaths in double quotes
 # OpenAI API Key
 api_key = ""
 
@@ -110,6 +110,7 @@ with open(output_file, "w", encoding="utf-8") as file:
         if os.path.isfile(image_path):
             print(f"Processing entry {counter + 1}: {image_name}")
             start_time = time.time()
+            total_time = time.time()
             base64_image = encode_image(image_path)
            
             payload = {
@@ -156,5 +157,9 @@ with open(output_file, "w", encoding="utf-8") as file:
 
 print(f"Results saved to {output_file}")
 print(f"Total entries processed: {counter}")
+finalend_time = time.time()
+final_time = finalend_time - total_time
+#print(f"Final time: {final_time:.2f} seconds")
 print("All Done!")
+
 
