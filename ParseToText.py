@@ -36,20 +36,22 @@ def download_images(file_path, save_folder):
     with open(file_path, 'r') as file:
         urls = file.readlines()
 
-    # Download each image
-    for url in urls:
+    # Download each image, appending an index to maintain order
+    for index, url in enumerate(urls):
         url = url.strip()  # Remove any extra whitespace
         try:
             response = requests.get(url)
             response.raise_for_status()  # Check if the request was successful
 
-            # Extract image name from URL and save it
+            # Extract image name from URL
             image_name = os.path.basename(url)
-            save_path = os.path.join(save_folder, image_name)
+            # Modify image name to include index for ordering
+            image_name_with_index = f"{index:04d}_{image_name}"  # Prefix index, ensuring it's zero-padded
+            save_path = os.path.join(save_folder, image_name_with_index)
 
             with open(save_path, 'wb') as img_file:
                 img_file.write(response.content)
-            print(f"Downloaded: {image_name}")
+            print(f"Downloaded: {image_name_with_index}")
 
         except requests.exceptions.RequestException as e:
             print(f"Error downloading {url}: {e}")
