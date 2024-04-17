@@ -81,7 +81,7 @@ with open(output_file, "w", encoding="utf-8") as file:
             formatted_result = format_response(image_name, response_data)
             file.write(formatted_result + "="*50 + "\n")
             print(f"Completed processing: {image_name}")
-            print({response_data})
+            print(response_data)
             counter += 1  
 
 print(f"Results saved to {output_file}")
