@@ -1,35 +1,32 @@
-# FieldMuseumTranscription
-A program Using Gpt4 to Transcribe and Categorize Images
+# Field Museum Transcription
+### created by Riley Herbst, Matt Von Konrat, Jeff Gwilliam.
+***
+This is a python script series that has the goal of transcribing images in the museums herbarium.
 
-# Instructions
-- First, Install the Requests library
- > pip install requests
+The two LLM's being used currently are chat gpt 4 and Claude 3.
 
- - Secondly, Install the openAI API
- > pip install --upgrade openai
+***
+# Installation
+Before you begin, ensure you have the following installed on your system:
+- Python 3.8 or higher
+- pip (Python package installer)
 
- - Important for Linux Users
- > Users MUST do these imports in the ide of choice they are using and must apply these imports to the file on your machine
+## Downloading project
+ Install Project from git
+```bash
+git clone https://github.com/rherbst123/FieldMuseumTranscription
+```
 
- # In Your IDE of Choice
- - Change The API Key
- > Line 10 Change your api key. Instructions can be found at https://platform.openai.com/docs/introduction
+ Installing requirements
+ ```bash
+ pip install -r requirements.txt
+```
+***
+## Finding Api Key
+- Openai
+>https://platform.openai.com/docs/introduction
 
- - Assign your input text file and Output Folder. This will contain your url's and where the images go.
- > Line 43 Change your input file path to text file 
+- Claude
+>https://support.anthropic.com/en/collections/5370014-claude-api
 
- >
- > Line 44 Change to the filepath of a Photos Folder
- >
- > Line 56 Is changed to the same as Line 44
-
- - Assign a placement and name for an output text file of Data.
- > Line 76 Change to filepath of Textfile (.txt)
- >
- > Line 189 Is Changed to the same filepath as line 76.
-
- - Assign a placement for Csv File.
- > Line 197 Change to File path and save to a .csv file.
-
-
-
+***

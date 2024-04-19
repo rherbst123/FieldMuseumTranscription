@@ -37,3 +37,15 @@ else:
     print("API request failed.")
     print("Status code:", response.status_code)
     print("Error message:", response.json().get("error", {}).get("message", "Unknown error"))
+
+# Additional test
+if response.status_code == 200:
+    data = response.json()
+    # Perform additional tests on the response data
+    # Example:
+    if "choices" in data:
+        choices = data["choices"]
+        for choice in choices:
+            print("Choice:", choice["text"])
+else:
+    print("Additional test skipped: API request failed.")
