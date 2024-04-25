@@ -14,6 +14,11 @@ with open('c:\\\\Users\\\\riley\\\\Desktop\\\\Portal\\\\Code\\\\Python\\\\Output
 # Encode the image data as base64
 image_data_base64 = base64.b64encode(image_data).decode('utf-8')
 
+# Read the prompt from a .txt file
+with open('c:\\Users\\riley\\Desktop\\Portal\\Code\\Python\\Inputs\\1.4StrippedPrompt.txt', 'r', encoding='utf-8') as prompt_file:
+    lines = prompt_file.readlines()
+    prompt = ''.join(lines)
+
 message = client.messages.create(
     model="claude-3-opus-20240229",
     max_tokens=1024,
@@ -31,7 +36,7 @@ message = client.messages.create(
                 },
                 {
                     "type": "text",
-                    "text": "Describe this image."
+                    "text": prompt  # Use the prompt read from the .txt file
                 }
             ],
         }
