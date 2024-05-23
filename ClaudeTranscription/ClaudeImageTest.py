@@ -62,7 +62,7 @@ def parse_images(image_paths):
 
             formatted_output = format_response(image_name, response_data)
             with open(output_file, "a", encoding="utf-8") as f:
-                f.write(formatted_output + "\n" + "-" * 50 + "\n")
+                f.write(formatted_output + "\n" + "=" * 50 + "\n")
 
         except Exception as e:
             logging.error(f"Error parsing {image_path}: {e}")
