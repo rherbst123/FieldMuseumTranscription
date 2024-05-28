@@ -8,11 +8,11 @@ import csv
 import time
 
 #This iteration was made on 4-17-24 and is based on the chat gpt use but with claude#
-api_key = "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"
-prompt_file_path = "C:\\Users\\riley\\Desktop\\Portal\\Code\\Python\\Inputs\\1.4StrippedPrompt.txt"
-output_file = "C:\\Users\\riley\\Desktop\\Portal\\Code\\Python\\Outputs\\Text\\OutputApr17.0510.txt"
-url_text = "C:\\Users\\riley\\Desktop\\Portal\\Code\\Python\\Inputs\\10test.txt"
-image_folder = "C:\\Users\\riley\\Desktop\\Portal\\Code\\Python\\Outputs\\Images"
+api_key = "API KEY"
+prompt_file_path = "Prompt.txt"
+output_file = "Output.txt"
+url_text = "urls.txt"
+image_folder = "images/"
 
 total_elapsed_time = 0
 def download_images(file_path, save_folder):
