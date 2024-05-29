@@ -114,30 +114,34 @@ with open(output_file, "w", encoding="utf-8") as file:
             start_time = time.time()
             total_time = time.time()
             base64_image = encode_image(image_path)
-           
+            
             payload = {
-                "model": "gpt-4o",
-                "messages": [
-                    {
-                        "role": "user",
+                       "model": "gpt-4o",
+                      "messages": [
+                 {
+                     "role": "user",
                         "content": [
-                            {
-                                "type": "text",
-                                "text": prompt_text
-
-                            },
-                            {
-                                "type": "image_url",
-                                "image_url": {
-                                    "url": f"data:image/jpeg;base64,{base64_image}"
-                                    
-                                }
-                            }
-                        ]
+                {
+                    "type": "text",
+                    "text": prompt_text
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": f"data:image/jpeg;base64,{base64_image}"
                     }
-                ],
-                "max_tokens": 1024
-            }
+                }
+            ]
+        }
+    ],
+                  "max_tokens": 1024,
+                  "temperature": 0.7,  # Add temperature parameter
+                  "seed": 42  # Add seed parameter
+}
+
+           
+           
+
 
             response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
             response_data = response.json()
