@@ -134,8 +134,8 @@ with open(output_file, "w", encoding="utf-8") as file:
             ]
         }
     ],
-                  "max_tokens": 1024,
-                  "temperature": 0.1,  #Change this value to adjust the randomness of the output (We want less randomness so we set it to 0.1)
+                  "max_tokens": 2048,
+                  "temperature": 0.1,  #Change this value to adjust the randomness of the output (We want less randomness)
                   "seed": 42  
 }
 
