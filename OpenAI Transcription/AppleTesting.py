@@ -47,7 +47,11 @@ def encode_image(image_path):
         return base64.b64encode(image_file.read()).decode('utf-8')
 
 def format_response(image_name, response_data):
-    formatted_result = f"Image: {image_name}\nResponse: {json.dumps(response_data, indent=2)}\n\n"
+    # Extract the relevant information from the response
+    message = response_data.get("choices", [{}])[0].get("message", {}).get("content", "")
+    
+    # Create a formatted result string
+    formatted_result = f"Image: {image_name}\nResponse:\n{message}\n\n"
     return formatted_result
 
 headers = {
