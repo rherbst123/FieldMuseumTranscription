@@ -50,6 +50,7 @@ image_urls = download_images('FILE PATH TO .TXT FILE OF URLS',
 user_confirmation = input("Proceed with parsing the images? (yes/no): ").strip().lower()
 if user_confirmation != "yes":
     print("Parsing cancelled by the user.")
+    exit()
 
 # Function to encode the image
 def encode_image(image_path):

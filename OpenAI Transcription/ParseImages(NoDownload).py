@@ -4,16 +4,19 @@ import os
 import json
 
 # OpenAI API Key
-api_key = ""
+api_key = "Api-Key-Here"
 
-# FilePath for textfile containing prompt
-prompt_file_path = ""
+#FilePath for textfile containing prompt
+prompt_file_path = "prompt.txt"
 
-# Filepath for folder holding images
-image_folder = ""
 
-# Filepath for textfile 
-output_file = ""
+#Filepath for folder holding images
+image_folder = "Images"
+
+#Filepath for textfile 
+output_file = "output.txt"
+
+
 
 # Function to encode the image
 def encode_image(image_path):
@@ -53,7 +56,7 @@ with open(output_file, "w", encoding="utf-8") as file:
             base64_image = encode_image(image_path)
            
             payload = {
-                "model": "gpt-4-vision-preview",
+                "model": "gpt-4o",
                 "messages": [
                     {
                         "role": "user",
