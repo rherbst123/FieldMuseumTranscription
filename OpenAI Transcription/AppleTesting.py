@@ -91,7 +91,7 @@ with open(output_file, 'w') as file:
                     }
                 ],
                 "max_tokens": 2048,
-                "temperature": 0.1,
+                "temperature": 0,
                 "seed": 42
             }
             response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
