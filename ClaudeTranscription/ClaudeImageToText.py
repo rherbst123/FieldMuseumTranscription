@@ -106,7 +106,8 @@ with open(output_file, "w", encoding="utf-8") as file:
                 "prompt": f"{prompt_text}\n\nImage: {image_path}",
                 "max_tokens": 3000,
                 "engine": "claude-v1",
-                "temperature": 0.1,
+                "temperature": 0,
+                "seed": 42
                 
             }
 
