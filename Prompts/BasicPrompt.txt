@@ -1,0 +1,1 @@
+Extract All Text off image and return a raw format of text on image. Do not add anything that is not there. 
