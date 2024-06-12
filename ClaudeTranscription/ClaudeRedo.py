@@ -132,7 +132,7 @@ with open(output_file, 'w', encoding='utf-8') as file:
             except TypeError as e:
                 print(f"TypeError encountered: {e}")
                 file.write(f"Image: {image_name}\nResponse: {response_data}\n")
-                file.write(f"URL: {url}\n")
+                file.write(f"\nURL: {url}\n")
                 print(f"Image: {image_name}\nResponse: {response_data}\n")
 
             file.write("=" * 50 + "\n")
