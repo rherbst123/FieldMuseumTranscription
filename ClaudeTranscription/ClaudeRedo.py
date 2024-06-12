@@ -127,7 +127,7 @@ with open(output_file, 'w', encoding='utf-8') as file:
             try:
                 formatted_result = format_response(image_name, response_data)
                 file.write(formatted_result)
-                file.write(f"URL: {url}\n")
+                file.write(f"\nURL: {url}\n")
                 print(formatted_result)
             except TypeError as e:
                 print(f"TypeError encountered: {e}")
