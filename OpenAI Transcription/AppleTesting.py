@@ -67,7 +67,7 @@ image_urls = download_images(url_text, image_folder)
 user_confirmation = input("Proceed with parsing the images? (yes/no): ").strip().lower()
 if user_confirmation != "yes":
     print("Parsing cancelled by the user.")
-    exit()
+    quit()
 
 counter = 0
 with open(output_file, 'w') as file:
