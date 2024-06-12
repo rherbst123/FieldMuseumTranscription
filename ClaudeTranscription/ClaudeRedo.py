@@ -80,6 +80,7 @@ user_confirmation = input("Proceed with parsing the images? (yes/no): ").strip()
 if user_confirmation != "yes":
     print("Parsing cancelled by the user.")
     quit()
+    
 
 client = anthropic.Anthropic(api_key=api_key)
 prompt_text = read_prompt_from_file(prompt_file_path)
@@ -88,8 +89,9 @@ total_time = time.time()
 counter = 0
 
 with open(output_file, 'w', encoding='utf-8') as file:
-    for image_name, url in zip(os.listdir(image_folder), image_urls):
-        image_path = sorted(os.path.join(image_folder, image_name))
+    image_files = sorted(os.listdir(image_folder))  # Ensure consistent order
+    for image_name, url in zip(image_files, image_urls):
+        image_path = os.path.join(image_folder, image_name)
         if os.path.isfile(image_path):
             print(f"Processing entry {counter + 1}: {image_name}")
             start_time = time.time()
