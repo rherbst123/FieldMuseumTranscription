@@ -13,6 +13,11 @@ url_text = "url.txt"
 image_folder = "imagefolder"
 output_file = "output.txt"
 
+prompt_file_path = os.path.normpath(prompt_file_path)
+url_text = os.path.normpath(url_text)
+image_folder = os.path.normpath(image_folder)
+output_file = os.path.normpath(output_file)
+
 def encode_image_to_base64(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode('utf-8')
