@@ -3,32 +3,33 @@ import re
 
 def extract_info_from_text(text):
     regex_patterns = {
-        'Image': r"Image: (.+?)\n",
-        'verbatimCollectors': r"verbatimCollectors\s+: (.+?)\n",
-        'collectedBy': r"collectedBy\s+: (.+?)\n",
-        'secondaryCollectors': r"secondaryCollectors\s+: (.+?)\n",
-        'recordNumber': r"recordNumber\s+: (.+?)\n",
-        'verbatimEventDate': r"verbatimEventDate\s+: (.+?)\n",
-        'minimumEventDate': r"minimumEventDate\s+: (.+?)\n",
-        'maximumEventDate': r"maximumEventDate\s+: (.+?)\n",
-        'verbatimIdentification': r"verbatimIdentification\s+: (.+?)\n",
-        'latestScientificName': r"latestScientificName\s+: (.+?)\n",
-        'identifiedBy': r"identifiedBy\s+: (.+?)\n",
-        'verbatimDateIdentified': r"verbatimDateIdentified\s+: (.+?)\n",
-        'associatedTaxa': r"associatedTaxa\s+: (.+?)\n",
-        'country': r"country\s+: (.+?)\n",
-        'firstPoliticalUnit': r"firstPoliticalUnit\s+: (.+?)\n",
-        'secondPoliticalUnit': r"secondPoliticalUnit\s+: (.+?)\n",
-        'municipality': r"municipality\s+: (.+?)\n",
-        'verbatimLocality': r"verbatimLocality\s+: (.+?)\n",
-        'locality': r"locality\s+: (.+?)\n",
-        'habitat': r"habitat\s+: (.+?)\n",
-        'substrate': r"substrate\s+: (.+?)\n",
-        'verbatimElevation': r"verbatimElevation\s+: (.+?)\n",
-        'verbatimCoordinates': r"verbatimCoordinates\s+: (.+?)\n",
-        'otherCatalogNumbers': r"otherCatalogNumbers\s+: (.+?)\n",
-        'originalMethod': r"originalMethod\s+: (.+?)\n",
-        'typeStatus': r"typeStatus\s+: (.+?)\n",
+        'Image Name': r"Image Name:\s*(.+?)\n",
+        'verbatimCollectors': r"verbatimCollectors\s*:\s*(.+?)\n",
+        'collectedBy': r"collectedBy\s*:\s*(.+?)\n",
+        'secondaryCollectors': r"secondaryCollectors\s*:\s*(.+?)\n",
+        'recordNumber': r"recordNumber\s*:\s*(.+?)\n",
+        'verbatimEventDate': r"verbatimEventDate\s*:\s*(.+?)\n",
+        'minimumEventDate': r"minimumEventDate\s*:\s*(.+?)\n",
+        'maximumEventDate': r"maximumEventDate\s*:\s*(.+?)\n",
+        'verbatimIdentification': r"verbatimIdentification\s*:\s*(.+?)\n",
+        'latestScientificName': r"latestScientificName\s*:\s*(.+?)\n",
+        'identifiedBy': r"identifiedBy\s*:\s*(.+?)\n",
+        'verbatimDateIdentified': r"verbatimDateIdentified\s*:\s*(.+?)\n",
+        'associatedTaxa': r"associatedTaxa\s*:\s*(.+?)\n",
+        'country': r"country\s*:\s*(.+?)\n",
+        'firstPoliticalUnit': r"firstPoliticalUnit\s*:\s*(.+?)\n",
+        'secondPoliticalUnit': r"secondPoliticalUnit\s*:\s*(.+?)\n",
+        'municipality': r"municipality\s*:\s*(.+?)\n",
+        'verbatimLocality': r"verbatimLocality\s*:\s*(.+?)\n",
+        'locality': r"locality\s*:\s*(.+?)\n",
+        'habitat': r"habitat\s*:\s*(.+?)\n",
+        'substrate': r"substrate\s*:\s*(.+?)\n",
+        'verbatimElevation': r"verbatimElevation\s*:\s*(.+?)\n",
+        'verbatimCoordinates': r"verbatimCoordinates\s*:\s*(.+?)\n",
+        'otherCatalogNumbers': r"otherCatalogNumbers\s*:\s*(.+?)\n",
+        'originalMethod': r"originalMethod\s*:\s*(.+?)\n",
+        'typeStatus': r"typeStatus\s*:\s*(.+?)\n",
+        'URL': r"URL:\s*(.+?)\n",
     }
 
     result = {}
@@ -46,11 +47,11 @@ def process_file(file_path):
         print(f"Error: File '{file_path}' not found.")
         return []
 
-    entries = re.split(r'Image: ', contents)[1:]
+    entries = re.split(r'Image Name: ', contents)[1:]
 
     data = []
     for entry in entries:
-        entry_info = extract_info_from_text('Image: ' + entry)
+        entry_info = extract_info_from_text('Image Name: ' + entry)
         data.append(entry_info)
 
     return data
@@ -66,9 +67,10 @@ def export_to_csv(data, csv_file_path):
         writer.writeheader()
         writer.writerows(data)
 
+
 if __name__ == "__main__":
-    input_file_path = "c:\\Users\\Riley\\Desktop\\Portal\\Code\\Python\\Outputs\\Text\\OutputMay5.0758.txt"
-    output_csv_file_path = "C:\\Users\\Riley\\Desktop\\Portal\\Code\\Python\\Outputs\\SpreadMay5.0758.csv"
+    input_file_path = "Input.txt"
+    output_csv_file_path = "Output.csv"
 
     extracted_data = process_file(input_file_path)
     if extracted_data:
