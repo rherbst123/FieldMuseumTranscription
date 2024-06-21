@@ -69,8 +69,8 @@ def export_to_csv(data, csv_file_path):
 
 
 if __name__ == "__main__":
-    input_file_path = "Input.txt"
-    output_csv_file_path = "Output.csv"
+    input_file_path = "C:\\Users\\riley\\OneDrive\\Desktop\\CodeForMe\\python\\Outputs\\OutputJun.21.24.1043.txt"
+    output_csv_file_path = "C:\\Users\\riley\\OneDrive\\Desktop\\CodeForMe\\python\\Outputs\\SpreadJun.21.24.1043.csv"
 
     extracted_data = process_file(input_file_path)
     if extracted_data:
