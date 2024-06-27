@@ -18,4 +18,5 @@ if current_blob:
     blobs.append(current_blob.strip())
 
 for i, blob in enumerate(blobs):
-    print(f"Blob {i+1}: {blob} - Sentiment Polarity: {TextBlob(blob).sentiment.polarity}")
+    polarity = TextBlob(blob).sentiment.polarity
+    print(f"Line {i+1}: Polarity: {polarity}")
