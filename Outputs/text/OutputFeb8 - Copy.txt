@@ -1,0 +1,44 @@
+Image: C0000578F.jpg
+
+title: Hepaticae of New Zealand, Telaranea lindenbergii var. papillata Engel & Merr.
+recordedBy: John J. Engel
+secondaryRecordedBy: Matt von Konrat, John E. Braggins
+acceptedScientificName: Telaranea lindenbergii var. papillata Engel & Merr.
+phylum: Marchantiophyta
+family: Lepidoziaceae
+genus: Telaranea
+specificEpithet: lindenbergii
+infraspecificEpithet: papillata
+scientificNameAuthorship: Engel & Merr.
+identifiedBy: John J. Engel, Matt von Konrat, John E. Braggins
+dateIdentified: N/A
+otherScientificName: N/A
+associatedTaxa: Blechnum novae-zelandiae, Weinmannia, Dicksonia squarrosa, Leptospermum scoparium
+verbatimEventDate: 12 February 2003
+eventDate: 2003-02-12
+country: New Zealand
+countryCode: NZ
+firstPoliticalUnit: Auckland
+secondPoliticalUnit: N/A
+city: N/A
+verbatimLocality: North Island, Auckland Prov.; Whareorino Forest, start of track to Leitch's Hut
+locality: Whareorino Forest, start of track to Leitch's Hut
+habitat: On clayey bank
+substrate: Clay bank
+verbatimElevation: 280 meters
+maximumElevationInMeters: N/A
+minimumElevationInMeters: N/A
+verbatimCoordinates: 38° 24.5' S, 174° 49.8' E
+decimalLatitude: -38.40833
+decimalLongitude: 174.83000
+occurrenceRemarks: Holotype, c. per.+ sporo.
+collectionCode: CRYPTOGAMIC HERBARIUM
+recordNumber: 23773
+catalogNumber: 1173554
+language: English
+languageRemarks: N/A
+originalMethod: Handwritten
+generalNotes: Supported by the National Geographic Society. The Field Museum.
+rawFormat: HOLOTYPE HEPATICAE OF NEW ZEALAND Telaranea lindenbergii var papillata Engel & Merr On clayey bank NORTH ISLAND AUCKLAND PROV: Whareorino Forest, start of track to Leitch's Hut 280 meters, 38° 24.5' S, 174° 49.8' E Clay banks with Blechnum novae-zelandiae overhang, Weinmannia and Dicksonia squarrosa dominant canopy and occasional Leptospermum scoparium John J Engel, Matt von Konrat & John E Braggins No 23773 Supported by the National Geographic Society 12 February 2003
+URL: https://fm-digital-assets.fieldmuseum.org/276/684/C0000578F.jpg
+==================================================

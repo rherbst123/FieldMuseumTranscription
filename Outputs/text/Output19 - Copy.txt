@@ -1,0 +1,201 @@
+Image: C2077558F.jpg
+
+Title: Cryptogamic Herbarium Field Museum of Natural History
+Collected by: F. L. Herrera
+Secondary Collectors: N/A
+Scientific name: Hedwigia ciliata (Hedw.) P. Beauv.
+Associated Taxon: N/A
+Date collected: Verbatum: Jan. 1927
+Formatted Date Collected: January/1927
+Country: Peru
+First Political Unit: N/A
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: Valle del Paucar Tambo Hacienda Churú
+Habitat: N/A
+Elevation: 3500 meters
+Collection Name: Herbarium of The New York Botanical Garden Elizabeth Gertrude Britton Moss Herbarium
+Collection Number: N/A
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+
+Raw format of the sheet with no changes and or categories:
+
+IN THE
+CRYPTOGAMIC HERBARIUM
+FIELD MUSEUM OF NATURAL HISTORY
+1096103
+
+Hedwigia ciliata (Hedw.) P. Beauv.
+Det. Erwin Delano 1992
+Duke University Herbarium
+
+DISTRIBUTED FROM THE
+HERBARIUM OF THE NEW YORK BOTANICAL GARDEN
+Elizabeth Gertrude Britton Moss Herbarium
+Hedwigia albicans
+Valle del Paucar Tam
+URL: http://fm-digital-assets.fieldmuseum.org/2535/404/C2079909F.jpg
+
+==================================================
+Image: C2077559F.jpg
+
+Title: Bryophyta of Ecuador
+Collected by: Marko Lewis
+Secondary Collectors: N/A
+Scientific name: Hedwigia ciliata (Hedw.) P.Beauv.
+Associated Taxon: N/A
+Date collected Verbatum: 8 December 1978
+Formatted Date Collected: 08/12/1978
+Country: Ecuador
+First Political Unit: Azuay
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: Area Nacional de Recreacion "Cajas", forested hills south of "Surrocucho" (Laguna Llaviuco), south of Sayausi
+Habitat: Stone wall
+Elevation: 2555 meters
+Collection Name: Field Museum of Natural History Cryptogamic Herbarium
+Collection Number: 78-3163
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+
+Raw format of the sheet:
+
+N° 1065433
+
+FIELD MUSEUM
+OF
+NATURAL HISTORY
+CRYPTOGAMIC HERBARIUM
+
+Hedwigia ciliata (Hedw.) P. Beauv.
+Det. Efraín De Luna, 1992
+Duke University Herbarium
+
+BRYOPHYTA OF ECUADOR
+
+Hedwigia ciliata (Hedw.) P. Beauv.
+
+Stone wall. 3240 m
+URL: http://fm-digital-assets.fieldmuseum.org/2537/606/C2077558F.jpg
+
+==================================================
+Image: C2077560F.jpg
+
+Title: Bryophyta of Ecuador
+Collected by: Marko Lewis
+Secondary Collectors: N/A
+Scientific name: Hedwigia ciliata (Hedw.) P. Beauv.
+Associated Taxon: N/A
+Date collected: 8 December 1978
+Formatted Date Collected: 08/12/1978
+Country: Ecuador
+First Political Unit: Azuay
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: "Area Nacional de Recreacion "Cajas", forested hill south of "Sesquiocho" (Laguna Llaviuco), south of Sayausi"
+Habitat: Sunny rock in pasture
+Elevation: 3230 meters
+Collection name: Field Museum of Natural History Cryptogamic Herbarium
+Collection Number: 78-3139
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+Raw format of the sheet with no changes and or categories:
+
+Nº 1065411
+Field Museum of Natural History
+Cryptogamic Herbarium
+
+Hedwigia ciliata (Hedw.) P. Beauv.
+Det. Efraín De Luna, 1982
+Duke University Herbarium
+
+Sunny rock in pasture. 3230 m.
+
+PROV. AZUAY: Area Nacional de Recreacion "Cajas", forested hill S. of "
+URL: http://fm-digital-assets.fieldmuseum.org/2537/873/C2077559F.jpg
+
+==================================================
+Image: C2077561F.jpg
+
+Title: Bryophyta of Ecuador
+Collected by: Marko Lewis
+Secondary Collectors: N/A
+Scientific name: Hedwigia ciliata (Hedw.) P. Beauv.
+Associated Taxon: N/A
+Date collected (Verbatum): 30 October 1978
+Formatted Date Collected: 30/10/1978
+Country: Ecuador
+First Political Unit: Azuay
+Second Political Unit: N/A
+City: Cuenca
+Detailed Locality: "Cerro Urcuaca", ca. 2 kilometers south of Cumbre, 5 kilometers south of Cuenca
+Habitat: Cliff in "chaparral"
+Elevation: 3000 meters
+Collection name: Field Museum of Natural History Cryptogamic Herbarium
+Collection Number: 78-2183
+Latitude: 03°07'S
+Longitude: N/A
+Additional Notes: N/A
+
+Raw format of the sheet with no changes and or categories:
+
+N° 1064818
+FIELD MUSEUM OF NATURAL HISTORY
+CRYPTOGAMIC HERBARIUM
+
+Hedwigia ciliata (Hedw.) P. Beauv.
+Det. Elin de Luna, 1992
+Duke University Herbarium
+
+BRYOPHYTA OF ECUADOR
+
+Hedwigia ciliata (Hedw.) P. Beauv.
+
+Cliff in "
+URL: http://fm-digital-assets.fieldmuseum.org/2537/874/C2077560F.jpg
+
+==================================================
+Image: C2077562F.jpg
+
+Title: Bryophyta of Ecuador
+Collected by: Marko Lewis
+Secondary Collectors: N/A
+Scientific name: Hedwigia ciliata (Hedw.) P. Beauv.
+Associated Taxon: N/A
+Date collected: 30 October 1978
+Formatted Date Collected: 30/10/1978
+Country: Ecuador
+First Political Unit: Azuay
+Second Political Unit: N/A
+City: Cuenca
+Detailed Locality: "Cerro Urucca", approximately 2 kilometers south of Cumbre, south of Cuenca
+Habitat: Rock in pasture, primary "chaparral"
+Elevation: approximately 3000 meters
+Collection name: Field Museum of Natural History Cryptogamic Herbarium
+Collection Number: 78-2150
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+
+Raw format of the sheet with no changes and or categories:
+
+N° 1064793
+
+FIELD MUSEUM
+OF
+NATURAL HISTORY
+CRYPTOGAMIC HERBARIUM
+Hedwigia ciliata (Hedw.) P. Beauv.
+Det. Elva Lawton, 1992
+Duke University Herbarium
+
+BRYOPHYTA OF ECUADOR
+Hedwigia ciliata (Hedw.) P. Beauv.
+Rock in pasture, primary "chaparral
+URL: http://fm-digital-assets.fieldmuseum.org/2537/875/C2077561F.jpg
+
+==================================================

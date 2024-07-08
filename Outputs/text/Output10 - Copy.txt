@@ -1,0 +1,94 @@
+Image: C2026370F.jpg
+
+Title: Cryptogamic Herbarium Field Museum of Natural History
+URL: [The image URL is not provided.]
+Collected by: I. Thériot
+Scientific name: Pertusaria amara
+Associated Taxon: N/A
+Date collected [Verbatum]: 3-VIII-1915
+Formatted Date Collected [Day/Month/Year]: 03/08/1915
+Country: France
+First Political Unit [State/Province]: N/A
+Second Political Unit [County]: N/A
+City: Gap
+Detailed Locality: sur un frene (on an ash tree)
+Habitat: N/A
+Elevation: N/A
+Collection name: Herbarium of Ed. Jeanpert
+Collection Number: N/A
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+
+==================================================
+Image: C2026372F.jpg
+
+Title: The Field Museum Cryptogamic Herbarium 
+URL: N/A
+Collected by: Ed. Jeanpert
+Scientific name: Tortula muralis (Hedw.) Schwägr.
+Associated Taxon: N/A
+Date collected verbatim: N/A
+Formatted Date Collected: N/A
+Country: N/A
+First Political Unit: N/A
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: N/A
+Habitat: N/A
+Elevation: N/A
+Collection name: Herbarium Ed. Jeanpert
+Collection Number: N/A
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+
+The image provided does not clearly show the details required for most of the requested data categories. The label "Herbier Ed. Jeanpert" indicates it is part of Ed. Jeanpert's herbarium collection but no additional collection data is legible or provided.
+
+==================================================
+Image: C2026374F.jpg
+
+Title: Herbarium Specimen
+URL: [IMAGE URL NOT PROVIDED]
+Collected by: Ed. Jeannpert
+Scientific name: Bulbocodium minutulum
+Associated Taxon: N/A
+Date collected Verbatum: 27/8/98
+Formatted Date Collected: 27/August/1898
+Country: France
+First Political Unit: N/A
+Second Political Unit: N/A
+City: Haute Savoie
+Detailed Locality: Vallée de Chamonix
+Habitat: N/A
+Elevation: N/A
+Collection name: The Field Museum
+Collection Number: N/A
+Latitude: N/A
+Longitude: N/A
+Additional Notes: Herbarier Ed. Jeannpert
+
+==================================================
+Image: C2026376F.jpg
+
+Title: Herbarium Specimen
+URL: The URL is not visible in the image provided.
+Collected by: Ed. Jeannpert
+Scientific name: Sophia minutula
+Associated Taxon: N/A
+Date collected Verbatum: 12-5-94
+Formatted Date Collected: 12/May/1894
+Country: Algeria
+First Political Unit: N/A
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: N/A
+Habitat: N/A
+Elevation: N/A
+Collection name: Herbarium Ed. Jeannpert
+Collection Number: N/A
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+
+==================================================

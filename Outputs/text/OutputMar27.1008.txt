@@ -1,0 +1,5885 @@
+Image: 0000_V0573776F.jpg
+
+verbatimCollectors: Dr. Edgar A. Mearns
+collectedBy: Dr. Edgar A. Mearns
+secondaryCollectors: N/A
+recordNumber: 8752 
+verbatimEventDate: Jun. 15, '08 to Feb. '09
+minimumEventDate: 1908-06-15
+maximumEventDate: 1909-02-28
+verbatimIdentification: Cyperus maculatus Boeck.
+latestScientificName: Cyperus maculatus Boeck.
+identifiedBy: J. Raynal
+verbatimDateIdentified: 19.10.1971
+associatedTaxa: N/A
+country: Congo Free State
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Rhino Camp, Lake Edward
+locality: Rhino Camp
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 463860
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2433/459/V0573776F.jpg
+
+==================================================
+Image: 0001_V0576008F.jpg
+
+verbatimCollectors: F. G. Overlaet
+collectedBy: F. G. Overlaet
+secondaryCollectors: N/A
+recordNumber: 1923-24
+verbatimEventDate: 1923-24
+minimumEventDate: 1923-00-00
+maximumEventDate: 1924-00-00
+verbatimIdentification: Habenaria
+latestScientificName: Habenaria
+identifiedBy: Borge Pettersson
+verbatimDateIdentified: 1954
+associatedTaxa: N/A
+country: Belgian Congo
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: N/A
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 752356
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2437/184/V0576008F.jpg
+
+==================================================
+Image: 0002_V0576279F.jpg
+
+verbatimCollectors: R. A. Maas Geesteranus
+collectedBy: R. A. Maas Geesteranus
+secondaryCollectors: N/A
+recordNumber: 4924
+verbatimEventDate: dd. 14-VII 1949
+minimumEventDate: 1949-07-14
+maximumEventDate: 1949-07-14
+verbatimIdentification: Pycreus sanguinolentus (Vahl) C.B.Cl.
+latestScientificName: Pycreus sanguinolentus (Vahl) C.B.Cl.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Kenya
+firstPoliticalUnit: Nyanza Province
+secondPoliticalUnit: Londiani Distr.
+municipality: N/A
+verbatimLocality: Londiani Distr., Tinderet Forest Reserve, Camp I,
+locality: Londiani Distr., Tinderet Forest Reserve, Camp I
+habitat: Glade surrounded by rather open, tall forest, containing a.o. Dombeya mastersii and Olea hochstetteri
+substrate: N/A
+verbatimElevation: 2260 m s.m.
+verbatimCoordinates: lat. 0° 5' S., long. 35° 27' E.
+otherCatalogNumbers: 1447352
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2433/678/V0576279F.jpg
+
+==================================================
+Image: 0003_V0577013F.jpg
+
+verbatimCollectors: J. M. Reitsma & B. Reitsma
+collectedBy: J. M. Reitsma
+secondaryCollectors: B. Reitsma
+recordNumber: 20123
+verbatimEventDate: d.d. 3-2-85
+minimumEventDate: 1985-02-03
+maximumEventDate: N/A
+verbatimIdentification: Bulbophyllum scaberulum (Rolfe) Bolus var. scaberulum
+latestScientificName: Bulbophyllum scaberulum var. scaberulum
+identifiedBy: Olga Kosenkovsky
+verbatimDateIdentified: 2011
+associatedTaxa: N/A
+country: Gabon
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: d.d. 3-2-85 Primary rain forest, ca 6 km NW of Oveng, chantier Rougier & Cie., Océan
+locality: Primary rain forest, approximately 6 kilometers northwest of Oveng, chantier Rougier & Cie., Océan
+habitat: Primary rain forest
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: 0 41 N x 11 07 E
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2437/413/V0577013F.jpg
+
+==================================================
+Image: 0004_V0577892F.jpg
+
+verbatimCollectors: Carvalho 2102
+collectedBy: Carvalho
+secondaryCollectors: N/A
+recordNumber: 2102
+verbatimEventDate: 26-VII-1985
+minimumEventDate: 1985-07-26
+maximumEventDate: 1985-07-26
+verbatimIdentification: Mariscus alternifolius Vahl
+latestScientificName: Mariscus alternifolius Vahl
+identifiedBy: C. Cebolla & M.A. Rivas Ponce (UAM)
+verbatimDateIdentified: 1995
+associatedTaxa: N/A
+country: Equatorial Guinea
+firstPoliticalUnit: Bioko
+secondPoliticalUnit: N/A
+municipality: Malabo
+verbatimLocality: Malabo, finca las Carboneras, 32NMK7415
+locality: Finca las Carboneras
+habitat: En Bosque secundario y terrenos incultos
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: 32NMK7415
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2434/201/V0577892F.jpg
+
+==================================================
+Image: 0005_V0578553F.jpg
+
+verbatimCollectors: C. Aedo, L. Rico & F. Cabezas
+collectedBy: C. Aedo
+secondaryCollectors: L. Rico & F. Cabezas
+recordNumber: 2200806
+verbatimEventDate: 5.II-11.1989
+minimumEventDate: 1989-02-05
+maximumEventDate: 1989-02-11
+verbatimIdentification: Agrostis mannii (Hooker fil.) Stapf
+latestScientificName: Agrostis mannii (Hooker fil.) Stapf
+identifiedBy: C. Cebolla & M. A. Rivas Ponce
+verbatimDateIdentified: 1993
+associatedTaxa: N/A
+country: Guinea Ecuatorial
+firstPoliticalUnit: Bioco
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: cumbre del pico Basile, 32NMJ7396, 2370 m. márgenes de la pista, Fernández Casas 11/206, 5-II.1989
+locality: cumbre del pico Basile, márgenes de la pista
+habitat: N/A
+substrate: N/A
+verbatimElevation: 2370 m.
+verbatimCoordinates: 32NMJ7396
+otherCatalogNumbers: Herb. E-PUPLB
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2437/617/V0578553F.jpg
+
+==================================================
+Image: 0006_V0574052F.jpg
+
+verbatimCollectors: Coll. F. G. Overlaet
+collectedBy: F. G. Overlaet
+secondaryCollectors: N/A
+recordNumber: 1932-4
+verbatimEventDate: 1932-4
+minimumEventDate: 1932-04-00
+maximumEventDate: 1932-04-00
+verbatimIdentification: Sansevieria thyrsiflora Thunb.
+latestScientificName: Sansevieria thyrsiflora Thunb.
+identifiedBy: N/A
+verbatimDateIdentified: 1964-04-08
+associatedTaxa: N/A
+country: Belgian Congo
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: N/A
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 752378
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2441/863/V0574052F.jpg
+
+==================================================
+Image: 0007_V0577681F.jpg
+
+verbatimCollectors: C.J.P. Seegeler
+collectedBy: C.j.p. Seegeler
+secondaryCollectors: N/A
+recordNumber: 2806
+verbatimEventDate: d.d. 23 October 1972
+minimumEventDate: 1972-10-23
+maximumEventDate: 1972-10-23
+verbatimIdentification: Vernonia amygdalina Del.
+latestScientificName: Vernonia amygdalina Del.
+identifiedBy: G.H.A. Sonneveld, 1982
+verbatimDateIdentified: 1982
+associatedTaxa: N/A
+country: Ethiopia
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Nazareth, 11 km SW on a track from Matahara, on road to Dodola, near the railway km 302.
+locality: Nazareth, 11 kilometers southwest on a track from Matahara, on road to Dodola, near the railway kilometer 302
+habitat: Erecht herbs, about 90 cm high and 30 cm wide. Stem pale brown, near the top varnish-brown. Leaves medium green, lower part quite brown midgreen.
+substrate: soil
+verbatimElevation: 2350m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2302805
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2446/122/V0577681F.jpg
+
+==================================================
+Image: 0008_V0597557F.jpg
+
+verbatimCollectors: N/A
+collectedBy: N/A
+secondaryCollectors: N/A
+recordNumber: 48
+verbatimEventDate: 06.XI.2003
+minimumEventDate: 2003-11-06
+maximumEventDate: N/A
+verbatimIdentification: Carduus leucanthus Fres.
+latestScientificName: Carduus leucanthus Fres.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Pays (the country name isn't specified)
+firstPoliticalUnit: Sud-Kivu
+secondPoliticalUnit: Territoire: Kabare
+municipality: N/A
+verbatimLocality: Localité: Mussy
+locality: Mussy
+habitat: N/A
+substrate: N/A
+verbatimElevation: Altitude: (not provided)
+verbatimCoordinates: Coordonnées géographiques: (not provided)
+otherCatalogNumbers: 2257689
+originalMethod: Mix of Handwritten and Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2442/190/V0597557F.jpg
+
+==================================================
+Image: 0009_V0594376F.jpg
+
+verbatimCollectors: J.M. Fay
+collectedBy: J.M. Fay
+secondaryCollectors: N/A
+recordNumber: 8017
+verbatimEventDate: 25 May 1987
+minimumEventDate: 1987-05-25
+maximumEventDate: N/A
+verbatimIdentification: Burkea africana Hook.
+latestScientificName: Burkea africana Hook.
+identifiedBy: J.M. Fay
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Central African Republic
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Park Manovo-Gounda-St. Floris. Vicinity of Camp Koumbala. 
+locality: Park Manovo-Gounda-St. Floris, vicinity of Camp Koumbala
+habitat: N/A
+substrate: soil
+verbatimElevation: 600 m
+verbatimCoordinates: 08°29'N 21°12'E
+otherCatalogNumbers: NCI # Wood 067B/0065, Bark 067B/0066, Root 067B/0067, Leaves 067B/0068
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2452/643/V0594376F.jpg
+
+==================================================
+Image: 0010_V0597275F.jpg
+
+verbatimCollectors: P.C.M. Jansen
+collectedBy: P.C.M. Jansen
+secondaryCollectors: N/A
+recordNumber: 9596
+verbatimEventDate: N/A
+minimumEventDate: N/A
+maximumEventDate: N/A
+verbatimIdentification: Cirsium vulgare (Savi) Ten.
+latestScientificName: Cirsium vulgare (Savi) Ten.
+identifiedBy: C.C.H. Jongkind
+verbatimDateIdentified: det. 14 April 1976
+associatedTaxa: N/A
+country: Ethiopia
+firstPoliticalUnit: Harerge
+secondPoliticalUnit: N/A
+municipality: around Damota Village, near Alemaya
+verbatimLocality: Harerge, around Damota Village, near Alemaya. Between chat and sorghum fields.
+locality: around Damota Village, near Alemaya, between chat and sorghum fields.
+habitat: Ground root area (kanot kasar garaache)
+substrate: soil
+verbatimElevation: 1920 m - 2020 m
+verbatimCoordinates: N/A
+otherCatalogNumbers: N° 2302849
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2453/856/V0597275F.jpg
+
+==================================================
+Image: 0011_V0597626F.jpg
+
+verbatimCollectors: Amanda Koch, Wilson Sadka, AK61
+collectedBy: Amanda Koch
+secondaryCollectors: Wilson Sadka
+recordNumber: AK61
+verbatimEventDate: October 22, 2003
+minimumEventDate: 2003-10-22
+maximumEventDate: N/A
+verbatimIdentification: Acacia reficiens merkeri (Vatke) Brenan
+latestScientificName: Acacia reficiens merkeri (Vatke) Brenan
+identifiedBy: Patrick Muthoka
+verbatimDateIdentified: November 02, 2003
+associatedTaxa: N/A
+country: Kenya
+firstPoliticalUnit: Kajiado District
+secondPoliticalUnit: N/A
+municipality: Oloishobor
+verbatimLocality: Kenya: Kajiado District:Oloishobor
+locality: [precise locality unknown]
+habitat: Dry bushland
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2309478
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2454/013/V0597626F.jpg
+
+==================================================
+Image: 0012_V0597688F.jpg
+
+verbatimCollectors: J. Lebrun
+collectedBy: J. Lebrun
+secondaryCollectors: N/A
+recordNumber: 2409
+verbatimEventDate: Nov 1931
+minimumEventDate: 1931-11-00
+maximumEventDate: N/A
+verbatimIdentification: Albizia gummifera (J.F. Gmel.) C.A. Sm.
+latestScientificName: Albizia gummifera (J.F. Gmel.) C.A. Sm.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Congo Belge
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Lelo (Ville): Isangi
+locality: Lelo (Ville): Isangi
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 867368
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2454/080/V0597688F.jpg
+
+==================================================
+Image: 0013_V0588237F.jpg
+
+verbatimCollectors: N/A
+collectedBy: N/A
+secondaryCollectors: N/A
+recordNumber: N/A
+verbatimEventDate: 25.12.1957
+minimumEventDate: 1957-12-25
+maximumEventDate: 1957-12-25
+verbatimIdentification: Digitaria perrottetii (Hochst) Chiov.
+latestScientificName: Digitaria perrottetii (Hochst) Chiov.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Kenya
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Tsavo - Taita Andei
+locality: Tsavo - Taita Andei
+habitat: [habitat not specified on label]
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1559644
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2460/308/V0588237F.jpg
+
+==================================================
+Image: 0014_V0580026F.jpg
+
+verbatimCollectors: H. Callens S.J.
+collectedBy: H. Callens
+secondaryCollectors: N/A
+recordNumber: N/A
+verbatimEventDate: Juillet 1956
+minimumEventDate: 1956-07-00
+maximumEventDate: 1956-07-00
+verbatimIdentification: Coffea canephora Pierre ex Froehner
+latestScientificName: Johannesteijsmannia altifrons
+identifiedBy: H. Callens
+verbatimDateIdentified: 1/9/58
+associatedTaxa: N/A
+country: Congo (now known as the Democratic Republic of the Congo)
+firstPoliticalUnit: Kisantu
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Kisantu (Congo Belge)
+locality: Kisantu
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1584065
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2460/430/V0580026F.jpg
+
+==================================================
+Image: 0015_V0580516F.jpg
+
+verbatimCollectors: G. Troupin
+collectedBy: G. Troupin
+secondaryCollectors: N/A
+recordNumber: 6333
+verbatimEventDate: 1/02/1958
+minimumEventDate: 1958-02-01
+maximumEventDate: N/A
+verbatimIdentification: Mikania cordata (Burm. f.) B.L. Robinson
+latestScientificName: Mikania cordata (Burm. f.) B.L. Robinson
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Zaire
+firstPoliticalUnit: Kivu
+secondPoliticalUnit: Riziba
+municipality: N/A
+verbatimLocality: Km 119, route Kavumu-Riziba, Parc National de Kahuzi
+locality: Km 119, route Kavumu-Riziba, Parc National de Kahuzi
+habitat: Forêt ombrophile
+substrate: N/A
+verbatimElevation: Alt. 1950-2500 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1543353
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2464/177/V0580516F.jpg
+
+==================================================
+Image: 0016_V0574490F.jpg
+
+verbatimCollectors: Gordon McPherson
+collectedBy: Gordon McPherson
+secondaryCollectors: N/A
+recordNumber: 13781
+verbatimEventDate: 20 Mars 1989
+minimumEventDate: 1989-03-20
+maximumEventDate: 1989-03-20
+verbatimIdentification: Corynanthe mayumbensis (R. Good ex Malme) N. Halle
+latestScientificName: Corynanthe mayumbensis (R. Good ex Malme) N. Halle Det. Wilks & McPherson 1989
+identifiedBy: Wilks & McPherson
+verbatimDateIdentified: 1989
+associatedTaxa: N/A
+country: Gabon
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: Chantier Sogha
+verbatimLocality: Chantier De La Lopez, au sud d'Ayem; Reserve De La Lope.
+locality: Chantier De La Lopez, south of Ayem, Reserve De La Lope
+habitat: N/A
+substrate: N/A
+verbatimElevation: c. 200 m
+verbatimCoordinates: 0°25'S 11°30'E
+otherCatalogNumbers: LF:9665-0223-B; RG:9665-0224-H; WD:9665-0225-I.
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2466/373/V0574490F.jpg
+
+==================================================
+Image: 0017_V0574226F.jpg
+
+verbatimCollectors: J. M. Fay
+collectedBy: J. M. Fay
+secondaryCollectors: N/A
+recordNumber: 8294
+verbatimEventDate: 4 March 1988
+minimumEventDate: 1988-03-04
+maximumEventDate: 1988-03-04
+verbatimIdentification: Millettia zechiana Harms
+latestScientificName: Millettia zechiana Harms
+identifiedBy: Aké Assi
+verbatimDateIdentified: 1998
+associatedTaxa: N/A
+country: Cameroon
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: On the Sangha River across from Makao gorilla study area. In seasonally flooded forest with Uapaca guineensis, Pericopsis sp., Berlinia sp.
+locality: On the Sangha River across from Makao gorilla study area
+habitat: seasonally flooded forest with Uapaca guineensis, Pericopsis sp., Berlinia sp.
+substrate: soil
+verbatimElevation: 385 m
+verbatimCoordinates: 02°20'N 16°08'E
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2472/873/V0574226F.jpg
+
+==================================================
+Image: 0018_V0580728F.jpg
+
+verbatimCollectors: F. A. McJannet
+collectedBy: F. A. Mcjannet
+secondaryCollectors: N/A
+recordNumber: 199
+verbatimEventDate: 29-vii-1959
+minimumEventDate: 1959-07-29
+maximumEventDate: N/A
+verbatimIdentification: Phaseolus lunatus L.
+latestScientificName: Phaseolus lunatus L.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Indonesia
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: South West of Crater Lake. Clearing in wood, scrambling over herbage.
+locality: South West of Crater Lake
+habitat: Clearing in wood, scrambling over herbage
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1624518
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2473/141/V0580728F.jpg
+
+==================================================
+Image: 0019_V0578764F.jpg
+
+verbatimCollectors: E. Phillips & E.K. Kemfart
+collectedBy: E. Phillips
+secondaryCollectors: E.K. Kemfart
+recordNumber: 2
+verbatimEventDate: June 30th - July 1st, 1959
+minimumEventDate: 1959-06-30
+maximumEventDate: 1959-07-01
+verbatimIdentification: N/A
+latestScientificName: N/A
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Kenya
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: Nairobi
+verbatimLocality: Mathaga, near Nairobi
+locality: Mathaga, near Nairobi
+habitat: N/A
+substrate: N/A
+verbatimElevation: Alt. 1700 meters
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2074762
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2473/209/V0578764F.jpg
+
+==================================================
+Image: 0020_V0594158F.jpg
+
+verbatimCollectors: A. Leonard
+collectedBy: A. Leonard
+secondaryCollectors: N/A
+recordNumber: 3149
+verbatimEventDate: 29/5/1959
+minimumEventDate: 1959-05-29
+maximumEventDate: 1959-05-29
+verbatimIdentification: Drymaria spermacoce
+latestScientificName: Drymaria spermacoce L. DC.
+identifiedBy: Bamps
+verbatimDateIdentified: 30/X/1969
+associatedTaxa: N/A
+country: Zaire
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Haut-Katanga
+locality: Haut-Katanga
+habitat: Vieille forêt secondaire
+substrate: soil
+verbatimElevation: Alt. 1900m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2086095
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2474/564/V0594158F.jpg
+
+==================================================
+Image: 0021_V0573054F.jpg
+
+verbatimCollectors: N/A
+collectedBy: N/A
+secondaryCollectors: N/A
+recordNumber: 8400
+verbatimEventDate: N/A
+minimumEventDate: N/A
+maximumEventDate: N/A
+verbatimIdentification: Klaineanthus gabonii 
+latestScientificName: Klaineanthus gabonii
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: N/A
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Forêt de Nielle, Yapo
+locality: Forêt de Nielle, Yapo
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Mix of Handwritten and Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2477/449/V0573054F.jpg
+
+==================================================
+Image: 0022_V0601010F.jpg
+
+verbatimCollectors: James T. Allen
+collectedBy: James T. Allen
+secondaryCollectors: N/A
+recordNumber: 41
+verbatimEventDate: September 23, 1996
+minimumEventDate: 1996-09-23
+maximumEventDate: 1996-09-23
+verbatimIdentification: Dissotis rotundifolia (Sm.) Triana
+latestScientificName: Dissotis rotundifolia (Sm.) Triana
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Ghana
+firstPoliticalUnit: Volta Region
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Larteh; Center for Scientific Research into Plant Medicine (CSRPM) farm
+locality: Larteh; Center for Scientific Research into Plant Medicine farm
+habitat: Applied topically-arthritis
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2200652
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2478/115/V0601010F.jpg
+
+==================================================
+Image: 0023_V0602418F.jpg
+
+verbatimCollectors: J. E. Amoah
+collectedBy: J. E. Amoah
+secondaryCollectors: N/A
+recordNumber: 5632
+verbatimEventDate: March 1952
+minimumEventDate: 1952-03-00
+maximumEventDate: 1952-03-00
+verbatimIdentification: Chrysophyllum perpulchrum Mildbr. Sapotac.
+latestScientificName: Chrysophyllum perpulchrum Mildbr.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Gold Coast
+firstPoliticalUnit: Ashanti Prov.
+secondPoliticalUnit: Kumasi District
+municipality: N/A
+verbatimLocality: Kumasi Township Forest Reserve
+locality: Kumasi Township Forest Reserve
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1601919
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2478/233/V0602418F.jpg
+
+==================================================
+Image: 0024_V0604513F.jpg
+
+verbatimCollectors: J. Nemba & D.W. Thomas
+collectedBy: J. Nemba
+secondaryCollectors: D.W. Thomas
+recordNumber: 066/0052-L
+verbatimEventDate: 15 June 1987
+minimumEventDate: 1987-06-15
+maximumEventDate: N/A
+verbatimIdentification: Donella welwitschii Pierre ex Engl.
+latestScientificName: Donella welwitschii Pierre ex Engl.
+identifiedBy: D.W. Thomas
+verbatimDateIdentified: 1987
+associatedTaxa: N/A
+country: Cameroon
+firstPoliticalUnit: Southwest
+secondPoliticalUnit: Kupe-Muanenguba
+municipality: N/A
+verbatimLocality: Old growth forest along road at mile 14 Luki and Kubam-Manfe 04°44'N 09°29'E
+locality: Along road at mile 14 Luki and Kumba-Manfe
+habitat: Secondary growth and old growth forest
+substrate: N/A
+verbatimElevation: 200 m
+verbatimCoordinates: 04°44'N 09°29'E
+otherCatalogNumbers: 2041320
+originalMethod: Typed
+typeStatus: No type status
+URL: https://fm-digital-assets.fieldmuseum.org/2478/305/V0604513F.jpg
+
+==================================================
+Image: 0025_V0572217F.jpg
+
+verbatimCollectors: J. Deaw
+collectedBy: J. Deaw
+secondaryCollectors: N/A
+recordNumber: 283
+verbatimEventDate: 4, 7, 79
+minimumEventDate: 1979-07-04
+maximumEventDate: 1979-07-04
+verbatimIdentification: Eugenia coronata
+latestScientificName: Eugenia coronata
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Ghana
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: Accra
+verbatimLocality: Accra
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2479/474/V0572217F.jpg
+
+==================================================
+Image: 0026_V0602609F.jpg
+
+verbatimCollectors: G. Schweinfurth et al. Riva
+collectedBy: G. Schweinfurth
+secondaryCollectors: Riva
+recordNumber: 1414
+verbatimEventDate: Janvier 1892
+minimumEventDate: 1892-01-00
+maximumEventDate: N/A
+verbatimIdentification: Rumex nervosus Vahl
+latestScientificName: Rumex nervosus Vahl
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Ethiopia
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Agaméti; bords du fleuve au-dessus de Macalle - Keren
+locality: Agaméti; banks of the river above Macalle - Keren
+habitat: N/A
+substrate: N/A
+verbatimElevation: 2500-3000 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2487/523/V0602609F.jpg
+
+==================================================
+Image: 0027_V0606178F.jpg
+
+verbatimCollectors: Coll. R.B. & A.J. Faden 77/11
+collectedBy: R.B. Faden
+secondaryCollectors: A.J. Faden
+recordNumber: 77/11
+verbatimEventDate: 7 March 1977
+minimumEventDate: 1977-03-07
+maximumEventDate: 1977-03-07
+verbatimIdentification: Toddaliopsis bremekampii (Engl.) Engl. confirmed J.O. Kokwaro
+latestScientificName: Toddaliopsis bremekampii (Engl.) Engl.
+identifiedBy: J.O. Kokwaro
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Kenya
+firstPoliticalUnit: Kwale District
+secondPoliticalUnit: Chale Peninsula
+municipality: N/A
+verbatimLocality: Kenya, Kwale District, Chale Peninsula, ca. 20°S x 393°23'30"E, alt ca. 5 m. Coralm rag dry forest with Combrethum shrubminant
+locality: Chale Peninsula, Coralm rag
+habitat: Dry forest with Combrethum shrubminant
+substrate: N/A
+verbatimElevation: alt ca. 5 m
+verbatimCoordinates: 20°S x 393°23'30"E
+otherCatalogNumbers: N° 2153520
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2487/806/V0606178F.jpg
+
+==================================================
+Image: 0028_V0603038F.jpg
+
+verbatimCollectors: F. Szafranski
+collectedBy: F. Szafranski
+secondaryCollectors: N/A
+recordNumber: 1378
+verbatimEventDate: 5.2.1988
+minimumEventDate: 1988-02-05
+maximumEventDate: N/A
+verbatimIdentification: Commelinaceae Floscopa glomerata (Roeem. et Schult.) Hassk.
+latestScientificName: Floscopa glomerata (Roem. & Schult.) Hassk.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Haut-Zaire
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: bas fond marécageux près de la route aux environs de l'usine SOCODIA
+locality: bas fond marécageux près de la route aux environs de l'usine SOCODIA
+habitat: bas fond marécageux près de la route aux environs de l'usine SOCODIA
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2048694
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2487/920/V0603038F.jpg
+
+==================================================
+Image: 0029_V0606676F.jpg
+
+verbatimCollectors: F.W.H. Migeod
+collectedBy: F.W.H. Migeod
+secondaryCollectors: N/A
+recordNumber: 394
+verbatimEventDate: 16. 1. 1928.
+minimumEventDate: 1928-01-16
+maximumEventDate: 1928-01-16
+verbatimIdentification: Solanum sp.
+latestScientificName: Solanum aculeatissimum Jacq.
+identifiedBy: M. Nee
+verbatimDateIdentified: Dec. 3, 1977
+associatedTaxa: N/A
+country: Africa, Bamenda, British Cameroons
+firstPoliticalUnit: British Cameroons
+secondPoliticalUnit: N/A
+municipality: Bamenda
+verbatimLocality: Bamenda
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: 4150-5500 ft
+verbatimCoordinates: N/A
+otherCatalogNumbers: 144275
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2491/969/V0606676F.jpg
+
+==================================================
+Image: 0030_V0601406F.jpg
+
+verbatimCollectors: T.C. Friesleg and L. Hellerström
+collectedBy: T.c. Friesleg
+secondaryCollectors: L. Hellerström
+recordNumber: 52
+verbatimEventDate: 18 July 1959
+minimumEventDate: 1959-07-18
+maximumEventDate: N/A
+verbatimIdentification: Canarina abconensis Mildbr. ex Alston
+latestScientificName: Canarina abconensis Mildbr. ex Alston
+identifiedBy: A. Fern.-Casas
+verbatimDateIdentified: 1961
+associatedTaxa: N/A
+country: Cameroon
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Ridge west of Crater Lake, Open woodland
+locality: Ridge west of Crater Lake, Open woodland
+habitat: Open woodland
+substrate: N/A
+verbatimElevation: 1200 m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1624568
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2491/991/V0601406F.jpg
+
+==================================================
+Image: 0031_V0604673F.jpg
+
+verbatimCollectors: William Burger
+collectedBy: William Burger
+secondaryCollectors: N/A
+recordNumber: 7262
+verbatimEventDate: 27 May 1963
+minimumEventDate: 1963-05-27
+maximumEventDate: N/A
+verbatimIdentification: Rubus apetalus Poir
+latestScientificName: Rubus apetalus Poir.
+identifiedBy: L.B. Krukoff
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Ethiopia
+firstPoliticalUnit: Harar Prov.
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Mts. at Ades 11 KM E. of Harar along new Asmara Rd. fragment of mont forest
+locality: Mountains at Ades 11 kilometers East of Harar along new Asmara Road
+habitat: fragment of montane forest
+substrate: soil
+verbatimElevation: 1920 meters
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1825230
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2493/436/V0604673F.jpg
+
+==================================================
+Image: 0032_V0565514F.jpg
+
+verbatimCollectors: J.D. Sauer
+collectedBy: J.D. Sauer
+secondaryCollectors: N/A
+recordNumber: 3914
+verbatimEventDate: 15 June 1963
+minimumEventDate: 1963-06-15
+maximumEventDate: N/A
+verbatimIdentification: Aerva lanata (L.) Juss.
+latestScientificName: Aerva lanata (L.) Juss.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Kenya
+firstPoliticalUnit: Coast Province
+secondPoliticalUnit: Kwale District
+municipality: N/A
+verbatimLocality: near Bumburi Beach, N of Mombasa
+locality: near Bumburi Beach, north of Mombasa
+habitat: Beach ridge, shallow open coast
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 595687
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2499/501/V0565514F.jpg
+
+==================================================
+Image: 0033_V0565977F.jpg
+
+verbatimCollectors: C. Vigne
+collectedBy: C. Vigne
+secondaryCollectors: N/A
+recordNumber: N/A
+verbatimEventDate: N/A
+minimumEventDate: N/A
+maximumEventDate: N/A
+verbatimIdentification: Orophea polycarpa Engler & Diels
+latestScientificName: Orophea polycarpa Engler & Diels
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Gold Coast
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: N/A
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 839434
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2499/556/V0565977F.jpg
+
+==================================================
+Image: 0034_V0566108F.jpg
+
+verbatimCollectors: Enam Adu
+collectedBy: Enam Adu
+secondaryCollectors: N/A
+recordNumber: 1026
+verbatimEventDate: 1999
+minimumEventDate: 1999-00-00
+maximumEventDate: 1999-00-00
+verbatimIdentification: Uvariopsis dioica
+latestScientificName: Uvariopsis dioica
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Ghana
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: N/A
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2325285
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2499/686/V0566108F.jpg
+
+==================================================
+Image: 0035_V0567164F.jpg
+
+verbatimCollectors: A. A. Enti
+collectedBy: A. A. Enti
+secondaryCollectors: N/A
+recordNumber: 398
+verbatimEventDate: 22 11 79
+minimumEventDate: 1979-11-22
+maximumEventDate: 1979-11-22
+verbatimIdentification: Peramia denwmsi
+latestScientificName: Peramia denwmsi
+identifiedBy: A. A. Enti
+verbatimDateIdentified: 19 71.
+associatedTaxa: N/A
+country: Ghana
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Awui - Winneba Road.
+locality: [precise locality unknown]
+habitat: A climber among grasses.
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1753348
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2500/629/V0567164F.jpg
+
+==================================================
+Image: 0036_V0591661F.jpg
+
+verbatimCollectors: D.W. Thomas
+collectedBy: D.w. Thomas
+secondaryCollectors: N/A
+recordNumber: 6850
+verbatimEventDate: 1987
+minimumEventDate: 1987-00-00
+maximumEventDate: N/A
+verbatimIdentification: Cola flavovelutina K. Schum
+latestScientificName: Cola flavovelutina K. Schum
+identifiedBy: D.W. Thomas
+verbatimDateIdentified: 1987
+associatedTaxa: N/A
+country: Cameroon
+firstPoliticalUnit: Southwest
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: PRCV: Southwest: Korup National Park. Primary rain forest 05°02'N 08°50'E 600 m
+locality: Korup National Park
+habitat: Primary rain forest
+substrate: soil
+verbatimElevation: 600 m
+verbatimCoordinates: 05°02'N 08°50'E
+otherCatalogNumbers: 2041255
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2501/420/V0591661F.jpg
+
+==================================================
+Image: 0037_V0567306F.jpg
+
+verbatimCollectors: Sue A. Thompson
+collectedBy: Sue A. Thompson
+secondaryCollectors: N/A
+recordNumber: 1522
+verbatimEventDate: 9 July 1984
+minimumEventDate: 1984-07-09
+maximumEventDate: N/A
+verbatimIdentification: Impatiens macroptera Hook. f.
+latestScientificName: Impatiens macroptera Hook. f.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Cameroon
+firstPoliticalUnit: Prov. Sud-Ouest
+secondPoliticalUnit: Dept. Fako
+municipality: N/A
+verbatimLocality: Bakingili, 4.04'N, 9.02'E. Alt. 50-250 m. Trail up Mt. Cameroon.
+locality: Bakingili, Trail up Mt. Cameroon
+habitat: Erect herb up to 70 cm. tall; growing on wet rocks; flowers purple.
+substrate: rock
+verbatimElevation: Alt. 50-250 m.
+verbatimCoordinates: 4.04'N, 9.02'E.
+otherCatalogNumbers: N° 2086046
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2504/891/V0567306F.jpg
+
+==================================================
+Image: 0038_V0606921F.jpg
+
+verbatimCollectors: A. Katende
+collectedBy: A. Katende
+secondaryCollectors: N/A
+recordNumber: H484/87
+verbatimEventDate: 4-6-87
+minimumEventDate: 1987-06-04
+maximumEventDate: 1987-06-04
+verbatimIdentification: Englerophytum tenuifolium (Engl.) Gillis
+latestScientificName: Tapinanthus
+identifiedBy: Leaonard
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Kenya
+firstPoliticalUnit: Kitui
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: 4 km. n.e. of Kangondi on road to Embu
+locality: 4 kilometers northeast of Kangondi on road to Embu
+habitat: Roadside
+substrate: N/A
+verbatimElevation: c. 450 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1864166
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2505/266/V0606921F.jpg
+
+==================================================
+Image: 0039_V0605928F.jpg
+
+verbatimCollectors: Sue A. Thompson & John E. Rawlins
+collectedBy: Sue A. Thompson
+secondaryCollectors: John E. Rawlins
+recordNumber: 1333
+verbatimEventDate: 3 June 1984
+minimumEventDate: 1984-06-03
+maximumEventDate: N/A
+verbatimIdentification: Avicennia africana P. Beauv.
+latestScientificName: Avicennia africana P. Beauv.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Cameroon
+firstPoliticalUnit: Prov. Sud-Ouest
+secondPoliticalUnit: Dept. Fako
+municipality: Bakindi
+verbatimLocality: Bakindi; 4°04'N, 9°02'E
+locality: Bakindi
+habitat: Tree ca 2-3 m tall, bark with light blotches; flowers white.
+substrate: soil
+verbatimElevation: Alt. 0 m.
+verbatimCoordinates: 4°04'N, 9°02'E
+otherCatalogNumbers: 2088074
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2506/309/V0605928F.jpg
+
+==================================================
+Image: 0040_V0605675F.jpg
+
+verbatimCollectors: N/A
+collectedBy: N/A
+secondaryCollectors: N/A
+recordNumber: 6047
+verbatimEventDate: 3.12.1958
+minimumEventDate: 1958-12-03
+maximumEventDate: N/A
+verbatimIdentification: Tiliacora funiliforma Brunieri Montain
+latestScientificName: Tiliacora funiliforma Brunieri Montain
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: N/A
+firstPoliticalUnit: Tana
+secondPoliticalUnit: Tsarabe
+municipality: N/A
+verbatimLocality: vers le Terme 30 be Tsarabe, piste foret Tana.
+locality: vers le Terme 30 be Tsarabe, piste foret Tana
+habitat: Forêt ombrophile. Alt. 850 m
+substrate: N/A
+verbatimElevation: Alt. 850 m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1543374
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2511/134/V0605675F.jpg
+
+==================================================
+Image: 0041_V0571550F.jpg
+
+verbatimCollectors: A. Pappi
+collectedBy: A. Pappi
+secondaryCollectors: N/A
+recordNumber: 2642
+verbatimEventDate: 14-V-1952-XX
+minimumEventDate: 1952-05-14
+maximumEventDate: 1952-05-20
+verbatimIdentification: Lavandula pubescens Decaisne
+latestScientificName: Lavandula pubescens Decaisne
+identifiedBy: R. Corradi
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Eritrea
+firstPoliticalUnit: Assaorta
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Asaorta - Lungo il torrente Hagaz
+locality: Asaorta - Lungo il torrente Hagaz
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2511/772/V0571550F.jpg
+
+==================================================
+Image: 0042_V0607392F.jpg
+
+verbatimCollectors: William Burger
+collectedBy: William Burger
+secondaryCollectors: N/A
+recordNumber: 1953
+verbatimEventDate: IV Feb. 1962
+minimumEventDate: 1962-02-04
+maximumEventDate: N/A
+verbatimIdentification: Juniperus procera Hochst ex Endl.
+latestScientificName: Juniperus procera Hochst ex Endl.
+identifiedBy: W.B.
+verbatimDateIdentified: IV Feb 1962
+associatedTaxa: N/A
+country: Ethiopia
+firstPoliticalUnit: Harar Prov.
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: N.W. face Gara Mullata Mtn. ca. 50 km. due S of Harar.
+locality: N.W. face Gara Mullata Mountain approximately 50 kilometers due south of Harar
+habitat: Hiller on steep slopes with mixed forest
+substrate: N/A
+verbatimElevation: alt. 2850 - 3200 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1632855
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2512/575/V0607392F.jpg
+
+==================================================
+Image: 0043_V0570163F.jpg
+
+verbatimCollectors: C. D. Adams
+collectedBy: C. D. Adams
+secondaryCollectors: N/A
+recordNumber: GC
+verbatimEventDate: 1/10/1952
+minimumEventDate: 1952-10-01
+maximumEventDate: N/A
+verbatimIdentification: Terminalia glaucescens
+latestScientificName: Terminalia glaucescens
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Ghana 
+firstPoliticalUnit: Volta Region
+secondPoliticalUnit: N/A
+municipality: Ho
+verbatimLocality: Ho, Volta Region of Ghana
+locality: Ho, Volta Region
+habitat: Forest, found often in secondary relland
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2007210
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2513/815/V0570163F.jpg
+
+==================================================
+Image: 0044_V0570543F.jpg
+
+verbatimCollectors: Schimper
+collectedBy: Schimper
+secondaryCollectors: N/A
+recordNumber: 676
+verbatimEventDate: Novbr. & Decbr. 1837
+minimumEventDate: 1837-11-00
+maximumEventDate: 1837-12-00
+verbatimIdentification: Ipomoea involucrata (Vahl)
+latestScientificName: Ipomoea involucrata (Vahl)
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Abyssinia
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Abyssinia
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 373793
+originalMethod: Handwritten
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2514/094/V0570543F.jpg
+
+==================================================
+Image: 0045_V0607965F.jpg
+
+verbatimCollectors: D.W. Thomas et al.
+collectedBy: D.w. Thomas
+secondaryCollectors: et al.
+recordNumber: 6988
+verbatimEventDate: 18 May 1987
+minimumEventDate: 1987-05-18
+maximumEventDate: N/A
+verbatimIdentification: Dichapetalaceae Tapura africana Oliv.
+latestScientificName: Tapura africana Oliv.
+identifiedBy: D.w. Thomas
+verbatimDateIdentified: 1987
+associatedTaxa: N/A
+country: Cameroon
+firstPoliticalUnit: Southwest
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Degraded forest at Barombi Kang, Kumba
+locality: Degraded forest at Barombi Kang, Kumba
+habitat: Degraded forest
+substrate: soil
+verbatimElevation: 150 m
+verbatimCoordinates: 04°36'N 009°27'E
+otherCatalogNumbers: NCI Bark 0662/0125-8 Leaves 0662/0261-W
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2514/378/V0607965F.jpg
+
+==================================================
+Image: 0046_V0570471F.jpg
+
+verbatimCollectors: Edgar A. Mearns
+collectedBy: Edgar A. Mearns
+secondaryCollectors: N/A
+recordNumber: 11144
+verbatimEventDate: September 6-7, 1909
+minimumEventDate: 1909-09-06
+maximumEventDate: 1909-09-07
+verbatimIdentification: Erysimum alliariifolium Bge.
+latestScientificName: Erysimum alliariifolium Bge.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: British East Africa
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Vicinity of Thika
+locality: Vicinity of Thika
+habitat: N/A
+substrate: N/A
+verbatimElevation: about 1320 meters
+verbatimCoordinates: N/A
+otherCatalogNumbers: 463287
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2514/765/V0570471F.jpg
+
+==================================================
+Image: 0047_V0570108F.jpg
+
+verbatimCollectors: G. J. MacFadyn
+collectedBy: G. J. Macfadyen
+secondaryCollectors: N/A
+recordNumber: 580
+verbatimEventDate: 21-26 April 1948
+minimumEventDate: 1948-04-21
+maximumEventDate: 1948-04-26
+verbatimIdentification: Combretum Schumannii Engl.
+latestScientificName: Combretum Schumannii Engl.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Kenya
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: N/A
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2514/997/V0570108F.jpg
+
+==================================================
+Image: 0048_V0570110F.jpg
+
+verbatimCollectors: J. M. Fay 8271
+collectedBy: J. M. Fay
+secondaryCollectors: N/A
+recordNumber: 8271
+verbatimEventDate: 28 February 1988
+minimumEventDate: 1988-02-28
+maximumEventDate: N/A
+verbatimIdentification: Combretum smeathmannii G. Don
+latestScientificName: Combretum smeathmannii G. Don
+identifiedBy: Ake Assi, 1988
+verbatimDateIdentified: 1988
+associatedTaxa: N/A
+country: Cameroon
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Along the Sangha River adjacent to the island of Kilona. In riparian forest adjacent to seasonally flooded forest with Tricalysia, Emiliana, Guibourtia demeusei, Berlinia sp.
+locality: Along the Sangha River adjacent to the island of Kilona
+habitat: In riparian forest adjacent to seasonally flooded forest with Tricalysia, Emiliana, Guibourtia demeusei, Berlinia sp.
+substrate: N/A
+verbatimElevation: 1400 m
+verbatimCoordinates: 02°21'N 16°09'E 350 m
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2515/000/V0570110F.jpg
+
+==================================================
+Image: 0049_V0590787F.jpg
+
+verbatimCollectors: D.D. Soejarto
+collectedBy: D.D. Soejarto
+secondaryCollectors: N/A
+recordNumber: 4793
+verbatimEventDate: April 1, 1978
+minimumEventDate: 1978-04-01
+maximumEventDate: 1978-04-01
+verbatimIdentification: Diospyros tricolor Hiern.
+latestScientificName: Diospyros tricolor Hiern.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: Thespesia populnea and Sophora accidentalis
+country: Ghana
+firstPoliticalUnit: Greater Accra Province
+secondPoliticalUnit: N/A
+municipality: Botianor village
+verbatimLocality: 20 km. West of Accra, Sea coast.
+locality: 20 kilometers west of Accra, Sea coast
+habitat: Sandy soil
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1842606
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2522/077/V0590787F.jpg
+
+==================================================
+Image: 0050_V0040586F.jpg
+
+verbatimCollectors: Narciso Reyna B.
+collectedBy: Narciso Reyna
+secondaryCollectors: N/A
+recordNumber: N/A
+verbatimEventDate: 15 diciembre-1967
+minimumEventDate: 1967-12-15
+maximumEventDate: N/A
+verbatimIdentification: "Carauchaes amarillas" - árbol, bosque húmedo tropical
+latestScientificName: Gustavia scalarinervia D.R. Simpson
+identifiedBy: D.R. Simpson
+verbatimDateIdentified: 1975
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: Maynas
+municipality: Santa María de Nanay
+verbatimLocality: Santa María - Río Nanay, distr. Alto Nanay, dept. Loreto, prov. Maynas
+locality: Santa María - Río Nanay, district Alto Nanay
+habitat: bosque húmedo tropical
+substrate: soil
+verbatimElevation: Alt. 150 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1731105
+originalMethod: Typed
+typeStatus: holotype
+URL: https://fm-digital-assets.fieldmuseum.org/39/558/V0040586F.jpg
+
+==================================================
+Image: 0051_V0081497F.jpg
+
+verbatimCollectors: M. O. Dillon & D. Dillon
+collectedBy: M. O. Dillon
+secondaryCollectors: D. Dillon
+recordNumber: 3776
+verbatimEventDate: 1 Nov 1983
+minimumEventDate: 1983-11-01
+maximumEventDate: N/A
+verbatimIdentification: Galvezia fruticosa Gmel.
+latestScientificName: Galvezia eiisensii M.O. Dillon & Quipuscoa
+identifiedBy: M.O. Dillon & Quipuscoa
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Arequipa
+secondPoliticalUnit: Caraveli
+municipality: N/A
+verbatimLocality: Lomas of Atiquipa, ca. 105 km N of turn-off to Atiquipa, km 584 S of Lima
+locality: Lomas of Atiquipa, approximately 105 kilometers north of turn-off to Atiquipa, kilometer 584 south of Lima
+habitat: N/A
+substrate: soil
+verbatimElevation: ca. 150-200 m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1940835
+originalMethod: Typed
+typeStatus: holotype
+URL: https://fm-digital-assets.fieldmuseum.org/613/620/V0081497F.jpg
+
+==================================================
+Image: 0052_V0042484F.jpg
+
+verbatimCollectors: Andes
+collectedBy: Andes
+secondaryCollectors: N/A
+recordNumber: 60787
+verbatimEventDate: N/A
+minimumEventDate: N/A
+maximumEventDate: N/A
+verbatimIdentification: Isosyntype of Tetrachidium rubrivnervium var. genuinum Müll. Arg.
+latestScientificName: Tetrachidium rubrivnervium var. genuinum Müll. Arg.
+identifiedBy: F. Pax
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: N/A
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: N/A
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: 1810
+verbatimCoordinates: N/A
+otherCatalogNumbers: 875422
+originalMethod: Handwritten
+typeStatus: type (Isosyntype)
+URL: https://fm-digital-assets.fieldmuseum.org/40/414/V0042484F.jpg
+
+==================================================
+Image: 0053_V0092855F.jpg
+
+verbatimCollectors: José Campos & O. Díaz
+collectedBy: José Campos
+secondaryCollectors: O. Díaz
+recordNumber: 2490
+verbatimEventDate: 9 Febrero 1996
+minimumEventDate: 1996-02-09
+maximumEventDate: N/A
+verbatimIdentification: Amorimia camporum W.R. Anderson
+latestScientificName: Amorimia camporum W.R. Anderson
+identifiedBy: W. R. Anderson (Det.)
+verbatimDateIdentified: [Determination date not visible; likely the same as the original publication date of the name, but enter "unsure" due to lack of visible date]
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Cajamarca
+secondPoliticalUnit: San Ignacio Province
+municipality: N/A
+verbatimLocality: Distrito Chirinos: Entre La Catuaga y Tablón
+locality: Entre La Catuaga y Tablón
+habitat: Trepa dora; flor amarilla
+substrate: N/A (habitat does not specify a substrate)
+verbatimElevation: 550 - 650
+verbatimCoordinates: 05°19'S; 078°47'W
+otherCatalogNumbers: N° 2296033
+originalMethod: Typed
+typeStatus: Isotype
+URL: https://fm-digital-assets.fieldmuseum.org/281/725/V0092855F.jpg
+
+==================================================
+Image: 0054_V0078059F.jpg
+
+verbatimCollectors: Ruiz & Pavon
+collectedBy: Ruiz
+secondaryCollectors: Pavon
+recordNumber: N/A
+verbatimEventDate: 1777-1788
+minimumEventDate: 1777-00-00
+maximumEventDate: 1788-00-00
+verbatimIdentification: Nolana spathulata Ruiz & Pav.
+latestScientificName: Nolana spathulata Ruiz & Pav.
+identifiedBy: A. Meeuwen
+verbatimDateIdentified: 1981
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: in vice-regno Peruviano et Chilensi lectae
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 845155
+originalMethod: Typed
+typeStatus: Isoneotype
+URL: https://fm-digital-assets.fieldmuseum.org/155/067/V0078059F.jpg
+
+==================================================
+Image: 0055_V0092864F.jpg
+
+verbatimCollectors: Camilo Díaz y Antonio Peña
+collectedBy: Camilo Díaz
+secondaryCollectors: Antonio Peña
+recordNumber: 8008
+verbatimEventDate: 4 Diciembre 1996
+minimumEventDate: 1996-12-04
+maximumEventDate: N/A
+verbatimIdentification: Symplocos ovata Stahl, Nowon 2011, 9(1): fig. 4A-B, 2010 (Holotype, S; ISOTYPE, F, MO, NY)
+latestScientificName: Symplocos ovata Stahl
+identifiedBy: B. Ståhl
+verbatimDateIdentified: Nowon 2011, 9(1): fig. 4A-B, 2010
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Amazonas
+secondPoliticalUnit: Luya Province
+municipality: N/A
+verbatimLocality: Camproredondo, Tullanya, Pascana "Pájaro Tigre"
+locality: Camproredondo, Tullanya, Pascana "Pájaro Tigre"
+habitat: N/A
+substrate: N/A
+verbatimElevation: 2850–2360 m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2296023
+originalMethod: Typed
+typeStatus: Isotype
+URL: https://fm-digital-assets.fieldmuseum.org/281/732/V0092864F.jpg
+
+==================================================
+Image: 0056_V0092900F.jpg
+
+verbatimCollectors: Plantae a Ruiz et Pavón in vice-regno Peruvianno et Chilensi lectae.
+collectedBy: Ruiz et Pavón
+secondaryCollectors: N/A
+recordNumber: N/A
+verbatimEventDate: 1775-1788
+minimumEventDate: 1775-00-00
+maximumEventDate: 1788-00-00
+verbatimIdentification: Bomarea purpurea (Ruiz & Pavón) Herb.
+latestScientificName: Bomarea purpurea (Ruiz & Pavón) Herb.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: N/A
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: N/A
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 916119
+originalMethod: Mix of Handwritten and Typed
+typeStatus: isotype
+URL: https://fm-digital-assets.fieldmuseum.org/283/142/V0092900F.jpg
+
+==================================================
+Image: 0057_V0092906F.jpg
+
+verbatimCollectors: V. Quipuscoa S., A. Sagástegui A., S. Leiva G. & M. Bejarano C.
+collectedBy: V. Quipuscoa S.
+secondaryCollectors: A. Sagástegui A., S. Leiva G., M. Bejarano C.
+recordNumber: 13778
+verbatimEventDate: 20 agostos 1998
+minimumEventDate: 1998-08-20
+maximumEventDate: 1998-08-20
+verbatimIdentification: Lithospermum cinerascens (A.DC.) Johnst.
+latestScientificName: Lithospermum leymebambense Weigend & Núrk
+identifiedBy: Weigend & Núrk
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Amazonas
+secondPoliticalUnit: Leymebamba
+municipality: N/A
+verbatimLocality: Distrito Leymebamba, Carretera a Celendín, entre Ishpingo Pomacocha. Bosque montano fragmentado.
+locality: between Ishpingo - Pomacocha on the road to Celendin
+habitat: Bosque montano fragmentado
+substrate: N/A
+verbatimElevation: 2800-3000 m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2211679
+originalMethod: Mix of Handwritten and Typed
+typeStatus: isotype
+URL: https://fm-digital-assets.fieldmuseum.org/283/147/V0092906F.jpg
+
+==================================================
+Image: 0058_V0092915F.jpg
+
+verbatimCollectors: Llewelyn Williams
+collectedBy: Llewelyn Williams
+secondaryCollectors: N/A
+recordNumber: 6999
+verbatimEventDate: Jan.-Feb., 1930
+minimumEventDate: 1930-01-00
+maximumEventDate: 1930-02-00
+verbatimIdentification: Maranta araceae Maranta
+latestScientificName: Maranta araceae Maranta
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: San Martin
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: "forest Roque San Martin"
+locality: forest Roque
+habitat: "Thick Forest"
+substrate: soil
+verbatimElevation: 1500-1800 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 624474
+originalMethod: Handwritten
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/283/156/V0092915F.jpg
+
+==================================================
+Image: 0059_V0092918F.jpg
+
+verbatimCollectors: Plantae a Ruiz et Pavón
+collectedBy: Ruiz et Pavón
+secondaryCollectors: N/A
+recordNumber: Chechume!
+verbatimEventDate: 1778-1788
+minimumEventDate: 1778-00-00
+maximumEventDate: 1788-00-00
+verbatimIdentification: Marcgraviastrum obovatum (R. & P.) Bedell ex Gir.-Canas
+latestScientificName: Marcgraviastrum obovatum (R. & P.) Bedell ex Gir.-Canas
+identifiedBy: Gir.-Canas
+verbatimDateIdentified: 26/08/10
+associatedTaxa: N/A
+country: Peruviano et Chilensi
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: N/A
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 843295
+originalMethod: Handwritten
+typeStatus: Isotype
+URL: https://fm-digital-assets.fieldmuseum.org/283/160/V0092918F.jpg
+
+==================================================
+Image: 0060_V0092921F.jpg
+
+verbatimCollectors: Ruiz & Pavón
+collectedBy: Ruiz
+secondaryCollectors: Pavón
+recordNumber: N/A
+verbatimEventDate: (1775-1788)
+minimumEventDate: 1775-00-00
+maximumEventDate: 1788-00-00
+verbatimIdentification: Margaravia obovata (R. & P.) Dcne.
+latestScientificName: Margaravia obovata (G. Don) Bedell
+identifiedBy: H.G. Bedell
+verbatimDateIdentified: VIII 1982
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: in vice-regno Peruviæno ad Chilienscm lectæ.
+locality: Chilienscm lectæ
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 842882
+originalMethod: Mix of Handwritten and Typed
+typeStatus: ISOTYPE
+URL: https://fm-digital-assets.fieldmuseum.org/283/163/V0092921F.jpg
+
+==================================================
+Image: 0061_V0190732F.jpg
+
+verbatimCollectors: Robin B. Foster
+collectedBy: Robin B. Foster
+secondaryCollectors: N/A
+recordNumber: 8752
+verbatimEventDate: 13 Sept. 1982
+minimumEventDate: 1982-09-13
+maximumEventDate: N/A
+verbatimIdentification: Aciotis venezuelanus (Pax & K.Hoffm.) Webster
+latestScientificName: Aciotis venezuelanus (Pax & K.Hoffm.) Webster
+identifiedBy: M.J. Huft
+verbatimDateIdentified: 1983
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Huánuco
+secondPoliticalUnit: N/A
+municipality: Pachitea
+verbatimLocality: Puerto Inca to Sungaro, Foot trail between Río Pachitea and Río Sungaro, wet low hills and ravines. ca. 250-300 m. 75°W., 09°18'S.
+locality: Puerto Inca to Sungaro, foot trail between Río Pachitea and Río Sungaro
+habitat: Wet low hills and ravines
+substrate: soil
+verbatimElevation: ca. 250-300 m.
+verbatimCoordinates: 75°W., 09°18'S.
+otherCatalogNumbers: 1921102
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/679/934/V0190732F.jpg
+
+==================================================
+Image: 0062_V0277652F.jpg
+
+verbatimCollectors: José Schunke Vigo
+collectedBy: José Schunke Vigo
+secondaryCollectors: N/A
+recordNumber: 6505
+verbatimEventDate: 27 May 1964
+minimumEventDate: 1964-05-27
+maximumEventDate: 1964-05-27
+verbatimIdentification: Tontelea Coulterana
+latestScientificName: Tontelea Coulterana
+identifiedBy: A. M. W. Mennega
+verbatimDateIdentified: 11/1982
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: San Martín
+secondPoliticalUnit: Mariscal Cáceres
+municipality: N/A
+verbatimLocality: Quebrada Huicte (Rio Huallaga), in tall forest
+locality: Quebrada Huicte
+habitat: In tall forest
+substrate: N/A
+verbatimElevation: 529 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: Field Museum Natural History 1751666
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/791/904/V0277652F.jpg
+
+==================================================
+Image: 0063_V0152152F.jpg
+
+verbatimCollectors: Manuel Rimachi Y.
+collectedBy: Manuel Rimachi
+secondaryCollectors: N/A
+recordNumber: 4268
+verbatimEventDate: February 8, 1979
+minimumEventDate: 1979-02-08
+maximumEventDate: 1979-02-08
+verbatimIdentification: Endlicheria anomala (Nees) Mez det. A. D. Chandra (Tripiana), 2001
+latestScientificName: Nectandra krukovii (A.C. Smith) Kosterm.
+identifiedBy: A. D. Chandra
+verbatimDateIdentified: 2001
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: Requena
+municipality: Dtto. Saquena
+verbatimLocality: Rio Ucayali, Quebrada de Aucayacu, above Genaro Herrera, marginal forest, "muema," 8 m.
+locality: Rio Ucayali, Quebrada de Aucayacu, above Genaro Herrera
+habitat: marginal forest, "muema"
+substrate: soil
+verbatimElevation: 8 m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2058606
+originalMethod: Typed
+typeStatus: no type status
+
+Please note, some items such as verbatimCoordinates, secondaryCollectors, associatedTaxa, and some others were determined based on the absence of specific information on the label image provided.
+URL: https://fm-digital-assets.fieldmuseum.org/586/997/V0152152F.jpg
+
+==================================================
+Image: 0064_V0277223F.jpg
+
+verbatimCollectors: Salvador Flores P.
+collectedBy: Salvador Flores P.
+secondaryCollectors: N/A
+recordNumber: 95 (P-2)
+verbatimEventDate: Julio/82
+minimumEventDate: 1982-07-00
+maximumEventDate: N/A
+verbatimIdentification: Faradaya splendida F. Muell.
+latestScientificName: Faradaya splendida F. Muell.
+identifiedBy: T. Plowman 1985
+verbatimDateIdentified: 1985
+associatedTaxa: N/A
+country: Perú
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: Maynas
+municipality: Ampiyacu-Payamas
+verbatimLocality: Bosque secundario 35 años
+locality: Bosque secundario 35 años
+habitat: Bosque secundario 35 años
+substrate: N/A
+verbatimElevation: 100 m.s.n.m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1968315
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/802/677/V0277223F.jpg
+
+==================================================
+Image: 0065_V0195906F.jpg
+
+verbatimCollectors: Percy Nuñez & S. Walsh
+collectedBy: Percy Nuñez
+secondaryCollectors: S. Walsh
+recordNumber: N/A
+verbatimEventDate: 29 October 1986
+minimumEventDate: 1986-10-29
+maximumEventDate: N/A
+verbatimIdentification: Euphorbia heterophylla L.
+latestScientificName: Euphorbia heterophylla L.
+identifiedBy: M. J. Huft
+verbatimDateIdentified: 1987
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Cuzco
+secondPoliticalUnit: La Convención
+municipality: N/A
+verbatimLocality: Dept. Cuzco: La Convencion, Quillabamba, Salsapampa.
+locality: Quillabamba, Salsapampa
+habitat: N/A
+substrate: N/A
+verbatimElevation: Alt. 1110 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1982606
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/694/649/V0195906F.jpg
+
+==================================================
+Image: 0066_V0290180F.jpg
+
+verbatimCollectors: Jose Schunke
+collectedBy: Jose Schunke
+secondaryCollectors: N/A
+recordNumber: 9560
+verbatimEventDate: 30 Mayo 1977
+minimumEventDate: 1977-05-30
+maximumEventDate: N/A
+verbatimIdentification: Rubiaceae Palicourea "Maraco-Súccha"
+latestScientificName: Palicourea sp. 
+identifiedBy: J. Dyer
+verbatimDateIdentified: 1980
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: San Martín
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Provincia: San Martín, Alonso de Alvarado, San Juan de Pacaizapa, km. 72 carretera Tarapoto-Yurimaguas
+locality: Provincia: San Martín, Alonso de Alvarado, San Juan de Pacaizapa, km 72 carretera Tarapoto-Yurimaguas
+habitat: En bosque secundario, con abundante luz solar
+substrate: soil
+verbatimElevation: 1000-1050 m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1872133
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/904/057/V0290180F.jpg
+
+==================================================
+Image: 0067_V0201636F.jpg
+
+verbatimCollectors: Geo. M. Ll. James, J. Ruiz
+collectedBy: Geo. M. Ll. James
+secondaryCollectors: J. Ruiz
+recordNumber: no. 138
+verbatimEventDate: 18-8-81
+minimumEventDate: 1981-08-18
+maximumEventDate: 1981-08-18
+verbatimIdentification: Ficus maxima P. Miller
+latestScientificName: Ficus maxima P. Miller
+identifiedBy: William O. Burger
+verbatimDateIdentified: 1982
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Quisto Cocha, 14 km north of Iquitos
+locality: Quisto Cocha, 14 kilometers north of Iquitos
+habitat: N/A
+substrate: N/A
+verbatimElevation: 600m elev
+verbatimCoordinates: N/A
+otherCatalogNumbers: N° 1923146
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/674/331/V0201636F.jpg
+
+==================================================
+Image: 0068_V0251887F.jpg
+
+verbatimCollectors: A. P. Klug
+collectedBy: A. P. Klug
+secondaryCollectors: N/A
+recordNumber: 6721
+verbatimEventDate: July 21-29, 1939
+minimumEventDate: 1939-07-21
+maximumEventDate: 1939-07-29
+verbatimIdentification: Psychotria sarmentosa (Aubl.) DC.
+latestScientificName: Psychotria sarmentosa (Aubl.) DC.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Junin
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Dept. Junin; Cumbre de Carpapata, to Pichis; about 3800 meters, dense forest
+locality: Cumbre de Carpapata, to Pichis
+habitat: dense forest
+substrate: N/A
+verbatimElevation: about 3800 meters
+verbatimCoordinates: N/A
+otherCatalogNumbers: 607534
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/786/584/V0251887F.jpg
+
+==================================================
+Image: 0069_V0243915F.jpg
+
+verbatimCollectors: M. O. Dillon and I. Sánchez V.
+collectedBy: M. O. Dillon
+secondaryCollectors: I. Sánchez V.
+recordNumber: 6310
+verbatimEventDate: 22 July, 1983
+minimumEventDate: 1983-07-22
+maximumEventDate: 1983-07-22
+verbatimIdentification: Wissadula grandifolia Baker ex Rusby det. P. Fryxell, 1983
+latestScientificName: Wissadula grandifolia Baker ex Rusby
+identifiedBy: P. Fryxell
+verbatimDateIdentified: 1983
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Piura
+secondPoliticalUnit: Huancabamba
+municipality: N/A
+verbatimLocality: Dept. Piura. Prov. Huancabamba, ca. 2 km N of Canchaque.
+locality: 2 kilometers north of Canchaque
+habitat: N/A
+substrate: N/A
+verbatimElevation: ca. 1450 m alt.
+verbatimCoordinates: [5°24'S 79°36'W]
+otherCatalogNumbers: 2119563
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/750/898/V0243915F.jpg
+
+==================================================
+Image: 0070_V0187051F.jpg
+
+verbatimCollectors: J. Francis Macbride
+collectedBy: J. Francis Macbride
+secondaryCollectors: N/A
+recordNumber: 4806
+verbatimEventDate: June 22, 1923
+minimumEventDate: 1923-06-22
+maximumEventDate: N/A
+verbatimIdentification: Croton Billianus 
+latestScientificName: Croton Billianus Muell.-Arg. 
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Cueva Grande
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Cueva Grande
+locality: Cueva Grande
+habitat: N/A
+substrate: N/A
+verbatimElevation: about 3300 feet
+verbatimCoordinates: N/A
+otherCatalogNumbers: 535840
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/678/428/V0187051F.jpg
+
+==================================================
+Image: 0071_V0258426F.jpg
+
+verbatimCollectors: Weberbauer
+collectedBy: Weberbauer
+secondaryCollectors: N/A
+recordNumber: 2820
+verbatimEventDate: 24.XII.1910
+minimumEventDate: 1910-12-24
+maximumEventDate: N/A
+verbatimIdentification: Geranium sp
+latestScientificName: Geranium chillonense Kunth
+identifiedBy: Bolette Hjalfdan-Nielsen
+verbatimDateIdentified: 1993
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Libertad
+secondPoliticalUnit: Trujillo
+municipality: N/A
+verbatimLocality: Perú Dept. La Libertad, Prov. Trujillo, alrededores de Huamachuco
+locality: Perú, La Libertad, Trujillo, surroundings of Huamachuco
+habitat: Suelo arenoso
+substrate: soil
+verbatimElevation: 2740 S. M.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1684365
+originalMethod: Mix of Handwritten and Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/776/646/V0258426F.jpg
+
+==================================================
+Image: 0072_V0193750F.jpg
+
+verbatimCollectors: J. Mostacero L., S. Lopez G., J. Mejia C., F. Pelaez & J. Guvevara b.
+collectedBy: J. Mostacero L.
+secondaryCollectors: S. Lopez G., J. Mejia C., F. Pelaez, J. Guvevara b.
+recordNumber: 1040
+verbatimEventDate: 14-11-1986
+minimumEventDate: 1986-11-14
+maximumEventDate: N/A
+verbatimIdentification: Jaegeria hirta (Lag.) Kuntze
+latestScientificName: Jaegeria hirta (Lag.) Kuntze
+identifiedBy: M. J. Huft, 1991
+verbatimDateIdentified: M. J. Huft, 1991
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Cajamarca
+secondPoliticalUnit: Cutervo
+municipality: N/A
+verbatimLocality: La Maravilla (Sector San Andrés)
+locality: La Maravilla (Sector San Andrés)
+habitat: Al borde de carretera
+substrate: soil
+verbatimElevation: 2450 m.s.n.m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 199382
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/686/796/V0193750F.jpg
+
+==================================================
+Image: 0073_V0228073F.jpg
+
+verbatimCollectors: Spichiger, R. & A.-P. Loizeau
+collectedBy: Spichiger, R.
+secondaryCollectors: A.-P. Loizeau
+recordNumber: 3012
+verbatimEventDate: 10-11-86
+minimumEventDate: 1986-11-10
+maximumEventDate: N/A
+verbatimIdentification: Pourouma guianensis subsp. guianensis
+latestScientificName: Pourouma guianensis subsp. guianensis
+identifiedBy: assumed Spichiger, R. & A.-P. Loizeau, no other information given
+verbatimDateIdentified: Die: 10-11-86
+associatedTaxa: N/A
+country: Pérou
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: Jenaro Herrera
+municipality: N/A
+verbatimLocality: Bosque de terraza alta, suelo arenoso.
+locality: Bosque de terraza alta
+habitat: Bosque de terraza alta, suelo arenoso.
+substrate: N/A
+verbatimElevation: Alt. 125 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: N° 2027582
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/738/306/V0228073F.jpg
+
+==================================================
+Image: 0074_V0100062F.jpg
+
+verbatimCollectors: G. Klug
+collectedBy: G. Klug
+secondaryCollectors: N/A
+recordNumber: 660
+verbatimEventDate: Dec. 10, 1929
+minimumEventDate: 1929-12-10
+maximumEventDate: N/A
+verbatimIdentification: Bocageopsis multiflora (Mart.) R.E.Fr.
+latestScientificName: Bocageopsis multiflora (Mart.) R.E.Fr.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: N/A
+municipality: Mishuyacu
+verbatimLocality: Mishuyacu, near Iquitos, alt. 100 meters; forest
+locality: Mishuyacu, near Iquitos
+habitat: forest
+substrate: N/A
+verbatimElevation: alt. 100 meters
+verbatimCoordinates: N/A
+otherCatalogNumbers: 613565
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/494/920/V0100062F.jpg
+
+==================================================
+Image: 0075_V0198402F.jpg
+
+verbatimCollectors: T. R. Dudley
+collectedBy: T. R. Dudley
+secondaryCollectors: N/A
+recordNumber: 10635
+verbatimEventDate: 24 Aug. 1968
+minimumEventDate: 1968-08-24
+maximumEventDate: 1968-08-24
+verbatimIdentification: Dendrophthora membranthyllum Eichl. var. loretensis
+latestScientificName: Dendrophthora membranthyllum Eichl. var. loretensis
+identifiedBy: Sara Ann Lamb
+verbatimDateIdentified: 1973
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: La Mar
+secondPoliticalUnit: N/A
+municipality: N/A 
+verbatimLocality: Prov. La Mar, Dept. Ayacucho, eastern Massif of the Cordillera Oriental, on Qoshni Muña, and in the valley between Tambo Sangabanl and the Hacienda Luisiana
+locality: Prov. La Mar, eastern Massif of the Cordillera Oriental, on Qoshni Muña, and in the valley between Tambo Sangabanl and the Hacienda Luisiana
+habitat: Dense forest as timberline, high elfin forest
+substrate: N/A
+verbatimElevation: 3220 meters
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1721727
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/655/199/V0198402F.jpg
+
+==================================================
+Image: 0076_V0225274F.jpg
+
+verbatimCollectors: Krukoff
+collectedBy: Krukoff
+secondaryCollectors: N/A
+recordNumber: 1595
+verbatimEventDate: April 19 1931
+minimumEventDate: 1931-04-19
+maximumEventDate: 1931-04-19
+verbatimIdentification: Ficus trígona L. f.
+latestScientificName: Ficus trígona L. f.
+identifiedBy: M. Vásquez Avila
+verbatimDateIdentified: Utrecht 1983
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: N/A
+municipality: Mishuyacu, near Iquitos
+verbatimLocality: Mishuyacu, near Iquitos, alt. 100 meters; forest
+locality: Mishuyacu, near Iquitos
+habitat: forest
+substrate: N/A
+verbatimElevation: alt. 100 meters
+verbatimCoordinates: N/A
+otherCatalogNumbers: 873381
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/675/982/V0225274F.jpg
+
+==================================================
+Image: 0077_V0224820F.jpg
+
+verbatimCollectors: Mildred E. Mathias, Dermot Taylor
+collectedBy: Mildred E. Mathias
+secondaryCollectors: Dermot Taylor
+recordNumber: 5576
+verbatimEventDate: 18 July 19 61
+minimumEventDate: 1961-07-18
+maximumEventDate: N/A
+verbatimIdentification: Malpighia sp. (?)
+latestScientificName: Malpighia sp. (?)
+identifiedBy: William R. Anderson
+verbatimDateIdentified: 1983
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Vicinity of Requena
+locality: [precise locality unknown]
+habitat: N/A
+substrate: bark
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1733057
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/736/767/V0224820F.jpg
+
+==================================================
+Image: 0078_V0304780F.jpg
+
+verbatimCollectors: José Schunke Vigo
+collectedBy: José Schunke Vigo
+secondaryCollectors: N/A
+recordNumber: 6677
+verbatimEventDate: 17 Dec 1968
+minimumEventDate: 1968-12-17
+maximumEventDate: 1968-12-17
+verbatimIdentification: Paulinia bracteosa Radlk. 
+latestScientificName: Paulinia bracteosa Radlk.
+identifiedBy: Donald R. Simpson
+verbatimDateIdentified: 8.II.1993
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: Datem del Marañón
+municipality: Urbano de la Aguila (Contamana)
+verbatimLocality: Quebrada de la Aguila, (Contamana) in tall forest, 220 m.s.n.m.
+locality: Quebrada de la Aguila
+habitat: tall forest
+substrate: soil
+verbatimElevation: 220 m.s.n.m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1717601
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/939/013/V0304780F.jpg
+
+==================================================
+Image: 0079_V0238260F.jpg
+
+verbatimCollectors: Llewellyn Williams
+collectedBy: Llewellyn Williams
+secondaryCollectors: N/A
+recordNumber: 3363
+verbatimEventDate: Sept.-Oct., 1929
+minimumEventDate: 1929-09-00
+maximumEventDate: 1929-10-00
+verbatimIdentification: Psychotria viridis Ruiz & Pav
+latestScientificName: Psychotria viridis Ruiz & Pav
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: Alto Rio Itaya
+municipality: N/A
+verbatimLocality: Forest of Poinia, Abt. Iquitos
+locality: Forest of Poinia, about Iquitos
+habitat: Forest
+substrate: leaves
+verbatimElevation: 145 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: O26
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/785/493/V0238260F.jpg
+
+==================================================
+Image: 0080_V0225047F.jpg
+
+verbatimCollectors: T. Plowman, A. Sagástegui A., J. Mostacero L., F. Mejía & F. Peláez
+collectedBy: T. Plowman
+secondaryCollectors: A. Sagástegui A., J. Mostacero L., F. Mejía, F. Peláez
+recordNumber: 14242
+verbatimEventDate: 12 July 1986
+minimumEventDate: 1986-07-12
+maximumEventDate: N/A
+verbatimIdentification: Abutilon mollissimum (Cav.) Sweet det. det. F. Fryxell 1987
+latestScientificName: Abutilon nalktronum R.E. Fr. ex Mattf.
+identifiedBy: N. Hensold
+verbatimDateIdentified: 1989
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Cajamarca
+secondPoliticalUnit: Jaén
+municipality: N/A
+verbatimLocality: Road from Pucará to Chamaya, km 210 east of Pucará, along Río Huancabamba.
+locality: Road from Pucará to Chamaya, kilometer 210 east of Pucará, along Río Huancabamba
+habitat: Dry scrub forest on steep slopes
+substrate: soil
+verbatimElevation: Alt. 700 m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1973380
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/736/994/V0225047F.jpg
+
+==================================================
+Image: 0081_V0239614F.jpg
+
+verbatimCollectors: Magda Chanco with Michelle McMahon and Larry Hufford
+collectedBy: Magda Chanco
+secondaryCollectors: Michelle McMahon and Larry Hufford
+recordNumber: 2253555
+verbatimEventDate: 14 April 2003
+minimumEventDate: 2003-04-14
+maximumEventDate: N/A
+verbatimIdentification: Abutilon sp.
+latestScientificName: Abutilon sp.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Cajamarca
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: DEPTO. CAJAMARCA: Chilete-San Pablo road about 15 km from Chilete. 
+locality: Chilete-San Pablo road about 15 kilometers from Chilete
+habitat: N/A
+substrate: N/A
+verbatimElevation: 3614 feet elevation
+verbatimCoordinates: 7° 10.554' W78° 46.055'
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/738/506/V0239614F.jpg
+
+==================================================
+Image: 0082_V0414961F.jpg
+
+verbatimCollectors: Marcos Ríos
+collectedBy: Marcos Ríos
+secondaryCollectors: N/A
+recordNumber: 4399
+verbatimEventDate: 13 octubre 2014
+minimumEventDate: 2014-10-13
+maximumEventDate: N/A
+verbatimIdentification: Andira macrothyrsa Ducke
+latestScientificName: Andira macrothyrsa Ducke
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: Requena
+municipality: Soplín
+verbatimLocality: Prov. Requena, Dto. de Soplín, Quebrada Yanayacu-Río Blanco, Campamento Wishicuna del inventario rápidol 27, de la región Tapiche-Blanco
+locality: Quebrada Yanayacu-Río Blanco, Campamento Wishicuna
+habitat: Bosque de Planicie inundable aguas blancas
+substrate: N/A
+verbatimElevation: Alt. 90m
+verbatimCoordinates: 5°33'35"S; 73°15'33"W
+otherCatalogNumbers: N° 2818558
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1611/031/V0414961F.jpg
+
+==================================================
+Image: 0083_V0414962F.jpg
+
+verbatimCollectors: Marcos Ríos
+collectedBy: Marcos Ríos 
+secondaryCollectors: Tony Mori, Nigel Pitman, Luis Torres, Corine Vriesendorp 
+recordNumber: 439 
+verbatimEventDate: 13 octubre 2014 
+minimumEventDate: 2014-10-13 
+maximumEventDate: N/A 
+verbatimIdentification: Andira macrothyrsa Ducke 
+latestScientificName: Andira macrothyrsa Ducke
+identifiedBy: N/A 
+verbatimDateIdentified: N/A 
+associatedTaxa: N/A 
+country: Peru 
+firstPoliticalUnit: Loreto 
+secondPoliticalUnit: Requena 
+municipality: N/A 
+verbatimLocality: Prov. Requena, Dtto. de Soplin, Quebrada Yanayacu-Rio Blanco, Campamento Wistínvichu del intervalo ripícol 47 de la región Blanc-blanco: 0°54'3.73"S 73°13'53.8"W, Alt. 90m
+locality: Prov. Requena, Dtto. de Soplin, Quebrada Yanayacu-Rio Blanco, Campamento Wistínvichu 
+habitat: Bosque de Palme inundable de aguas blancas. 
+substrate: N/A 
+verbatimElevation: 90m 
+verbatimCoordinates: 0°54'3.73"S 73°13'53.8"W 
+otherCatalogNumbers: 2318537 
+originalMethod: Typed 
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1611/032/V0414962F.jpg
+
+==================================================
+Image: 0084_V0462893F.jpg
+
+verbatimCollectors: Ynes Mexia
+collectedBy: Ynes Mexia
+secondaryCollectors: N/A
+recordNumber: 8265
+verbatimEventDate: Oct. 9, 1936
+minimumEventDate: 1936-10-09
+maximumEventDate: N/A
+verbatimIdentification: Piper oblongulum Ruiz & Pav. var. majus (Miq.) CD. Adams
+latestScientificName: Piper oblongulum Ruiz & Pav. var. majus (Miq.) CD. Adams
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Huanuco
+secondPoliticalUnit: N/A
+municipality: Near confluence of Rio Huallaga with Rio Tulumayo, Huánuco.
+verbatimLocality: [missing]
+locality: Near confluence of Rio Huallaga with Rio Tulumayo
+habitat: Forested slope above road.
+substrate: Soil
+verbatimElevation: 800 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1066996
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1743/655/V0462893F.jpg
+
+==================================================
+Image: 0085_V0462895F.jpg
+
+verbatimCollectors: Ynes Mexia. No. 6127
+collectedBy: Ynes Mexia
+secondaryCollectors: N/A
+recordNumber: 6127
+verbatimEventDate: Nov. 24, 1931
+minimumEventDate: 1931-11-24
+maximumEventDate: 1931-11-24
+verbatimIdentification: Piper ciliatum Ruiz & Pav. 
+latestScientificName: Piper ciliatum Ruiz & Pav.
+identifiedBy: T. Release
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Departamento de Loreto
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Above Pongo de Manseriche. Right bank of mouth of Rio Santiago; dense forest.
+locality: Above Pongo de Manseriche, right bank of mouth of Rio Santiago
+habitat: Dense forest
+substrate: N/A
+verbatimElevation: Alt. 2000 feet
+verbatimCoordinates: N/A
+otherCatalogNumbers: 872277
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1743/657/V0462895F.jpg
+
+==================================================
+Image: 0086_V0441679F.jpg
+
+verbatimCollectors: Donald R. Simpson & José Schunke V.
+collectedBy: Donald R. Simpson
+secondaryCollectors: José Schunke V.
+recordNumber: 565
+verbatimEventDate: January 4, 1968
+minimumEventDate: 1968-01-04
+maximumEventDate: 1968-01-04
+verbatimIdentification: Ipomoea carnea Jacq.
+latestScientificName: Ipomoea carnea Jacq.
+identifiedBy: D. R. Simpson
+verbatimDateIdentified: Jan. 1969
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Depto. Tumbes
+secondPoliticalUnit: Prov. Tumbes
+municipality: N/A
+verbatimLocality: Bosque Nacional de Tumbes: Región de "bosque muy seco tropical" (sensu Tosi, 1960) cerca del Caucho entre El Caucho y Pampa de Hospital
+locality: Bosque Nacional de Tumbes, near El Caucho between El Caucho and Pampa de Hospital
+habitat: Common from the dry, deciduous forest zone, downward into the very dry thorn-scrub. Along the road about 10 km. northwest of El Caucho
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1897948
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1743/506/V0441679F.jpg
+
+==================================================
+Image: 0087_V0441677F.jpg
+
+verbatimCollectors: T. Plowman & P. M. Rury
+collectedBy: Timothy Plowman
+secondaryCollectors: P. M. Rury
+recordNumber: 11105
+verbatimEventDate: 6 December 1981
+minimumEventDate: 1981-12-06
+maximumEventDate: N/A
+verbatimIdentification: Ipomoea cairica (L.) Sweet
+latestScientificName: Ipomoea cairica (L.) Sweet
+identifiedBy: A.M. MacDonald
+verbatimDateIdentified: 1983
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Huánuco
+secondPoliticalUnit: N/A (Not specified)
+municipality: N/A (Not specified)
+verbatimLocality: Prov. Huánuco, 8 km. northeast of Huánuco on road to Tingo Maria
+locality: 8 kilometers northeast of Huánuco on road to Tingo Maria
+habitat: Scandent shrub on roadside near houses.
+substrate: N/A (Not specified)
+verbatimElevation: alt. 1750 m.
+verbatimCoordinates: Approx. 9°52'S., 76°11'W.
+otherCatalogNumbers: 1896900
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1743/504/V0441677F.jpg
+
+==================================================
+Image: 0088_V0401892F.jpg
+
+verbatimCollectors: Robin B. Foster
+collectedBy: Robin B. Foster
+secondaryCollectors: N/A
+recordNumber: 12409
+verbatimEventDate: Aug. 19, 1978
+minimumEventDate: 1978-08-19
+maximumEventDate: 1978-08-19
+verbatimIdentification: Aechmea
+latestScientificName: Aechmea corymbosa (Mart. ex Schult. & Schult.f.) Mez
+identifiedBy: E.J. Gouda
+verbatimDateIdentified: 2012-05-08
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: Maynas
+municipality: N/A
+verbatimLocality: Caserio Mahana, 30KM SW of Iquitos
+locality: Caserio Mahana, 30 kilometers southwest of Iquitos
+habitat: Terrestrial in white sand scrub; Forested hills on white or brown sand soils.
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1852637
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1684/390/V0401892F.jpg
+
+==================================================
+Image: 0089_V0460617F.jpg
+
+verbatimCollectors: J. Farfán, L. Valenzuela, I. Huamantupa, A. Carazas, L. Aragón
+collectedBy: J. Farfán
+secondaryCollectors: L. Valenzuela, I. Huamantupa, A. Carazas, L. Aragón
+recordNumber: 1262
+verbatimEventDate: 23 Octubre 2006
+minimumEventDate: 2006-10-23
+maximumEventDate: N/A
+verbatimIdentification: Anthurium clavigerum Poepp.
+latestScientificName: Anthurium clavigerum Poepp.
+identifiedBy: Thomas B. Croat
+verbatimDateIdentified: 2008
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Cusco
+secondPoliticalUnit: La Convención
+municipality: N/A
+verbatimLocality: Dist. Vilcabamba, Chaunquiri camino a Rioamba, Bosque secundario 12°47'15"S 073°10'10"W
+locality: Distrito Vilcabamba, Chaunquiri camino a Rioamba
+habitat: Bosque Secundario. Epífita
+substrate: N/A
+verbatimElevation: 1009 m
+verbatimCoordinates: 12°47'15"S 073°10'10"W
+otherCatalogNumbers: 2315782
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1766/135/V0460617F.jpg
+
+==================================================
+Image: 0090_V0469643F.jpg
+
+verbatimCollectors: Thomas B. Croat
+collectedBy: Thomas B. Croat
+secondaryCollectors: N/A
+recordNumber: 28110
+verbatimEventDate: July 18, 1972
+minimumEventDate: 1972-07-18
+maximumEventDate: N/A
+verbatimIdentification: Agave americana L.
+latestScientificName: Agave americana L.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Sandy area 12-15 km. SW of Iquitos on road to Lago Quistococha
+locality: Sandy area 12 to 15 kilometers southwest of Iquitos on road to Lago Quistococha
+habitat: N/A
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1759629
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1826/292/V0469643F.jpg
+
+==================================================
+Image: 0091_V0075820F.jpg
+
+verbatimCollectors: T.R. Dudley
+collectedBy: T.R. Dudley
+secondaryCollectors: N/A
+recordNumber: 10783
+verbatimEventDate: 4 July 1968
+minimumEventDate: 1968-07-04
+maximumEventDate: N/A
+verbatimIdentification: Thelypteris Link
+latestScientificName: Thelypteris dudleyi R. A. Smith
+identifiedBy: Alan R. Smith
+verbatimDateIdentified: Date 1989
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Cuzco
+secondPoliticalUnit: La Convencion
+municipality: N/A
+verbatimLocality: Prov. La Convencion; Dept. Cuzco
+locality: [precise locality unknown]
+habitat: In full sun on old open landslide, just above the cloud forest, between camp 4&5; almost to Camp 5; at ca. 2825 m; one of the commonest colonizers of landslide
+substrate: soil
+verbatimElevation: ca. 2825 m
+verbatimCoordinates: 12° 37' S; 73° 32' W
+otherCatalogNumbers: 1719861
+originalMethod: Typed
+typeStatus: ISOTYPE
+URL: https://fm-digital-assets.fieldmuseum.org/227/821/V0075820F.jpg
+
+==================================================
+Image: 0092_V0075836F.jpg
+
+verbatimCollectors: S. Knapp 
+collectedBy: S. Knapp 
+secondaryCollectors: N/A 
+recordNumber: S881 
+verbatimEventDate: 4 July 1982 
+minimumEventDate: 1982-07-04 
+maximumEventDate: N/A 
+verbatimIdentification: Trichipteris pinnata Stolze 
+latestScientificName: Trichipteris pinnata Stolze 
+identifiedBy: Robert G. Stolze 
+verbatimDateIdentified: 1984 
+associatedTaxa: N/A 
+country: Panama 
+firstPoliticalUnit: Colón 
+secondPoliticalUnit: N/A 
+municipality: N/A 
+verbatimLocality: Santa Rita Ridge road, 21-26 km from Transisthmian Highway 
+locality: Santa Rita Ridge road, 21-26 kilometers from Transisthmian Highway 
+habitat: Tropical wet forest 
+substrate: soil 
+verbatimElevation: 500-550 m. 
+verbatimCoordinates: 9°22'5"N, 79°37'W 
+otherCatalogNumbers: 1932768 
+originalMethod: Mix of Handwritten and Typed 
+typeStatus: Holotype
+URL: https://fm-digital-assets.fieldmuseum.org/227/835/V0075836F.jpg
+
+==================================================
+Image: 0093_C0616676F.jpg
+
+verbatimCollectors: J. Dorantes
+collectedBy: J. Dorantes
+secondaryCollectors: N/A
+recordNumber: 455
+verbatimEventDate: 01/01/1972
+minimumEventDate: 1972-01-01
+maximumEventDate: N/A
+verbatimIdentification: Woodsia spinulosa Mert. & Gal.
+latestScientificName: Woodsia spinulosa Mert. & Gal.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Mexico
+firstPoliticalUnit: Veracruz
+secondPoliticalUnit: Jalapa
+municipality: N/A
+verbatimLocality: lito del gato, mapa 38.5 29.0
+locality: Lito del Gato
+habitat: Bosque caducifolio suelo rojo arcilloso muy abundante helech perenne veg, riparia
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: P005051
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1121/693/C0616676F.jpg
+
+==================================================
+Image: 0094_C0644079F.jpg
+
+verbatimCollectors: A. Monteagudo, C. Mateo, G. Ortiz
+collectedBy: A. Monteagudo
+secondaryCollectors: C. Mateo, G. Ortiz
+recordNumber: 4909
+verbatimEventDate: 10 Abril 2003
+minimumEventDate: 2003-04-10
+maximumEventDate: N/A
+verbatimIdentification: Blechnum occidentale L.
+latestScientificName: Blechnum occidentale L.
+identifiedBy: H. van der Werff
+verbatimDateIdentified: 2005
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Pasco
+secondPoliticalUnit: Oxapampa
+municipality: N/A
+verbatimLocality: Distrito Pozuzo, Parque Nacional Yanachaga Chemillen Pozuzo Sector Panderon de Azúcar, Zona de Recuperación
+locality: Distrito Pozuzo, Parque Nacional Yanachaga Chemillen Pozuzo Sector Panderon de Azúcar, Zona de Recuperación
+habitat: Bosque ribereño
+substrate: tierra
+verbatimElevation: 1100-1250m
+verbatimCoordinates: 10°15'S 75°13'W
+otherCatalogNumbers: 2287355
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1086/214/C0644079F.jpg
+
+==================================================
+Image: 0095_C0658238F.jpg
+
+verbatimCollectors: Ynes Mexia
+collectedBy: Ynes Mexia
+secondaryCollectors: N/A
+recordNumber: 80066
+verbatimEventDate: May 14, 1936
+minimumEventDate: 1936-05-14
+maximumEventDate: 1936-05-14
+verbatimIdentification: Adiantum pulverulentum L.
+latestScientificName: Adiantum pulverulentum L.
+identifiedBy: Copeland
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Cuzco
+secondPoliticalUnit: La Convencion
+municipality: N/A
+verbatimLocality: Departamento Cuzco. Province La Convencion; upper valley of Rio Sanbrey; western affluent of Vilcanota, along stream in virgin forests
+locality: upper valley of Rio Sanbrey, along stream
+habitat: virgin forests
+substrate: soil
+verbatimElevation: Alt. about 1800 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1005396
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1098/449/C0658238F.jpg
+
+==================================================
+Image: 0096_C0637474F.jpg
+
+verbatimCollectors: J.I. Calzada
+collectedBy: J. I. Calzada
+secondaryCollectors: N/A
+recordNumber: 5259
+verbatimEventDate: 27-noviembre-1980
+minimumEventDate: 1980-11-27
+maximumEventDate: N/A
+verbatimIdentification: Diplazium francoisii Ltbm.
+latestScientificName: Diplazium francoisii Liebm.
+identifiedBy: Robert G. Stolze
+verbatimDateIdentified: 1983
+associatedTaxa: Liquidambar styraciflua; Quercus sp.; Alnus sp.
+country: México
+firstPoliticalUnit: Veracruz
+secondPoliticalUnit: Xico
+municipality: N/A
+verbatimLocality: Ranchería de Coaatitlán.
+locality: Ranchería de Coaatitlán
+habitat: Bosque Caducifolio muy húmedo
+substrate: suelo
+verbatimElevation: 1200-1300 m.s.n.m.
+verbatimCoordinates: 19°29' N 97°04' O
+otherCatalogNumbers: 1894963
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1079/847/C0637474F.jpg
+
+==================================================
+Image: 0097_C0636906F.jpg
+
+verbatimCollectors: Antonio Molina R.
+collectedBy: Antonio Molina
+secondaryCollectors: N/A
+recordNumber: 1427
+verbatimEventDate: Nov. 4, 1948
+minimumEventDate: 1948-11-04
+maximumEventDate: N/A
+verbatimIdentification: Thelypteris piloso-hispida (Hook) Morton
+latestScientificName: Thelypteris rudis (Kunze) Proctor
+identifiedBy: Alan R. Smith
+verbatimDateIdentified: 1974
+associatedTaxa: N/A
+country: Honduras
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Helecho arboresc. Bosque lluvioso, Norte de la Mt. Uyuca, caminos "Iatanuble, La Labranza" Mts. Subtropicales de Montaña, aguas arriba - Dranage de la Río Yeguare, about Longitude 87°W. and Latitude 14°N, Department of Morazan
+locality: North of Mount Uyuca, "Iatanuble, La Labranza" Mountain Subtropics, upstream - Drainage of the Yeguare River
+habitat: N/A
+substrate: N/A
+verbatimElevation: Alt. 1800 m.
+verbatimCoordinates: Longitude 87°W. and Latitude 14°N
+otherCatalogNumbers: 1394536
+originalMethod: Mix of Handwritten and Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1079/274/C0636906F.jpg
+
+==================================================
+Image: 0098_C0665739F.jpg
+
+verbatimCollectors: Blacón, Young & Illipaya 2911
+collectedBy: Blackón
+secondaryCollectors: Young & Illipaya
+recordNumber: 2911
+verbatimEventDate: 10 setiembre 1991
+minimumEventDate: 1991-09-10
+maximumEventDate: 1991-09-10
+verbatimIdentification: Thelypteris euchlora (Sod.) A. R. Sm.
+latestScientificName: Thelypteris euchlora (Sod.) A. R. Sm.
+identifiedBy: Robert G. Stolze
+verbatimDateIdentified: 19 92
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Cuzco
+secondPoliticalUnit: Paucartambo
+municipality: N/A
+verbatimLocality: Bosque de Nubes, Rio Tono, La Union
+locality: Bosque de Nubes, Rio Tono, La Union
+habitat: El arb. común más y repebro, hojas 1.5 pleno pinnas reducidas en base necroticas largas
+substrate: soil
+verbatimElevation: 1700-1800 m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2112158
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1072/569/C0665739F.jpg
+
+==================================================
+Image: 0099_C0626158F.jpg
+
+verbatimCollectors: Louis O. Williams, Antonio Molina R., Terua P. Williams, Doreothy N. Gibson, and Chester Lamoureaux
+collectedBy: Louis O. Williams
+secondaryCollectors: Antonio Molina R., Terua P. Williams, Doreothy N. Gibson, Chester Lamoureaux
+recordNumber: 27621
+verbatimEventDate: December 15, 1966
+minimumEventDate: 1966-12-15
+maximumEventDate: N/A
+verbatimIdentification: Polypodium blepharodes Maxon
+latestScientificName: Grammitis blepharodes (Maxon) Seymour
+identifiedBy: R. Stolze
+verbatimDateIdentified: 1965
+associatedTaxa: N/A
+country: Nicaragua
+firstPoliticalUnit: Matagalpa
+secondPoliticalUnit: Central Cordillera
+municipality: N/A
+verbatimLocality: Dpto. Matagalpa, Cordillera Central de Nicaragua, Deptartment of Matagalpa, 15 km. from Jinotega, Road to Jinotega
+locality: 15 kilometers from Jinotega, Road to Jinotega
+habitat: Montane rain forest, or cloud forest
+substrate: mossy tree
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1626179
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1137/337/C0626158F.jpg
+
+==================================================
+Image: 0100_C0665657F.jpg
+
+verbatimCollectors: Ken Young & Mark Eisenberg
+collectedBy: Ken Young
+secondaryCollectors: Mark Eisenberg
+recordNumber: 265
+verbatimEventDate: 20 April 1981
+minimumEventDate: 1981-04-20
+maximumEventDate: N/A
+verbatimIdentification: Thelypteris (subg. Amauropelta) Thelypteris concolor (Kunze) Proctor
+latestScientificName: Thelypteris concolor (Kunze) Proctor
+identifiedBy: A. R. Smith
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Cuzco
+secondPoliticalUnit: La Convencion
+municipality: N/A
+verbatimLocality: Just east of Quillabamba, Finca Chicania; cocoa coffee yuca, mango, bananas, corn crops 90% hill.
+locality: Just east of Quillabamba, Finca Chicania
+habitat: Terrestrial
+substrate: soil
+verbatimElevation: Alt. 1300-1400 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2038794
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1072/487/C0665657F.jpg
+
+==================================================
+Image: 0101_C0045536F.jpg
+
+verbatimCollectors: Thomas G. Lammers
+collectedBy: Thomas G. Lammers
+secondaryCollectors: N/A
+recordNumber: 10674
+verbatimEventDate: 9 May 1998
+minimumEventDate: 1998-05-09
+maximumEventDate: 1998-05-09
+verbatimIdentification: Dryopteris carthusiana (Vill.) H.P. Fuchs
+latestScientificName: Dryopteris carthusiana (Vill.) H.P. Fuchs
+identifiedBy: Thomas G. Lammers
+verbatimDateIdentified: 9 May 1998
+associatedTaxa: N/A
+country: United States of America
+firstPoliticalUnit: Illinois
+secondPoliticalUnit: Cook
+municipality: N/A
+verbatimLocality: Cook Co.: Palos Twp. Swallow Cliff Woods Forest Preserve, southwest of the jct. of US Hwy 45 and State Hwy 83. Local in mesic maple-basswood forest on steep slopes of deep ravine south of toboggan run.
+locality: Palos Township, Swallow Cliff Woods Forest Preserve
+habitat: Mesic maple-basswood forest on steep slopes of a deep ravine
+substrate: Soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 2228497
+originalMethod: Typed
+typeStatus: No type status
+URL: https://fm-digital-assets.fieldmuseum.org/330/762/C0045536F.jpg
+
+==================================================
+Image: 0102_C0627900F.jpg
+
+verbatimCollectors: A. Molina R.
+collectedBy: A. Molina R.
+secondaryCollectors: N/A
+recordNumber: 12562
+verbatimEventDate: Mayo 22, 1963
+minimumEventDate: 1963-05-22
+maximumEventDate: N/A
+verbatimIdentification: Polypodium montigenum Maxon
+latestScientificName: Polypodium montigenum Maxon
+identifiedBy: A. Molina R.
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: El Salvador
+firstPoliticalUnit: Department Santa Ana
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Bosque abierto de Montaña Montecristo
+locality: [precise locality unknown]
+habitat: Epífita, Bosque abierto de Montaña Montecristo
+substrate: N/A
+verbatimElevation: Alt. 2000 m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1661895
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1139/892/C0627900F.jpg
+
+==================================================
+Image: 0103_V0082645F.jpg
+
+verbatimCollectors: M. O. Dillon
+collectedBy: M. O. Dillon
+secondaryCollectors: N/A
+recordNumber: 5376
+verbatimEventDate: 21 Dec 1987
+minimumEventDate: 1987-12-21
+maximumEventDate: 1987-12-21
+verbatimIdentification: Notholaena mollis Kunze
+latestScientificName: Notholaena mollis Kunze
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Chile
+firstPoliticalUnit: Antofagasta
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Cerro Perales, ca. 85 km E of Taltal, 600-850 m alt.
+locality: Cerro Perales, ca. 85 kilometers east of Taltal
+habitat: Terrestrial, growing in rock crevices.
+substrate: rock
+verbatimElevation: 600-850 m
+verbatimCoordinates: (25°25'S, 70°25'W).
+otherCatalogNumbers: N° 2010984
+originalMethod: Typed
+typeStatus: no type status
+
+URL: https://fm-digital-assets.fieldmuseum.org/217/945/V0082645F.jpg
+
+==================================================
+Image: 0104_C0666362F.jpg
+
+verbatimCollectors: Rolla M. & Alice F. Tryon
+collectedBy: Rolla M. Tryon
+secondaryCollectors: Alice F. Tryon
+recordNumber: 6566
+verbatimEventDate: 23 October 1965
+minimumEventDate: 1965-10-23
+maximumEventDate: N/A
+verbatimIdentification: Thelypteris ruiziana (Poir.) A.R. Smith, ined., sese sporangia
+latestScientificName: Thelypteris ruiziana (Poir.) A.R. Smith, ined.
+identifiedBy: Alan R. Smith
+verbatimDateIdentified: 1979, 1982
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Ancash
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Road from Huaras to Cusma, west valley.
+locality: Road from Huaras to Cusma, west valley
+habitat: damp shaded rocks
+substrate: rock
+verbatimElevation: 2800 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1833066
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1073/191/C0666362F.jpg
+
+==================================================
+Image: 0105_C0666207F.jpg
+
+verbatimCollectors: E. P. Killip & C. A. Purpus
+collectedBy: E. P. Killip
+secondaryCollectors: C. A. Purpus
+recordNumber: 24774
+verbatimEventDate: September 20-22, 1929
+minimumEventDate: 1929-09-20
+maximumEventDate: 1929-09-22
+verbatimIdentification: Dryopteris megalodonta (Schl.) Urban
+latestScientificName: Thelypteris pentagona (Poir.) C. Morton
+identifiedBy: Alan R. Smith
+verbatimDateIdentified: Date 1989
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: N/A
+municipality: Soldado
+verbatimLocality: Dept. Loreto: Soldado, on Rio Itaya; about 180 meters
+locality: Soldado, on Rio Itaya
+habitat: dense forest
+substrate: N/A
+verbatimElevation: about 180 meters
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1520683
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1073/037/C0666207F.jpg
+
+==================================================
+Image: 0106_C0666206F.jpg
+
+verbatimCollectors: W. E. Schulte
+collectedBy: W. E. Schulte
+secondaryCollectors: N/A
+recordNumber: 24737
+verbatimEventDate: August 1959
+minimumEventDate: 1959-08-00
+maximumEventDate: N/A
+verbatimIdentification: Dryopteris pinnata
+latestScientificName: Thelypteris pinnata (Poir) C. Morton
+identifiedBy: Alan R. Smith
+verbatimDateIdentified: Date 1981
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: N/A
+municipality: San Antonio
+verbatimLocality: Dept. Loreto: San Antonio, on Rio Itaya, alt. about 120 meters, dense forest
+locality: San Antonio, on Rio Itaya
+habitat: Dense forest
+substrate: Soil
+verbatimElevation: alt. about 120 meters
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1520667
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1073/036/C0666206F.jpg
+
+==================================================
+Image: 0107_C0666203F.jpg
+
+verbatimCollectors: Macbride & Featherstone
+collectedBy: Macbride
+secondaryCollectors: Featherstone
+recordNumber: 1622
+verbatimEventDate: July 8-12, 1922
+minimumEventDate: 1922-07-08
+maximumEventDate: 1922-07-12
+verbatimIdentification: Thelypteris Pavoniana (Kl.) Tryon
+latestScientificName: Thelypteris Pavoniana (Kl.) Tryon
+identifiedBy: Alan R. Smith
+verbatimDateIdentified: 1979
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: Mito
+verbatimLocality: Summit Mt. edge of the grass.
+locality: Summit Mt. edge of the grass.
+habitat: About grass formation.
+substrate: Soil
+verbatimElevation: About 9000 ft
+verbatimCoordinates: N/A
+otherCatalogNumbers: 518129
+originalMethod: Typed
+typeStatus: No type status
+URL: https://fm-digital-assets.fieldmuseum.org/1073/033/C0666203F.jpg
+
+==================================================
+Image: 0108_C0666202F.jpg
+
+verbatimCollectors: J. J. Wurdack No. 7805
+collectedBy: J. J. Wurdack
+secondaryCollectors: N/A
+recordNumber: 7805
+verbatimEventDate: - June 1962
+minimumEventDate: 1962-06-00
+maximumEventDate: 1962-06-00
+verbatimIdentification: Thelypteris (Thelypteris) pavoniana (Klotzsch) det. D. B. Lellinger 1966
+latestScientificName: Thelypteris pavoniana (Klotzsch) Tryon
+identifiedBy: Alan R. Smith
+verbatimDateIdentified: 1979, 1989
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Amazonas
+secondPoliticalUnit: Chachapoyas
+municipality: N/A
+verbatimLocality: Upper slopes of Puma-urcu east-southeast of Chachapoyas, elev. 2700-3000 m.
+locality: Upper slopes of Puma-urcu east-southeast of Chachapoyas
+habitat: On banks, locally frequent
+substrate: soil
+verbatimElevation: elev. 2700-3000 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1647265
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1073/032/C0666202F.jpg
+
+==================================================
+Image: 0109_C0666112F.jpg
+
+verbatimCollectors: R. E. Schultes & I. Cabrera
+collectedBy: R. E. Schultes
+secondaryCollectors: I. Cabrera
+recordNumber: 5202
+verbatimEventDate: Aug. 13, 1956
+minimumEventDate: 1956-08-13
+maximumEventDate: N/A
+verbatimIdentification: Thelypteris opulenta (Kaulf.) Probst
+latestScientificName: Thelypteris opulenta (Kaulf.) Fosberg
+identifiedBy: Alan R. Smith
+verbatimDateIdentified: 1979 , 1990
+associatedTaxa: N/A
+country: Peru
+firstPoliticalUnit: Loreto
+secondPoliticalUnit: Maynas
+municipality: N/A
+verbatimLocality: Rio Itaya, 10 km. S. of Iquitos. In old banana planting.
+locality: Rio Itaya, 10 kilometers south of Iquitos, in old banana planting
+habitat: In old banana planting.
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1587072
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1072/942/C0666112F.jpg
+
+==================================================
+Image: 0110_C0639123F.jpg
+
+verbatimCollectors: Louis O. Williams, Antonio Molina R., Terua P. Williams
+collectedBy: Louis O. Williams
+secondaryCollectors: Antonio Molina R., Terua P. Williams
+recordNumber: 23634
+verbatimEventDate: 7-15 July 1968
+minimumEventDate: 1968-07-07
+maximumEventDate: 1968-07-15
+verbatimIdentification: Lycopodium clavatum L.
+latestScientificName: Lycopodium clavatum L.
+identifiedBy: C. V. Morton & D. B. Lellinger
+verbatimDateIdentified: 1964
+associatedTaxa: N/A
+country: Nicaragua
+firstPoliticalUnit: Matagalpa
+secondPoliticalUnit: N/A
+municipality: Jinotega
+verbatimLocality: Cloud forest area, Sta. María de Ostuma, Cordillera Central de Nicaragua between Matagalpa and Jinotega, Department of Matagalpa, 1300-1800 Meters
+locality: Cloud forest area, Sta. María de Ostuma, Cordillera Central de Nicaragua between Matagalpa and Jinotega
+habitat: Terrestrial on open bank, cloud forest area
+substrate: soil
+verbatimElevation: 1300-1800 Meters
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1604388
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1081/508/C0639123F.jpg
+
+==================================================
+Image: 0111_C0675553F.jpg
+
+verbatimCollectors: John T. Atwood, Jr.
+collectedBy: John T. Atwood
+secondaryCollectors: N/A
+recordNumber: 77105
+verbatimEventDate: 8 Feb. 1977
+minimumEventDate: 1977-02-08
+maximumEventDate: 1977-02-08
+verbatimIdentification: Adiantum trapeziforme L.
+latestScientificName: Adiantum cuneatum (Marcus McCarthy & Hickey) Aprox.Det M.R. McCarthy 2012
+identifiedBy: M.R. McCarthy
+verbatimDateIdentified: 2012
+associatedTaxa: N/A
+country: Nicaragua
+firstPoliticalUnit: Granada
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Lower cloud forest near Finca Cuítre
+locality: Lower cloud forest near Finca Cuítre
+habitat: Lower cloud forest
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1868242
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1748/926/C0675553F.jpg
+
+==================================================
+Image: 0112_C0675619F.jpg
+
+verbatimCollectors: Geo. B. Hinton et al.
+collectedBy: Geo. B. Hinton
+secondaryCollectors: et al.
+recordNumber: 7644
+verbatimEventDate: May et al. Q-1-21-35
+minimumEventDate: 1935-05-00
+maximumEventDate: N/A
+verbatimIdentification: Adiantum trapeziforme L.
+latestScientificName: Adiantum cuneatum McCarthy & Hickey
+identifiedBy: M. Palacios-Rios, M. McCarthy
+verbatimDateIdentified: Agosto/1986, 2012
+associatedTaxa: N/A
+country: Mexico
+firstPoliticalUnit: Mexico
+secondPoliticalUnit: N/A
+municipality: Temascaltepec
+verbatimLocality: Temascaltepec
+locality: Temascaltepec
+habitat: dry barranca
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 954869
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1749/002/C0675619F.jpg
+
+==================================================
+Image: 0113_C0355438F.jpg
+
+verbatimCollectors: R.A. Maas Geesteranus
+collectedBy: R.A. Maas Geesteranus
+secondaryCollectors: N/A
+recordNumber: 5744
+verbatimEventDate: dd. 12-VIII-59
+minimumEventDate: 1959-08-12
+maximumEventDate: N/A
+verbatimIdentification: Asplenium sandersonii Hook.
+latestScientificName: Asplenium sandersonii Hook.
+identifiedBy: R. Faden
+verbatimDateIdentified: 1976
+associatedTaxa: N/A
+country: Kenya
+firstPoliticalUnit: Nyanza Province
+secondPoliticalUnit: Kericho Distr.
+municipality: N/A
+verbatimLocality: South Nandi Forest Reserve, camp 8, lat. 0°36'30" S., long. 35°10'20" E.
+locality: South Nandi Forest Reserve, camp 8
+habitat: Riparian woodland along the river Itare, among others with Conopodium gia holstii
+substrate: N/A
+verbatimElevation: 1920 m s.m.
+verbatimCoordinates: lat. 0°36'30" S., long. 35°10'20" E.
+otherCatalogNumbers: 1445440
+originalMethod: Mix of Handwritten and Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1751/323/C0355438F.jpg
+
+==================================================
+Image: 0114_C0359489F.jpg
+
+verbatimCollectors: S. P. Lopez y R. Esteban
+collectedBy: S. P. Lopez
+secondaryCollectors: R. Esteban
+recordNumber: N/A
+verbatimEventDate: 1/V/69
+minimumEventDate: 1969-05-01
+maximumEventDate: N/A
+verbatimIdentification: Lophosoria quadripinnata (J.F. Gmel.) C. Chr. var quadripinnata 
+latestScientificName: Lophosoria quadripinnata var quadripinnata
+identifiedBy: M. Véliz y M. Véliz
+verbatimDateIdentified: 22/IX/2005
+associatedTaxa: N/A
+country: Guatemala
+firstPoliticalUnit: Jalapa
+secondPoliticalUnit: N/A
+municipality: Aldea San Raymundo
+verbatimLocality: N/A
+locality: Aldea San Raymundo, on Manzanillos Hill 
+habitat: Creciendo dentro de bosque de Quercus sp.
+substrate: N/A
+verbatimElevation: 2308 meters
+verbatimCoordinates: 14° 33' 47.9" N 90° 16' 07.0" W
+otherCatalogNumbers: 2298970
+originalMethod: Handwritten
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1824/625/C0359489F.jpg
+
+==================================================
+Image: 0115_C0662895F.jpg
+
+verbatimCollectors: Charles F. Millspaugh, W.J. Hahn, C. Billup, du Motay
+collectedBy: Charles F. Millspaugh
+secondaryCollectors: W.J. Hahn, C. Billup, du Motay
+recordNumber: 893
+verbatimEventDate: Jan. 20-Feb. 6.
+minimumEventDate: 1885-01-20
+maximumEventDate: 1885-02-06
+verbatimIdentification: Asplenium dentatum L.
+latestScientificName: Asplenium dentatum L.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Jamaica
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: Port Antonio
+verbatimLocality: Port Antonio; Jan. 20-Feb. 6.
+locality: Port Antonio
+habitat: [precise locality unknown]
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 10682
+originalMethod: Handwritten
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1752/612/C0662895F.jpg
+
+==================================================
+Image: 0116_C0363828F.jpg
+
+verbatimCollectors: T. G. Yuncker
+collectedBy: T. G. Yuncker
+secondaryCollectors: N/A
+recordNumber: No 17,429
+verbatimEventDate: Nov. 17, 1957
+minimumEventDate: 1957-11-17
+maximumEventDate: N/A
+verbatimIdentification: Lycopodium cernuum L.
+latestScientificName: Lycopodium cernuum L.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Jamaica
+firstPoliticalUnit: St. Andrew
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Scrambling over side of cut, along trail near Bellevue. Alt. 3000-4000 ft.
+locality: trail near Bellevue
+habitat: Scrambling over side of cut
+substrate: N/A
+verbatimElevation: Alt. 3000-4000 ft.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1487756
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1847/286/C0363828F.jpg
+
+==================================================
+Image: 0117_C0363985F.jpg
+
+verbatimCollectors: Carvalho 2092
+collectedBy: Carvalho
+secondaryCollectors: N/A
+recordNumber: 2092
+verbatimEventDate: 25-IV-1986
+minimumEventDate: 1986-04-25
+maximumEventDate: 1986-04-25
+verbatimIdentification: Lycopodiella cernua (L.) Pic. Serm.
+latestScientificName: Lycopodiella cernua (L.) Pic. Serm.
+identifiedBy: J. Fernández Casas
+verbatimDateIdentified: 1991
+associatedTaxa: N/A
+country: Equatorial Guinea
+firstPoliticalUnit: Bioco
+secondPoliticalUnit: N/A
+municipality: Basile
+verbatimLocality: Bioco: Malabo - Basile, km 13, cerca de Basile, 32NMK7808, 390 m, márgenes de la carretera, 25-IV-1986
+locality: Malabo - Basile, km 13, near Basile
+habitat: márgenes de la carretera
+substrate: N/A (The substrate is not explicitly mentioned on the label)
+verbatimElevation: 390 m
+verbatimCoordinates: 32NMK7808
+otherCatalogNumbers: Nº 2201362
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg
+
+==================================================
+Image: 0118_C0363442F.jpg
+
+verbatimCollectors: Henk van der Werff 11699
+collectedBy: Henk van der Werff
+secondaryCollectors: N/A
+recordNumber: 11699
+verbatimEventDate: 12 June 1990
+minimumEventDate: 1990-06-12
+maximumEventDate: N/A
+verbatimIdentification: Diplazium assimile (C. Presl) Bedd.
+latestScientificName: Diplazium assimile (C. Presl) Bedd.
+identifiedBy: Henk van der Werff, 1991 (MO)
+verbatimDateIdentified: 1991
+associatedTaxa: N/A
+country: Australia
+firstPoliticalUnit: Queensland
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Boonjee logging area; at base of Mt. Bartle Frere.
+locality: Boonjee logging area, at the base of Mount Bartle Frere
+habitat: Rainforest
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: 145°43'E 17°25'S
+otherCatalogNumbers: 2094887
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1847/568/C0363442F.jpg
+
+==================================================
+Image: 0119_C0378283F.jpg
+
+verbatimCollectors: M. Togawa & K. Iwatsuki
+collectedBy: M. Togawa
+secondaryCollectors: K. Iwatsuki
+recordNumber: 1150
+verbatimEventDate: July 25, 1956
+minimumEventDate: 1956-07-25
+maximumEventDate: 1956-07-25
+verbatimIdentification: Diplazium umbilicatum (Poir.) Tagawa
+latestScientificName: Diplazium umbilicatum (Poir.) Tagawa
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Japan
+firstPoliticalUnit: Kagoshima
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Kyushu, Pref. Kagoshima; western slope of Mt. Koyachi, south of Kanoya City
+locality: Western slope of Mount Koyachi, south of Kanoya City
+habitat: Wet rocky slope in densely wooded ravine
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1472055
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2128/136/C0378283F.jpg
+
+==================================================
+Image: 0120_C0364726F.jpg
+
+verbatimCollectors: W. Takeuchi & J. Wiakabu
+collectedBy: W. Takeuchi
+secondaryCollectors: J. Wiakabu
+recordNumber: 9366
+verbatimEventDate: February 5, 1994
+minimumEventDate: 1994-02-05
+maximumEventDate: N/A
+verbatimIdentification: Blechnum ledermannii Brause
+latestScientificName: Blechnum ledermannii Brause
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Papua New Guinea
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: New Ireland; Hans Meyer Range, Site 4 on the expedition report
+locality: Hans Meyer Range, Site 4 on the expedition report
+habitat: Submontane forest dominated by hydriphytic and mesophytic growth
+substrate: soil
+verbatimElevation: c. 1800 m
+verbatimCoordinates: 4°25' S 152°59' E
+otherCatalogNumbers: C056067F
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1862/027/C0364726F.jpg
+
+==================================================
+Image: 0121_C0366013F.jpg
+
+verbatimCollectors: Tagawa & Iwatsuki 888
+collectedBy: Tagawa
+secondaryCollectors: Iwatsuki
+recordNumber: 888
+verbatimEventDate: May 20, 1956
+minimumEventDate: 1956-05-20
+maximumEventDate: N/A
+verbatimIdentification: Dryopteris crassirhizoma Nakai
+latestScientificName: Dryopteris crassirhizoma Nakai
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Japan
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: N/A
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1864/937/C0366013F.jpg
+
+==================================================
+Image: 0122_C0366453F.jpg
+
+verbatimCollectors: J. Ohwi
+collectedBy: J. Ohwi
+secondaryCollectors: N/A
+recordNumber: 202
+verbatimEventDate: April 1951
+minimumEventDate: 1951-04-00
+maximumEventDate: N/A
+verbatimIdentification: Polystichum tripteron Presl
+latestScientificName: Polystichum tripteron Presl
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Japan
+firstPoliticalUnit: Honshu
+secondPoliticalUnit: N/A
+municipality: Jizumiji in Saggami
+verbatimLocality: Honshu: Jizumiji in Sagami
+locality: Jizumiji in Sagami
+habitat: [precise locality unknown]
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1464206
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1863/394/C0366453F.jpg
+
+==================================================
+Image: 0123_C0364207F.jpg
+
+verbatimCollectors: Father M. Vanoverbergh
+collectedBy: Father M. Vanoverbergh
+secondaryCollectors: N/A
+recordNumber: 3591
+verbatimEventDate: April 13
+minimumEventDate: 1900-04-13
+maximumEventDate: 1900-04-13
+verbatimIdentification: Asplenium contiguum Kaulf.
+latestScientificName: Asplenium contiguum Kaulf.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Philippines
+firstPoliticalUnit: Luzon
+secondPoliticalUnit: Bontoc Subprovince
+municipality: N/A
+verbatimLocality: Bontoc Subprovince, Luzon
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 393429
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1862/882/C0364207F.jpg
+
+==================================================
+Image: 0124_C0376117F.jpg
+
+verbatimCollectors: R. & A. J. Faden
+collectedBy: R. Faden
+secondaryCollectors: A. J. Faden
+recordNumber: 77/53
+verbatimEventDate: 5 Jan. 1977
+minimumEventDate: 1977-01-05
+maximumEventDate: N/A
+verbatimIdentification: Pyrrosia lanceolata (L.) Farw.
+latestScientificName: Pyrrosia lanceolata (L.) Farw.
+identifiedBy: D. B. Lellinger
+verbatimDateIdentified: 1979
+associatedTaxa: N/A
+country: Ceylon
+firstPoliticalUnit: Central Province
+secondPoliticalUnit: Kandy
+municipality: Kurunegala
+verbatimLocality: North Western Province, Kurunegala District, Dambulla Kuskanda Hill, ca. 7'37'II, 80°24'30"E.
+locality: North Western Province, Kurunegala District, Dambulla Kuskanda Hill
+habitat: Forest
+substrate: N/A
+verbatimElevation: Alt. 600 m
+verbatimCoordinates: 7'37'II, 80°24'30"E
+otherCatalogNumbers: 2014294
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1897/625/C0376117F.jpg
+
+==================================================
+Image: 0125_C0377881F.jpg
+
+verbatimCollectors: Albert N. Steward, C.Y. Chiao, H.C. Cheo
+collectedBy: Albert N. Steward
+secondaryCollectors: C.Y. Chiao, H.C. Cheo
+recordNumber: 3444
+verbatimEventDate: Sept. 6, 1931
+minimumEventDate: 1931-09-06
+maximumEventDate: N/A
+verbatimIdentification: Dryopteris squamigera T. Moore, Sorus black
+latestScientificName: Thelypteris squamigera (T. Moore) Ching
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: China
+firstPoliticalUnit: Kweichow Province
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Ho Nii Bamboo Slopes, alt. 980 m to the Yang Shan (Yan Ging Shan)
+locality: Ho Nii Bamboo Slopes, to the Yang Shan
+habitat: N/A
+substrate: soil
+verbatimElevation: alt. 980 m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 779919
+originalMethod: Mix of Handwritten and Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg
+
+==================================================
+Image: 0126_C0382365F.jpg
+
+verbatimCollectors: Julie F. Barcelona
+collectedBy: Julie F. Barcelona
+secondaryCollectors: N/A
+recordNumber: 48
+verbatimEventDate: Nov.--1989
+minimumEventDate: 1989-11-00
+maximumEventDate: 1989-11-00
+verbatimIdentification: Selaginella cupressina
+latestScientificName: Selaginella cupressina Spring
+identifiedBy: Julie F. Barcelona
+verbatimDateIdentified: Nov.--1989
+associatedTaxa: N/A
+country: Philippines
+firstPoliticalUnit: Visayas
+secondPoliticalUnit: Antique Province
+municipality: N/A
+verbatimLocality: Visayas, Panay Isl., Antique Prov., Libertad, Mts. Apo
+locality: Libertad, Mts. Apo
+habitat: Egata, on shaded & moist areas
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: PNH no. 19235
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1909/756/C0382365F.jpg
+
+==================================================
+Image: 0127_C0368029F.jpg
+
+verbatimCollectors: L. & A. Fay 1206
+collectedBy: L. Fay
+secondaryCollectors: A. Fay
+recordNumber: 1206
+verbatimEventDate: 11 Apr 1985
+minimumEventDate: 1985-04-11
+maximumEventDate: N/A
+verbatimIdentification: Fern Drynaria laurentii (Christ.) Hieron.
+latestScientificName: Drynaria laurentii (Christ.) Hieron.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Liberia
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Cuttington University College. Alt. 250 m. On tree trunk about 10' from ground; common in groves of rubber trees, on trunks.
+locality: Cuttington University College
+habitat: On tree trunk about 10 feet from ground; common in groves of rubber trees, on trunks
+substrate: bark
+verbatimElevation: Alt. 250 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: N° 2111378
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1896/920/C0368029F.jpg
+
+==================================================
+Image: 0128_C0356535F.jpg
+
+verbatimCollectors: H. St. John
+collectedBy: H. St. John
+secondaryCollectors: N/A
+recordNumber: 16662
+verbatimEventDate: Aug. 26, 1934
+minimumEventDate: 1934-08-26
+maximumEventDate: 1934-08-26
+verbatimIdentification: Humata banksii Alston
+latestScientificName: Humata banksii Alston
+identifiedBy: E.B. Copeland
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Austral Islands
+firstPoliticalUnit: Raivavae
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Northwest slope of Teav. Teavria woods
+locality: [precise locality unknown]
+habitat: On mossy tree limb, epiphyte
+substrate: bark
+verbatimElevation: altitude 350 meters
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1435764
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1990/120/C0356535F.jpg
+
+==================================================
+Image: 0129_C0383576F.jpg
+
+verbatimCollectors: T. G. Yuncker
+collectedBy: T. G. Yuncker
+secondaryCollectors: N/A
+recordNumber: 18,561
+verbatimEventDate: Mar. 30, 1958
+minimumEventDate: 1958-03-30
+maximumEventDate: 1958-03-30
+verbatimIdentification: Selaginella plana (Diver.) Hieron.
+latestScientificName: Selaginella plana (Diver.) Hieron.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Jamaica
+firstPoliticalUnit: Portland
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: On wet embankment along trail, rain forest, John Crow Mts., 1.5-2 miles southwest of Ecclesdown.
+locality: On wet embankment along trail, John Crow Mountains, 1.5-2 miles southwest of Ecclesdown
+habitat: Rain forest
+substrate: N/A
+verbatimElevation: Alt. 1500-2500 ft.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1451955
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1995/841/C0383576F.jpg
+
+==================================================
+Image: 0130_C0383180F.jpg
+
+verbatimCollectors: A. Castelli
+collectedBy: A. Castelli
+secondaryCollectors: N/A
+recordNumber: 851
+verbatimEventDate: 1871
+minimumEventDate: 1871-00-00
+maximumEventDate: 1871-00-00
+verbatimIdentification: Lycopodium complanatum L. Lycopodium chamaecyparissus auct. non L.
+latestScientificName: Lycopodium complanatum L.
+identifiedBy: Joan H. WIlce
+verbatimDateIdentified: 1962
+associatedTaxa: N/A
+country: Italy
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Salita alla Boscarela presso Sospel in Vallesia
+locality: Salita alla Boscarela near Sospel in Vallesia
+habitat: [precise locality unknown]
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1982/572/C0383180F.jpg
+
+==================================================
+Image: 0131_C0358423F.jpg
+
+verbatimCollectors: G.J. Chamberlain
+collectedBy: G.j. Chamberlain
+secondaryCollectors: N/A
+recordNumber: N/A
+verbatimEventDate: Oct. 15, 1911
+minimumEventDate: 1911-10-15
+maximumEventDate: 1911-10-15
+verbatimIdentification: Trichomanes reniforme
+latestScientificName: Trichomanes reniforme
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: New Zealand
+firstPoliticalUnit: N/A
+secondPoliticalUnit:  N/A
+municipality: N/A
+verbatimLocality: Ohakune
+locality: Ohakune
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1991/498/C0358423F.jpg
+
+==================================================
+Image: 0132_C0662992F.jpg
+
+verbatimCollectors: R. L. Dunn, H. A. Hespenheide, D. R. Wiseman
+collectedBy: R. L. Dunn
+secondaryCollectors: H. A. Hespenheide, D. R. Wiseman
+recordNumber: 8105
+verbatimEventDate: 2 August 1964 
+minimumEventDate: 1964-08-02
+maximumEventDate: N/A
+verbatimIdentification: Cnemidaria grandifolia (Willd.) Proctor var. grandifolia
+latestScientificName: Cnemidaria grandifolia (Willd.) Proctor var. grandifolia
+identifiedBy: Robert G. Stolze
+verbatimDateIdentified: 1971
+associatedTaxa: N/A
+country: Dominica
+firstPoliticalUnit: St. Paul
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Disturbed rainforest in the upper Layou Valley about 1.5 miles from Clarke Hall towards Pont Casse
+locality: Disturbed rainforest in the upper Layou Valley about 1.5 miles from Clarke Hall towards Pont Casse
+habitat: Common fern with trunk 2 dm. high. Fronds 2 m. long.
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1670026
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2116/918/C0662992F.jpg
+
+==================================================
+Image: 0133_C0377971F.jpg
+
+verbatimCollectors: R.B.A. Jayasundera
+collectedBy: R.B.A. Jayasundera
+secondaryCollectors: N/A
+recordNumber: N/A
+verbatimEventDate: 2 Jan 1977
+minimumEventDate: 1977-01-02
+maximumEventDate: 1977-01-02
+verbatimIdentification: Thelypteris
+latestScientificName: Thelypteris
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Ceylon
+firstPoliticalUnit: Central Province
+secondPoliticalUnit: Nuwara Eliya District
+municipality: N/A
+verbatimLocality: between mile posts 45/3 and 45/4 on Nuwara Eliya-Kandy road
+locality: between mile posts 45/3 and 45/4 on Nuwara Eliya-Kandy road
+habitat: Shady moist bank near stream. Local and uncommon
+substrate: soil
+verbatimElevation: ca 1950 m
+verbatimCoordinates: 6°59'30", 80°45'E
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2128/029/C0377971F.jpg
+
+==================================================
+Image: 0134_C0272257F.jpg
+
+verbatimCollectors: leg. H. et P. Sydow
+collectedBy: H. Sydow
+secondaryCollectors: P. Sydow
+recordNumber: 67
+verbatimEventDate: 14. 8. 1903
+minimumEventDate: 1903-08-14
+maximumEventDate: N/A
+verbatimIdentification: Entyloma crastophilum Sacc. Michelia I, p. 540; Sacc. Syll. VII, p. 491.
+latestScientificName: Entyloma crastophilum Sacc.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: Holcus lanatus
+country: Germany
+firstPoliticalUnit: Sachsen
+secondPoliticalUnit: N/A
+municipality: Zwiesel bei Schmilka
+verbatimLocality: am Grossen Winterberge
+locality: Grossen Winterberge
+habitat: N/A
+substrate: leaves
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: C0272257F
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2161/729/C0272257F.jpg
+
+==================================================
+Image: 0135_C0272323F.jpg
+
+verbatimCollectors: Leg. O. Mattirolo, comm. G. Lagerheim
+collectedBy: O. Mattirolo
+secondaryCollectors: G. Lagerheim
+recordNumber: 876
+verbatimEventDate: 27/9 1895
+minimumEventDate: 1895-09-27
+maximumEventDate: N/A
+verbatimIdentification: Neovossia Moliniae (Thüm.) Körn.
+latestScientificName: Neovossia Moliniae (Thüm.) Körn.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: Moliniae coeruleae
+country: Italia
+firstPoliticalUnit: prov. Como
+secondPoliticalUnit: N/A
+municipality: Rodero
+verbatimLocality: Rodero, prov. Como in ovaris Moliniae coeruleae
+locality: Rodero
+habitat: in ovaris Moliniae coeruleae
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: CO272323F
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2161/795/C0272323F.jpg
+
+==================================================
+Image: 0136_C0272329F.jpg
+
+verbatimCollectors: Richard W. Pohl, Gerrit Davidse
+collectedBy: Richard W. Pohl
+secondaryCollectors: Gerrit Davidse
+recordNumber: 11146
+verbatimEventDate: 25 September 1968
+minimumEventDate: 1968-09-25
+maximumEventDate: N/A
+verbatimIdentification: Oplismenus setarioides (Lam.) Roem. & Schult.
+latestScientificName: Oplismenus setarioides (Lam.) Roem. & Schult.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Costa Rica
+firstPoliticalUnit: Puntarenas
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: PROV. PUNTARENAS: 5 KM NW of the Carretera Interamericana in Boruca area
+locality: 5 KM Northwest of the Carretera Interamericana in Boruca area
+habitat: Carpeting the ground at the margin of forest and savanna
+substrate: soil
+verbatimElevation: elev. 450 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2161/800/C0272329F.jpg
+
+==================================================
+Image: 0137_C0272400F.jpg
+
+verbatimCollectors: E. W. D. Holway
+collectedBy: E. W. D. Holway
+secondaryCollectors: N/A
+recordNumber: 1789
+verbatimEventDate: Aug. 8, 1901
+minimumEventDate: 1901-08-08
+maximumEventDate: 1901-08-08
+verbatimIdentification: Tuburcinia Clintoniae, Kom.
+latestScientificName: Tuburcinia Clintoniae
+identifiedBy: F. Bartholomew
+verbatimDateIdentified: N/A
+associatedTaxa: Streptopus rosens.
+country: Canada
+firstPoliticalUnit: British Columbia
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Glacier, Brit. Columbia
+locality: Glacier
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: C0272400F
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2161/871/C0272400F.jpg
+
+==================================================
+Image: 0138_C0272404F.jpg
+
+verbatimCollectors: leg. F. Bubak
+collectedBy: F. Bubak
+secondaryCollectors: N/A
+recordNumber: 3239
+verbatimEventDate: Majo
+minimumEventDate: 0000-05-00
+maximumEventDate: 0000-05-00
+verbatimIdentification: Tuburcinia anemones (Pers.) Lirol.
+latestScientificName: Tuburcinia anemones (Pers.) Lirol.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: Anemones nemorosae
+country: Bohemia
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: Poděbrad
+verbatimLocality: Bohemia: ad folia viva Anemones nemorosae ad Poděbrad, m. Majo.
+locality: Poděbrad
+habitat: ad folia viva Anemones nemorosae
+substrate: leaves
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: C0272404F
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2161/875/C0272404F.jpg
+
+==================================================
+Image: 0139_C0272225F_%201.jpg
+
+verbatimCollectors: Harold E. Parks and Joseph P. Tracy
+collectedBy: Harold E. Parks
+secondaryCollectors: Joseph P. Tracy
+recordNumber: 13207
+verbatimEventDate: June 3, 1934
+minimumEventDate: 1934-06-03
+maximumEventDate: N/A
+verbatimIdentification: Exobasidium Vaccinii (Fuckl.) Wor.
+latestScientificName: Exobasidium Vaccinii (Fuckl.) Wor.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: Vaccinium ovatum Pursh
+country: United States
+firstPoliticalUnit: California
+secondPoliticalUnit: Humboldt County
+municipality: Trinidad
+verbatimLocality: Trinidad.
+locality: Trinidad
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: C0272225F
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2184/981/C0272225F_%201.jpg
+
+==================================================
+Image: 0140_C0272229F_%201.jpg
+
+verbatimCollectors: Lee Bonar
+collectedBy: Lee Bonar
+secondaryCollectors: N/A
+recordNumber: 890
+verbatimEventDate: 21 August 1954
+minimumEventDate: 1954-08-21
+maximumEventDate: 1954-08-21
+verbatimIdentification: Exobasidium Vaccinii (Fckl.) Wor.
+latestScientificName: Exobasidium Vaccinii
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: Arctostaphylos patula Greene.
+country: United States
+firstPoliticalUnit: California
+secondPoliticalUnit: Shasta County
+municipality: N/A
+verbatimLocality: Manzanita Lake, Lassen National Park, Shasta County
+locality: Manzanita Lake, Lassen National Park
+habitat: N/A
+substrate: On Arctostaphylos patula Greene.
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: C0272229F
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2184/989/C0272229F_%201.jpg
+
+==================================================
+Image: 0141_C0272218F_%201.jpg
+
+verbatimCollectors: Coll. H. E. Parks and J. P. Tracy
+collectedBy: H. E. Parks
+secondaryCollectors: J. P. Tracy
+recordNumber: 238
+verbatimEventDate: Sept. 15, 1930
+minimumEventDate: 1930-09-15
+maximumEventDate: 1930-09-15
+verbatimIdentification: Exobasidium Vaccinii (Fckl.) Wor. Host, Arbutus Menziesii Pursh.
+latestScientificName: Exobasidium Vaccinii (Fckl.) Wor.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: Arbutus Menziesii Pursh.
+country: United States
+firstPoliticalUnit: California
+secondPoliticalUnit: Humboldt County
+municipality: Kneeland
+verbatimLocality: Bald Hills
+locality: Bald Hills
+habitat: Seriously affecting the young shoots.
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: C0272218F
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2184/966/C0272218F_%201.jpg
+
+==================================================
+Image: 0142_C0003693F.jpg
+
+verbatimCollectors: H.K.
+collectedBy: H.k.
+secondaryCollectors: N/A
+recordNumber: 68/641
+verbatimEventDate: 5.VII.1968
+minimumEventDate: 1968-07-05
+maximumEventDate: 1968-07-05
+verbatimIdentification: Crucibulum naucroides H.K. 1971 (Typus)
+latestScientificName: Crucibulum naucroides H.K. 1971 (Typus)
+identifiedBy: H.K.
+verbatimDateIdentified: N/A
+associatedTaxa: Cyathea dealbata, C. smithii, Phyllocladus, Podocarpus, etc.
+country: New Zealand
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: In humus unter Cyathea dealbata, C. smithii, Phyllocladus, Podocarpus, etc., Kuaotunu Valley, Coromandel Peninsula, N.Z.
+locality: Kuaotunu Valley, Coromandel Peninsula
+habitat: In humus
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1017207
+originalMethod: Typed
+typeStatus: Typus
+
+Note: Some information has been assumed based on the typical herbarium label data structure and conventions.
+URL: https://fm-digital-assets.fieldmuseum.org/326/926/C0003693F.jpg
+
+==================================================
+Image: 0143_C0004429F.jpg
+
+verbatimCollectors: Singer
+collectedBy: Singer
+secondaryCollectors: N/A
+recordNumber: 'B 7463
+verbatimEventDate: 14 V 1973
+minimumEventDate: 1973-05-14
+maximumEventDate: 1973-05-14
+verbatimIdentification: Hygrocybe dimorphosadiata Sing. Ad terram in hylaea
+latestScientificName: Hygrocybe dimorphosadiata Sing.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Ecuador
+firstPoliticalUnit: Napo
+secondPoliticalUnit: N/A
+municipality: Lago Agrio
+verbatimLocality: Lago Agrio
+locality: Lago Agrio
+habitat: N/A
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1017827
+originalMethod: Typed
+typeStatus: type
+URL: https://fm-digital-assets.fieldmuseum.org/407/128/C0004429F.jpg
+
+==================================================
+Image: 0144_C0004430F.jpg
+
+verbatimCollectors: Singer M05174
+collectedBy: Singer
+secondaryCollectors: N/A
+recordNumber: M05174
+verbatimEventDate: 23 II 1988
+minimumEventDate: 1988-02-23
+maximumEventDate: N/A
+verbatimIdentification: Hygrocybe fuegiana Sing (= H. rosea sensu Horak)
+latestScientificName: Hygrocybe fuegiana
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: Sphagnum spec., Rubus geoides
+country: Argentina
+firstPoliticalUnit: Tierra del Fuego
+secondPoliticalUnit: Departamento Ushuaia
+municipality: N/A
+verbatimLocality: ya. road Ushuaya-Lago Fagnano, SW of highest point
+locality: road Ushuaia-Lago Fagnano, southwest of highest point
+habitat: Gregarious in bog margin
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: F1075922
+originalMethod: Typed
+typeStatus: Holotype
+URL: https://fm-digital-assets.fieldmuseum.org/407/130/C0004430F.jpg
+
+==================================================
+Image: 0145_C0209265F_3143.jpg
+
+verbatimCollectors: P. Ponce de Leon
+collectedBy: P. Ponce de Leon
+secondaryCollectors: N/A
+recordNumber: 296
+verbatimEventDate: September 21,1978
+minimumEventDate: 1978-09-21
+maximumEventDate: 1978-09-21
+verbatimIdentification: Amanita
+latestScientificName: Amanita
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: Vaccinium spp.
+country: United States
+firstPoliticalUnit: Alaska
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: At or above timberline, windswept slopes of mountains about 20-30 miles north of Mt. McKinley
+locality: At or above timberline, windswept slopes of mountains about 20-30 miles north of Mt. McKinley
+habitat: With mosses, lichens, Vaccinium spp. and other Ericads.
+substrate: Soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: C0209265F
+originalMethod: Typed
+typeStatus: No type status
+URL: https://fm-digital-assets.fieldmuseum.org/1964/931/C0209265F_3143.jpg
+
+==================================================
+Image: 0146_C0225578F_7209.jpg
+
+verbatimCollectors: Coll. P. Ponce de Leon
+collectedBy: P. Ponce de Leon
+secondaryCollectors: N/A
+recordNumber: 303
+verbatimEventDate: September 21, 1978
+minimumEventDate: 1978-09-21
+maximumEventDate: N/A
+verbatimIdentification: Lycoperdon
+latestScientificName: Lycoperdon
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: Vaccinium spp.
+country: Alaska
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: At or above timberline, windswept slopes of mountains 20-30 miles north of Mt. McKinley.
+locality: At or above timberline, windswept slopes of mountains 20-30 miles north of Mt. McKinley
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: C0225578F
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1971/149/C0225578F_7209.jpg
+
+==================================================
+Image: 0147_C0227005F_7903.jpg
+
+verbatimCollectors: P. Ponce de Leon
+collectedBy: P. Ponce de Leon
+secondaryCollectors: N/A
+recordNumber: 267
+verbatimEventDate: September 20, 1978
+minimumEventDate: 1978-09-20
+maximumEventDate: N/A
+verbatimIdentification: Agaricaceae
+latestScientificName: Agaricaceae
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: Albies, Prunus, Betula, Alnus species
+country: United States
+firstPoliticalUnit: Alaska
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Boggy area south of Yukon, just below the Chatanika River, about 25 miles north of Fairbanks, Alaska. In hummocks composed of grasses, lichens, mosses and Ericads, under Albies, Prunus, Betula and Alnus species.
+locality: Boggy area south of Yukon, just below Chatanika River, about 25 miles north of Fairbanks
+habitat: In hummocks composed of grasses, lichens, mosses and Ericads, in a disturbed opening in boggy forest, with very sandy soil.
+substrate: soil
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: F 1075800
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1971/878/C0227005F_7903.jpg
+
+==================================================
+Image: 0148_C0237407F_12659.jpg
+
+verbatimCollectors: Leg. Chr. King
+collectedBy: Chr. King
+secondaryCollectors: N/A
+recordNumber: F1089947
+verbatimEventDate: 1988
+minimumEventDate: 1988-00-00
+maximumEventDate: 1988-00-00
+verbatimIdentification: Psilocybe muliercula Sing. & Smith
+latestScientificName: Psilocybe muliercula Sing. & Smith
+identifiedBy: Singer
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: New Zealand
+firstPoliticalUnit: South Island
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: N/A
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: C0237407F
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/1976/741/C0237407F_12659.jpg
+
+==================================================
+Image: 0149_C0275073F.jpg
+
+verbatimCollectors: Paul C. Standley
+collectedBy: Paul C. Standley
+secondaryCollectors: N/A
+recordNumber: 82917
+verbatimEventDate: JAN. 9, 1941
+minimumEventDate: 1941-01-09
+maximumEventDate: N/A
+verbatimIdentification: Phaeospora vitis (Himm.) Syd.
+latestScientificName: Phaeospora vitis (Himm.) Syd.
+identifiedBy: Arthur
+verbatimDateIdentified: N/A
+associatedTaxa: On Vitis tiliifolia H. & B.
+country: Guatemala
+firstPoliticalUnit: Huehuetenango
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Near crossing of Río San Juan Ixtán, east of San Rafael Pétzal, alt. about 1730 m.
+locality: Near crossing of Río San Juan Ixtán, east of San Rafael Pétzal
+habitat: N/A
+substrate: N/A
+verbatimElevation: alt. about 1730 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: C0275073F
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2164/750/C0275073F.jpg
+
+==================================================
+Image: 0150_C0275088F.jpg
+
+verbatimCollectors: Paul C. Standley
+collectedBy: Paul C. Standley
+secondaryCollectors: N/A
+recordNumber: 86140
+verbatimEventDate: FEB. 5, 1941
+minimumEventDate: 1941-02-05
+maximumEventDate: 1941-02-05
+verbatimIdentification: Mamiania rubi (Sida. & Holw.) Jacks. On Rubus eriocarpus Liebm.
+latestScientificName: Mamiania rubi (Sida. & Holw.) Jacks.
+identifiedBy: Arthur
+verbatimDateIdentified: N/A
+associatedTaxa: Rubus eriocarpus Liebm.
+country: Guatemala
+firstPoliticalUnit: Quetzaltenango
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Dept. Quetzaltenango: Oak-pine forest, above Los Vahos, Cerro Quemado, alt. 2900–3000 m.
+locality: Oak-pine forest, above Los Vahos, Cerro Quemado
+habitat: Oak-pine forest
+substrate: N/A
+verbatimElevation: alt. 2900–3000 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Mix of Handwritten and Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2164/765/C0275088F.jpg
+
+==================================================
+Image: 0151_C0291873F.jpg
+
+verbatimCollectors: E. W. D. Holway
+collectedBy: E. W. D. Holway
+secondaryCollectors: N/A
+recordNumber: 27
+verbatimEventDate: Jan. 27, 1915
+minimumEventDate: 1915-01-27
+maximumEventDate: 1915-01-27
+verbatimIdentification: Ravenelia appendiculata Lag. & Diet. on Phyllanthus sp.
+latestScientificName: Ravenelia appendiculata
+identifiedBy: E. B. Mains
+verbatimDateIdentified: Jan. 27, 1915
+associatedTaxa: Phyllanthus sp.
+country: Guatemala
+firstPoliticalUnit: Solola
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Solola, Guatemala
+locality: Solola, Guatemala
+habitat: [habitat not provided on the label]
+substrate: [substrate not provided on the label]
+verbatimElevation: [elevation not provided on the label]
+verbatimCoordinates: [coordinates not provided on the label]
+otherCatalogNumbers: C0291873F
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2182/433/C0291873F.jpg
+
+==================================================
+Image: 0152_C0264367F.jpg
+
+verbatimCollectors: W.G. Bramley
+collectedBy: W.G. Bramley
+secondaryCollectors: N/A
+recordNumber: N/A
+verbatimEventDate: N/A
+minimumEventDate: N/A
+maximumEventDate: N/A
+verbatimIdentification: Nectria cinnabarina (Tode ex Fr.) Fr. with Tubercularia vulgaris
+latestScientificName: Nectria cinnabarina (Tode ex Fr.) Fr.
+identifiedBy: T. Petch
+verbatimDateIdentified: 10 Jan. 1938
+associatedTaxa: Tubercularia vulgaris
+country: N/A
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Bolton Percy, Yorkshire
+locality: Bolton Percy, Yorkshire
+habitat: On Crataegus
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: C0264367F
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2161/057/C0264367F.jpg
+
+==================================================
+Image: 0153_C0095081F.jpg
+
+verbatimCollectors: H. Imshaug & K. Ohlsson
+collectedBy: H. Imshaug
+secondaryCollectors: K. Ohlsson
+recordNumber: 49793
+verbatimEventDate: 9 October 1971
+minimumEventDate: 1971-10-09
+maximumEventDate: N/A
+verbatimIdentification: Xanthoparmelia mougeotii (Schaer.) Hale
+latestScientificName: Xanthoparmelia mougeotii (Schaer.) Hale
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: Anthobryum, Berberis
+country: Chile
+firstPoliticalUnit: Magallanes
+secondPoliticalUnit: N/A
+municipality: Primera Angostura
+verbatimLocality: Scattered Anthobryum and Berberis on low hill near Primera Angostura.
+locality: On low hill near Primera Angostura
+habitat: Scattered Anthobryum and Berberis on low hill
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: 52° 27' S., 69° 36' W.
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2117/165/C0095081F.jpg
+
+==================================================
+Image: 0154_C0095120F.jpg
+
+verbatimCollectors: W. L. Culberson & R. Ornduff
+collectedBy: W. L. Culberson
+secondaryCollectors: R. Ornduff
+recordNumber: 22493
+verbatimEventDate: September 3, 1998
+minimumEventDate: 1998-09-03
+maximumEventDate: 1998-09-03
+verbatimIdentification: Xanthoria parietina (L.) Th.Fr. in N. Acta Reg. Soc. Sc. Upsal., ser. 3, 3:67. 1861.
+latestScientificName: Xanthoria parietina
+identifiedBy: W. L. Culberson
+verbatimDateIdentified: N/A
+associatedTaxa: Zyophyllum sp.
+country: South Africa
+firstPoliticalUnit: Western Cape
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: 15 km SE of Oudtshoorn, on the road above Blossoms
+locality: 15 kilometers southeast of Oudtshoorn, on the road above Blossoms
+habitat: On twigs of Zyophyllum sp.
+substrate: twigs
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2117/199/C0095120F.jpg
+
+==================================================
+Image: 0155_C0090513F.jpg
+
+verbatimCollectors: Henry A. Imshaug & Frederick H. Imshaug
+collectedBy: Henry A. Imshaug
+secondaryCollectors: Frederick H. Imshaug
+recordNumber: 31340
+verbatimEventDate: 21 September 1963
+minimumEventDate: 1963-09-21
+maximumEventDate: N/A
+verbatimIdentification: Bamblyliospora chloritis (Nyl.) Zahlbr.
+latestScientificName: Bamblyliospora chloritis (Nyl.) Zahlbr.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Tobago
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Scattered cultivations in clearings of rain forest, ca. 1200 ft., Main Ridge along "Mt. St. George - Castara Track" (near Castara)
+locality: Main Ridge along "Mt. St. George - Castara Track" (near Castara)
+habitat: Scattered cultivations in clearings of rain forest
+substrate: N/A
+verbatimElevation: ca. 1200 ft.
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2116/097/C0090513F.jpg
+
+==================================================
+Image: 0156_C0053622F.jpg
+
+verbatimCollectors: Edward M. Wheeler
+collectedBy: Edward M. Wheeler
+secondaryCollectors: N/A
+recordNumber: Lumbsch - 9001
+verbatimEventDate: 7 Jan 1989
+minimumEventDate: 1989-01-07
+maximumEventDate: 1989-01-07
+verbatimIdentification: Buellia bahiana Malme on Ilex glabra
+latestScientificName: Hafellia bahiana (Malme) Sheard
+identifiedBy: R. J. Salm
+verbatimDateIdentified: 20 August 2016
+associatedTaxa: Ilex glabra
+country: United States
+firstPoliticalUnit: Florida
+secondPoliticalUnit: Polk County
+municipality: N/A
+verbatimLocality: POLK COUNTY: Tiger Creek Preserve, just to right of Wakeford Road Entrance.
+locality: Tiger Creek Preserve, just to right of Wakeford Road Entrance
+habitat: N/A
+substrate: bark (inferred from "on Ilex glabra")
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2115/765/C0053622F.jpg
+
+==================================================
+Image: 0157_C0052970F.jpg
+
+verbatimCollectors: Shirley Tucker
+collectedBy: Shirley Tucker
+secondaryCollectors: N/A
+recordNumber: 16863
+verbatimEventDate: March 17, 1977
+minimumEventDate: 1977-03-17
+maximumEventDate: 1977-03-17
+verbatimIdentification: Buellia punctata (Hoffm.) Mass.
+latestScientificName: Amandinea punctata (Hoffm.) Coppins & Scheid.
+identifiedBy: R. J. Salm
+verbatimDateIdentified: 3 July 2019
+associatedTaxa: N/A
+country: United States
+firstPoliticalUnit: Louisiana
+secondPoliticalUnit: St. Tammany Parish
+municipality: N/A
+verbatimLocality: Fontainebleau State Park, north shore of Lake Pontchartrain
+locality: Fontainebleau State Park, north shore of Lake Pontchartrain
+habitat: Common on Taxodium
+substrate: bark
+verbatimElevation: N/A
+verbatimCoordinates: 30°20'N, 90°03'W
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2541/682/C0052970F.jpg
+
+==================================================
+Image: 0158_C0090117F.jpg
+
+verbatimCollectors: H. T. Lumbsch
+collectedBy: H. T. Lumbsch
+secondaryCollectors: N/A
+recordNumber: 10566 b
+verbatimEventDate: 14.7.1994
+minimumEventDate: 1994-07-14
+maximumEventDate: 1994-07-14
+verbatimIdentification: Acarospora
+latestScientificName: Acarospora
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: USA
+firstPoliticalUnit: Arizona
+secondPoliticalUnit: Gila Co.
+municipality: San Carlos Lake
+verbatimLocality: San Carlos Lake, E exposed slopes above dam, just N of Coolidge
+locality: east exposed slopes above dam, just North of Coolidge
+habitat: On siliceous rocks.
+substrate: rock
+verbatimElevation: N/A
+verbatimCoordinates: 33°11'N, 110°32'W
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2541/820/C0090117F.jpg
+
+==================================================
+Image: 0159_C0090150F.jpg
+
+verbatimCollectors: N. Hladun, H. T. Lumbsch & A. Henssen
+collectedBy: N. Hladun
+secondaryCollectors: H. T. Lumbsch, A. Henssen
+recordNumber: Nr. 925d
+verbatimEventDate: 1983/05/24
+minimumEventDate: 1983-05-24
+maximumEventDate: 1983-05-24
+verbatimIdentification: Acarospora
+latestScientificName: Acarospora
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Spain
+firstPoliticalUnit: Catalunya
+secondPoliticalUnit: Prov. Gerona
+municipality: Les Torruelles, bei Torroella de Fluvia
+verbatimLocality: Les Torruelles, bei Torroella de Fluvia, auf Grawüfelben in Kalkfelsmoor
+locality: Les Torruelles, bei Torroella de Fluvia, in Kalkfelsmoor
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2541/841/C0090150F.jpg
+
+==================================================
+Image: 0160_C0090526F.jpg
+
+verbatimCollectors: H.T. Lumbsch
+collectedBy: H.T. Lumbsch
+secondaryCollectors: N/A
+recordNumber: 8890
+verbatimEventDate: 10.5.1983
+minimumEventDate: 1983-05-10
+maximumEventDate: 1983-05-10
+verbatimIdentification: Bellemerea
+latestScientificName: Bellemerea
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Italien
+firstPoliticalUnit: Südtirol
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Südtirol, Vinschgau, Gomagoi, E des Ortes. An Silikatgestein.
+locality: Vinschgau, Gomagoi, East of the location. On Silicate rock.
+habitat: N/A
+substrate: rock
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2116/101/C0090526F.jpg
+
+==================================================
+Image: 0161_C0090341F.jpg
+
+verbatimCollectors: leg. T. Feuerer, H. Hertel & H. Kilias
+collectedBy: T. Feuerer
+secondaryCollectors: H. Hertel, H. Kilias
+recordNumber: No. 282
+verbatimEventDate: 12.X.1977
+minimumEventDate: 1977-10-12
+maximumEventDate: N/A
+verbatimIdentification: Buellia schaereri DNOT.
+latestScientificName: Buellia schaereri DNOT.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Italien (Italy)
+firstPoliticalUnit: Südtirol (South Tyrol)
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Dolomiten, Rosengarten-Gruppe Purgametsch-Tal (an der Autrostraße zwischen Nigerpaß und Tiers), nahe der Abzweigung des Sträßchens ins Tscharmin-Tal bei Rungun
+locality: Dolomiten, Rosengarten-Gruppe, Purgametsch-Tal near the crossroad to Tscharmin-Tal at Rungun
+habitat: Lichter Lärchen-Bestand auf Almgelände
+substrate: bark
+verbatimElevation: 1220 m.
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2116/004/C0090341F.jpg
+
+==================================================
+Image: 0162_C0095075F.jpg
+
+verbatimCollectors: Henry A. Imshaug
+collectedBy: Henry A. Imshaug
+secondaryCollectors: N/A
+recordNumber: 60155
+verbatimEventDate: 3 October 1976
+minimumEventDate: 1976-10-03
+maximumEventDate: 1976-10-03
+verbatimIdentification: Xanthoria fallax (Hepp) Arn. on Acer
+latestScientificName: Xanthoria fallax (Hepp) Arn.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: United States
+firstPoliticalUnit: Michigan
+secondPoliticalUnit: Chippewa
+municipality: Drummond Island
+verbatimLocality: Chippewa County (Drummond Island): Along road at Drummond airport, Sec. 25, T. 42 N., R. 5 E.
+locality: Along road at Drummond airport, Section 25, Township 42 North, Range 5 East
+habitat: N/A
+substrate: bark
+verbatimElevation: N/A
+verbatimCoordinates: 46° 01' N and 83° 44' W.
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2117/162/C0095075F.jpg
+
+==================================================
+Image: 0163_C0055249F.jpg
+
+verbatimCollectors: H. Mietsch 
+collectedBy: H. Mietsch
+secondaryCollectors: N/A
+recordNumber: 6246 
+verbatimEventDate: 27.8.1988 
+minimumEventDate: 1988-08-27 
+maximumEventDate: N/A
+verbatimIdentification: Baeomyces fungoides Sw.
+latestScientificName: Baeomyces fungoides Sw.
+identifiedBy: N/A
+verbatimDateIdentified: N/A 
+associatedTaxa: N/A
+country: Schweiz
+firstPoliticalUnit: Graubünden
+secondPoliticalUnit: Unterengadin
+municipality: Zernez
+verbatimLocality: Marangun, Sursaas, TK 25
+locality: Marangun, Sursaas
+habitat: Auf Erde 
+substrate: soil
+verbatimElevation: 2150-2300 m alt.
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2115/976/C0055249F.jpg
+
+==================================================
+Image: 0164_C0089982F.jpg
+
+verbatimCollectors: H. Mietzsch
+collectedBy: H. Mietzsch
+secondaryCollectors: N/A
+recordNumber: 6983
+verbatimEventDate: 26.8.1989
+minimumEventDate: 1989-08-26
+maximumEventDate: 1989-08-26
+verbatimIdentification: Xanthoparmelia somloensis (Gyelnik) Hale
+latestScientificName: Xanthoparmelia somloensis (Gyelnik) Hale
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Schweiz
+firstPoliticalUnit: Graubünden
+secondPoliticalUnit: N/A
+municipality: Savognin
+verbatimLocality: Albulatal, TK 25: 1236 Savognin, Straße von Latsch nach Stugl
+locality: Albulatal, TK 25: 1236 Savognin, Straße von Latsch nach Stugl
+habitat: Loose on rock
+substrate: rock
+verbatimElevation: 1600 m alt.
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2116/988/C0089982F.jpg
+
+==================================================
+Image: 0165_C0090059F.jpg
+
+verbatimCollectors: leg. Aino Henssen
+collectedBy: Aino Henssen
+secondaryCollectors: N/A
+recordNumber: 21931 a
+verbatimEventDate: 29.8.1971
+minimumEventDate: 1971-08-29
+maximumEventDate: 1971-08-29
+verbatimIdentification: Xanthoria elegans (Link) Th. Fr.
+latestScientificName: Xanthoria elegans (Link) Th. Fr.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Schweiz
+firstPoliticalUnit: Graubünden
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Graubünden, Albula pass, auf Dolomit
+locality: Graubünden, Albula pass, auf Dolomit
+habitat: N/A
+substrate: rock
+verbatimElevation: 2000 m ü.M.
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2117/053/C0090059F.jpg
+
+==================================================
+Image: 0166_C0095147F.jpg
+
+verbatimCollectors: William L. Culberson
+collectedBy: William L. Culberson
+secondaryCollectors: N/A
+recordNumber: 22403
+verbatimEventDate: 9.VIII.1996
+minimumEventDate: 1996-08-09
+maximumEventDate: N/A
+verbatimIdentification: Xanthoria polycarpa (Ehrh.) Rieber
+latestScientificName: Polycauliona polycarpa (Hoffmann) Frödén, Arup & Søchting
+identifiedBy: R. J. Salm
+verbatimDateIdentified: 7 July 2019
+associatedTaxa: Pinus ponderosa
+country: USA
+firstPoliticalUnit: Washington
+secondPoliticalUnit: Spokane County
+municipality: Spokane
+verbatimLocality: In urbe Spokane, loco Riverside State Park. Ad ramunculos fruticis in Pineto (Pinus ponderosa).
+locality: Riverside State Park
+habitat: N/A
+substrate: bark
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2117/224/C0095147F.jpg
+
+==================================================
+Image: 0167_C0052862F.jpg
+
+verbatimCollectors: leg. et det. G. Follmann
+collectedBy: G. Follmann
+secondaryCollectors: N/A
+recordNumber: IV/1985
+verbatimEventDate: N/A
+minimumEventDate: N/A
+maximumEventDate: N/A
+verbatimIdentification: Abrothallus parmeliarum (SOMM.) ARN. (anam. Vouauxiomyces santessonii HAWKSW.) Patellariaceae
+latestScientificName: Abrothallus parmeliarum (SOMM.) ARN.
+identifiedBy: G. Follmann
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Deutschland
+firstPoliticalUnit: Rheinland-Pfalz
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Deutschland, Rheinland-Pfalz: zerstreut in der Oberinde der Lagerlappen von Hypogymnia physodes (L.) NYL., 450 m, NW – SW, pH 6,0; Heckengürtel am Südfuß des Schwarzheimer Kopfes zwischen Gerolstein und Prüm in der Hocheifel
+locality: [precise locality unknown]
+habitat: zerstreut in der Oberinde der Lagerlappen von Hypogymnia physodes (L.) NYL.
+substrate: N/A
+verbatimElevation: 450 m
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2541/654/C0052862F.jpg
+
+==================================================
+Image: 0168_C0052873F.jpg
+
+verbatimCollectors: H.T. Lumbsch & E. Mietzsch
+collectedBy: H.T. Lumbsch
+secondaryCollectors: E. Mietzsch
+recordNumber: 5135 b
+verbatimEventDate: 24.5.1987
+minimumEventDate: 1987-05-24
+maximumEventDate: N/A
+verbatimIdentification: Buellia punctata (Hoffm.) Massal.
+latestScientificName: Amandinea punctata (Hoffm.) Coppins & Scheid.
+identifiedBy: R. J. Salm
+verbatimDateIdentified: 3 July 2019
+associatedTaxa: N/A
+country: Germany
+firstPoliticalUnit: Rheinland-Pfalz
+secondPoliticalUnit: Landkreis Mainz/Bingen
+municipality: N/A
+verbatimLocality: Tk 25: 6013 Bingen, Ockenheimer Hörnchen
+locality: Ockenheimer Hörnchen
+habitat: On Populus
+substrate: bark
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: N/A
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2541/662/C0052873F.jpg
+
+==================================================
+Image: 0169_C0053240F.jpg
+
+verbatimCollectors: N/A
+collectedBy: N/A
+secondaryCollectors: N/A
+recordNumber: MTB5608
+verbatimEventDate: N/A
+minimumEventDate: N/A
+maximumEventDate: N/A
+verbatimIdentification: Aspicilia caesiocinerea Nyl. ex Malbr.
+latestScientificName: Circinaria caesiocinerea (Nyl. ex Malbr.) A. Nordin, Savic & Tibell
+identifiedBy: R.J. Salm
+verbatimDateIdentified: 3 July 2019
+associatedTaxa: N/A
+country: N/A
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: DRP, Eifel, Nrothel N, 450m
+locality: [precise locality unknown]
+habitat: N/A
+substrate: N/A
+verbatimElevation: 450m
+verbatimCoordinates: N/A
+otherCatalogNumbers: 8000
+originalMethod: Mix of Handwritten and Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2541/724/C0053240F.jpg
+
+==================================================
+Image: 0170_C0053210F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2541/704/C0053210F.jpg
+
+==================================================
+Image: 0171_C0090185F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2117/105/C0090185F.jpg
+
+==================================================
+Image: 0172_C0090105F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2541/809/C0090105F.jpg
+
+==================================================
+Image: 0173_C0020034F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/444/531/C0020034F.jpg
+
+==================================================
+Image: 0174_C0020052F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/444/535/C0020052F.jpg
+
+==================================================
+Image: 0175_C0025138F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/445/656/C0025138F.jpg
+
+==================================================
+Image: 0176_C0025164F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/409/473/C0025164F.jpg
+
+==================================================
+Image: 0177_C0000578F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/276/684/C0000578F.jpg
+
+==================================================
+Image: 0178_C2079898F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2535/382/C2079898F.jpg
+
+==================================================
+Image: 0179_C2077559F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/873/C2077559F.jpg
+
+==================================================
+Image: 0180_C2077563F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/883/C2077563F.jpg
+
+==================================================
+Image: 0181_C2077564F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/887/C2077564F.jpg
+
+==================================================
+Image: 0182_C2077565F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/891/C2077565F.jpg
+
+==================================================
+Image: 0183_C2077566F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/895/C2077566F.jpg
+
+==================================================
+Image: 0184_C2077567F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/899/C2077567F.jpg
+
+==================================================
+Image: 0185_C2077568F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/903/C2077568F.jpg
+
+==================================================
+Image: 0186_C2077569F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/908/C2077569F.jpg
+
+==================================================
+Image: 0187_C2077570F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/555/C2077570F.jpg
+
+==================================================
+Image: 0188_C2077571F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/556/C2077571F.jpg
+
+==================================================
+Image: 0189_C2077572F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/557/C2077572F.jpg
+
+==================================================
+Image: 0190_C2077573F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/558/C2077573F.jpg
+
+==================================================
+Image: 0191_C2077574F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/559/C2077574F.jpg
+
+==================================================
+Image: 0192_C2077575F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/560/C2077575F.jpg
+
+==================================================
+Image: 0193_C2077576F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/561/C2077576F.jpg
+
+==================================================
+Image: 0194_C2077577F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/562/C2077577F.jpg
+
+==================================================
+Image: 0195_C2077578F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/563/C2077578F.jpg
+
+==================================================
+Image: 0196_C2077579F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/564/C2077579F.jpg
+
+==================================================
+Image: 0197_C2077580F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/565/C2077580F.jpg
+
+==================================================
+Image: 0198_C2077581F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/566/C2077581F.jpg
+
+==================================================
+Image: 0199_C2077582F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/567/C2077582F.jpg
+
+==================================================
+Image: 0200_C2077583F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/568/C2077583F.jpg
+
+==================================================
+Image: 0201_C2077584F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/569/C2077584F.jpg
+
+==================================================
+Image: 0202_C2077585F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/570/C2077585F.jpg
+
+==================================================
+Image: 0203_C2077586F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2537/571/C2077586F.jpg
+
+==================================================
+Image: 0204_C2078862F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/518/C2078862F.jpg
+
+==================================================
+Image: 0205_C2078913F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/519/C2078913F.jpg
+
+==================================================
+Image: 0206_C2078924F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/520/C2078924F.jpg
+
+==================================================
+Image: 0207_C2078925F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/521/C2078925F.jpg
+
+==================================================
+Image: 0208_C2078926F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/522/C2078926F.jpg
+
+==================================================
+Image: 0209_C2078927F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/523/C2078927F.jpg
+
+==================================================
+Image: 0210_C2078928F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/524/C2078928F.jpg
+
+==================================================
+Image: 0211_C2078929F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/525/C2078929F.jpg
+
+==================================================
+Image: 0212_C2078930F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/526/C2078930F.jpg
+
+==================================================
+Image: 0213_C2078931F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/527/C2078931F.jpg
+
+==================================================
+Image: 0214_C2078932F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/529/C2078932F.jpg
+
+==================================================
+Image: 0215_C2079350F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/889/C2079350F.jpg
+
+==================================================
+Image: 0216_C2079351F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/890/C2079351F.jpg
+
+==================================================
+Image: 0217_C2079352F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/892/C2079352F.jpg
+
+==================================================
+Image: 0218_C2079353F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/893/C2079353F.jpg
+
+==================================================
+Image: 0219_C2079354F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/894/C2079354F.jpg
+
+==================================================
+Image: 0220_C2079355F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/895/C2079355F.jpg
+
+==================================================
+Image: 0221_C2079356F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/896/C2079356F.jpg
+
+==================================================
+Image: 0222_C2079357F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/897/C2079357F.jpg
+
+==================================================
+Image: 0223_C2079358F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/898/C2079358F.jpg
+
+==================================================
+Image: 0224_C2079359F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/900/C2079359F.jpg
+
+==================================================
+Image: 0225_C2079360F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/901/C2079360F.jpg
+
+==================================================
+Image: 0226_C2079361F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/902/C2079361F.jpg
+
+==================================================
+Image: 0227_C2079362F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2539/903/C2079362F.jpg
+
+==================================================
+Image: 0228_C2079715F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/815/C2079715F.jpg
+
+==================================================
+Image: 0229_C2079716F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/817/C2079716F.jpg
+
+==================================================
+Image: 0230_C2079717F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/820/C2079717F.jpg
+
+==================================================
+Image: 0231_C2079718F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/822/C2079718F.jpg
+
+==================================================
+Image: 0232_C2079719F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/825/C2079719F.jpg
+
+==================================================
+Image: 0233_C2079720F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/827/C2079720F.jpg
+
+==================================================
+Image: 0234_C2079721F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/829/C2079721F.jpg
+
+==================================================
+Image: 0235_C2079722F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/831/C2079722F.jpg
+
+==================================================
+Image: 0236_C2079723F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/835/C2079723F.jpg
+
+==================================================
+Image: 0237_C2079595F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/837/C2079595F.jpg
+
+==================================================
+Image: 0238_C2079596F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/839/C2079596F.jpg
+
+==================================================
+Image: 0239_C2079597F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/842/C2079597F.jpg
+
+==================================================
+Image: 0240_C2079598F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/844/C2079598F.jpg
+
+==================================================
+Image: 0241_C2079599F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/846/C2079599F.jpg
+
+==================================================
+Image: 0242_C2079600F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/848/C2079600F.jpg
+
+==================================================
+Image: 0243_C2079601F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/851/C2079601F.jpg
+
+==================================================
+Image: 0244_C2079602F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/853/C2079602F.jpg
+
+==================================================
+Image: 0245_C2079603F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/855/C2079603F.jpg
+
+==================================================
+Image: 0246_C2079604F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/857/C2079604F.jpg
+
+==================================================
+Image: 0247_C2079606F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/863/C2079606F.jpg
+
+==================================================
+Image: 0248_C2079607F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/865/C2079607F.jpg
+
+==================================================
+Image: 0249_C2079608F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/868/C2079608F.jpg
+
+==================================================
+Image: 0250_C2079609F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/870/C2079609F.jpg
+
+==================================================
+Image: 0251_C2079611F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/875/C2079611F.jpg
+
+==================================================
+Image: 0252_C2079856F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/877/C2079856F.jpg
+
+==================================================
+Image: 0253_C2079858F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/879/C2079858F.jpg
+
+==================================================
+Image: 0254_C2079859F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2542/881/C2079859F.jpg
+
+==================================================
+Image: 0255_C2010970F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/919/C2010970F.jpg
+
+==================================================
+Image: 0256_C2010972F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/921/C2010972F.jpg
+
+==================================================
+Image: 0257_C2000534F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/925/C2000534F.jpg
+
+==================================================
+Image: 0258_C2000536F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/927/C2000536F.jpg
+
+==================================================
+Image: 0259_C2000538F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/929/C2000538F.jpg
+
+==================================================
+Image: 0260_C2000542F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/933/C2000542F.jpg
+
+==================================================
+Image: 0261_C2000932F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/935/C2000932F.jpg
+
+==================================================
+Image: 0262_C2000934F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/937/C2000934F.jpg
+
+==================================================
+Image: 0263_C2000936F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/939/C2000936F.jpg
+
+==================================================
+Image: 0264_C2000938F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/941/C2000938F.jpg
+
+==================================================
+Image: 0265_C2000940F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/943/C2000940F.jpg
+
+==================================================
+Image: 0266_C2000943F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/946/C2000943F.jpg
+
+==================================================
+Image: 0267_C2000945F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/948/C2000945F.jpg
+
+==================================================
+Image: 0268_C2000947F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/950/C2000947F.jpg
+
+==================================================
+Image: 0269_C2000949F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/952/C2000949F.jpg
+
+==================================================
+Image: 0270_C2010614F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/954/C2010614F.jpg
+
+==================================================
+Image: 0271_C2010616F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/956/C2010616F.jpg
+
+==================================================
+Image: 0272_C2010618F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/958/C2010618F.jpg
+
+==================================================
+Image: 0273_C2010620F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/960/C2010620F.jpg
+
+==================================================
+Image: 0274_C2010622F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/962/C2010622F.jpg
+
+==================================================
+Image: 0275_C2010624F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/964/C2010624F.jpg
+
+==================================================
+Image: 0276_C2010626F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/966/C2010626F.jpg
+
+==================================================
+Image: 0277_C2010974F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/968/C2010974F.jpg
+
+==================================================
+Image: 0278_C2010976F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/970/C2010976F.jpg
+
+==================================================
+Image: 0279_C1042257F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2550/990/C1042257F.jpg
+
+==================================================
+Image: 0280_K000931304.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1486506/files/K000931304.jpg
+
+==================================================
+Image: 0281_EIG.6763.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1485174/files/EIG.6763.jpg
+
+==================================================
+Image: 0282_K001046329.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1486594/files/K001046329.jpg
+
+==================================================
+Image: 0283_K000964719.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1486540/files/K000964719.jpg
+
+==================================================
+Image: 0284_EIG.5460.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1485130/files/EIG.5460.jpg
+
+==================================================
+Image: 0285_EIG.435.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1485102/files/EIG.435.jpg
+
+==================================================
+Image: 0286_E00570050.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1484126/files/E00570050.jpg
+
+==================================================
+Image: 0287_K000773283.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1485964/files/K000773283.jpg
+
+==================================================
+Image: 0288_BR0000006918378.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1480969/files/BR0000006918378.jpg
+
+==================================================
+Image: 0289_K001207911.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1486710/files/K001207911.jpg
+
+==================================================
+Image: 0290_K000263710.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1485807/files/K000263710.jpg
+
+==================================================
+Image: 0291_BM000934757.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1480461/files/BM000934757.jpg
+
+==================================================
+Image: 0292_K000536956.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1485887/files/K000536956.jpg
+
+==================================================
+Image: 0293_B%2010%200375227.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1479535/files/B%2010%200375227.jpg
+
+==================================================
+Image: 0294_B%2010%200185601.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1479341/files/B%2010%200185601.jpg
+
+==================================================
+Image: 0295_B%2010%200030508.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1479171/files/B%2010%200030508.jpg
+
+==================================================
+Image: 0296_B%2010%200069251.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1479203/files/B%2010%200069251.jpg
+
+==================================================
+Image: 0297_B%2010%200279821.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1479479/files/B%2010%200279821.jpg
+
+==================================================
+Image: 0298_B%2010%200030420.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1479168/files/B%2010%200030420.jpg
+
+==================================================
+Image: 0299_B%2010%200385068.jpg
+
+No data returned from API.
+URL: https://zenodo.org/record/1479553/files/B%2010%200385068.jpg
+
+==================================================

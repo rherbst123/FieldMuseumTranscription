@@ -1,0 +1,1061 @@
+Message(id='msg_01THt3RFqtJnT1JribnRzmJX', content=[TextBlock(text='verbatimCollectors: J Reynolds\ncollectedBy: J. Reynolds\nsecondaryCollectors: N/A\nrecordNumber: s.n.\nverbatimEventDate: 1896\nminimumEventDate: 1896-00-00\nmaximumEventDate: N/A\nverbatimIdentification: Castanea pallida K Kochg\nlatestScientificName: N/A\nidentifiedBy: N/A\nverbatimDateIdentified: N/A\nassociatedTaxa: N/A\ncountry: United States\nfirstPoliticalUnit: Tennessee\nsecondPoliticalUnit: Cocke\nmunicipality: N/A\nverbatimLocality: Wolf Creek Shady Corner\nlocality: Wolf Creek Shady Corner\nhabitat: unsure and check\nverbatimElevation: 4000 ft\nverbatimCoordinates: N/A\notherCatalogNumbers: 468360 R4360 \noriginalMethod: Handwritten\ntypeStatus: no type status', type='text')], model='claude-3-opus-20240229', role='assistant', stop_reason='end_turn', stop_sequence=None, type='message', usage=Usage(input_tokens=2916, output_tokens=238))
+--------------------------------------------------
+Message(id='msg_01Dk2E2zFUk4nvLtwcW5R9AR', content=[TextBlock(text='verbatimCollectors: N/A\ncollectedBy: N/A\nsecondaryCollectors: N/A\nrecordNumber: 64\nverbatimEventDate: s.d.\nminimumEventDate: s.d.\nmaximumEventDate: s.d.\nverbatimIdentification: Habenaria\nlatestScientificName: Habenaria\nidentifiedBy: N/A\nverbatimDateIdentified: N/A\nassociatedTaxa: N/A\ncountry: Belgian Congo\nfirstPoliticalUnit: N/A\nsecondPoliticalUnit: N/A\nmunicipality: N/A\nverbatimLocality: N/A \nlocality: [precise locality unknown]\nhabitat: N/A\nverbatimElevation: N/A\nverbatimCoordinates: N/A\notherCatalogNumbers: 752936\noriginalMethod: Handwritten\ntypeStatus: no type status', type='text')], model='claude-3-opus-20240229', role='assistant', stop_reason='end_turn', stop_sequence=None, type='message', usage=Usage(input_tokens=2916, output_tokens=221))
+--------------------------------------------------
+Message(id='msg_0152gTarmN5rhqpXGryAcVRF', content=[TextBlock(text="verbatimCollectors: Leg RAA Maas Geesteranus no 4924 dd 14-VI-1969\ncollectedBy: RAA Maas Geesteranus\nsecondaryCollectors: N/A\nrecordNumber: 4924\nverbatimEventDate: 14-VI-1969\nminimumEventDate: 1969-06-14\nmaximumEventDate: N/A\nverbatimIdentification: Cyperus segmentatus CRCC\nlatestScientificName: Cyperus segmentatus\nidentifiedBy: CRCC\nverbatimDateIdentified: N/A\nassociatedTaxa: N/A\ncountry: Kenya\nfirstPoliticalUnit: unsure and check\nsecondPoliticalUnit: unsure and check\nmunicipality: unsure and check\nverbatimLocality: Nyanze Province, Londiani Distr, Tinderit Forest Reserve, Camp I\nlocality: Nyanze Province, Londiani District, Tinderit Forest Reserve, Camp I\nhabitat: glade surrounded by rather open, tall forest, containing a.o. Dombeya\nverbatimElevation: 2260 m.a.s\nverbatimCoordinates: lat 0° 24' Long 35° 37' E\notherCatalogNumbers: 1117352\noriginalMethod: Mix of Handwritten and Typed\ntypeStatus: no type status", type='text')], model='claude-3-opus-20240229', role='assistant', stop_reason='end_turn', stop_sequence=None, type='message', usage=Usage(input_tokens=2916, output_tokens=336))
+--------------------------------------------------
+Message(id='msg_01CeSTLvh8SUh1gRknhNiLH1', content=[TextBlock(text="verbatimCollectors: Centre National de la Recherche Scientifique et Technologique (CENAREST) Récoltreur: J M et R Reitsma\ncollectedBy: J M Reitsma\nsecondaryCollectors: R Reitsma\nrecordNumber: 2213\nverbatimEventDate: 04 Nov 1978\nminimumEventDate: 1978-11-04\nmaximumEventDate: N/A\nverbatimIdentification: Oncidiscus\nlatestScientificName: Bulbophyllum scaberulum (Rolfe) Bolus var. scaberulum\nidentifiedBy: Olga Kosakovsky, 2011\nverbatimDateIdentified: 2011\nassociatedTaxa: N/A\ncountry: Gabon\nfirstPoliticalUnit: N/A\nsecondPoliticalUnit: N/A\nmunicipality: N/A\nverbatimLocality: primary rain forest, ca. 6 km No. of Oveng, Chantier Rougier Gabon, 0°41'N x 11°07'E\nlocality: primary rain forest, approximately 6 kilometers north of Oveng, Chantier Rougier Gabon\nhabitat: epiphytic orchid, growing in primary rain forest\nverbatimElevation: N/A\nverbatimCoordinates: 0°41'N x 11°07'E\notherCatalogNumbers: 2310219\noriginalMethod: Typed\ntypeStatus: no type status", type='text')], model='claude-3-opus-20240229', role='assistant', stop_reason='end_turn', stop_sequence=None, type='message', usage=Usage(input_tokens=2916, output_tokens=370))
+--------------------------------------------------
+Message(id='msg_0142vx8ji7hzEfWEyoHKFq1B', content=[TextBlock(text='verbatimCollectors: E Daris\ncollectedBy: E Daris\nsecondaryCollectors: N/A\nrecordNumber: N/A\nverbatimEventDate: 19/2/42\nminimumEventDate: 1942-02-19\nmaximumEventDate: N/A\nverbatimIdentification: Cassia gilliesii R Hoole\nlatestScientificName: Cassia gilliesii R Hoole\nidentifiedBy: N/A\nverbatimDateIdentified: N/A\nassociatedTaxa: N/A\ncountry: unsure and check \nfirstPoliticalUnit: N/A\nsecondPoliticalUnit: N/A \nmunicipality: N/A\nverbatimLocality: Smithsonian African Expedition under the direction of Dr Edgar A Mearns Congo Free States \nlocality: [precise locality unknown]\nhabitat: N/A\nverbatimElevation: 2352 to Bank & mearns Congo \nverbatimCoordinates: N/A\notherCatalogNumbers: 468360\noriginalMethod: Handwritten\ntypeStatus: no type status', type='text')], model='claude-3-opus-20240229', role='assistant', stop_reason='end_turn', stop_sequence=None, type='message', usage=Usage(input_tokens=2916, output_tokens=271))
+--------------------------------------------------
+Message(id='msg_01RnWMBYJbhgVLWpToPFg7Dy', content=[TextBlock(text='verbatimCollectors: E ROBBRECHT \ncollectedBy: E Robbrecht\nsecondaryCollectors: N/A\nrecordNumber: 734\nverbatimEventDate: 1983-4\nminimumEventDate: 1983-04-00\nmaximumEventDate: N/A \nverbatimIdentification: Hibiscustis\nlatestScientificName: N/A\nidentifiedBy: N/A\nverbatimDateIdentified: N/A\nassociatedTaxa: N/A\ncountry: Plants of Belgian Congo\nfirstPoliticalUnit: N/A\nsecondPoliticalUnit: N/A\nmunicipality: N/A\nverbatimLocality: N/A\nlocality: [precise locality unknown]\nhabitat: N/A\nverbatimElevation: N/A\nverbatimCoordinates: N/A\notherCatalogNumbers: 752356\noriginalMethod: Handwritten\ntypeStatus: no type status', type='text')], model='claude-3-opus-20240229', role='assistant', stop_reason='end_turn', stop_sequence=None, type='message', usage=Usage(input_tokens=2916, output_tokens=229))
+--------------------------------------------------
+Message(id='msg_01TShjcuTtoT2TUqZVx73bFd', content=[TextBlock(text="verbatimCollectors: Log Rwenzori Province Zoundind Dishr Bindere Forest Reserve Camp I\ncollectedBy: C G R A\nsecondaryCollectors: N/A\nrecordNumber: 4924\nverbatimEventDate: alt 24-VI 1969\nminimumEventDate: 1969-06-24\nmaximumEventDate: N/A\nverbatimIdentification: Papous segmentains C G R A\nlatestScientificName: Papous segmentains C.G.R.A.\nidentifiedBy: C G R A\nverbatimDateIdentified: 1969-06-24\nassociatedTaxa: Olacbockistteria and Olsa hocksterti\ncountry: Kenya\nfirstPoliticalUnit: N/A\nsecondPoliticalUnit: Zoundind District\nmunicipality: N/A\nverbatimLocality: Log Rwenzori Province Zoundind Dishr Bindere Forest Reserve Camp I lat 0° 54' N long 30° 21' E  2260 m s m\nlocality: Bindere Forest Reserve, Camp I\nhabitat: glade surrounded by rather open tall forest containing e g Dombeya matterui and Olea hockststteria\nverbatimElevation: 2260 m s m \nverbatimCoordinates: lat 0° 54' N long 30° 21' E\notherCatalogNumbers: 717952\noriginalMethod: Mix of Handwritten and Typed\ntypeStatus: no type status", type='text')], model='claude-3-opus-20240229', role='assistant', stop_reason='end_turn', stop_sequence=None, type='message', usage=Usage(input_tokens=2916, output_tokens=370))
+--------------------------------------------------
+Message(id='msg_016ukWABcoX4RAmsXDotGmaJ', content=[TextBlock(text='verbatimCollectors: Centre National de la Recherche Scientifique et Technologie (CENAREST) Recolterus J M et R Reitsma\ncollectedBy: J M Reitsma\nsecondaryCollectors: R Reitsma\nrecordNumber: 2213\nverbatimEventDate: 04.05.1985\nminimumEventDate: 1985-05-04\nmaximumEventDate: N/A\nverbatimIdentification: Orchidaceae Bulbophyllum scaberulum (Rolfe) Bolus var scaberulum Primary rain forest on 6 km No 03 overy Quartier Bousing Cocobeach\nlatestScientificName: Bulbophyllum scaberulum (Rolfe) Bolus var scaberulum\nidentifiedBy: Olga Koopovsky\nverbatimDateIdentified: 2011\nassociatedTaxa: N/A\ncountry: Gabon\nfirstPoliticalUnit: Estuaire Province\nsecondPoliticalUnit: Cocobeach Department\nmunicipality: Cocobeach\nverbatimLocality: Primary rain forest ca 6 km No 03 overy Quartier Bousing Cocobeach\nlocality: Primary rain forest ca 6 km No 03 overy [precise locality unknown]\nhabitat: Primary rain forest\nverbatimElevation: N/A\nverbatimCoordinates: N/A\notherCatalogNumbers: 2310219\noriginalMethod: Mix of Handwritten and Typed\ntypeStatus: no type status', type='text')], model='claude-3-opus-20240229', role='assistant', stop_reason='end_turn', stop_sequence=None, type='message', usage=Usage(input_tokens=2916, output_tokens=382))
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+verbatimCollectors       : J Raynal no 13922
+collectedBy              : J Raynal
+secondaryCollectors      : N/A
+recordNumber             : 13922
+verbatimEventDate        : 19-6-1972
+minimumEventDate         : 1972-06-19
+maximumEventDate         : N/A
+verbatimIdentification   : Uapaca calleatii R Vig
+latestScientificName     : Uapaca heudelotii Baill
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Ethiopia
+firstPoliticalUnit       : Choa
+secondPoliticalUnit      : Goro Prov
+municipality             : State unsure and check
+verbatimLocality         : de Nazret a Asella Goro Prov
+locality                 : from Nazret to Asella, Goro Province
+habitat                  : N/A
+verbatimElevation        : alt env 1900 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 468360
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+verbatimCollectors       : COLL F G OVERLAET
+collectedBy              : F G Overlaet
+secondaryCollectors      : N/A
+recordNumber             : 732
+verbatimEventDate        : 1923-4
+minimumEventDate         : 1923-04-00
+maximumEventDate         : N/A
+verbatimIdentification   : Habenaria
+latestScientificName     : N/A
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Democratic Republic of the Congo
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Bongo Petterson
+locality                 : [precise locality unknown]
+habitat                  : Plants of Belgian Congo
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 752356
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+verbatimCollectors       : RA Main Gosturemo
+collectedBy              : RA Main Gosturemo
+secondaryCollectors      : N/A
+recordNumber             : 4924
+verbatimEventDate        : 14-VI-1949
+minimumEventDate         : 1949-06-14
+maximumEventDate         : N/A
+verbatimIdentification   : Cynodon dactylon CRCC
+latestScientificName     : Cynodon dactylon
+identifiedBy             : Bogale Bognetteau
+verbatimDateIdentified   : 24-vi-11
+associatedTaxa           : N/A
+country                  : Kenya
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Londiani Distr
+verbatimLocality         : Nyanza Province Londiani Distr Tindiret Forest Reserve Camp I
+locality                 : Tindiret Forest Reserve Camp I [precise locality unknown]
+habitat                  : glade surrounded by rather open tall forest containing ax Dombeya masterotii and Olea hochstetteri 2250 ms
+verbatimElevation        : 2250 ms
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 117352
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+verbatimCollectors       : Centre National de la Recherche Scientifique et Technologique (CENAREST) Récoleurs: J M et R Reitsma
+collectedBy              : J M Reitsma
+secondaryCollectors      : R Reitsma
+recordNumber             : 2015
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Orchidaceae Bulbophyllum scaberulum (Rolfe) Bolus var scaberulum
+latestScientificName     : Bulbophyllum scaberulum (Rolfe) Bolus var scaberulum
+identifiedBy             : Olga Koevosky
+verbatimDateIdentified   : 2011
+associatedTaxa           : N/A
+country                  : Gabon
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : HERBIER NATIONAL DU GABON
+locality                 : [precise locality unknown]
+habitat                  : Primary rain forest ca 6 km N of 67 Oyang Chantier Rougier Gabon O 41 N x 11 07 E
+verbatimElevation        : N/A
+verbatimCoordinates      : Epiphytic orchid growing in high elewn forest Flower greenish yellow Leaves herbacen
+otherCatalogNumbers      : 2310219
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+verbatimCollectors       : J Romer
+collectedBy              : J Romer
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : 9 151893
+minimumEventDate         : 1893-05-09
+maximumEventDate         : N/A
+verbatimIdentification   : Crinum amoenum Bak.
+latestScientificName     : Crinum amoenum Bak.
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : India
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Dhoua a stream
+verbatimLocality         : Dhoua a stream Gokoo free state unsure and check
+locality                 : Dhoua a stream [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 468360
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+--------------------------------------------------
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Hebenaria
+latestScientificName     : Habenaria
+identifiedBy             : unsure and check
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Belgian Congo
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : PLANTS OF BELGIAN CONGO
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 752956
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+--------------------------------------------------
+verbatimCollectors       : Leg RA Maas-Geesterano nr 4924 dd 14-VI-1969
+collectedBy              : RA Maas-Geesterano
+secondaryCollectors      : N/A
+recordNumber             : 4924
+verbatimEventDate        : dd 14-VI-1969
+minimumEventDate         : 1969-06-14
+maximumEventDate         : N/A
+verbatimIdentification   : Cyperus segmentatus CRCL
+latestScientificName     : Pycreus segmentatus CRCl
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Kenya
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Nyanze Province, Londiani Distr, Tinderor Forest Reserve, Camp I, lat 0° 34' S, long 35° 27' E
+locality                 : Nyanze Province, Londiani District, Tinderor Forest Reserve, Camp I
+habitat                  : glade surrounded by rather open, tall forest, containing e.g. Dombeya matteraii and Olea hoohstetteri
+verbatimElevation        : 2260 m s.m.
+verbatimCoordinates      : lat 0° 34' S, long 35° 27' E
+otherCatalogNumbers      : 1117352
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+--------------------------------------------------
+verbatimCollectors       : Centre National de la Recherche Scientifique et Technologique (CENAREST) Recolte urs J M et B Reitsma
+collectedBy              : J M Reitsma
+secondaryCollectors      : B Reitsma
+recordNumber             : 2013
+verbatimEventDate        : 04 44 -4-82
+minimumEventDate         : 1982-04-04
+maximumEventDate         : N/A
+verbatimIdentification   : Bulbophyllum gabonense Summerh Orchidaceae
+latestScientificName     : Bulbophyllum gabonense
+identifiedBy             : Olga Mosyevsky
+verbatimDateIdentified   : 2011
+associatedTaxa           : N/A
+country                  : Gabon
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Formi Primary rain forest ca 6 km N of Oveng Chantier Rougier Gabon
+locality                 : [precise locality unknown]
+habitat                  : Primary rain forest
+verbatimElevation        : 65 meter, ca
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 2310219
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+verbatimCollectors       : J Kause
+collectedBy              : J Kause
+secondaryCollectors      : N/A
+recordNumber             : 8326
+verbatimEventDate        : 19/10/73
+minimumEventDate         : 1973-10-19
+maximumEventDate         : N/A
+verbatimIdentification   : Cyperus callettii Kükay
+latestScientificName     : Cyperus callettii Kükay
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Unsure and check
+firstPoliticalUnit       : Unsure and check
+secondPoliticalUnit      : Unsure and check
+municipality             : N/A
+verbatimLocality         : Ethiopia Keffa Jimma to Agaro Rd Kaffa State
+locality                 : [precise locality unknown]
+habitat                  : unsure and check
+verbatimElevation        : 5950 ft
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 468360
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+verbatimCollectors       : F G Overlaet
+collectedBy              : F G Overlaet
+secondaryCollectors      : N/A
+recordNumber             : 1923-4
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : N/A
+latestScientificName     : Habenaria
+identifiedBy             : unsure and check
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Democratic Republic of the Congo
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Plants of Belgian Congo
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 752356
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+verbatimCollectors       : RA Main Geerinema no 4924 det 14-VI-1900
+collectedBy              : R A Main
+secondaryCollectors      : N/A
+recordNumber             : 4924
+verbatimEventDate        : det 14-VI-1900
+minimumEventDate         : 1900-06-14
+maximumEventDate         : 1900-06-14
+verbatimIdentification   : Pycreus segmentatus C.B.Cl.
+latestScientificName     : Pycreus segmentatus C.B.Cl.
+identifiedBy             : unsure and check
+verbatimDateIdentified   : N/A
+associatedTaxa           : Cyperus sp. mentioned as being associated with this specimen
+country                  : Kenya
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Plants of Kenya Expedition; L Naivasha; Lake Region Prov
+locality                 : Plants of Kenya Expedition; near Lake Naivasha
+habitat                  : Nyanze Province, Londiani Distr., Tinderee Forest Reserve, Camp 1, lat. 0° 5' S., long, 35° 37' E., glade surrounded by rather open, tall forest, containing e.g. Dombeya masters ii and Olea hochstetterii 2260 m a.s.l.
+verbatimElevation        : 2260 m a.s.l.
+verbatimCoordinates      : lat. 0° 5' S., long, 35° 37' E.
+otherCatalogNumbers      : 717852
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+verbatimCollectors       : J M et B Reitsma
+collectedBy              : J M Reitsma
+secondaryCollectors      : B Reitsma
+recordNumber             : 2013
+verbatimEventDate        : 11 07 84
+minimumEventDate         : 1984-07-11
+maximumEventDate         : N/A
+verbatimIdentification   : Bulbophyllum scaberulum (Rolfe) Bolus var scaberulum
+latestScientificName     : Bulbophyllum scaberulum (Rolfe) Bolus var scaberulum
+identifiedBy             : Olga Koeyokay
+verbatimDateIdentified   : 2011
+associatedTaxa           : N/A
+country                  : Gabon
+firstPoliticalUnit       : Ogooue Maritime Province
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Centre National de la Recherche Scientifique et Technologie (CENAREST) Recolteurs
+locality                 : Centre National de la Recherche Scientifique et Technologie (CENAREST) [precise locality unknown]
+habitat                  : Primary rain forest Ca 6 km NE of Oveng Chartier Rougler Conon
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 2310219
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+verbatimCollectors       : J Rzedowski 18552
+collectedBy              : J Rzedowski
+secondaryCollectors      : N/A
+recordNumber             : 18552
+verbatimEventDate        : 18/22/12
+minimumEventDate         : 1922-12-18
+maximumEventDate         : 1922-12-22
+verbatimIdentification   : Cuscuta callicaule Rydb
+latestScientificName     : Cuscuta callicaule Rydb
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Mexico
+firstPoliticalUnit       : Distrito Federal
+secondPoliticalUnit      : N/A
+municipality             : Mixcoac
+verbatimLocality         : Mixcoac
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 468360
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+verbatimCollectors       : Leg EVRARD C
+collectedBy              : C Evrard
+secondaryCollectors      : N/A
+recordNumber             : 732
+verbatimEventDate        : 1953-4
+minimumEventDate         : 1953-04-00
+maximumEventDate         : N/A
+verbatimIdentification   : Habenaria
+latestScientificName     : Habenaria
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Democratic Republic of the Congo
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : PLANTS OF BELGIAN CONGO
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 752356
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+verbatimCollectors       : Leg RA Main-Geesteranus no 4924 dd 14-71 1919
+collectedBy              : R A Main-Geesteranus
+secondaryCollectors      : N/A
+recordNumber             : 4924
+verbatimEventDate        : dd 14-71 1919
+minimumEventDate         : 1919-07-14
+maximumEventDate         : N/A
+verbatimIdentification   : Cyperus segmentalus C G Cl
+latestScientificName     : Pycreus segmentalus C G Cl
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Kenya
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Nyanse Province Londiani Distr Tinderee Forest Reserve Camp I lat 0° 25' N long 35° 27' E
+locality                 : Tinderee Forest Reserve Camp I
+habitat                  : glade surrounded by rather open tall forest containing ex bombeya mastersii and Olea hochstetteri 2260 meters above sea level
+verbatimElevation        : 2260 m a s l
+verbatimCoordinates      : lat 0° 25' N long 35° 27' E
+otherCatalogNumbers      : 1117852
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+verbatimCollectors       : Centro National de la Recherche Scientifique et Technologique (CENAREST) Récolteurs: J. M. et B. Reitsma
+collectedBy              : J. M. Reitsma
+secondaryCollectors      : B. Reitsma
+recordNumber             : 2013
+verbatimEventDate        : 04. 07. 85
+minimumEventDate         : 1985-07-04
+maximumEventDate         : N/A
+verbatimIdentification   : Orchidaceae Bulbophyllum scaberulum (Rolfe) Bolus var. scaberulum
+latestScientificName     : Bulbophyllum scaberulum (Rolfe) Bolus var. scaberulum
+identifiedBy             : Olga Koswvskey
+verbatimDateIdentified   : 2011
+associatedTaxa           : N/A
+country                  : Gabon
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Primary rain forest, ca. 6 km NW of Oveng, Chantier Rougier Gabon
+locality                 : [precise locality unknown]
+habitat                  : Primary rain forest, growing in bloc clearer weather. Flower: greenish-yellow leaves hard leathery.
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 2310219
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+verbatimCollectors       : J Reverchon
+collectedBy              : J Reverchon
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Cyperus calletus Ridley
+latestScientificName     : Cyperus calletus Ridley
+identifiedBy             : J Reverchon
+verbatimDateIdentified   : unsure and check
+associatedTaxa           : N/A
+country                  : United States
+firstPoliticalUnit       : Texas
+secondPoliticalUnit      : Dallas
+municipality             : N/A
+verbatimLocality         : Prairies near Dallas Texas
+locality                 : prairies near Dallas
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 468360
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+verbatimCollectors       : BR Bequaert
+collectedBy              : BR Bequaert
+secondaryCollectors      : N/A
+recordNumber             : 64
+verbatimEventDate        : N/A
+minimumEventDate         : 1923-4
+maximumEventDate         : N/A
+verbatimIdentification   : Hebenaria
+latestScientificName     : N/A
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Belgian Congo
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : PLANTS OF BELGIAN CONGO
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 752356
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+verbatimCollectors       : Bip R A Maas Geesteranus no 4924 dd 14-VI-1949
+collectedBy              : R A Maas Geesteranus
+secondaryCollectors      : N/A
+recordNumber             : 4924
+verbatimEventDate        : dd 14-VI-1949
+minimumEventDate         : 1949-06-14
+maximumEventDate         : N/A
+verbatimIdentification   : Pennisetum segmentatus CAII
+latestScientificName     : Pennisetum segmentatus CAII
+identifiedBy             : unsure, check
+verbatimDateIdentified   : unsure, check
+associatedTaxa           : N/A
+country                  : Kenya
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Nyanza Province, loodiani Distr, Tinderel Forest Reserve, Camp I, lat 0° 5' s, long 25° 27' E
+locality                 : Nyanza Province, loodiani District, Tinderel Forest Reserve, Camp I [precise locality unknown]
+habitat                  : glade surrounded by rather open, tall forest, containing a.o. Dombeya goetzenni and Olea hochstetteri
+verbatimElevation        : 2260 m s m
+verbatimCoordinates      : lat 0° 5' s, long 25° 27' E
+otherCatalogNumbers      : T117352
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+verbatimCollectors       : Centre National de la Recherche Scientifique et Technologique (CENAREST) Récolteurs: J. M. et B. Reitsma
+collectedBy              : J. M. Reitsma
+secondaryCollectors      : B. Reitsma
+recordNumber             : 2013
+verbatimEventDate        : 04. 04. 12 r
+minimumEventDate         : 2012-04-04
+maximumEventDate         : N/A
+verbatimIdentification   : Orchidaceae Bulbophyllum scalerellum (Rolfe) Bolus var. scalerellum Primary rain forest, ca. 6 km NW of Oveng, Chantier Rougier Gabon. 0.0 41 N x 11.07 E
+latestScientificName     : Bulbophyllum scalerellum (Rolfe) Bolus var. scalerellum
+identifiedBy             : Olga Konosvsky, 2011
+verbatimDateIdentified   : 2011
+associatedTaxa           : N/A
+country                  : Gabon
+firstPoliticalUnit       : Chantier Rougier
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Primary rain forest, ca. 6 km NW of Oveng, Chantier Rougier Gabon. 0.0 41 N x 11.07 E
+locality                 : Primary rain forest, approximately 6 kilometers northwest of Oveng [precise locality unknown]
+habitat                  : Primary rain forest
+verbatimElevation        : N/A
+verbatimCoordinates      : 0.0 41 N x 11.07 E
+otherCatalogNumbers      : 2310219
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+verbatimCollectors       : J Bognar
+collectedBy              : J Bognar
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : 6/1/32
+minimumEventDate         : 1932-06-01
+maximumEventDate         : N/A
+verbatimIdentification   : Cyperus callistus Ridley
+latestScientificName     : Cyperus callistus Ridley
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Eritrea
+firstPoliticalUnit       : Asmara
+secondPoliticalUnit      : Dongollo near Ghinda
+municipality             : N/A
+verbatimLocality         : Dongollo near Ghinda
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : Lat 500 Ft ab s m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 468360
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+verbatimCollectors       : G. de Witte coll.
+collectedBy              : G. de Witte
+secondaryCollectors      : N/A
+recordNumber             : 7522
+verbatimEventDate        : 1932
+minimumEventDate         : 1932-00-00
+maximumEventDate         : N/A
+verbatimIdentification   : Habenaria
+latestScientificName     : Habenaria
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Democratic Republic of the Congo
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Parc Nat. Albert
+locality                 : Parc National Albert
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 752256
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+verbatimCollectors       : Leg RRA Main Geosterme no 4924
+collectedBy              : R A Main Geosterme
+secondaryCollectors      : N/A
+recordNumber             : 4924
+verbatimEventDate        : 14-VI-1909
+minimumEventDate         : 1909-06-14
+maximumEventDate         : N/A
+verbatimIdentification   : Cyperus segmentatus CRBR
+latestScientificName     : Pycreus segmentatus C B Cl
+identifiedBy             : unsure herb; scattered
+verbatimDateIdentified   : N/A
+associatedTaxa           : Olea hochstetteri
+country                  : Kenya
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Nyanza Province, Londiani distr, Tinderet Forest Reserve, Camp I, lat 0° 05' n, long 35° 23' E
+locality                 : Nyanza Province, Londiani District, Tinderet Forest Reserve, Camp I [precise locality unknown]
+habitat                  : glade surrounded by rather open, tall forest, containing e.g. Dombeya maternii and Olea hochstetteri; 2260 m a.s.l.
+verbatimElevation        : 2260 m a.s.l.
+verbatimCoordinates      : lat 0° 05' n, long 35° 23' E
+otherCatalogNumbers      : T447352 ex Herb Kew
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+verbatimCollectors       : Centre National de la Recherche Scientifique et Technologique (CENAREST) Récolteura: J M et B Reitsma
+collectedBy              : J M Reitsma
+secondaryCollectors      : B Reitsma
+recordNumber             : 2013
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Orchidaceae Bulbophyllum scaberulum (Rolfe) Bolus var. scaberulum
+latestScientificName     : Bulbophyllum scaberulum (Rolfe) Bolus var. scaberulum
+identifiedBy             : Olga Koevoetov
+verbatimDateIdentified   : 2011
+associatedTaxa           : N/A
+country                  : Gabon
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Primary rain forest, ca 6 km NW of Oveng, Chantier Rougier Gabon, 0°41'N x 11°07'E
+locality                 : [precise locality unknown]
+habitat                  : Primary rain forest, growing in big clump on tree, flowers: green/brownish
+verbatimElevation        : N/A
+verbatimCoordinates      : 0°41'N x 11°07'E
+otherCatalogNumbers      : 2310219
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0000_V0573776F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Lygeum spartum L Hoch
+latestScientificName     : Lygeum spartum L
+identifiedBy             : J Bogner
+verbatimDateIdentified   : 17.5.1983
+associatedTaxa           : N/A
+country                  : Algeria
+firstPoliticalUnit       : Tébessa Province
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : "Chott el Hodna" Gebiet South East, Sanddünen Station Ain Melila
+locality                 : "Chott el Hodna" Gebiet South East Sanddünen Station Ain Melila
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 468360
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0001_V0576008F.jpg
+
+verbatimCollectors       : Coll. F. G. Overlaet
+collectedBy              : F G Overlaet
+secondaryCollectors      : N/A
+recordNumber             : 1023a
+verbatimEventDate        : 1923-4
+minimumEventDate         : 1923-04-00
+maximumEventDate         : N/A
+verbatimIdentification   : Habenaria
+latestScientificName     : Habenaria
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Democratic Republic of the Congo
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : PLANTS OF BELGIAN CONGO
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 752356
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0002_V0576279F.jpg
+
+verbatimCollectors       : Collected by R Battiscombe no 4924 adt 14-71-040
+collectedBy              : R Battiscombe
+secondaryCollectors      : N/A
+recordNumber             : 4924
+verbatimEventDate        : 14-71-040
+minimumEventDate         : 1940-07-14
+maximumEventDate         : N/A
+verbatimIdentification   : Papyrus segmentatus CC Cl
+latestScientificName     : Pycreus segmentatus cc cl
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : Cyperus marginata and Cleo borbatteii
+country                  : Kenya
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Leg R A Moss Geogr Mus no 4924 adt 14-71-040 Nyanze Province Londiani Distr Tendera Forest Reserve Camp I lat 0° 51' s long 35° 41' E
+locality                 : Nyanze Province Londiani District Tendera Forest Reserve Camp I
+habitat                  : glade surrounded by rather open tall forest containing ex bombwe masrersil and Olea hochstetteri at 2260 meters above sea level
+verbatimElevation        : 2260 m as m
+verbatimCoordinates      : lat 0° 51' s long 35° 41' E
+otherCatalogNumbers      : 7117852
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0003_V0577013F.jpg
+
+verbatimCollectors       : Scientifique et Tecnologique (CENAREST) Récolterus J M et B Reitsma
+collectedBy              : J M Reitsma
+secondaryCollectors      : B Reitsma
+recordNumber             : 2013
+verbatimEventDate        : 04 janv 5
+minimumEventDate         : 2005-01-04
+maximumEventDate         : N/A
+verbatimIdentification   : Bulbophyllum scaberulum (Rolfe) Bolus var. scaberulum Primary rain forest, ca 6 km NE of Oveng, Chantier Rougier Gabon. 0°41'N x 11°07'E
+latestScientificName     : Bulbophyllum scaberulum (Rolfe) Bolus var. scaberulum
+identifiedBy             : Olga Konoveba
+verbatimDateIdentified   : 2011
+associatedTaxa           : N/A
+country                  : Gabon
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Primary rain forest, ca 6 km NE of Oveng, Chantier Rougier Gabon. 0°41'N x 11°07'E
+locality                 : [precise locality unknown]
+habitat                  : Primary rain forest
+verbatimElevation        : Epiphytic orchid, growing in the crown together. Flower: green/bordeaux. Leaves: dark green.
+verbatimCoordinates      : 0°41'N x 11°07'E
+otherCatalogNumbers      : 2310219
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------

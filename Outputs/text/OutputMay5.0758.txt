@@ -1,0 +1,115 @@
+Image: 0000_V0573776F.jpg
+
+verbatimCollectors       : JS Bogner
+collectedBy              : J S Bogner
+secondaryCollectors      : N/A
+recordNumber             : B 34
+verbatimEventDate        : 15 vi 1973
+minimumEventDate         : 1973-06-15
+maximumEventDate         : N/A
+verbatimIdentification   : Cyperus Galletti Ridley
+latestScientificName     : Cyperus Galletti Ridley
+identifiedBy             : J Raynal
+verbatimDateIdentified   : 11/2/1974
+associatedTaxa           : N/A
+country                  : [unsure and check]
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : "Chihsin County" Butler at Johol, Lado Enclosure, Ginger Free State
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : + 3152 to BEG in a stream cours
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 168360
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+==================================================
+Image: 0001_V0576008F.jpg
+
+verbatimCollectors       : Leg BR Deville
+collectedBy              : BR Deville
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : 1923-4
+minimumEventDate         : 1923-04-00
+maximumEventDate         : N/A
+verbatimIdentification   : ILEX BEQUAERTII DE WILD (AQUIFOLIACEAE)
+latestScientificName     : Ilex bequaertii
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Democratic Republic of the Congo
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Plants of Belgain Congo
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 752956
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+==================================================
+Image: 0002_V0576279F.jpg
+
+verbatimCollectors       : Leg R A Maas Geesteranus no 4924 dd 14-VI-1949
+collectedBy              : R A Maas Geesteranus
+secondaryCollectors      : N/A
+recordNumber             : 4924
+verbatimEventDate        : dd 14-VI-1949
+minimumEventDate         : 1949-06-14
+maximumEventDate         : N/A
+verbatimIdentification   : Pycreus segmentatus C E Cl
+latestScientificName     : Pycreus segmentatus C E Cl
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Kenya
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Nyambe Province Londiani Distr Tinderef Forest Reserve Camp I
+locality                 : Nyambe Province Londiani District Tinderef Forest Reserve Camp I
+habitat                  : glade surrounded by rather open tall forest containing a v Dombeya masteraii and Olea hochstetteri 2260 m a s
+verbatimElevation        : 2260 m a s
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1117352
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+==================================================
+Image: 0003_V0577013F.jpg
+
+verbatimCollectors       : Centre National de la Recherche Scientifique et Technologique (CENAREST) Récolterrs: J. M et B Reitsma
+collectedBy              : J M Reitsma
+secondaryCollectors      : B Reitsma
+recordNumber             : 2013
+verbatimEventDate        : 4.4.1985
+minimumEventDate         : 1985-04-04
+maximumEventDate         : N/A
+verbatimIdentification   : Orchidaceae Bulbophyllum scaberulum (Rolfe) Bolus var scaberulum
+latestScientificName     : Bulbophyllum scaberulum (Rolfe) Bolus var scaberulum
+identifiedBy             : Olga Koewsky
+verbatimDateIdentified   : 2011
+associatedTaxa           : N/A
+country                  : Gabon
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Herbier National du Gabon
+locality                 : [precise locality unknown]
+habitat                  : Primary rain forest ca 6 km No of Oveng Chantier Rougier Gabon
+verbatimElevation        : 0-100 m s n m
+verbatimCoordinates      : 0°41'N x 11°07'E
+otherCatalogNumbers      : 2310219
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+==================================================

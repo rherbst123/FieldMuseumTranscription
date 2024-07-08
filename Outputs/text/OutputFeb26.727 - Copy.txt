@@ -1,0 +1,150 @@
+Image: C2077558F.jpg
+
+title: Hedwigia ciliata (Hedw.) P. Beauv. Specimen at Field Museum of Natural History
+collectedBy: F. L. Herrera
+secondaryCollectors: N/A
+recordNumber: N/A
+verbatimEventDate: Jan. 1927
+eventDate: 01-1927
+acceptedScientificName: Hedwigia ciliata (Hedw.) P. Beauv.
+phylum: Bryophyta
+family: Hedwigiaceae
+genus: Hedwigia
+specificEpithet: ciliata
+infraspecificEpithet: N/A
+scientificNameAuthorship: (Hedw.) P. Beauv.
+identifiedBy: Efraín De Luna
+dateIdentified: 1992
+otherScientificName: Hedwigia albicans
+associatedTaxa: N/A
+country: Peru
+countryCode: PE
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+city: N/A
+verbatimLocality: Valle del Paucar Tembo Hacienda Churú
+locality: Valle del Paucar Tembo, Hacienda Churú
+habitat: N/A
+substrate: N/A
+verbatimElevation: 3500 meters
+maximumElevationInMeters: 3500
+minimumElevationInMeters: 3500
+verbatimCoordinates: N/A
+decimalLatitude: N/A
+decimalLongitude: N/A
+occurrenceRemarks: N/A
+collectionCode: Cryptogamic Herbarium Field Museum of Natural History
+catalogNumber: 1096103
+language: English
+languageRemarks: N/A
+originalMethod: Typed
+typeStatus: no type status
+sex: N/A
+reproductiveCondition: N/A
+generalNotes: N/A
+expeditionFundedBy: N/A
+generalInformationAboutThePlantSpecimenItself: The specimen appears to be a single moderate-sized moss specimen mounted on a sheet with no visible soil.
+rawFormat: HERBARIUM OF THE NEW YORK BOTANICAL GARDEN Elizabeth Gertrude Britton Moss Herbarium Hedwigia albicans Valle del Paucar Tembo Hacienda Churú, Peru, 3500 m F. L. Herrera, Jan. 1927 Distributed from the Cryptogamic Herbarium Field Museum of Natural History 1096103 Hedwigia ciliata (Hedw.) P. Beauv. Det. Efraín De Luna 1992 Duke University Herbarium
+URL: http://fm-digital-assets.fieldmuseum.org/2535/404/C2079909F.jpg
+
+==================================================
+Image: C2077559F.jpg
+
+title: Bryophyta of Ecuador
+collectedBy: Marko Lewis
+secondaryCollectors: N/A
+recordNumber: 78-3163
+verbatimEventDate: 8 December 1978
+eventDate: 1978-12-08
+acceptedScientificName: Hedwigia ciliata (Hedw.) P. Beauv.
+phylum: Bryophyta
+family: Hedwigiaceae
+genus: Hedwigia
+specificEpithet: ciliata
+infraspecificEpithet: N/A
+scientificNameAuthorship: (Hedw.) P. Beauv.
+identifiedBy: Efraín De Luna
+dateIdentified: 1992
+otherScientificName: N/A 
+associatedTaxa: N/A
+country: Ecuador
+countryCode: EC
+firstPoliticalUnit: Azuay
+secondPoliticalUnit: N/A 
+city: N/A
+verbatimLocality: Area Nacional de Recreación "Cajas", forested hills of "Surrocucho" ("Laguna Llaviuco"), south of Sayausí
+locality: Area Nacional de Recreación "Cajas"
+habitat: Stone wall
+substrate: N/A
+verbatimElevation: 3240 meters
+maximumElevationInMeters: 3240
+minimumElevationInMeters: 3240
+verbatimCoordinates: N/A
+decimalLatitude: N/A
+decimalLongitude: N/A
+occurrenceRemarks: N/A
+collectionCode: Cryptogamic Herbarium
+catalogNumber: 1065433
+language: English
+languageRemarks: N/A
+originalMethod: Typed
+typeStatus: no type status
+sex: N/A
+reproductiveCondition: N/A
+generalNotes: N/A
+expeditionFundedBy: N/A
+generalInformationAboutThePlantSpecimenItself: The herbarium sheet contains multiple plant specimens mounted, which appear to be moderate in size.
+rawFormat: Nº 1065433 FIELD MUSEUM OF NATURAL HISTORY CRYPTOGRAMIC HERBARIUM Hedwigia ciliata (Hedw.) P. Beauv. Det. Efraín De Luna, 1992 Duke University Herbarium BRYOPHYTHA OF ECUADOR Hedwigia ciliata (Hedw.) P. Beauv. Stone wall. 3240 m. PROV. AZUAY: Area Nacional de Recreación "Cajas", forested hills of "Surrocucho" ("Laguna Llaviuco"), S of Sayausí, 255°S. Marko Lewis, no. 78-3163 8 December 1978 Field Museum of Natural History
+URL: http://fm-digital-assets.fieldmuseum.org/2537/606/C2077558F.jpg
+
+==================================================
+Image: C2079909F.jpg
+
+title: Field Museum of Natural History Cryptogamic Herbarium
+collectedBy: E Asplund
+secondaryCollectors: N/A
+recordNumber: B11177
+verbatimEventDate: 1 July 1940
+eventDate: 1940-07-01
+acceptedScientificName: Lindsaea imponderosa (Rosenst.) Maxon
+phylum: (Division): Pteridophyta
+family: Lindsaeaceae
+genus: Lindsaea
+specificEpithet: imponderosa
+infraspecificEpithet: N/A
+scientificNameAuthorship: (Rosenst.) Maxon
+identifiedBy: W. R. Buck
+dateIdentified: N/A
+otherScientificName: Lindsaea imponderosa (Rosenst.) Maxon
+associatedTaxa: N/A
+country: Ecuador
+countryCode: EC
+firstPoliticalUnit: Pichincha
+secondPoliticalUnit: N/A
+city: Santo Domingo de los Colorados, Salvador
+verbatimLocality: Ecuador, Prov. Pichincha, betw. Quito-Santo Domingo de los Colorados, Salvador
+locality: Salvador, between Quito and Santo Domingo de los Colorados, Pichincha, Ecuador
+habitat: N/A
+substrate: N/A
+verbatimElevation: 2500 m a.s.l.
+maximumElevationInMeters: 2500
+minimumElevationInMeters: 2500
+verbatimCoordinates: N/A
+decimalLatitude: N/A
+decimalLongitude: N/A
+occurrenceRemarks: Dupl. ex Naturhistoriska Riksmuseet, Stockholm (S)
+collectionCode: N/A
+catalogNumber: 1136363
+language: English
+languageRemarks: N/A
+originalMethod: Typed
+typeStatus: no type status
+sex: N/A
+reproductiveCondition: N/A
+generalNotes: Det. W. R. Buck
+expeditionFundedBy: N/A
+generalInformationAboutThePlantSpecimenItself: The herbarium sheet displays a single, moderate-sized plant specimen mounted without visible soil.
+rawFormat: N⁰ 1136363 FIELD MUSEUM OF NATURAL HISTORY CRYPTOGRAMIC HERBARIUM Dupl. ex Naturhistoriska Riksmuseet, Stockholm (S) Lindsaea imponderosa (Rosenst.) Maxon Ecuador, Prov. Pichincha, betw. Quito-Santo Domingo de los Colorados, Salvador. 2500 m a.s.l. 1 July 1940 S reg nr B11177 E. Asplund Det. W. R. Buck
+URL: http://fm-digital-assets.fieldmuseum.org/2537/873/C2077559F.jpg
+
+==================================================

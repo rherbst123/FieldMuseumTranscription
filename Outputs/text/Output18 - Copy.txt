@@ -1,0 +1,443 @@
+Image: C2077558F.jpg
+
+Title: Cryptogamic Herbarium Field Museum of Natural History
+Collected by: F. L. Herrera
+Secondary Collectors: N/A
+Scientific name: Hedwigia ciliata (Hedw.) P. Beauv.
+Associated Taxon: N/A
+Date collected: Jan. 1927
+Formatted Date Collected: 01/1927 (Exact day is not provided)
+Country: Peru
+First Political Unit: N/A
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: Valle del Paucar Tenbo
+Habitat: N/A
+Elevation: 3500 meters
+Collection name: Herbarium of the New York Botanical Garden Elizabeth Gertrude Britton Moss Herbarium
+Collection Number: N/A
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2537/559/C2077574F.jpg
+
+==================================================
+Image: C2077559F.jpg
+
+Title: Bryophyta of Ecuador
+Collected by (The First Collector): Marko Lewis
+Secondary Collectors: N/A
+Scientific name: Hedwigia ciliata (Hedw.) P. Beauv.
+Associated Taxon: N/A
+Date collected Verbatum (As you see on label): 8 December 1978
+Formatted Date Collected [Day/Month/Year]: 08/12/1978
+Country: Ecuador
+First Political Unit [State/Province]: Azuay
+Second Political Unit [County]: N/A
+City: Sayausí
+Detailed Locality: Area Nacional de Recreación "Cajas", forested hills south of "Surrocucho" (Laguna Llaviucu), south of Sayausí
+Habitat: Stone wall
+Elevation: 2555 meters
+Collection name: Field Museum of Natural History Cryptogamic Herbarium
+Collection Number: 70-8163
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2537/560/C2077575F.jpg
+
+==================================================
+Image: C2077560F.jpg
+
+Title: Bryophyta of Ecuador
+
+Collected by: Marko Lewis
+
+Secondary Collectors: N/A
+
+Scientific name: Hedwigia ciliata (Hedw.) P. Beauv.
+
+Associated Taxon: N/A
+
+Date collected: 8 December 1978
+Formatted Date Collected: 08/12/1978
+
+Country: Ecuador
+
+First Political Unit: Azuay
+
+Second Political Unit: County N/A
+
+City: N/A
+
+Detailed Locality: Area Nacional de Recreacion "Las Cajas", forested hill south of "Surocucho" (Laguna Llaviuco), 5 kilometers south of Sayausi
+
+Habitat: Sunny rock in pasture
+
+Elevation: 3230 meters
+
+Collection Name: Field Museum of Natural History Cryptogamic Herbarium
+
+Collection Number: 78-3139
+
+Latitude: N/A
+
+Longitude: N/A
+
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2537/561/C2077576F.jpg
+
+==================================================
+Image: C2077561F.jpg
+
+Title: Bryophyta of Ecuador
+Collected by: Marko Lewis
+Secondary Collectors: N/A
+Scientific name: Hedwigia ciliata (Hedw.) P. Beauv.
+Associated Taxon: N/A
+Date collected Verbatum: 30 October 1978
+Formatted Date Collected: 30/10/1978
+Country: Ecuador
+First Political Unit: Azuay
+Second Political Unit: N/A
+City: Cuenca
+Detailed Locality: "Cerro Urcuca", ca. 2 kilometers south of Cumbe
+Habitat: Cliff in "chaparral"
+Elevation: 3000 meters
+Collection name: Field Museum of Natural History Cryptogamic Herbarium
+Collection Number: 78-2183
+Latitude: 03°07'S
+Longitude: N/A
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2537/562/C2077577F.jpg
+
+==================================================
+Image: C2077562F.jpg
+
+Title: Bryophyta of Ecuador
+Collected by: Marko Lewis
+Secondary Collectors: N/A
+Scientific name: Hedwigia ciliata (Hedwig) P. Beauv.
+Associated Taxon: N/A
+Date collected: 30 October 1978
+Formatted Date Collected: 30/10/1978
+Country: Ecuador
+First Political Unit: Azuay
+Second Political Unit: N/A
+City: Cuenca
+Detailed Locality: Cerro Uruccaca, approximately 2 kilometers south of Cumbre, south of Cuenca
+Habitat: Rock in pasture, primary "chaparral"
+Elevation: 3000 meters
+Collection Name: Field Museum of Natural History Cryptogamic Herbarium
+Collection Number: 78-2150
+Latitude: 03°07'S
+Longitude: 79°01'W
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2535/382/C2079898F.jpg
+
+==================================================
+Image: C2077574F.jpg
+
+Title: Flora Surinamensis
+Collected by (The First Collector): J. Fluorschütz-de Waard
+Secondary Collectors: R. Zieltjens
+Scientific name: Pilotrichum chlorophyllum (Swartz) C. Muller
+Associated Taxon: N/A
+Date collected Verbatim: 3-11-1981
+Formatted Date Collected: 03/11/1981
+Country: Suriname
+First Political Unit: N/A
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: Area of Kabalebo Dam project, along Mckenzie line 117 kilometers from road km 39.5, 5 kilometers 50 meters southeast
+Habitat: Savannah forest, on rotting logs
+Elevation: 0 - 50 meters
+Collection name: Field Museum of Natural History Cryptogamic Herbarium
+Collection Number: 5254
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2535/386/C2079899F.jpg
+
+==================================================
+Image: C2077575F.jpg
+
+Title: Flora Surinamensis
+
+Collected by: J. F. Morales
+
+Secondary Collectors: M. de Waard, R. Zielman
+
+Scientific name: Pilotrichum chlorophyllum (Montagne) Mitt.
+
+Associated Taxon: N/A
+
+Date collected Verbatum: 30-10-1981
+
+Formatted Date Collected: 30/October/1981
+
+Country: Suriname
+
+First Political Unit: Nickerie
+
+Second Political Unit: County N/A
+
+City: N/A
+
+Detailed Locality: Habitates of Kabalebo Dam Project, line W from road 34 km, point 5E/5W on map
+
+Habitat: Rainforest, on rotting logs
+
+Elevation: 0 - 50 meters
+
+Collection name: Herbarium of the Field Museum of Natural History Cryptogamic Herbarium
+
+Collection Number: 5098
+
+Latitude: N/A
+
+Longitude: N/A
+
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2535/388/C2079900F.jpg
+
+==================================================
+Image: C2077576F.jpg
+
+Title: Field Museum of Natural History Cryptogamic Herbarium
+Collected by: J. C. Lindeman
+Secondary Collectors: A. A. Gerold-Torvik, M. Jansen-Jacobs, A. L. T. Hetterscheid & Collantes
+Scientific name: Philonotis chlorophylla (Hornsch.) C. Müll.
+Associated Taxon: N/A
+Date collected: d.d. 3–7–IX–1980
+Formatted Date Collected: 3/9/1980 - 7/9/1980
+Country: Suriname
+First Political Unit: Nickerie
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: Area of Kabalebo Dam Project
+Habitat: N/A
+Elevation: 30 - 130 meters
+Collection name: Herbarium Academiae Rheno-Traiectinae
+Collection Number: 243 A
+Latitude: 4°50' North
+Longitude: 57°30' West
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2535/392/C2079905F.jpg
+
+==================================================
+Image: C2077577F.jpg
+
+Title: Field Museum of Natural History Cryptogamic Herbarium
+Collected by: J. Florschütz-de Waard
+Secondary Collectors: R. Zielman
+Scientific name: Pilotium chlorophyllum (Hornsch.) C. Müll.
+Associated Taxon: N/A
+Date collected Verbatim: 31 October 1981
+Formatted Date Collected: 31/10/1981
+Country: Suriname
+First Political Unit: District Nickerie
+Second Political Unit: County N/A
+City: N/A
+Detailed Locality: Kabalebo River area, 1 mile west from road km 34
+Habitat: Marsh forest with Astrocaryum
+Elevation: 0-50 meters
+Collection name: The Field Museum
+Collection Number: R. Zielman 5141
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2535/394/C2079906F.jpg
+
+==================================================
+Image: C2079898F.jpg
+
+Title: Bryophyta of Ecuador
+Collected by: Marko Lewis
+Secondary Collectors: N/A
+Scientific name: Kindbergia praelonga (Hedw.) Ochyra
+Associated Taxon: N/A
+Date collected: 21-22 November 1978
+Formatted Date Collected: 21-22/11/1978
+Country: Ecuador
+First Political Unit: Imbabura
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: East side of Cerro Cotacachi, 0.2 miles North of Otavalo
+Habitat: Wet bank of runoff ravine
+Elevation: 3750 meters
+Collection name: Field Museum of Natural History Cryptogamic Herbarium
+Collection Number: 78-6284
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2535/398/C2079907F.jpg
+
+==================================================
+Image: C2079899F.jpg
+
+Title: Bryophyta of Ecuador
+Collected by: Marko Lewis
+Secondary Collectors: N/A
+Scientific name: Kindbergia praelonga (Hedw.) Ochyra
+Associated Taxon: N/A
+Date collected: 25-26 November 1978
+Formatted Date Collected: 25/11/1978 - 26/11/1978
+Country: Ecuador
+First Political Unit: Imbabura
+Second Political Unit: N/A
+City: La Esperanza
+Detailed Locality: East side of Cerro Imbabura above La Esperanza, northeast of Otavalo
+Habitat: Quinous woods
+Elevation: 3860 meters
+Collection name: Field Museum of Natural History Cryptogamic Herbarium
+Collection Number: 78-2947
+Latitude: 0°17'N
+Longitude: 78°11'W
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2535/400/C2079908F.jpg
+
+==================================================
+Image: C2079900F.jpg
+
+Title: Bryophyta of Ecuador
+Collected by: Marko Lewis
+Secondary Collectors: N/A
+Scientific name: Kindbergia praelonga (Hedw.) Ochyra
+Associated Taxon: N/A
+Date collected: 25-26 November 1978 
+Formatted Date Collected: 25/11/1978 - 26/11/1978
+Country: Ecuador
+First Political Unit: Imbabura
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: East side of Cerro Imbabura above La Esperanza, northeast of Otavalo
+Habitat: Waterfall
+Elevation: 3530 meters
+Collection name: Field Museum of Natural History Cryptogamic Herbarium
+Collection Number: 78-2895
+Latitude: 0°17'N
+Longitude: 78°11'W
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2535/404/C2079909F.jpg
+
+==================================================
+Image: C2079905F.jpg
+
+Title: Plants of South America
+Collected by: C. B. Mcbride
+Secondary Collectors: J. F. Macbride, Featherstone
+Scientific name: Raddiella aciculata (Trin.) P.M. Peterson & Judz.
+Associated Taxon: N/A
+Date collected: July - X - 
+Formatted Date Collected: July/Unknown/Unknown
+Country: Peru
+First Political Unit: Mito
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: About 9 miles East truck in stream
+Habitat: N/A
+Elevation: About 9000 feet
+Collection name: The Field Museum
+Collection Number: 1651A
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2537/606/C2077558F.jpg
+
+==================================================
+Image: C2079906F.jpg
+
+Title: Plants of Bolivia
+Collected by: R. S. Williams
+Secondary Collectors: N/A
+Scientific name: Grimmia scabrata (Taylor) H.A. Crum & L.E. Anderson
+Associated Taxon: N/A
+Date collected Verbatum: June 6, 1902
+Formatted Date Collected: 6/June/1902
+Country: Bolivia
+First Political Unit: N/A
+Second Political Unit: N/A
+City: La Paz
+Detailed Locality: Near La Paz, Andes region, on rocks
+Habitat: On rocks
+Elevation: N/A
+Collection name: Distributed from the Herbarium of the New York Botanical Garden
+Collection Number: 2660
+Latitude: N/A
+Longitude: N/A
+Additional Notes: Also R.S.W. Bryologist 15: 91. 1912
+URL: http://fm-digital-assets.fieldmuseum.org/2537/873/C2077559F.jpg
+
+==================================================
+Image: C2079907F.jpg
+
+Title: Flora of Bolivia
+Collected by: W. M. A. Brooke
+Secondary Collectors: N/A
+Scientific name: Lindsaea debilis
+Associated Taxon: N/A
+Date collected: 13 Oct 1950
+Formatted Date Collected [Day/Month/Year]: 13/10/1950
+Country: Bolivia
+First Political Unit [State/Province]: N/A
+Second Political Unit [County]: N/A
+City: Unduavi
+Detailed Locality: On shady rocks beside the path to the station
+Habitat: Shady rocks
+Elevation: 3109 meters
+Collection name: Chicago Natural History Museum
+Collection Number: 6536
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2537/874/C2077560F.jpg
+
+==================================================
+Image: C2079908F.jpg
+
+Title: Cryptogamic Herbarium
+Collected by: Dana Griffin III
+Secondary Collectors: Manuel López F, Luis Ruiz-Terán
+Scientific name: Lindigia debilis (Wilson) Jaeger
+Associated Taxon: L. metzleri T.
+Date collected: Julio de 1972
+Formatted Date Collected: July/1972
+Country: Venezuela
+First Political Unit: Estado Mérida
+Second Political Unit: 
+City: 
+Detailed Locality: Distrito Libertador: La Mucuy, above the town of Tabay, Parque Nacional de La Sierra Nevada.
+Habitat: Cloud forest, plants on branches
+Elevation: 2,580 meters
+Collection name: The Field Museum of Natural History
+Collection Number: 1862
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2537/875/C2077561F.jpg
+
+==================================================
+Image: C2079909F.jpg
+
+Title: Field Museum of Natural History Cryptogamic Herbarium
+Collected by: E. Asplund
+Secondary Collectors: N/A
+Scientific name: Lindigia imponderosa
+Associated Taxon: N/A
+Date collected Verbatum: 1 July 1940
+Formatted Date Collected: 01/07/1940
+Country: Ecuador
+First Political Unit: Pichincha
+Second Political Unit: County not specified
+City: N/A
+Detailed Locality: Between Quito-Santo Domingo de los Colorados, Salvador
+Habitat: N/A
+Elevation: 2500 meters above sea level
+Collection name: Dupl. ex Naturhistoriska Riksmuseet, Stockholm (S)
+Collection Number: B11777
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2537/879/C2077562F.jpg
+
+==================================================

@@ -1,0 +1,28 @@
+Image: 0000_V0573776F.jpg
+
+verbatimCollectors: E.G. Baker & H.S. Macran
+collectedBy: E.g. baker
+secondaryCollectors: H.s. macran
+recordNumber: 8252
+verbatimEventDate: Collected Jan. 15 to Feb. 9, 1906
+minimumEventDate: 1906-01-15
+maximumEventDate: 1906-02-09
+verbatimIdentification: Cyperus maculatus Boeck.
+latestScientificName: Cyperus maculatus Boeck.
+identifiedBy: Lye, K.A.
+verbatimDateIdentified: 19.10.1977
+associatedTaxa: N/A
+country: Congo Free State
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: "Rhino Camp," Eala or Lelele, Lake Eala, Congo Free State
+locality: Rhino Camp, Eala or Lelele, Lake Eala
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 463860
+originalMethod: Typed
+typeStatus: no type status
+==================================================

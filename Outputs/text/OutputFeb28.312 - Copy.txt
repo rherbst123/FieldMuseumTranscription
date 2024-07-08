@@ -1,0 +1,48 @@
+Image: C2077558F.jpg
+
+Collected by: F. L. Herrera
+Secondary Collectors: N/A
+recordNumber: N/A
+verbatimEventDate: Jan. 1927
+eventDate: 1927-01
+acceptedScientificName: Hedwigia ciliata (Hedw.) P. Beauv.
+country: Peru
+countryCode: PE
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+catalogNumber: 1096103
+URL: http://fm-digital-assets.fieldmuseum.org/2535/404/C2079909F.jpg
+
+==================================================
+Image: C2077559F.jpg
+
+Collected by: Marko Lewis
+Secondary Collectors: N/A
+recordNumber: 70-3163
+verbatimEventDate: 8 December 1978
+eventDate: 1978-12-08
+acceptedScientificName: Hedwigia ciliata (Hedw.) P. Beauv.
+country: Ecuador
+countryCode: EC
+firstPoliticalUnit: Azuay
+secondPoliticalUnit: N/A
+catalogNumber: 1065433
+URL: http://fm-digital-assets.fieldmuseum.org/2537/606/C2077558F.jpg
+
+==================================================
+Image: C2079909F.jpg
+
+Collected by: E. Asplund
+Secondary Collectors: N/A
+recordNumber: B11177
+verbatimEventDate: 1 July 1940
+eventDate: 1940-07-01
+acceptedScientificName: Lindigia imponderosa (Rosa) H. Rob.
+country: Ecuador
+countryCode: EC
+firstPoliticalUnit: Pichincha
+secondPoliticalUnit: Santo Domingo de los Colorados
+catalogNumber: 1136363
+URL: http://fm-digital-assets.fieldmuseum.org/2537/873/C2077559F.jpg
+
+==================================================

@@ -1,0 +1,24 @@
+Image: 0000_V0573776F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2433/459/V0573776F.jpg
+
+==================================================
+Image: 0001_V0576008F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2437/184/V0576008F.jpg
+
+==================================================
+Image: 0002_V0576279F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2433/678/V0576279F.jpg
+
+==================================================
+Image: 0003_V0577013F.jpg
+
+No data returned from API.
+URL: https://fm-digital-assets.fieldmuseum.org/2437/413/V0577013F.jpg
+
+==================================================

@@ -1,0 +1,40 @@
+**Image: https://fm-digital-assets.fieldmuseum.org/445/656/C0025138F.jpg**
+
+**Response Summary:**
+
+The image you've shared appears to be a label or an excerpt from a scientific collection documenting certain species of Hepaticae (a group of liverworts) from the Nearctic region. It includes the following information:
+
+- The title "HEPATICAE OF THE NEARCTIC" which indicates the geographical focus of the collection.
+- The collection was made by R. M. Schuster.
+- Specimen number 9067, collected on June 30, 1951.
+- The species collected were: 
+  - Frullania asagrayana Mont., with the note "male, can per."
+  - Plagiochila tridenticulata Dum. (traces).
+- The location of the collection was Balsam Gap, North Carolina, approximately 25 miles north of Asheville, along the Blue Ridge Parkway, at an elevation between 5220 and 5260 feet; on Abies fraseri (Fraser Fir).
+- It also mentions "Occurring with:", but the associated species or information is not provided in the visible text.
+
+This label gives important details for anyone researching the distribution and ecology of these liverwort species or studying the history of botanical collections in the area.
+
+==================================================
+**Image: https://fm-digital-assets.fieldmuseum.org/444/530/C0020028F.jpg**
+
+**Response Summary:**
+
+The image shows a typed specimen label with the following text:
+
+```
+HEPATICE OF EASTERN NORTH AMERICA
+Collected and Determined by R. M. Schuster
+No. 68-1666                                  Aug. 17 1968
+
+Anastrophyllum minutum (Cr.) Schust.
+
+NEWFOUNDLAND: Along Humber R., in Squires
+Memorial Park, near Rte 1A.
+
+With:
+```
+
+This label appears to document a sample of liverwort (a type of non-vascular plant referred to as Hepaticae) from Eastern North America. The particular species noted is Anastrophyllum minutum, collected by R. M. Schuster on August 17, 1968, with a specific collection number (68-1666). It was found along the Humber River in Squires Memorial Park near Route 1A in Newfoundland. There is no additional information provided under the "With:" section of the label.
+
+==================================================

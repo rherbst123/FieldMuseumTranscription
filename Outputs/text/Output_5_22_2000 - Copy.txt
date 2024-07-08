@@ -1,0 +1,4908 @@
+Image: 0035_C2079355F.jpg
+
+verbatimCollectors       : Alejo Ponce de Mansanet Greek Inctte
+collectedBy              : A. Ponce de Mansanet
+secondaryCollectors      : N/A
+recordNumber             : 52756
+verbatimEventDate        : Jan 3 1932
+minimumEventDate         : 1932-01-03
+maximumEventDate         : N/A
+verbatimIdentification   : Vesicularia vesicularis (Schp) Broth var Bartram det Bartram
+latestScientificName     : Vesicularia vesicularis
+identifiedBy             : E. B. Bartram
+verbatimDateIdentified   : Oct 1932
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : Loreto
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : On rotten log sterile Mishuyacu near Iquitos
+locality                 : On rotten log, Mishuyacu near Iquitos [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : Alt 100 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1039421
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0016_C2077584F.jpg
+
+verbatimCollectors       : Richard Evans Schultes (Dec, 1950)
+collectedBy              : R. E. Schultes
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : Dec, 1950
+minimumEventDate         : 1950-12-00
+maximumEventDate         : N/A
+verbatimIdentification   : Pilocereus chichonpalina (Jacq, P C)
+latestScientificName     : Pilocereus chichonpalina
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Colombia
+firstPoliticalUnit       : Guaviare
+secondPoliticalUnit      : San Jose del Guaviare
+municipality             : Unsure and check
+verbatimLocality         : Level Richard evans schultes Dec, 1950
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1055486
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0023_C2078926F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 1049406
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium californicumbottx Bryophyta of Bolivia
+latestScientificName     : Brachythecium californienseBottx
+identifiedBy             : E. B. Bartram
+verbatimDateIdentified   : 25 May 1979
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Oruro
+secondPoliticalUnit      : Prov. Sajama
+municipality             : Rio Junthuma
+verbatimLocality         : Khachu, 2 mi down river from Aguas termales de Rio Junthuma Khuchu, 4350 m, 18º 0' S, 69º 00' W In warmish creek
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : 18º 0' S, 69º 00' W
+otherCatalogNumbers      : 1049406
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0042_C2079358F.jpg
+
+verbatimCollectors       : Coll BY Ynés Mexia
+collectedBy              : Y. Mexia
+secondaryCollectors      : N/A
+recordNumber             : 8070
+verbatimEventDate        : May 14,1936
+minimumEventDate         : 1936-05-14
+maximumEventDate         : N/A
+verbatimIdentification   : Verbenaria amphibola (Spr.) Enoth.
+latestScientificName     : Verbenaria amphibola
+identifiedBy             : unsure and check
+verbatimDateIdentified   : unsure and check
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : La Convencion
+secondPoliticalUnit      : unsure and check
+municipality             : unsure and check
+verbatimLocality         : upper valley of the Sambray affluent of the Vilcanota; on rotten logs in virgin forest. Alt 1800 m.
+locality                 : upper valley of the Sambray affluent of the Vilcanota; on rotten logs in virgin forest.
+habitat                  : in virgin forest
+verbatimElevation        : Alt 1800 m.
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1093814
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0024_C2078927F.jpg
+
+verbatimCollectors       : Marko Lewis 6972-2112
+collectedBy              : M. Lewis
+secondaryCollectors      : N/A
+recordNumber             : 6972-2112
+verbatimEventDate        : 25 May 1979
+minimumEventDate         : 1979-05-25
+maximumEventDate         : N/A
+verbatimIdentification   : Brachytheclum callieroonides synth in Bark
+latestScientificName     : Bryophyta of Bolivia
+identifiedBy             : D. R. Ochyra
+verbatimDateIdentified   : Det. D. R. Ochyra 1982
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : La Paz
+secondPoliticalUnit      : N/A
+municipality             : Rio Junthuma
+verbatimLocality         : Khuchu 2 mi down river from Aguas termales de Rio Junthuma Khuchu 4350 m 13° 07' S 69° 00' W in warmish creek
+locality                 : 2 miles down river from Aguas termales de Rio Junthuma Khuchu 4350 meters in warmish creek
+habitat                  : N/A
+verbatimElevation        : 4350 m
+verbatimCoordinates      : 13° 07' S 69° 00' W
+otherCatalogNumbers      : 1049407
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0040_C2079356F.jpg
+
+verbatimCollectors       : YDO Mesia No. 3772wet
+collectedBy              : Y. D. O. Mesia
+secondaryCollectors      : N/A
+recordNumber             : 3772wet
+verbatimEventDate        : Jan. 4, 1958.
+minimumEventDate         : 1958-01-04
+maximumEventDate         : N/A
+verbatimIdentification   : Fontinalis antipyretica (det.) Mitt.
+latestScientificName     : Fontinalis antipyretica
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Maransohe
+verbatimLocality         : Dr reitas small stream, Quelle, Pindar olivs planzs (usdl.) Mitt.
+locality                 : [precise locality unknown]
+habitat                  : near small stream
+verbatimElevation        : alt. 210 m.
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 870880
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0026_C2078929F.jpg
+
+verbatimCollectors       : Det R Ochyra 1982
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium calliergonoides Broth in Höhm
+latestScientificName     : Brachythecium calliergonoides
+identifiedBy             : R. Ochyra
+verbatimDateIdentified   : 1982
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Rio Junthuma
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : 2 mi down river from Aguas termales de Rio Junthuma Khuchu 4350 m 18° 07' S 69° 00' W In warmish creek
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : 4350 m
+verbatimCoordinates      : 18° 07' S 69° 00' W
+otherCatalogNumbers      : 1049410
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0065_C2000932F.jpg
+
+verbatimCollectors       : Gift of Elmer J Richards
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : AUG 1946
+minimumEventDate         : 1946-08-00
+maximumEventDate         : N/A
+verbatimIdentification   : Pogonatum urnigerum (L) Pal Beauv C fr
+latestScientificName     : Pogonatum urnigerum
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : N/A
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : N/A
+locality                 : [precise locality unknown]
+habitat                  : Sedalia an Erle in Colortree western flicker and Schl from some
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1194591
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0096_C2032321F.jpg
+
+verbatimCollectors       : John Child M 4147
+collectedBy              : J. Child
+secondaryCollectors      : N/A
+recordNumber             : 4147
+verbatimEventDate        : 11 Jul 1973
+minimumEventDate         : 1973-07-11
+maximumEventDate         : N/A
+verbatimIdentification   : Rhacoplilus
+latestScientificName     : Rhacoplilus
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : New Zealand
+firstPoliticalUnit       : North Island
+secondPoliticalUnit      : North Auckland Prov
+municipality             : Kaipara
+verbatimLocality         : Track to Mahuta, Waipaua ca 1000 ft
+locality                 : Track to Mahuta, Waipaua
+habitat                  : Epiphyte on tree in Kauri forest
+verbatimElevation        : 35°40'S,173°30'E
+verbatimCoordinates      : ca. 1000 ft.
+otherCatalogNumbers      : 1056055
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0027_C2078926F.jpg
+
+verbatimCollectors       : leg E Asplund
+collectedBy              : E. Asplund
+secondaryCollectors      : N/A
+recordNumber             : 1982
+verbatimEventDate        : det 25 V 1979
+minimumEventDate         : 1979-05-25
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium calliergonoides Broth
+latestScientificName     : Brachythecium calliergonoides
+identifiedBy             : Mårten Sonesson
+verbatimDateIdentified   : det 25 V 1979
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Oruro
+secondPoliticalUnit      : Prov Sajama
+municipality             : Rio Junthuma
+verbatimLocality         : Khuchu 2 mi down river from Aguas termales de Rio Junthuma Khuchu 4350 m 18° 0' S 69° 00' W in warmish creek
+locality                 : 2 miles down river from Aguas termales de Rio Junthuma Khuchu in warmish creek [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : 4350 m
+verbatimCoordinates      : 18° 0' S 69° 00' W
+otherCatalogNumbers      : 1049406
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0001_C0020052F.jpg
+
+verbatimCollectors       : Collected and Determined by R M Schuster & K Damsholt
+collectedBy              : R. M. Schuster
+secondaryCollectors      : K. Damsholt
+recordNumber             : 82-1049
+verbatimEventDate        : July 3
+minimumEventDate         : 1982-07-03
+maximumEventDate         : N/A
+verbatimIdentification   : Anastrophyllum minutum (SCHREB) SCHUST v grandis (GOTT) SCHUST
+latestScientificName     : Anastrophyllum minutum
+identifiedBy             : R. M. Schuster
+verbatimDateIdentified   : 1982
+associatedTaxa           : Cephalozia bicuspidata (L) DUM
+country                  : Greenland
+firstPoliticalUnit       : Frederiksdal
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : 60°00'N lat, 44°40'W long
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : 60°00'N lat, 44°40'W long
+otherCatalogNumbers      : No 82-1049
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0019_C2078862F.jpg
+
+verbatimCollectors       : J BSG (Determined by Dom Cirilo Hl)
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium plumosum (Hedw.) BSG
+latestScientificName     : Brachythecium plumosum
+identifiedBy             : Sobre roca húmeda, lecho de riachuelo, a sol.
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Venezuela
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : ESTADO TRUJILLO: Between the towns of Carache and Boconó Along the border between the two towns Elevation from 1,300 m to approximately 3,800 m
+locality                 : Between the towns of Carache and Boconó Along the border between the two towns
+habitat                  : Sobre roca húmeda, lecho de riachuelo, a sol.
+verbatimElevation        : Elevation from 1,300 m to approximately 3,800 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1064449
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0025_C2078928F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 1019109
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium calliergonoides Broth s str
+latestScientificName     : Brachythecium calliergonoides
+identifiedBy             : H Ochi
+verbatimDateIdentified   : det H Ochi 1982
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Oruro
+secondPoliticalUnit      : Sajama
+municipality             : Khuchi
+verbatimLocality         : Bio Junthuma Khucha 4350 m 18° 07' S 68° 00' W in warmish creek
+locality                 : Bio Junthuma Khucha in warmish creek
+habitat                  : N/A
+verbatimElevation        : 4350 m
+verbatimCoordinates      : 18° 07' S 68° 00' W
+otherCatalogNumbers      : 79-2115
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0027_C2078930F.jpg
+
+verbatimCollectors       : According to label information No 1 den
+collectedBy              : R. Ehezner
+secondaryCollectors      : N/A
+recordNumber             : 402
+verbatimEventDate        : February 1982
+minimumEventDate         : 1982-02-00
+maximumEventDate         : N/A
+verbatimIdentification   : Bryophyta of Bolivia N° 73-2118 According to label information No 40 Bryothecium calliergonioides Broth in Herz det G (Unsure and check) Onoyra 1982
+latestScientificName     : Bryothecium calliergonioides
+identifiedBy             : G. Onoyra
+verbatimDateIdentified   : 1982
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Rio Junthuma
+secondPoliticalUnit      : Khuchi
+municipality             : N/A
+verbatimLocality         : Depto Oruro Prov Sajama 2 mi down river from Aguas termales de Rio Junthuma Khuchi 4350 m 18°07′ S 69°00′ W In warm creek
+locality                 : 2 miles down river from Aguas termales de Rio Junthuma
+habitat                  : In warm creek
+verbatimElevation        : 4350 m
+verbatimCoordinates      : 18°07′ S 69°00′ W
+otherCatalogNumbers      : 1049411
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0021_C2078924F.jpg
+
+verbatimCollectors       : KENNETH D MCFARLAND
+collectedBy              : K. D. McFarland
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : Sept 1989
+minimumEventDate         : 1989-09-00
+maximumEventDate         : N/A
+verbatimIdentification   : Frullanoides augustifolia (H F W Lindbg) B Barthol | Tejar leg Barthol | Last Hope Inlet; Peninsula Antonio Varas; Open from Molat in Bathythecum good | moist earth | Alt 65 m
+latestScientificName     : Frullanioides augustifolia
+identifiedBy             : W. Linzey | det Barthol
+verbatimDateIdentified   : April 10 1936 | Tejar Bartholom
+associatedTaxa           : N/A
+country                  : Chile
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Last Hope Inlet; Peninsula Antonio Varas; Open from Molat in Bathythecum good moist earth
+locality                 : Last Hope Inlet; Peninsula Antonio Varas; Open from Molat in Bathythecum good moist earth
+habitat                  : N/A
+verbatimElevation        : Alt 65 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 5001 | 1100738
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0009_C2077574F.jpg
+
+verbatimCollectors       : G Lörincz
+collectedBy              : G. Lörincz
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : FLORA SURINAMENSIS Herb Acad Rheno - Traj
+latestScientificName     : unsure and check
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Suriname
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Savanna forest, on rotting log
+locality                 : [precise locality unknown]
+habitat                  : Savanna forest, on rotting log
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1073529 R 143017
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0006_C2077570F.jpg
+
+verbatimCollectors       : Above Pongo de Manseriche
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : Aug 2 1961
+minimumEventDate         : 1961-08-02
+maximumEventDate         : N/A
+verbatimIdentification   : ulreocolax sp.n. south of Ric Santiago On fallen log
+latestScientificName     : Aureocolax
+identifiedBy             : det Bartram
+verbatimDateIdentified   : Aug 2 1961
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : Loreto
+municipality             : N/A
+verbatimLocality         : Above Pongo de Manseriche Dept Loreto alt 450 m stromata poor south of Rio Santiago on fallen log
+locality                 : [precise locality unknown]
+habitat                  : on fallen log
+verbatimElevation        : alt 450 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1057692
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0068_C2079856F.jpg
+
+verbatimCollectors       : Leg CyPtoR amrc herbarium
+collectedBy              : C. Aric
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : July 6, 1936
+minimumEventDate         : 1936-07-06
+maximumEventDate         : N/A
+verbatimIdentification   : Plants of Brazil State of Minas Gerais Viçosa Minas No 4541 Isopterygium brachyneuron (CMull) Mitt ex p Vicosa Agricultural College lands Alt 670 m Epiphytic in trees Out over woods near base On rotting log Abundant
+latestScientificName     : Isopterygium tenerifolium
+identifiedBy             : R. R. Ireland
+verbatimDateIdentified   : 1988
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Minas Gerais
+secondPoliticalUnit      : N/A
+municipality             : Viçosa
+verbatimLocality         : Vicosa Agricultural College lands
+locality                 : Vicosa Agricultural College lands
+habitat                  : Epiphytic in trees Out over woods near base On rotting log Abundant
+verbatimElevation        : Alt 670 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 870537
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0037_C2079357F.jpg
+
+verbatimCollectors       : J Vasicularis mephitola (Spr) Endrh
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 8377
+verbatimEventDate        : Jan 5 1935
+minimumEventDate         : 1935-01-05
+maximumEventDate         : N/A
+verbatimIdentification   : Herbarium FIELD MUSEUM
+latestScientificName     : N/A
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : Huanuco
+secondPoliticalUnit      : Unsure and check
+municipality             : Alt 8250 m
+verbatimLocality         : Above Tonahe Monzon
+locality                 : Above Tonahe Monzon
+habitat                  : N/A
+verbatimElevation        : Alt 8250 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 870873
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0004_C2077568F.jpg
+
+verbatimCollectors       : Det Hasan De Luna 1992
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Hedwigia ciliata (Hedw.) P. Beauv.
+latestScientificName     : Hedwigia ciliata
+identifiedBy             : Hasan De Luna
+verbatimDateIdentified   : 1992
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : N/A
+locality                 : [precise locality unknown]
+habitat                  : humid cliffs and steep stones 3320 m DEPTO LA PAZ PROV SAAVEDRA: On mountain side directly N. of river beneath Nido Karina NNW of Chuma 15°08'S 69°01'W.
+verbatimElevation        : 3320 m.
+verbatimCoordinates      : 15°08'S 69°01'W
+otherCatalogNumbers      : 1032220
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0073_C2010622F.jpg
+
+verbatimCollectors       : J Pal Braun
+collectedBy              : J. P. Braun
+secondaryCollectors      : N/A
+recordNumber             : 881
+verbatimEventDate        : 17 October 1935
+minimumEventDate         : 1935-10-17
+maximumEventDate         : N/A
+verbatimIdentification   : Pogonatum urnigerum XXL
+latestScientificName     : Pogonatum urnigerum
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : unsure and check
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Pol Braun
+locality                 : [precise locality unknown]
+habitat                  : An einem Waldwege auf dem rothen Sandsteinboden nordlich Wasserjotsh 17 Oktober 1935 m Hopp
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1054981
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0044_C2079360F.jpg
+
+verbatimCollectors       : R O Berteau
+collectedBy              : R. O. Berteau
+secondaryCollectors      : N/A
+recordNumber             : 2465
+verbatimEventDate        : APR 1956
+minimumEventDate         : 1956-04-00
+maximumEventDate         : N/A
+verbatimIdentification   : Hesionodendron westoniensis (Bonham) A Smith
+latestScientificName     : Hesionodendron westoniensis
+identifiedBy             : A. Smith
+verbatimDateIdentified   : 5-jun-1956
+associatedTaxa           : Macrochloris vesicularia
+country                  : Brazil
+firstPoliticalUnit       : Santa Catarina
+secondPoliticalUnit      : N/A
+municipality             : unsure and check
+verbatimLocality         : Ascobaja, Brusque
+locality                 : Ascobaja, Brusque
+habitat                  : epiphyta, da casa virgem
+verbatimElevation        : Altit, cr. msm
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 5.469
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0026_C2078925F.jpg
+
+verbatimCollectors       : Riihijarvi Finland 1932
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : 1932-00-00
+maximumEventDate         : N/A
+verbatimIdentification   : Brachytherium cf calliergenicus brol N.D.
+latestScientificName     : Brachytherium calliergonoidos
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Finland
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Riihijarvi
+verbatimLocality         : Riihijarvi Finland
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1019405
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0006_C2077566F.jpg
+
+verbatimCollectors       : Du Rietz Et Lüna, 1952
+collectedBy              : D. E. Lüna
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : 22 March 1979
+minimumEventDate         : 1979-03-22
+maximumEventDate         : N/A
+verbatimIdentification   : Bryophyta of Bolivia
+latestScientificName     : Hedwigia ciliata
+identifiedBy             : P. Beauv
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : La Paz
+secondPoliticalUnit      : Prov Larecaja
+municipality             : Near large red outcrop 2 mi from Sorata down Río Consata, 15° 41' S, 68° 43' W
+verbatimLocality         : Bromeliad habitat. Abundant on rock faces of exposed cliffs, 2520 m
+locality                 : [precise locality unknown]
+habitat                  : Bromeliad habitat. Abundant on rock faces of exposed cliffs
+verbatimElevation        : 2520 m
+verbatimCoordinates      : 15° 41' S, 68° 43' W
+otherCatalogNumbers      : 1032221
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0049_C2079595F.jpg
+
+verbatimCollectors       : H Novarro
+collectedBy              : H. Novarro
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : 25.1.1970
+minimumEventDate         : 1970-01-25
+maximumEventDate         : N/A
+verbatimIdentification   : Tierra del Fego,australes, Ushuaia,arroyo grande (74°47'8.68"W), en fisuras de roca y en raices humoso-arcillosos de arbustos pusillos, en orilla de la cascada,190 m sm, bastante copiosamen-te
+latestScientificName     : Plantae argentinae
+identifiedBy             : E. Ochyra
+verbatimDateIdentified   : det. E. Ochyra 1996
+associatedTaxa           : N/A
+country                  : Argentina
+firstPoliticalUnit       : Ushuaia
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Tierra del Fego,australes
+locality                 : [precise locality unknown]
+habitat                  : en fisuras de roca y en raices humoso-arcillosos de arbustos pusillos, en orilla de la cascada
+verbatimElevation        : 190 m s.m.
+verbatimCoordinates      : 74°47'8.68"W
+otherCatalogNumbers      : 1182417
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0025_C2078924F.jpg
+
+verbatimCollectors       : Leg Mary Klinck
+collectedBy              : M. Klinck
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : April 10,1936
+minimumEventDate         : 1936-04-10
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium salebrosum (Hoffm)
+latestScientificName     : Brachythecium salebrosum
+identifiedBy             : W. Welch Det
+verbatimDateIdentified   : Sept 1947
+associatedTaxa           : N/A
+country                  : Chile
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Punta Arenas
+verbatimLocality         : Last Hope Inlet; Peninsula Antonio Varas; openings in Nothofagus wood in moist earth
+locality                 : Last Hope Inlet; Peninsula Antonio Varas; openings in Nothofagus wood in moist earth
+habitat                  : Alt. 65 m Common scattered in small turfs
+verbatimElevation        : Alt. 65 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 8001
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0022_C2078925F.jpg
+
+verbatimCollectors       : Breitschmid et callegionides
+collectedBy              : Breitschmid
+secondaryCollectors      : callegionides
+recordNumber             : N/A
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Bryophyta of Bolivia
+latestScientificName     : unsure and check
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : N/A
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1019405
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0002_C2077566F.jpg
+
+verbatimCollectors       : Hedwigia ciliata (Hedw.) P. Beauv
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Hedwigia ciliata (Hedw.) P. Beauv
+latestScientificName     : Hedwigia ciliata
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : N/A
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Bromeliad habitat. Abundant on rock faces of exposed cliffs, 2630 m
+locality                 : [precise locality unknown]
+habitat                  : Near large red outcrop 2 mi. from Sorata down Río Consata, 15° 41' S, 68° 43' W
+verbatimElevation        : 2630 m
+verbatimCoordinates      : 15° 41' S, 68° 43' W
+otherCatalogNumbers      : 1032221
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0048_C2079723F.jpg
+
+verbatimCollectors       : cf Eptodon polycarpus Det W Buck 1980
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : BRYOPHYTA OF BOLIVIA Materfall ravine highest extension of shrubs 3750 m
+latestScientificName     : Eptodon polycarpus
+identifiedBy             : W. Buck
+verbatimDateIdentified   : 1980
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : La Paz
+secondPoliticalUnit      : N/A
+municipality             : Between Abra Huallatá and waterfall at Millipaya
+verbatimLocality         : Materfall ravine highest extension of shrubs
+locality                 : [precise locality unknown]
+habitat                  : highest extension of shrubs
+verbatimElevation        : 3750 m.
+verbatimCoordinates      : 16° 37' S 68° 09' W
+otherCatalogNumbers      : 1098-80
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0040_C2079360F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : APR 1956
+minimumEventDate         : 1956-04-00
+maximumEventDate         : N/A
+verbatimIdentification   : Axonopus compressus (Swartz) Beauv
+latestScientificName     : Axonopus compressus
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Santa Catarina
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Asseburg, Brusque
+locality                 : Asseburg, Brusque
+habitat                  : capoeira, em mata virgem
+verbatimElevation        : Alt 50 msm
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : N 2.322Date C.N.P.F. 3.947
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0084_C0341828F.jpg
+
+verbatimCollectors       : On wet, fallen log
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 16563
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Lepuropetalum trichocladum SW Arnott (det.) Moss
+latestScientificName     : Lepuropetalum trichocladum
+identifiedBy             : W. D. Reese
+verbatimDateIdentified   : May 19, 1982
+associatedTaxa           : N/A
+country                  : Colombia
+firstPoliticalUnit       : Amazonas
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : On wet, fallen log
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : Altitude about 700 feet
+verbatimCoordinates      : Lat 0° 50' S, Long 70° 40' W
+otherCatalogNumbers      : 1055465
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0055_C2079601F.jpg
+
+verbatimCollectors       : Leg R R Ireland
+collectedBy              : R. R. Ireland
+secondaryCollectors      : N/A
+recordNumber             : 1988
+verbatimEventDate        : 1928
+minimumEventDate         : 1928-00-00
+maximumEventDate         : N/A
+verbatimIdentification   : Isoterygium tenorum (Sw) Mitt
+latestScientificName     : Herperum jamesonii
+identifiedBy             : Yvma-Maria Mexico
+verbatimDateIdentified   : July 21 1930
+associatedTaxa           : Corrica Ribersii | Shally atromacrous | Ocradian wood
+country                  : Brazil
+firstPoliticalUnit       : State of Minas Gerais
+secondPoliticalUnit      : N/A
+municipality             : Theresopolis
+verbatimLocality         : National Herbarium or Canada Yna Mecks No 4858
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : 575m
+verbatimCoordinates      : Alt 575m
+otherCatalogNumbers      : 873365
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0011_C2077571F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : PLANTS OF PERU Department of Loreto Piper methysticum forst f 1961 Yono mexia No 6254 Wissmon Ruis iorcphyllum fr ex DC spp Spreatei Trev South of rio santiago on fallen log
+latestScientificName     : Piper methysticum
+identifiedBy             : unsure and check
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : Loreto
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Yono mexia No 6254 Wissmon Ruis iorcphyllum fr ex DC spp Spreatei Trev
+locality                 : South of Rio Santiago on fallen log
+habitat                  : on fallen log
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 8264-3
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0081_C2056763F.jpg
+
+verbatimCollectors       : Echario Crittogamico Italiano
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 11. Fascicolo XXI e XXII
+verbatimEventDate        : 1861
+minimumEventDate         : 1861-00-00
+maximumEventDate         : N/A
+verbatimIdentification   : ECHARIO CRITTOGAMICO ITALIANOraccolta della Specie II Fascicolo XXI e XXII
+latestScientificName     : unsure and check
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Italy
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : N/A
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 982325
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0045_C2079362F.jpg
+
+verbatimCollectors       : Levi Richard Evans Schultes (Dec 1 1940 det Juan Crispin III N/A
+collectedBy              : L. R. Evans Schultes
+secondaryCollectors      : N/A
+recordNumber             : 1105
+verbatimEventDate        : Dec 1 1940
+minimumEventDate         : 1940-12-01
+maximumEventDate         : N/A
+verbatimIdentification   : Vesicularia vesicularis (Schwaegr) Broth
+latestScientificName     : Vesicularia vesicularis
+identifiedBy             : Juan Crispin III
+verbatimDateIdentified   : s.d.
+associatedTaxa           : N/A
+country                  : Colombia
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Bryophyta
+verbatimLocality         : Intendencia del Meta: alrededores de Villavicencio Alt 500 m
+locality                 : alrededores de Villavicencio
+habitat                  : N/A
+verbatimElevation        : Alt 500 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1055509
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0072_C2010620F.jpg
+
+verbatimCollectors       : Josef, Leitovin, Steienberger, Kryptogamen Badenz, Para, XXI
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 7864 b
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Plocamium sunilaosum (L) gat, many
+latestScientificName     : Plocamium
+identifiedBy             : unsure and check
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : N/A
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Plocamium sunilaosum (L) gat, many
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1055838
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0078_C0342515F.jpg
+
+verbatimCollectors       : T. Husnot a Cahan, par Athis (Orne)
+collectedBy              : T. Husnot
+secondaryCollectors      : N/A
+recordNumber             : 109
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Weisia compacta [Brid]
+latestScientificName     : Weisia compacta
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : France
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Cahan, par Athis
+verbatimLocality         : Cahan, par Athis (Orne)
+locality                 : Cahan, par Athis [precise locality unknown]
+habitat                  : Rochers schisteux de la Saleinte Bachelier
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1084497
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0002_C0025138F.jpg
+
+verbatimCollectors       : Collected by R. M. Schuster
+collectedBy              : R. M. Schuster
+secondaryCollectors      : N/A
+recordNumber             : 19067
+verbatimEventDate        : June 30 19 51
+minimumEventDate         : 1951-06-30
+maximumEventDate         : N/A
+verbatimIdentification   : Frullania asagrayana Mont., male, oan per. Plagiochila tridenticulata Dum. (traces)
+latestScientificName     : Frullania asagrayana
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : Plagiochila tridenticulata
+country                  : United States
+firstPoliticalUnit       : North Carolina
+secondPoliticalUnit      : N/A
+municipality             : Asheville
+verbatimLocality         : Balsam Gap, N.C., ca. 25 mi. n. of Asheville, along Blue Ridge Parkway, 5220-5260 feet; on Abies fraseri
+locality                 : along Blue Ridge Parkway, 5220-5260 feet; on Abies fraseri
+habitat                  : N/A
+verbatimElevation        : 5220-5260 feet
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : N/A
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0041_C2079362F.jpg
+
+verbatimCollectors       : Levi, RICHARD EVANS SCHIJLTES leg
+collectedBy              : R. E. Schultes
+secondaryCollectors      : N/A
+recordNumber             : 1107
+verbatimEventDate        : Dic. 1 Jan 2 1942
+minimumEventDate         : 1942-12-01
+maximumEventDate         : 1943-01-02
+verbatimIdentification   : Vesicularia vesicularis (Schwaegr.) Broth
+latestScientificName     : Vesicularia vesicularis
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Colombia
+firstPoliticalUnit       : Putumayo
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Intendencia del Putumayo alt 200 m
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : alt 200 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1055509
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0023_C2078862F.jpg
+
+verbatimCollectors       : Brachythecium plumosum Hedw J 856
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium plumosum Hedw J 856|Flora of Venezuela|Bryophytes of the Venezuelan paramos|Sobre roca húmeda lecho de riachuelo a sol|Determined by Dan Griffin III
+latestScientificName     : Brachythecium plumosum
+identifiedBy             : Dan Griffin III
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Venezuela
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Flora of Venezuela Bryophytes of the Venezuelan paramos Sobre roca húmeda lecho de riachuelo a sol
+locality                 : [precise locality unknown]
+habitat                  : Sobre roca húmeda lecho de riachuelo a sol
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1064149
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0057_C2079603F.jpg
+
+verbatimCollectors       : leg A Glaziou
+collectedBy              : A. Glaziou
+secondaryCollectors      : N/A
+recordNumber             : 8441
+verbatimEventDate        : Dec 23 1869
+minimumEventDate         : 1869-12-23
+maximumEventDate         : N/A
+verbatimIdentification   : Isopterygium tenerum (Sw) Mitt
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : R. E. Ireland
+verbatimDateIdentified   : 1988
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Petropolis
+verbatimLocality         : Mta do Retiro Agulhas-Negras Petropolis
+locality                 : Mta do Retiro Agulhas-Negras [precise locality unknown]
+habitat                  : on rotting log in woods abundant
+verbatimElevation        : Alt 670 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 879823
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0013_C2077578F.jpg
+
+verbatimCollectors       : Distributed by the Institute of Systematic Botany, Utrecht
+collectedBy              : J. and F.A. Florschütz
+secondaryCollectors      : N/A
+recordNumber             : 4690
+verbatimEventDate        : 18 December 1975
+minimumEventDate         : 1975-12-18
+maximumEventDate         : N/A
+verbatimIdentification   : BRYOPHYTA NEOTROPICA EXSICCATA: Fasc. II (1966), edited by S. Rob Gradstein distibuted by the Institute of Systematic Botany, Utrecht 66. PILOTRUM CHLOROPHYLLUM (Hornsch.) C. Muell. det. R. Ziekman and J. Florschütz-de Waard
+latestScientificName     : Pilotrum chlorophyllum
+identifiedBy             : R. Ziekman and J. Florschütz-de Waard
+verbatimDateIdentified   : unsure and check
+associatedTaxa           : N/A
+country                  : Suriname
+firstPoliticalUnit       : Brownsberg
+secondPoliticalUnit      : trail to Leo Val
+municipality             : alt. ca. 500 m
+verbatimLocality         : N/A
+locality                 : [precise locality unknown]
+habitat                  : on rotting log in rainforest
+verbatimElevation        : alt. ca. 500 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1065613
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0095_C2032310F.jpg
+
+verbatimCollectors       : Josephine E. Tilden South Pacific Exped.
+collectedBy              : J. E. Tilden
+secondaryCollectors      : N/A
+recordNumber             : 270
+verbatimEventDate        : February 1910
+minimumEventDate         : 1910-02-00
+maximumEventDate         : N/A
+verbatimIdentification   : Rhacopilum confusum Cardot in herb.
+latestScientificName     : Rhacopilum confusum
+identifiedBy             : unsure and check
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : New Zealand
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Te Aroha
+verbatimLocality         : Te Aroha New Zealand
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1023785
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0011_C2077576F.jpg
+
+verbatimCollectors       : Leg Mohammed Asa
+collectedBy              : M. Asa
+secondaryCollectors      : N/A
+recordNumber             : 6363
+verbatimEventDate        : 2d 12 1989
+minimumEventDate         : 1989-12-02
+maximumEventDate         : N/A
+verbatimIdentification   : Pilosium chlorophyllum (Javanm) G Mill
+latestScientificName     : Pilosium chlorophyllum
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : United Arab Emirates
+firstPoliticalUnit       : Ras al-Khaimah
+secondPoliticalUnit      : unsure and check
+municipality             : unsure and check
+verbatimLocality         : Acacio niloticetis marginem deserti occ prope Al Daith
+locality                 : [precise locality unknown]
+habitat                  : Acacio niloticetis marginem deserti
+verbatimElevation        : 70-100 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 10735327 1465
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0057_C2079599F.jpg
+
+verbatimCollectors       : Herb. Acad. Rheno - Trai.
+collectedBy              : Herb. Acad. Rheno-Trai.
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Isopterygium tenerum(Sw.)Mitt.
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : H. Giesenhagen
+verbatimDateIdentified   : 5.2.1932
+associatedTaxa           : N/A
+country                  : Suriname
+firstPoliticalUnit       : unsure and check
+secondPoliticalUnit      : unsure and check
+municipality             : unsure and check
+verbatimLocality         : hab.: lign. [illegible] Andes foliis rainforest
+locality                 : [precise locality unknown]
+habitat                  : on roots and rocks in heads of rivers, that
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1073518
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0030_C2079350F.jpg
+
+verbatimCollectors       : Left sank of Rio Santiago, un stone on overflow forest
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 6149
+verbatimEventDate        : Nov 23, 1931
+minimumEventDate         : 1931-11-23
+maximumEventDate         : N/A
+verbatimIdentification   : Veinmannia amphibola (Spr) Brothe
+latestScientificName     : unsure and check
+identifiedBy             : F. Rio Bucno
+verbatimDateIdentified   : Aet. Bertram Alt 200 m
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : Departamento de Loreto
+secondPoliticalUnit      : N/A
+municipality             : Iquitos
+verbatimLocality         : Left sank of Rio Santiago, un stone on overflow forest
+locality                 : [precise locality unknown]
+habitat                  : un stone in overflow forest
+verbatimElevation        : Alt 200 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 873368
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0016_C2077577F.jpg
+
+verbatimCollectors       : G Müll
+collectedBy              : G. Müll
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : det. R. Zielmann
+minimumEventDate         : 1981-10-31
+maximumEventDate         : N/A
+verbatimIdentification   : PILOPHUS CHLOROPHYLLUM (Hornsch.) C. Müll.
+latestScientificName     : Bryophyta neotropica exsiccata
+identifiedBy             : R. Zielmann
+verbatimDateIdentified   : 31 October 1981
+associatedTaxa           : N/A
+country                  : N/A
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : SURINAGE: Distr. Victoria, Kabalebo river area, 1 mi W. from road km 34, 59°W., alt. 0-30 m. One spreading log in moist forest with Metrosideros
+locality                 : [precise locality unknown]
+habitat                  : One spreading log in moist forest with Metrosideros
+verbatimElevation        : alt. 0-30 m
+verbatimCoordinates      : 59°W.
+otherCatalogNumbers      : M 0055363
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0014_C2077579F.jpg
+
+verbatimCollectors       : E. Rob Gradstein | S.R.Gradstein C076
+collectedBy              : E. Rob Gradstein
+secondaryCollectors      : S. R. Gradstein
+recordNumber             : C076
+verbatimEventDate        : 8 March 1977
+minimumEventDate         : 1977-03-08
+maximumEventDate         : N/A
+verbatimIdentification   : Bryophyta Neotropica Exsiccata Fasc.1/2 (1978), edited by E. Rob Gradstein
+217. Pilotrichum chlorophyllum (Hornsch.) C. Müll.: 
+det. J. Florschütz-de Waard: 
+latestScientificName     : Pilotrichum chlorophyllum
+identifiedBy             : J. Florschütz-de Waard
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Guyana
+firstPoliticalUnit       : Mazura Hill
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : 180 km S of Georgetown, S3°0'N
+locality                 : [precise locality unknown]
+habitat                  : On rotting tree base in mixed rain forest
+verbatimElevation        : N/A
+verbatimCoordinates      : S3°0'N
+otherCatalogNumbers      : 1091586
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0053_C2079599F.jpg
+
+verbatimCollectors       : Herb Acad Rheno - Traj
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Isothecium tenurum(Sw.)Mitt.
+latestScientificName     : Isothecium tenurum
+identifiedBy             : N/A
+verbatimDateIdentified   : s.d.
+associatedTaxa           : N/A
+country                  : Netherlands
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : habitat in roots and rocks in shade of spring, chair
+locality                 : [precise locality unknown]
+habitat                  : in roots and rocks in shade of spring, chair
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1073518
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0015_C2077576F.jpg
+
+verbatimCollectors       : Leg C R M Schuster
+collectedBy              : C. R. M. Schuster
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : Jun 70
+minimumEventDate         : 1970-06-00
+maximumEventDate         : N/A
+verbatimIdentification   : Ptilidium ciliare (L) Hampe
+latestScientificName     : Ptilidium ciliare
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Greenland
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : NE Greenland Mestersvig and Elis, Rundso 10-100 m
+locality                 : Mestersvig and Elis, Rundso
+habitat                  : mossy tundra
+verbatimElevation        : 10-100 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 10733527
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0021_C2077585F.jpg
+
+verbatimCollectors       : Leg Pilger
+collectedBy              : Pilger
+secondaryCollectors      : N/A
+recordNumber             : 5014a
+verbatimEventDate        : Aug 21 1881
+minimumEventDate         : 1881-08-21
+maximumEventDate         : N/A
+verbatimIdentification   : Pilosum chlorophyllum (Hochl DA
+latestScientificName     : Pilosum chlorophyllum
+identifiedBy             : Oet Bartram
+verbatimDateIdentified   : IX 1935
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : Districto Acara
+municipality             : Cho6 road near Rio Acara 3 km
+verbatimLocality         : On fallen log
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 68
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0094_C0679848F.jpg
+
+verbatimCollectors       : Leg S R Bertram
+collectedBy              : S. R. Bertram
+secondaryCollectors      : N/A
+recordNumber             : N.1.235
+verbatimEventDate        : 4.5.1956
+minimumEventDate         : 1956-05-04
+maximumEventDate         : N/A
+verbatimIdentification   : Cryptogamic herbarium
+latestScientificName     : Laevigata galloga
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Santa Catarina
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Planatas de Santa Catarina
+locality                 : [precise locality unknown]
+habitat                  : Mata
+verbatimElevation        : 300 m
+verbatimCoordinates      : Alt. 300 m
+otherCatalogNumbers      : 2001436
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0017_C2077578F.jpg
+
+verbatimCollectors       : S Bob Graderstein
+collectedBy              : S. Graderstein
+secondaryCollectors      : N/A
+recordNumber             : 4690
+verbatimEventDate        : 18 December 1975
+minimumEventDate         : 1975-12-18
+maximumEventDate         : N/A
+verbatimIdentification   : BRYOBERTA MEMORABICI FRUSTULATA Fascicle II (1986) edited by S Bob Graderstein distributed by the Institute of Systematic Botany Utrecht
+latestScientificName     : Pilosium chlorophyllum
+identifiedBy             : G. Muell Det. R. Zielman and J. Florschutz-de Waard
+verbatimDateIdentified   : N/A
+associatedTaxa           : Braunsberg trail to Leo Val alt ca 500 m in rotting log in rainforest J and P.A. Florschutz 4690
+country                  : Suriname
+firstPoliticalUnit       : Brokopondo
+secondPoliticalUnit      : N/A
+municipality             : Brownsberg
+verbatimLocality         : trail to Leo Val alt ca 500 m in rotting log in rainforest
+locality                 : trail to Leo Val alt ca 500 meters in rotting log in rainforest
+habitat                  : in rotting log in rainforest
+verbatimElevation        : ca 500 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1065613
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0051_C2079597F.jpg
+
+verbatimCollectors       : leg. S. T. Fillig & A. C. Smith
+collectedBy              : S. T. Fillig
+secondaryCollectors      : A. C. Smith
+recordNumber             : 1056
+verbatimEventDate        : Nov. 8-25, 1928
+minimumEventDate         : 1928-11-08
+maximumEventDate         : 1928-11-25
+verbatimIdentification   : Isopteryglum tenerum (Sw) Mitt
+latestScientificName     : Isopterygium glaucourans
+identifiedBy             : R. R. Ireland
+verbatimDateIdentified   : 1988
+associatedTaxa           : N/A
+country                  : Colombia
+firstPoliticalUnit       : Dept. Santander
+secondPoliticalUnit      : between Puerto Wilches and Puerto Santos
+municipality             : alt. 110-115 m
+verbatimLocality         : N/A
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : alt. 110-115 m.
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 114971
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0047_C2079721F.jpg
+
+verbatimCollectors       : W Buck
+collectedBy              : W. Buck
+secondaryCollectors      : N/A
+recordNumber             : 7921-1220
+verbatimEventDate        : 22 March 1979
+minimumEventDate         : 1979-03-22
+maximumEventDate         : N/A
+verbatimIdentification   : Entodon nano-ciliactus C M
+latestScientificName     : Entodon nano-cliactus
+identifiedBy             : C. E. Bicans Horr
+verbatimDateIdentified   : Oct W Buck 1980
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : La Paz
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Very shaky ground along creek in humid shrubs 2600 m Depto La Paz Prov Larecaja Near large red outcrop 2 mi from Sorata down Rio Consata 15° 41' S 68° 40' W
+locality                 : [precise locality unknown]
+habitat                  : Very shaky ground along creek in humid shrubs
+verbatimElevation        : 2600 m
+verbatimCoordinates      : 15° 41' S 68° 40' W
+otherCatalogNumbers      : 1056759 | 11148748
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0034_C2079350F.jpg
+
+verbatimCollectors       : F FIELD ROJAS
+collectedBy              : F. Field Rojas
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : Nov 23, 1931
+minimumEventDate         : 1931-11-23
+maximumEventDate         : N/A
+verbatimIdentification   : Vaistullaria amphibola (Spr.) Brothe
+latestScientificName     : Vaistullaria amphibola
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : Departmento de Loreto
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Left bank of Río Santiago Un stone in overflow forest
+locality                 : Left bank of Río Santiago On stone in overflow forest
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 873368
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0012_C2077577F.jpg
+
+verbatimCollectors       : Fascicle III (1988), edited by S, Rob Gradstein
+collectedBy              : S. Rob Gradstein
+secondaryCollectors      : N/A
+recordNumber             : 124
+verbatimEventDate        : 31 October 1981
+minimumEventDate         : 1981-10-31
+maximumEventDate         : N/A
+verbatimIdentification   : BRYOPHYTA NEOTROPICA EXSICCATA
+Fascicle III (1988), edited by S. Rob Gradstein: 
+distributed by the Institute of Systematic Botany, Utrecht: 
+124. PILOTRIM CHLOROPHYLLUM (Hornsch.) C. Mull.: 
+det. R. Zielman          : 
+latestScientificName     : Pilotrim chlorophyllum
+identifiedBy             : R. Zielman
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Suriname
+firstPoliticalUnit       : Distr. Nickerie
+secondPoliticalUnit      : Kabalebo river area
+municipality             : line 9
+verbatimLocality         : from road km 34, 5°N, 58°W, alt, 0-20 m
+Growing on tree in marsh forest with Astrocaryum: 
+locality                 : from road km 34 [precise locality unknown]
+habitat                  : Growing on tree in marsh forest with Astrocaryum
+verbatimElevation        : alt, 0-20 m
+verbatimCoordinates      : 5°N, 58°W
+otherCatalogNumbers      : 1079893
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0073_C2010976F.jpg
+
+verbatimCollectors       : Misci Czechosloveniei exsiocati Edit zdeněk Pilous
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 1025
+verbatimEventDate        : JUN 1980
+minimumEventDate         : 1980-06-00
+maximumEventDate         : N/A
+verbatimIdentification   : Pogonatum urnigerum Pal var mamle Brid
+latestScientificName     : Pogonatum urnigerum
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Slovakia
+firstPoliticalUnit       : Montes Nízké Tatry
+secondPoliticalUnit      : in terra montis Ďumbier
+municipality             : ca 1850 m
+verbatimLocality         : Slovakia Montes Nízké Tatry in terra montis Ďumbier ca 1850 m
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : ca 1850 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1380887
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0013_C2077574F.jpg
+
+verbatimCollectors       : Leg G Tischler/Fls-La Venta a R Chamlican
+collectedBy              : G. Tischler
+secondaryCollectors      : N/A
+recordNumber             : 1001
+verbatimEventDate        : 8/7 1951
+minimumEventDate         : 1951-07-08
+maximumEventDate         : N/A
+verbatimIdentification   : FLORA SURINAMENSIS Herb Acad Rheno - Traj
+latestScientificName     : Flora surinamensis
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Panama
+firstPoliticalUnit       : Darien
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Fls-La Venta a R Chamlican
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : Alt 0 - 20 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1073529
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0058_C2079600F.jpg
+
+verbatimCollectors       : R.R. Ireland
+collectedBy              : R. R. Ireland
+secondaryCollectors      : N/A
+recordNumber             : 1039979
+verbatimEventDate        : Received 1981
+minimumEventDate         : 1981-00-00
+maximumEventDate         : N/A
+verbatimIdentification   : Isopterygium tenerum (Sw.) Mitt.
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Plants of Brazil State of Minas Gerais Vera Mendes No. 42321 of Isopterygium Dussigscens (C.M) Mitt. Loc. Vila Nova Alico 370 mo Northwestern Hills. On rotting log under underbrush of tree Base. Abund.
+locality                 : [precise locality unknown]
+habitat                  : On rotting log under underbrush of tree Base
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1039979
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0071_C2010626F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 104
+verbatimEventDate        : Mar 1953
+minimumEventDate         : 1953-03-00
+maximumEventDate         : N/A
+verbatimIdentification   : Bryophyta danica exsiccata 104 Pogonatum urnigerum (Hedw) P Beauv
+latestScientificName     : Pogonatum urnigerum
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Denmark
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Copenhagen
+verbatimLocality         : Zealand sandy soil in Maglemose south of Helsi
+locality                 : [precise locality unknown] Zealand sandy soil in Maglemose south of Helsi
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : MAR 1953
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0069_C2010622F.jpg
+
+verbatimCollectors       : L. Pol Benno
+collectedBy              : L. Pol Benno
+secondaryCollectors      : N/A
+recordNumber             : 826 E
+verbatimEventDate        : 17 Oktober 1962
+minimumEventDate         : 1962-10-17
+maximumEventDate         : N/A
+verbatimIdentification   : Pogonatum urnigorum XXI
+latestScientificName     : Pogonatum urnigerum
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Germany
+firstPoliticalUnit       : Rhineland-Palatinate
+secondPoliticalUnit      : Westerwald
+municipality             : Nisterberg
+verbatimLocality         : An einem Waldrande auf dem rothen sandreinen schieferberge bei Nisterberg 17 Oktober 1962
+locality                 : [precise locality unknown]
+habitat                  : An einem Waldrande auf dem rothen sandreinen schieferberge
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1054981
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0014_C2077575F.jpg
+
+verbatimCollectors       : Prof Dr Peter Sönke Boisen, Michael Hickler, Lisa Alison Trail leg
+collectedBy              : P. S. Boisen
+secondaryCollectors      : M. Hickler | L. A. Trail
+recordNumber             : 50266
+verbatimEventDate        : 7X 1990
+minimumEventDate         : 1990-10-07
+maximumEventDate         : N/A
+verbatimIdentification   : FLORA SURINAMENSIS Ellantus ollerophyllus(Somsors),M.MKL
+latestScientificName     : Ellantus ollerophyllus
+identifiedBy             : unsure and check
+verbatimDateIdentified   : unsure and check
+associatedTaxa           : N/A
+country                  : Suriname
+firstPoliticalUnit       : Nickerie District
+secondPoliticalUnit      : N/A
+municipality             : Nieuw Nickerie
+verbatimLocality         : 7km E from Trail Project, Nickerie District, N from Adampada River, L to Km 34, SE, on way from, Nieuw Nickerie, N from X-kreek, Nickerie District
+locality                 : 7km E from Trail Project, N from Adampada River, L to Km 34, SE, on way from, N from X-kreek
+habitat                  : Floristical: Riverplain in Moist Forest
+verbatimElevation        : alt. 0 - 50 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1073528
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0032_C2079352F.jpg
+
+verbatimCollectors       : det Bartram
+collectedBy              : Bartram
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : Dec 4 1931
+minimumEventDate         : 1931-12-04
+maximumEventDate         : N/A
+verbatimIdentification   : Fiscularia amphibola (Spr) Broth
+latestScientificName     : Fiscularia amphibola
+identifiedBy             : Bartram
+verbatimDateIdentified   : Dec 4 1931
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Above Punto de Manseriche
+verbatimLocality         : Streamlet on right bank of Rio Santiago On rocks wet by spray
+locality                 : [precise locality unknown]
+habitat                  : On rocks wet by spray
+verbatimElevation        : Alt 250 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 870879
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0053_C2079595F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Tierra del Fuego, australis, Ushuaia, Arroyo grande (74°47'S,68°17'W), en llanura de Toia y en raises humoso-arcillosos de suelo humido, en orilla de un cascada,190 m sm,bastante copiosamen-te
+latestScientificName     : unsure and check
+identifiedBy             : H Rovainen
+verbatimDateIdentified   : 25111970
+associatedTaxa           : N/A
+country                  : Argentina
+firstPoliticalUnit       : Ushuaia
+secondPoliticalUnit      : Tierra del Fuego
+municipality             : Ushuaia
+verbatimLocality         : Tierra del Fuego, australis, Ushuaia, Arroyo grande (74°47'S,68°17'W), en llanura de Toia y en raises humoso-arcillosos de suelo humido, en orilla de un cascada,190 m sm,bastante copiosamen-te
+locality                 : Arroyo grande, en llanura de Toia y en raises humoso-arcillosos de suelo humido, en orilla de un cascada
+habitat                  : en llanura de Toia y en raises humoso-arcillosos de suelo humido, en orilla de un cascada
+verbatimElevation        : 190 m
+verbatimCoordinates      : 74°47'S,68°17'W
+otherCatalogNumbers      : 1182417
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0010_C2077575F.jpg
+
+verbatimCollectors       : Herb Acad Rheno-Traj Coll M Cowan
+collectedBy              : M. Cowan
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Flora Surinamensis
+latestScientificName     : Flora surinamensis
+identifiedBy             : N/A
+verbatimDateIdentified   : s.d.
+associatedTaxa           : N/A
+country                  : Suriname
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Hb Coll of Parabno D A Fokke Mistr District Legit & Tra Paul Hll Nunc M N M Halfmenen N Surinam 1904
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1073528
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0036_C2079352F.jpg
+
+verbatimCollectors       : Dec 4 1931 det Bertram
+collectedBy              : Bertram
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : Dec 4 1931
+minimumEventDate         : 1931-12-04
+maximumEventDate         : N/A
+verbatimIdentification   : Vesicularia amphibola (Spr) Broth
+latestScientificName     : Vesicularia amphibola
+identifiedBy             : Bertram
+verbatimDateIdentified   : Dec 4 1931
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Rio Santiago
+verbatimLocality         : Streamlet on right bank of Rio Santiago On rocks wet by spray
+locality                 : Streamlet on right bank of On rocks wet by spray
+habitat                  : Above Pongo de Manseriche alt 250 m
+verbatimElevation        : alt 250 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 870879
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0052_C2079723F.jpg
+
+verbatimCollectors       : cf Entodon polycarpus Det W Buck 1980
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : cf Entodon polycarpus Det W Buck 1980
+latestScientificName     : Bryophyta of Bolivia
+identifiedBy             : W. Buck
+verbatimDateIdentified   : 1980
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : La Paz
+secondPoliticalUnit      : Larecaja
+municipality             : Between Abra Hualata and waterfall at Millipaya 15o 57' S 68o 09' W
+verbatimLocality         : Between Abra Hualata and waterfall at Millipaya 15o 57' S 68o 09' W
+locality                 : [precise locality unknown]
+habitat                  : waterfall ravine highest extension of scrubs 3780 m
+verbatimElevation        : 3780 m.
+verbatimCoordinates      : 15o 57' S 68o 09' W
+otherCatalogNumbers      : 1078762
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0098_C0341763F.jpg
+
+verbatimCollectors       : Mina Green
+collectedBy              : M. Green
+secondaryCollectors      : N/A
+recordNumber             : 8221-a
+verbatimEventDate        : Nov. 11, 1930
+minimumEventDate         : 1930-11-11
+maximumEventDate         : N/A
+verbatimIdentification   : Perezia teneta R. Lopez det. M. Green
+latestScientificName     : Perezia teneta
+identifiedBy             : M. Green
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Harviex
+verbatimLocality         : on rotting log
+locality                 : [precise locality unknown]
+habitat                  : On rotting log
+verbatimElevation        : Alt. 790 m.
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 00847106P
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0075_C2010626F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 104
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Bryohypnum danicum Podp.
+latestScientificName     : Bryohypnum danicum
+identifiedBy             : Podpĕra
+verbatimDateIdentified   : s.d.
+associatedTaxa           : N/A
+country                  : Denmark
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : N/A
+locality                 : [precise locality unknown]
+habitat                  : Pogonatum urnigerum (Hedw) P. Beauv. Zealand: sandy soil in Maglemose south of Fredlef
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1953
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0015_C2077582F.jpg
+
+verbatimCollectors       : On rotten logs.
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 14994
+verbatimEventDate        : October 18, 1931
+minimumEventDate         : 1931-10-18
+maximumEventDate         : N/A
+verbatimIdentification   : Pilocline chlorophyllum (Hornsch.) C.M. On rotten logs.
+latestScientificName     : Pilocline chlorophyllum
+identifiedBy             : R. A. Crum, 1956
+verbatimDateIdentified   : Det. R. A. Crum, 1956
+associatedTaxa           : N/A
+country                  : N/A
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Yaracuy, Venezuela
+locality                 : [precise locality unknown]
+habitat                  : On rotten logs.
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1055481
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0076_C2020438F.jpg
+
+verbatimCollectors       : Collected by WILLIAM R BUCK L6060
+collectedBy              : W. R. BUCK
+secondaryCollectors      : N/A
+recordNumber             : L6060
+verbatimEventDate        : 16 Aug 1981
+minimumEventDate         : 1981-08-16
+maximumEventDate         : N/A
+verbatimIdentification   : PTERIGYNANDRUM var Lawrencii (James) Grout
+latestScientificName     : Pterigynandrum filiforme
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Australia
+firstPoliticalUnit       : Victoria
+secondPoliticalUnit      : N/A
+municipality             : Beaufort
+verbatimLocality         : VICTORIA: ca 5 mi W of Beaufort on hwy 8 Eucalyptus forest flooded after rains 500m
+locality                 : ca 5 mi W of Beaufort on hwy 8 Eucalyptus forest flooded after rains
+habitat                  : Eucalyptus forest flooded after rains
+verbatimElevation        : 500m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1052208
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0043_C2079716F.jpg
+
+verbatimCollectors       : COLLECTED BY Paul C. Hutchison
+collectedBy              : P. C. Hutchison
+secondaryCollectors      : N/A
+recordNumber             : 1806
+verbatimEventDate        : APRIL 4, 1964
+minimumEventDate         : 1964-04-04
+maximumEventDate         : N/A
+verbatimIdentification   : N/A
+latestScientificName     : Entodon jamesoni (Tayl,) Mitt.
+identifiedBy             : J. Kenneth Wright
+verbatimDateIdentified   : 4 April 1964
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : Department of Amazonas
+secondPoliticalUnit      : Prov. Chachapoyas
+municipality             : N/A
+verbatimLocality         : N/A
+locality                 : Cerros Calla Calla, east side, 5 km above Leimebamba on the road to Balsas, at San Miguel (in building at this locality)
+habitat                  : Altitude ca. 2500 m
+verbatimElevation        : Altitude ca. 2500 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1012192
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0044_C2079717F.jpg
+
+verbatimCollectors       : Sobr roca + seca a sombra
+collectedBy              : Sobre roca
+secondaryCollectors      : seca a sombra
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : FLORA OF VENEZUELA BRYOPHYTES OF THE VENEZUELAN PARAMOS
+latestScientificName     : Entodon jamesoni
+identifiedBy             : Det Dana Griffin III
+verbatimDateIdentified   : No Date
+associatedTaxa           : N/A
+country                  : Venezuela
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : N/A
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1064116
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0076_C2010974F.jpg
+
+verbatimCollectors       : P ALLONGE
+collectedBy              : P. ALLONGE
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : OCT 1946
+minimumEventDate         : 1946-10-00
+maximumEventDate         : N/A
+verbatimIdentification   : BRYOTHECA IBERICA Phyllitis sp cf P. fascia
+latestScientificName     : Phyllitis fascia
+identifiedBy             : unsure and check
+verbatimDateIdentified   : unsure and check
+associatedTaxa           : N/A
+country                  : France
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Paris
+verbatimLocality         : Paris Mai 1928
+locality                 : Paris
+habitat                  : Bryotheca Iberica (Linn Sp Plant II Edit N. 102 Pyrenaeis: Pena de Orael ad opp Jaca (Hienea Aragonia)
+verbatimElevation        : 1200 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1200129
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0066_C2000934F.jpg
+
+verbatimCollectors       : Bryological herbarium CHICAGI NATURAL HISTORY MUSEUM
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : V.1546
+verbatimEventDate        : Jan 1948
+minimumEventDate         : 1948-01-00
+maximumEventDate         : N/A
+verbatimIdentification   : Haplocladium angustifolium Ther
+latestScientificName     : Haplocladium angustifolium
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : N/A
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : On rock in dard streamside, in ass of little Calavera altitudes, pres de Boguca Hersute Prosiaus, on 900 m
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : ca. 900 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1377035
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0009_C2077569F.jpg
+
+verbatimCollectors       : F J Hemann
+collectedBy              : F. J. Hemann
+secondaryCollectors      : N/A
+recordNumber             : 25132
+verbatimEventDate        : December 27, 1972
+minimumEventDate         : 1972-12-27
+maximumEventDate         : N/A
+verbatimIdentification   : Herbarium of Donald Richards
+latestScientificName     : Hedwigia ciliata
+identifiedBy             : P. Beauv.
+verbatimDateIdentified   : unsure and check
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Cochabamba
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : On conglomerate boulder on shrubby NW slope of Mt Tunari near Lifiani Aguas Termales Hotel alt ca 2700 m 28 km NW
+locality                 : On conglomerate boulder on shrubby NW slope of Mt. Tunari, near Lifiani Aguas Termales Hotel, 28 kilometers northwest [precise locality unknown]
+habitat                  : Plants of Bolivia Depto de Cochabamba Duke University Herbarium
+verbatimElevation        : ca 2700 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1040675
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0047_C2079716F.jpg
+
+verbatimCollectors       : Collected by J Kenneth Wright
+collectedBy              : J. Kenneth Wright
+secondaryCollectors      : N/A
+recordNumber             : 1806
+verbatimEventDate        : 4 April 1964
+minimumEventDate         : 1964-04-04
+maximumEventDate         : N/A
+verbatimIdentification   : Entodon duchassaingi (Schimp.) Mitt.
+latestScientificName     : Entodon duchassaingi
+identifiedBy             : Paul C. Hutchison
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : Amazonas
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : cerros Calla Calla east side c. 1 km above Leimebamba (on the road to Balsas at San Miguel) (no buildings at this locality) Altitude ca. 2100 m
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : Altitude ca. 2100 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 10121911
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0045_C2079718F.jpg
+
+verbatimCollectors       : Leg Lindbergh Emb
+collectedBy              : Lindbergh
+secondaryCollectors      : Emb
+recordNumber             : N/A
+verbatimEventDate        : April 01, 1931
+minimumEventDate         : 1931-04-01
+maximumEventDate         : N/A
+verbatimIdentification   : Corians
+latestScientificName     : Corians
+identifiedBy             : Lindbergh Emb
+verbatimDateIdentified   : April 01, 1931
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Minas Gerais
+secondPoliticalUnit      : Diamante
+municipality             : Biribiry
+verbatimLocality         : State of Minas Gerais Vioo Mata No 6097
+locality                 : Base of living tree in shade
+habitat                  : N/A
+verbatimElevation        : Alt 800 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 870348
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0077_C0268725F.jpg
+
+verbatimCollectors       : V et P Allorge
+collectedBy              : V. Allorge
+secondaryCollectors      : P. Allorge
+recordNumber             : 193
+verbatimEventDate        : 11 VI 1937
+minimumEventDate         : 1937-06-11
+maximumEventDate         : N/A
+verbatimIdentification   : BRYOPHYTA AZORICA MOUSSES ET HEPATIQUES récoltées en 1937 ILES AÇORES par V et P ALLORGE
+latestScientificName     : Bryophyta azorica
+identifiedBy             : N/A
+verbatimDateIdentified   : s.d.
+associatedTaxa           : N/A
+country                  : Portugal
+firstPoliticalUnit       : Azores
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : 193 Fayanatug urcisatus(Hedw)VF L lus deportvert salto de cavalo vers 700 m
+locality                 : Salto do Cavalo [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : vers 700 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1181624
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0038_C2079358F.jpg
+
+verbatimCollectors       : Ynes Mexia
+collectedBy              : Y. Mexia
+secondaryCollectors      : N/A
+recordNumber             : 8070
+verbatimEventDate        : May 14,1936
+minimumEventDate         : 1936-05-14
+maximumEventDate         : N/A
+verbatimIdentification   : Vernonia amphitida (Spr.) Broth. in mixtare
+latestScientificName     : Vernonia amphitida
+identifiedBy             : alf. 1800 m.
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : La Convencion
+secondPoliticalUnit      : unsure and check
+municipality             : Sel. Maruani
+verbatimLocality         : Provincia La Convención; upper valley of the Sambray; affluent of the Vilcanota; on rotten logs in virgin forest
+locality                 : upper valley of the Sambray; affluent of the Vilcanota; on rotten logs in virgin forest
+habitat                  : N/A
+verbatimElevation        : alt. 1800 m.
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1096314
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0072_C2010974F.jpg
+
+verbatimCollectors       : P Allorge
+collectedBy              : P. Allorge
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : Paris Mai 1928
+minimumEventDate         : 1928-05-00
+maximumEventDate         : N/A
+verbatimIdentification   : Bryotheca Iberica P Allorge No 129 Bryum argenteum L
+latestScientificName     : Bryum argenteum
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Spain
+firstPoliticalUnit       : unsure and check
+secondPoliticalUnit      : unsure and check
+municipality             : unsure and check
+verbatimLocality         : F 4109 A Alto del Monte Acebo au-dessus d'Elizondo Prov du Navarra Espagne
+locality                 : unsure and check
+habitat                  : Pierres de chemin Savarre talus argileux calcaires assoc Brywm paradox L Pottia eurystoma Riell Aloina Barbula fallax (Hedw) Schpr Rhytidiadelphus loreus (Dill L) Warnst et Alt 550
+verbatimElevation        : Alt 550
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1200329
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0060_C2079602F.jpg
+
+verbatimCollectors       : Plants of Brazil state of Minas Gerais
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 6204
+verbatimEventDate        : Dec 6, 1930
+minimumEventDate         : 1930-12-06
+maximumEventDate         : N/A
+verbatimIdentification   : Isopterygium tenerum (Sw )Mitt
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : E E  Ireland
+verbatimDateIdentified   : 1988
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Minas Gerais
+secondPoliticalUnit      : N/A
+municipality             : Viçosa
+verbatimLocality         : Grotto near Viçosa Alt 710 m
+locality                 : [precise locality unknown] Grotto near Viçosa
+habitat                  : In grotto
+verbatimElevation        : Alt 710 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 870841
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0070_C2010624F.jpg
+
+verbatimCollectors       : J in Hedmogen bei Schmalhausen September 1882
+collectedBy              : J. Hedmogen
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : September 1882
+minimumEventDate         : 1882-09-00
+maximumEventDate         : N/A
+verbatimIdentification   : Crypotgamus unisorum Hedmuns
+latestScientificName     : Cryptogamus unisorum
+identifiedBy             : Hedmuns
+verbatimDateIdentified   : September 1882
+associatedTaxa           : N/A
+country                  : unsure and check
+firstPoliticalUnit       : unsure and check
+secondPoliticalUnit      : N/A
+municipality             : unsure and check
+verbatimLocality         : bei Schmalhausen
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1063050
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0046_C2079715F.jpg
+
+verbatimCollectors       : J-P. Frahm, P. Geissler, S.R. Gradstein, G. Philippi, W. Schultze-Motel
+collectedBy              : J-P. Frahm
+secondaryCollectors      : P. Geissler | S. R. Gradstein | G. Philippi | W. Schultze-Motel
+recordNumber             : 975
+verbatimEventDate        : 4.9.1982
+minimumEventDate         : 1982-09-04
+maximumEventDate         : N/A
+verbatimIdentification   : Entodon jamesonii (Tayl.) Mitt.
+latestScientificName     : Entodon jamesonii
+identifiedBy             : W. Schultze-Motel
+verbatimDateIdentified   : det. W. Schultze-Motel
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : Dep. Amazonas
+secondPoliticalUnit      : Prov. Chachapoyas
+municipality             : Straße Chachapoyas Cajamarca oberhalb Leimebamba km 417, sexponierter Hang, hochandiner Regenwald auf Kalkstein
+verbatimLocality         : N/A
+locality                 : Straße Chachapoyas Cajamarca oberhalb Leimebamba km 417, sexponierter Hang, hochandiner Regenwald auf Kalkstein
+habitat                  : N/A
+verbatimElevation        : 2800 msm.
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1076822
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0068_C2010620F.jpg
+
+verbatimCollectors       : leg Lichtenberger
+collectedBy              : Lichtenberger
+secondaryCollectors      : N/A
+recordNumber             : 3864 b
+verbatimEventDate        : Jul 1930
+minimumEventDate         : 1930-07-00
+maximumEventDate         : N/A
+verbatimIdentification   : Pogonatum urnigerum (L) Pal Beauv
+latestScientificName     : Pogonatum urnigerum
+identifiedBy             : S Ar Wodjzikowa ks Batow
+verbatimDateIdentified   : 22 Styczen 1952
+associatedTaxa           : N/A
+country                  : Poland
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Kryptówowem Bedzin
+verbatimLocality         : Kryptówowem Bedzin Pow XXI
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1052535
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0071_C2000943F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Pogonatum urnigerum (Hedw) PB
+latestScientificName     : Pogonatum urnigerum
+identifiedBy             : N/A
+verbatimDateIdentified   : APR 1953
+associatedTaxa           : N/A
+country                  : Denmark
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Sjelland
+verbatimLocality         : Magistratskoven by Hvalsø
+locality                 : Magistratskoven by Hvalsø
+habitat                  : in a gravel-pit
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 28/16 Uge1
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0038_C2079354F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 6988-e
+verbatimEventDate        : Jan 2, 1928
+minimumEventDate         : 1928-01-02
+maximumEventDate         : N/A
+verbatimIdentification   : PIETRAFOLIA AMPULLACEA (Spr.) Brot
+latestScientificName     : Frullania ampullacea
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Spain
+firstPoliticalUnit       : Catalonia
+secondPoliticalUnit      : Barcelona
+municipality             : Manresa
+verbatimLocality         : N/A
+locality                 : [precise locality unknown]
+habitat                  : Gran limbo under rocks on north collected from trunk tree trunk
+verbatimElevation        : 230
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 873369
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0093_C0679833F.jpg
+
+verbatimCollectors       : leg Schäfer-Verwimp 551987
+collectedBy              : A. Schäfer-Verwimp
+secondaryCollectors      : N/A
+recordNumber             : 551987
+verbatimEventDate        : 5.5.1987
+minimumEventDate         : 1987-05-05
+maximumEventDate         : N/A
+verbatimIdentification   : Campylopodes exsiccatae
+latestScientificName     : Campylopus griseus
+identifiedBy             : unsure and check
+verbatimDateIdentified   : unsure and check
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : São Paulo
+secondPoliticalUnit      : Pedra Grande bei Atibaia
+municipality             : Campos-Vegetation im Gindfelbereich sickerfenchter Felshang 1400 msm
+verbatimLocality         : Campos-Vegetation im Gindfelbereich sickerfenchter Felshang 1400 msm
+locality                 : [precise locality unknown]
+habitat                  : Campos-Vegetation im Gindfelbereich sickerfenchter Felshang
+verbatimElevation        : 1400 msm
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1097651
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0042_C2079715F.jpg
+
+verbatimCollectors       : leg. J. P. Frohm, P. Geissler, S.R. Gradstein, G. Philippi, W. Schultze-Motel
+collectedBy              : J. P. Frohm
+secondaryCollectors      : P. Geissler | S.R. Gradstein | G. Philippi | W. Schultze-Motel
+recordNumber             : 1076822
+verbatimEventDate        : 4.9.1982
+minimumEventDate         : 1982-09-04
+maximumEventDate         : N/A
+verbatimIdentification   : Entodon jamesonii (Tayl.) Mitt.
+latestScientificName     : Entodon jamesonii
+identifiedBy             : W. Schultze-Motel
+verbatimDateIdentified   : det. W. Schultze-Motel
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : Dep. Amazonas
+secondPoliticalUnit      : Prov. Chachapoyas
+municipality             : Straße Chachapoyas Cajamarca oberhalb Leimebamba km 417
+verbatimLocality         : sexponierter Hang, hochandiner Regenwald auf Kalkstein 2800 msm.
+locality                 : sexponierter Hang hochandiner Regenwald auf Kalkstein 2800 meters above sea level
+habitat                  : N/A
+verbatimElevation        : 2800 msm.
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 975
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0074_C2010624F.jpg
+
+verbatimCollectors       : J Dr Brunnegger bei Schaffhausen
+collectedBy              : J. Brunnegger
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : September 1885
+minimumEventDate         : 1885-09-00
+maximumEventDate         : N/A
+verbatimIdentification   : Fontinalis undulatum (L) Pal Beauv
+latestScientificName     : Fontinalis undulatum
+identifiedBy             : J. Leinig
+verbatimDateIdentified   : 21 Jan 1930
+associatedTaxa           : N/A
+country                  : Switzerland
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : unsure and check
+verbatimLocality         : bei Schaffhausen
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1053050
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0075_C2077501F.jpg
+
+verbatimCollectors       : Collected by William R. Buck 7368
+collectedBy              : W. R. Buck
+secondaryCollectors      : N/A
+recordNumber             : 7368
+verbatimEventDate        : 22 Sept 1981
+minimumEventDate         : 1981-09-22
+maximumEventDate         : N/A
+verbatimIdentification   : CALYPTOTHECIUM TENUINERVE Bartr.
+latestScientificName     : CALYPTOTHECIUM TENUINERVE
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : New York
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : The New York Botanical Garden
+verbatimLocality         : VITI LEVU: ca. 1km W of Nadara, Humid forest, ca. 300m.
+locality                 : ca. 1km W of Nadara, Humid forest
+habitat                  : Humid forest
+verbatimElevation        : ca. 300m.
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1059210
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0059_C2079601F.jpg
+
+verbatimCollectors       : Ynés Mexia No 4338
+collectedBy              : Y. Mexia
+secondaryCollectors      : N/A
+recordNumber             : 4338
+verbatimEventDate        : July 21 1930
+minimumEventDate         : 1930-07-21
+maximumEventDate         : N/A
+verbatimIdentification   : Isopterygium tenerum (Sw) Mitt
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : Crum
+verbatimDateIdentified   : 1988
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Minas Gerais
+secondPoliticalUnit      : N/A
+municipality             : Ynes Mexia
+verbatimLocality         : Viçosa Agricultural College banks Alt 675 m
+locality                 : Viçosa Agricultural College banks
+habitat                  : On rotten wood copice Ribeirão
+verbatimElevation        : Alt 675 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 873365
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0005_C2077563F.jpg
+
+verbatimCollectors       : Hering P Beauv
+collectedBy              : P. Beauv
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Hedwigia albicans
+latestScientificName     : Hedwigia albicans
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : France
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Paris
+verbatimLocality         : Paris
+locality                 : Paris
+habitat                  : environs de Canto equateur environ 35 Canto LN T Schistet ne 4523 p
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 10394552
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0033_C2079353F.jpg
+
+verbatimCollectors       : Dept 19 1951 Vesicularia vesicularis (Schwaegr) Broth Coll R Magill Above Porto do Mangalebe Oct 15 th No 6598-A Alto Rio m
+collectedBy              : R. Magill
+secondaryCollectors      : N/A
+recordNumber             : 6598-A
+verbatimEventDate        : Oct 15 th
+minimumEventDate         : 1951-10-15
+maximumEventDate         : N/A
+verbatimIdentification   : Vesicularia vesicularis (Schwaegr) Broth
+latestScientificName     : Vesicularia vesicularis
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Above Porto do Mangalebe Alto Rio m
+locality                 : Above Porto do Mangalebe [precise locality unknown]
+habitat                  : bog in forest
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 3705867
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0070_C2000934F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Musci repnphoranthus arealomili - Mitt. ex Sull
+latestScientificName     : unsure and check
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : N/A
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : JUL 1948
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1277015
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0090_C0399191F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : APR 1956
+minimumEventDate         : 1956-04-00
+maximumEventDate         : N/A
+verbatimIdentification   : Campylopus proto-trachyblepharon (Herz,) L Wats
+latestScientificName     : Campylopus proto-trachyblepharon
+identifiedBy             : L Wats
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Santa Catarina
+secondPoliticalUnit      : N/A
+municipality             : Serra do Faú, Penẹuí
+verbatimLocality         : Barrancos da estrada
+locality                 : Serra do Faú, Penẹuí
+habitat                  : Barrancos da estrada
+verbatimElevation        : 1500 msm
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 392052
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0022_C2077586F.jpg
+
+verbatimCollectors       : Ynes Mexia No 5914
+collectedBy              : Y. Mexia
+secondaryCollectors      : N/A
+recordNumber             : 5914
+verbatimEventDate        : July 15 1931
+minimumEventDate         : 1931-07-15
+maximumEventDate         : N/A
+verbatimIdentification   : Pilostyles chlorophyllum (Wedd) Ost a district acord about 35 m alt about 30 m
+latestScientificName     : Pilostyles Mexia
+identifiedBy             : N/A
+verbatimDateIdentified   : unsure and check
+associatedTaxa           : prostrating log in woods
+country                  : Brazil
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : district acord, about 30 m, Abaretetuba
+locality                 : [precise locality unknown]
+habitat                  : prostrating log in woods
+verbatimElevation        : about 35 m alt
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 879839
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0037_C2079353F.jpg
+
+verbatimCollectors       : Dept 19 1921 Vasicularis magallanica (Spr) Nrodo Acto Punta de Marirade Sta Bertram Alto Rll m
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 6890-s
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Vasicularis magallanica (Spr) Nrodo
+latestScientificName     : N/A
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Dept 19 1921 Acto Punta de Marirade Sta Bertram Alto Rll m
+locality                 : [precise locality unknown]
+habitat                  : in forest
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 870867
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0001_C2077563F.jpg
+
+verbatimCollectors       : Herings citate (Herb) P Beauv
+collectedBy              : P. Beauv
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Hedwigia albicans (Web)Lindb cenueus environ le Caire
+latestScientificName     : Hedwigia albicans
+identifiedBy             : unsure and check
+verbatimDateIdentified   : unsure and check
+associatedTaxa           : N/A
+country                  : Egypt
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Cairo
+verbatimLocality         : environ le Caire
+locality                 : [precise locality unknown]
+habitat                  : Rochers n° 4654 pp
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 10894552 may 1952
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0054_C2079596F.jpg
+
+verbatimCollectors       : Jaeg.
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : det. R. Ochyra 1996
+minimumEventDate         : 1996-01-01
+maximumEventDate         : 1996-12-31
+verbatimIdentification   : Isopterygium pulchellum (Brid.)
+latestScientificName     : Isopterygium pulchellum
+identifiedBy             : R. Ochyra
+verbatimDateIdentified   : det. R. Ochyra 1996
+associatedTaxa           : N/A
+country                  : N/A
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Jaeg.
+locality                 : [precise locality unknown]
+habitat                  : humi et truncis arborum ad rupes umbrosas Andium
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1182415
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0008_C2077573F.jpg
+
+verbatimCollectors       : J.Florschütz-de Waard & K.Zielman
+collectedBy              : J. Florschütz-de Waard
+secondaryCollectors      : K. Zielman
+recordNumber             : 1515
+verbatimEventDate        : 5 - 15 - 1981
+minimumEventDate         : 1981-05-15
+maximumEventDate         : N/A
+verbatimIdentification   : Pilopium chlorophyllum (Hornsch.)C.Müll.
+latestScientificName     : Pilopium chlorophyllum
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : on rotting log
+country                  : Suriname
+firstPoliticalUnit       : Brokopondo
+secondPoliticalUnit      : N/A
+municipality             : Dam project distr
+verbatimLocality         : Area of Kabalebo Dam project, distr. Brokopondo, line NW from road km 39.5, p. 50 sq. GE
+locality                 : Area of Kabalebo Dam project, line NW from road km 39.5, p. 50 sq. GE
+habitat                  : Secondary wood with Cecropia (hoepapaja)
+verbatimElevation        : ALT.0-50 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1640811
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0000_C0020034F.jpg
+
+verbatimCollectors       : Collected and Determined by R. M. Schuster
+collectedBy              : R. M. Schuster
+secondaryCollectors      : N/A
+recordNumber             : 68-1644
+verbatimEventDate        : Aug. 17 1968
+minimumEventDate         : 1968-08-17
+maximumEventDate         : N/A
+verbatimIdentification   : Anastrophyllum minutum + gem.
+latestScientificName     : Anastrophyllum minutum
+identifiedBy             : R. M. Schuster
+verbatimDateIdentified   : Aug. 17 1968
+associatedTaxa           : Diplophyllum taxifolium + gemmae 68-1644a
+country                  : Canada
+firstPoliticalUnit       : Newfoundland
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Along Humber R., in Squires Memorial Park, near Rte 1A
+locality                 : Along Humber River, in Squires Memorial Park, near Route 1A
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 68-1644
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0085_C0342107F.jpg
+
+verbatimCollectors       : Collected by the Rio Negro Summit QMT90'5, 66050'W
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : on branches at summit, 12 July 1979
+minimumEventDate         : 1979-07-12
+maximumEventDate         : N/A
+verbatimIdentification   : PROJETO FLORA AMAZÔNICA CRIPTOGAMS OF AMAZONAS, BRAZIL Collected along the Rio Negro between Manaus and Sao Gabriel Hookeriopsis parkeriana (Hook & Grev) Jaeg Slopes and summit of Serra Curicuriari from Igarape Araua' of the Rio Curj curi at summit, QMO90'S, 66O5Q'W ca 450 m at summit
+latestScientificName     : Hookeriopsis parkeriana
+identifiedBy             : Jaeg
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Amazonas
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Collected along the Rio Negro between Manaus and Sao Gabriel Slopes and summit of Serra Curicuriari from Igarape Araua' of the Rio Curj curi at summit, ca 450 m at summit
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : ca 450 m at summit
+verbatimCoordinates      : QMO90'S, 66O5Q'W
+otherCatalogNumbers      : 1315 5345
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0056_C2079598F.jpg
+
+verbatimCollectors       : LEG IDROBO EVANS SCHULTES DEC, 1950
+collectedBy              : L. Idrobo Evans Schultes
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : DEC, 1950
+minimumEventDate         : 1950-12-00
+maximumEventDate         : N/A
+verbatimIdentification   : Isopterygium tenerum (Sw.) Mitt.
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : R. R. Ireland
+verbatimDateIdentified   : 19 88
+associatedTaxa           : Imprecisa del Mosa: afredodores de Villavicencio Alt. 500 m.
+country                  : Colombia
+firstPoliticalUnit       : Meta
+secondPoliticalUnit      : Villavicencio
+municipality             : N/A
+verbatimLocality         : Imprecisa del Meta: afredodores de Villavicencio
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : Alt. 500 m.
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : No. 1055473
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0031_C2079351F.jpg
+
+verbatimCollectors       : Vesicularia amphibola (Spruce) Broth det Bartram
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : Nov 26 1901
+minimumEventDate         : 1901-11-26
+maximumEventDate         : N/A
+verbatimIdentification   : N/A
+latestScientificName     : Vesicularia amphibola
+identifiedBy             : Bartram
+verbatimDateIdentified   : Nov 26 1901
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Rio Santiago
+verbatimLocality         : Dense forest on log
+locality                 : [precise locality unknown]
+habitat                  : Dense forest on log
+verbatimElevation        : alt 200 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 8733307
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0052_C2079598F.jpg
+
+verbatimCollectors       : Leg HUERTAS EVAZ ROBERTO Dec 1950
+collectedBy              : R. HUERTAS EVAZ
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : Dec 1950
+minimumEventDate         : 1950-12-00
+maximumEventDate         : N/A
+verbatimIdentification   : Isoptorygium tenerum (Sw) Mitt
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : R R Ireland
+verbatimDateIdentified   : 1988
+associatedTaxa           : N/A
+country                  : Colombia
+firstPoliticalUnit       : Meta
+secondPoliticalUnit      : Villavicencio
+municipality             : N/A
+verbatimLocality         : Intendencia del Meta alrededores de Villavicencio Alt 500 m
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : Alt 500 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : No 1055473
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0050_C2079596F.jpg
+
+verbatimCollectors       : Jaeg
+collectedBy              : Jaeg
+secondaryCollectors      : N/A
+recordNumber             : det R Ochyra 1996
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Isopterygium pulchellum (Brid) Jaeg
+latestScientificName     : Isopterygium pulchellum
+identifiedBy             : R. Ochyra
+verbatimDateIdentified   : 1996
+associatedTaxa           : N/A
+country                  : N/A
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : N/A
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1182415
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0046_C2079720F.jpg
+
+verbatimCollectors       : E. E. Alcano (Herz.)
+collectedBy              : E. E. Alcano
+secondaryCollectors      : N/A
+recordNumber             : 1048563
+verbatimEventDate        : Det. M. Buck, 1980
+minimumEventDate         : 1980-00-00
+maximumEventDate         : N/A
+verbatimIdentification   : Bryophyta of Bolivia
+latestScientificName     : Entodon cf. nano-climacium C.M.
+identifiedBy             : M. Buck
+verbatimDateIdentified   : 1980
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : N/A
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1048563
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0035_C2079351F.jpg
+
+verbatimCollectors       : Leg A Bornmuller
+collectedBy              : A. Bornmuller
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : Nov 26 1901
+minimumEventDate         : 1901-11-26
+maximumEventDate         : N/A
+verbatimIdentification   : Field Museum of Natural History, Cryptogamic Herbarium, Plants of Peru
+latestScientificName     : N/A
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : Dpto Junin
+municipality             : near Tarma
+verbatimLocality         : Alt. 200 m, right bank of Rio Santiago, Dense forest on log
+locality                 : right bank of Rio Santiago, Dense forest on log
+habitat                  : Dense forest on log
+verbatimElevation        : Alt. 200 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 8733367
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0086_C0341117F.jpg
+
+verbatimCollectors       : Leg PAZ Heerwald
+collectedBy              : P. A. Z. Heerwald
+secondaryCollectors      : N/A
+recordNumber             : 3
+verbatimEventDate        : 31.8.1971
+minimumEventDate         : 1971-08-31
+maximumEventDate         : N/A
+verbatimIdentification   : Modiola von Peru
+latestScientificName     : N/A
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Chachapoyas
+verbatimLocality         : Las Palmas zw. Balsas u. Leimebamba
+locality                 : Las Palmas [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : 3000 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1061647
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0051_C2079721F.jpg
+
+verbatimCollectors       : C E Hitchc (Corr)
+collectedBy              : C. E. Hitchc
+secondaryCollectors      : N/A
+recordNumber             : 1068759
+verbatimEventDate        : 22 March 1979
+minimumEventDate         : 1979-03-22
+maximumEventDate         : N/A
+verbatimIdentification   : Bryophyta of Bolivia
+latestScientificName     : Entodon nano-climacium
+identifiedBy             : W. R. Buck
+verbatimDateIdentified   : Dec 1980
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : La Paz
+secondPoliticalUnit      : Prov Larecaja
+municipality             : N/A
+verbatimLocality         : Very shaky ground along creek in humid shrubs 2500 m Near large red outcrop 2 mi from Sorata down Rio Consata 15° 41' S 68° 43' W
+locality                 : Near large red outcrop 2 miles from Sorata down Rio Consata
+habitat                  : Very shaky ground along creek in humid shrubs
+verbatimElevation        : 2500 m
+verbatimCoordinates      : 15° 41' S 68° 43' W
+otherCatalogNumbers      : 1068759
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0061_C2079603F.jpg
+
+verbatimCollectors       : Yvue Mexia, No. 5441
+collectedBy              : Y. Mexia
+secondaryCollectors      : N/A
+recordNumber             : 5441
+verbatimEventDate        : Dec 5, 1930
+minimumEventDate         : 1930-12-05
+maximumEventDate         : N/A
+verbatimIdentification   : LAMIACEAE (LABIATAE) Hyptis brevipes Poit. Det. J. Mathew
+latestScientificName     : Hyptis brevipes
+identifiedBy             : J. Mathew
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Minas Gerais
+secondPoliticalUnit      : N/A
+municipality             : Tombador Bocca da Matta
+verbatimLocality         : Base of Reisenzinni Mill Abundabut On rotting log, in woods 970 m Legit
+locality                 : Base of Reisenzinni Mill
+habitat                  : On rotting log, in woods
+verbatimElevation        : 970 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 879823
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0029_C2078928F.jpg
+
+verbatimCollectors       : BR Ochyra 1982
+collectedBy              : B. R. Ochyra
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : Oct E Ochyra 1982
+minimumEventDate         : 1982-10-00
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium calliergonoides Broth
+latestScientificName     : Brachythecium calliergonoides
+identifiedBy             : H. Ochyra
+verbatimDateIdentified   : det H Ochyra 1982
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Oruro
+secondPoliticalUnit      : Sajama
+municipality             : Rio Janchuma
+verbatimLocality         : 2 mi down river from Aguas termales de Rio Janchuma Khuchu 4350 m 18º 07' S 69º 00' W in warmish creek
+locality                 : 2 miles down river from Aguas termales de Rio Janchuma Khuchu in warmish creek
+habitat                  : N/A
+verbatimElevation        : 4350 m
+verbatimCoordinates      : 18º 07' S 69º 00' W
+otherCatalogNumbers      : 1049409
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0028_C2078927F.jpg
+
+verbatimCollectors       : Leg. M. Okhyta
+collectedBy              : M. Okhyta
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : Det. 8. V. 1982
+minimumEventDate         : 1982-05-08
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium callie-montium Kinth in Harv
+latestScientificName     : Brachythecium callie-montium
+identifiedBy             : L. Hulkhy
+verbatimDateIdentified   : 25 May 1979
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Oruro Prov Sajama Rio
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Junthuma Khuchu 2 mi down river from Aguas termales de Rio the thuma Khuchu 4350 m 13º 07' S 69º 00' W In warmish creek
+locality                 : 2 miles down river from Aguas termales de Rio the thuma Khuchu In warmish creek
+habitat                  : N/A
+verbatimElevation        : 4350 m
+verbatimCoordinates      : 13º 07' S 69º 00' W
+otherCatalogNumbers      : 1019407
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0069_C2000932F.jpg
+
+verbatimCollectors       : Gift of Elmer J Richards
+collectedBy              : E. Bethel
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : Aug 1946
+minimumEventDate         : 1946-08-00
+maximumEventDate         : N/A
+verbatimIdentification   : Pogonatum urnigerum (L) Pal Beauv & ic
+latestScientificName     : Pogonatum urnigerum
+identifiedBy             : unsure and check
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : N/A
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Mixed spruces-fir climax, Natural History Museum Chicago
+locality                 : [precise locality unknown] Natural History Museum Chicago
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1134391
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0039_C2079355F.jpg
+
+verbatimCollectors       : From Maclaurgh, Barton
+collectedBy              : Maclaurgh
+secondaryCollectors      : Barton
+recordNumber             : N/A
+verbatimEventDate        : Jan 8 1932
+minimumEventDate         : 1932-01-08
+maximumEventDate         : N/A
+verbatimIdentification   : Cysticthalium planum (Brid) Mitt
+latestScientificName     : Pleurochaete squarrosa
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : Departamento de Loreto
+secondPoliticalUnit      : N/A
+municipality             : Yurimaguas
+verbatimLocality         : Above Pumpo de Maseriche Greek Incbee in rotten log
+locality                 : Above Pumpo de Maseriche Greek Incbee in rotten log
+habitat                  : N/A
+verbatimElevation        : Alt 315 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1029121
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0028_C2078931F.jpg
+
+verbatimCollectors       : Marko Ćećez no 79-2107
+collectedBy              : M. Ćećez
+secondaryCollectors      : N/A
+recordNumber             : 79-2107
+verbatimEventDate        : 25 May 1979
+minimumEventDate         : 1979-05-25
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium calliergonoides Broth in Bor
+latestScientificName     : Brachythecium calliergonoides
+identifiedBy             : R. M. Schutz
+verbatimDateIdentified   : Oct 6 1982
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Cochabamba
+secondPoliticalUnit      : Ayopaya
+municipality             : Rio Junthuma
+verbatimLocality         : Khuchu 2 ml deep river from Aguas termales de Rio Junthuma Khuchu 8850 m 18° 07' N 66° 50' W in warmish creek
+locality                 : Khuchu 2 miles deep river from Aguas termales de Rio Junthuma Khuchu in warmish creek [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : 8850 m
+verbatimCoordinates      : 18° 07' N 66° 50' W
+otherCatalogNumbers      : 1049404
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0003_C0025164F.jpg
+
+verbatimCollectors       : Collected and Determined by R M Schuster
+collectedBy              : R. M. Schuster
+secondaryCollectors      : N/A
+recordNumber             : 79-488
+verbatimEventDate        : April 14 1979
+minimumEventDate         : 1979-04-14
+maximumEventDate         : N/A
+verbatimIdentification   : Frullania asagrayana
+latestScientificName     : Frullania asagrayana
+identifiedBy             : R. M. Schuster
+verbatimDateIdentified   : April 14 1979
+associatedTaxa           : N/A
+country                  : United States
+firstPoliticalUnit       : Arkansas
+secondPoliticalUnit      : Stone County
+municipality             : N/A
+verbatimLocality         : Ozark Natl Forest Barkshed Camp ca 10 mi E of Big Flat
+locality                 : Ozark National Forest, Barkshed Camp, ca. 10 miles East of Big Flat
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : No 79-488
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0029_C2078932F.jpg
+
+verbatimCollectors       : Mario Lewis no 79-2119
+collectedBy              : M. Lewis
+secondaryCollectors      : N/A
+recordNumber             : 79-2119
+verbatimEventDate        : 25 May 1979
+minimumEventDate         : 1979-05-25
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium callistegionoides BROTH in HERZ
+latestScientificName     : Brachythecium callistegionoides
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Jumbuma Khuchu
+secondPoliticalUnit      : Rio Jumbuma Khuchu
+municipality             : 2 mi down river from Aquas termales de Rio Jumbuma Khuchu 4350 m 18° 07' S 69° 00' W In warmish creek
+verbatimLocality         : Depto ORURO PROV SAJAMA Rio Jumbuma Khuchu 2 mi down river from Aguas termales de Rio Jumbuma Khuchu 4350 m 18° 07' S 69° 00' W In warmish creek
+locality                 : 2 miles down river from Aguas termales de Rio
+habitat                  : In warmish creek
+verbatimElevation        : 4350 m
+verbatimCoordinates      : 18° 07' S 69° 00' W
+otherCatalogNumbers      : 1049412
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0008_C2077568F.jpg
+
+verbatimCollectors       : Legit Herrero Hedwig P Beauv
+collectedBy              : H. P. Beauv.
+secondaryCollectors      : N/A
+recordNumber             : 79-1134
+verbatimEventDate        : 6 March 1979
+minimumEventDate         : 1979-03-06
+maximumEventDate         : N/A
+verbatimIdentification   : Hedwigia ciliata (Hedw) P Beauv
+latestScientificName     : Hedwigia ciliata
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : La Paz
+secondPoliticalUnit      : Prov Saavedra
+municipality             : On mountain side directly N of river beneath Nino Karine NNW of Charazani
+verbatimLocality         : Humid cliffs and steep stones 3320 m DEPTO LA PAZ PROV SAAVEDRA On mountain side directly N of river beneath Nino Karine NNW of Charazani
+locality                 : On mountain side directly N of river beneath Nino Karine NNW of Charazani, humid cliffs and steep stones, 3320 meters
+habitat                  : N/A
+verbatimElevation        : Humid cliffs and steep stones 3320 m
+verbatimCoordinates      : 13 08 S 69 04 W
+otherCatalogNumbers      : 1032220
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0039_C2079359F.jpg
+
+verbatimCollectors       : Leg Barbara
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 1200
+verbatimEventDate        : May 14, 1936
+minimumEventDate         : 1936-05-14
+maximumEventDate         : N/A
+verbatimIdentification   : Yoxicularla amphibolla (Spreng) Spoth, in mixture, Cat Barbara
+latestScientificName     : Vecicularia amphibolia
+identifiedBy             : Spoth
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : La Convencion; upper valley of the Sambaray; affluent of the Vilcanota; on rotten loge in virgin forest
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Peru, La Convencion; upper valley of the Sambaray; affluent of the Vilcanota; on rotten loge in virgin forest
+locality                 : Upper valley of the Sambaray; affluent of the Vilcanota; on rotten loge in virgin forest
+habitat                  : In virgin forest
+verbatimElevation        : Alt 1800 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 10339122
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0064_C2079856F.jpg
+
+verbatimCollectors       : The Field Museum Botany Dept So Amer Plants
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : July 6, 1936
+minimumEventDate         : 1936-07-06
+maximumEventDate         : N/A
+verbatimIdentification   : Plants of Brazil Isopterygium tenerum (Sw.) Mitt. Revision R. R. Ireland 1988 National Herbarium of Canada (CANM)
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : R. R. Ireland
+verbatimDateIdentified   : 1988
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Minas Gerais
+secondPoliticalUnit      : Viçosa
+municipality             : Viçosa
+verbatimLocality         : Isopterygium tenerum (Sw.) Mitt. Revision R. R. Ireland 1988 National Herbarium of Canada (CANM)
+locality                 : [precise locality unknown]
+habitat                  : Cut over woods near base, on rotting log. Abundant.
+verbatimElevation        : ca. 600 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 87057
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0018_C2077586F.jpg
+
+verbatimCollectors       : Ynés Mexia, No. 5214
+collectedBy              : Y. Mexia
+secondaryCollectors      : N/A
+recordNumber             : 5214
+verbatimEventDate        : July 12, 1931
+minimumEventDate         : 1931-07-12
+maximumEventDate         : N/A
+verbatimIdentification   : Filarium Chlorophyllosum (Mich) Crd Grt Bartram
+latestScientificName     : Filarium chlorophyllosum
+identifiedBy             : Grt, Bartram
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Districto Acará
+verbatimLocality         : Phone Assu, Japanese Colony
+locality                 : Phone Assu, Japanese Colony [precise locality unknown]
+habitat                  : rotting log in woods
+verbatimElevation        : about 30 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 879839
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0007_C2077571F.jpg
+
+verbatimCollectors       : Nno Mexia
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 9089a
+verbatimEventDate        : Jan 7 1931
+minimumEventDate         : 1931-01-07
+maximumEventDate         : N/A
+verbatimIdentification   : PLANTS OF PERU Dept concho de loreto Mussumsudis lerruphyllum L f
+latestScientificName     : Mussunodis leruphyllum
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : unsure and check
+secondPoliticalUnit      : unsure and check
+municipality             : unsure and check
+verbatimLocality         : Streamlet near mouth of Rio Santiago on fallen log
+locality                 : Streamlet near mouth of Rio Santiago on fallen log
+habitat                  : N/A
+verbatimElevation        : alt 200 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 2996478
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0036_C2079356F.jpg
+
+verbatimCollectors       : Above Dingo St Mangoche
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : Jan 1963
+minimumEventDate         : 1963-01-00
+maximumEventDate         : N/A
+verbatimIdentification   : Verbascum virgatum Stokes
+latestScientificName     : Verbascum virgatum
+identifiedBy             : J Hunziker
+verbatimDateIdentified   : 14 Feb 1964
+associatedTaxa           : N/A
+country                  : Malawi
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Mangoche
+verbatimLocality         : Above Dingo St
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : alt 1540 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 879880
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0005_C2077569F.jpg
+
+verbatimCollectors       : F J Hemann
+collectedBy              : F. J. Hemann
+secondaryCollectors      : N/A
+recordNumber             : 25152
+verbatimEventDate        : December 27 1972
+minimumEventDate         : 1972-12-27
+maximumEventDate         : N/A
+verbatimIdentification   : Hedwigia ciliata (Hedw) P Beauv
+latestScientificName     : Hedwigia ciliata
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Cochabamba
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Dept de Cochabamba on conglomerate boulder on shrubby NM slope of Mt Tunari near Liriuni Aguas Termales Hotel alt ca 2700 m 28 km NW
+locality                 : on conglomerate boulder on shrubby NM slope of Mt. Tunari, near Liriuni Aguas Termales Hotel, [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : ca 2700 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1040675
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0049_C2079718F.jpg
+
+verbatimCollectors       : L e Vesconte
+collectedBy              : L. E. Vesconte
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : April 01, 1931
+minimumEventDate         : 1931-04-01
+maximumEventDate         : N/A
+verbatimIdentification   : PLANTS OF BRAZIL State of Minas Geraes Corinto Cat Barbosa Alt. 800 m Fascicle de Diamante Campo Zizirico Base of living tree in shade
+latestScientificName     : Frullania sp.
+identifiedBy             : R. M. Schuster
+verbatimDateIdentified   : April 01, 1931
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Minas Gerais
+secondPoliticalUnit      : N/A
+municipality             : Corinto
+verbatimLocality         : Cat Barbosa Campo Zizirico Base of living tree in shade
+locality                 : Cat Barbosa [precise locality unknown]
+habitat                  : Base of living tree in shade
+verbatimElevation        : Alt. 800 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 870848
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0007_C2077567F.jpg
+
+verbatimCollectors       : Efrain De Luna, 1992 Duke University Herbarium
+collectedBy              : E. De Luna
+secondaryCollectors      : N/A
+recordNumber             : 1992
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Hedwigia ciliata (Hedw.) P Beauv
+latestScientificName     : Hedwigia ciliata
+identifiedBy             : P. Beauv.
+verbatimDateIdentified   : s.d.
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : La Paz
+secondPoliticalUnit      : Prov Larecaja
+municipality             : Near large red outcrop 2 mi from Sorata down Rio Consata
+verbatimLocality         : Near large red outcrop 2 mi from Sorata down Rio Consata, 13° 41' S, 68° 43' W
+locality                 : Near large red outcrop 2 miles from Sorata down Rio Consata
+habitat                  : Bromeliad-grass habitat on exposed cliffs, 2630 m
+verbatimElevation        : 2630 m
+verbatimCoordinates      : 13° 41' S, 68° 43' W
+otherCatalogNumbers      : 1032219
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0074_C1042257F.jpg
+
+verbatimCollectors       : det S Churchill Jun 2004
+collectedBy              : S. Churchill
+secondaryCollectors      : N/A
+recordNumber             : 29858
+verbatimEventDate        : 12 May 2004
+minimumEventDate         : 2004-05-12
+maximumEventDate         : N/A
+verbatimIdentification   : Neckeraceae Neckera scabridens C Müller
+latestScientificName     : Neckeropsis undulata
+identifiedBy             : S. Churchill
+verbatimDateIdentified   : Jun 2004
+associatedTaxa           : Belisario Boeto | Prumnopitys exigua | Myricanthes
+country                  : Bolivia
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Villa Serrano
+verbatimLocality         : Chuquisaca Belisario Boeto Monte Grande ca 32 km de Villa Serrano Bosque montano de yungas Con Prumnopitys exigua Podocarpus Myricanthes
+locality                 : Monte Grande, ca. 32 kilometers from Villa Serrano
+habitat                  : Podocarpus forest
+verbatimElevation        : 2740 m
+verbatimCoordinates      : 19°43'46"S 64°07'47"W
+otherCatalogNumbers      : 1193467
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0048_C2079717F.jpg
+
+verbatimCollectors       : Flora of venezuela Bryophytes of the venezuelan paramos
+collectedBy              : Entodon jamesoni (tayl) Broth
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Flora of venezuela Bryophytes of the venezuelan paramos Entodon jamesoni (tayl) Broth Determined by Diana Griffin III Sobre roca + seca, a sombra ESTADO MERIDA: páramo de Los Granates, finca de Los Granates, a lo largo del río de Las Gonzáles y de las lomas cercanas. Alt 3,000-3,100 m, 20 feb 1987
+latestScientificName     : Entodon jamesoni
+identifiedBy             : Diana Griffin III
+verbatimDateIdentified   : N/A
+associatedTaxa           : Sobre roca + seca, a sombra
+country                  : Venezuela
+firstPoliticalUnit       : Merida
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : páramo de Los Granates, finca de Los Granates, a lo largo del río de Las Gonzáles y de las lomas cercanas
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : Alt 3,000-3,100 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1064416
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0092_C0679858F.jpg
+
+verbatimCollectors       : Sch leg Jeannet B et al
+collectedBy              : B. Sch
+secondaryCollectors      : Jeannet | et al.
+recordNumber             : s.n.
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Campylopus brasiliae
+latestScientificName     : Campylopus pilifer
+identifiedBy             : D. M. Vital
+verbatimDateIdentified   : in der Strasse No 2 zwischen Serro und Datas südlich Diamantina
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : unsure and check
+secondPoliticalUnit      : unsure and check
+municipality             : unsure and check
+verbatimLocality         : in der Strasse No 2 zwischen Serro und Datas südlich Diamantina
+locality                 : [precise locality unknown]
+habitat                  : offen exponierten zeitweise überrieselten Gesteinblöcken eines lückdichtenreichen Berghanges
+verbatimElevation        : 30.7.1977
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1026008
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0019_C2077582F.jpg
+
+verbatimCollectors       : On rotten logs
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : October 1-6, 1931
+minimumEventDate         : 1931-10-01
+maximumEventDate         : 1931-10-06
+verbatimIdentification   : Piloclus chlorophyllus (Hornsch.) C.M.
+latestScientificName     : Piloclus chlorophyllus
+identifiedBy             : R. A. Crum, 1956
+verbatimDateIdentified   : Det. R. A. Crum, 1956
+associatedTaxa           : N/A
+country                  : unsure and check
+firstPoliticalUnit       : unsure and check
+secondPoliticalUnit      : unsure and check
+municipality             : unsure and check
+verbatimLocality         : On rotten logs
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1055491
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0003_C2077567F.jpg
+
+verbatimCollectors       : Det Efraim De Luna 1992 Duke University Herbarium
+collectedBy              : M. Lewis
+secondaryCollectors      : no
+recordNumber             : 79-1232
+verbatimEventDate        : 22 March 1979
+minimumEventDate         : 1979-03-22
+maximumEventDate         : N/A
+verbatimIdentification   : Hedwigia ciliata (Hedw) P Beauv
+latestScientificName     : Hedwigia ciliata
+identifiedBy             : E. De Luna
+verbatimDateIdentified   : 1992
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : La Paz
+secondPoliticalUnit      : Prov Larecaja
+municipality             : Near large red outcrop 2 mi. from Sorata down Río Consata
+verbatimLocality         : Bromeliad-grass habitat on exposed cliffs 2630 m
+locality                 : Near large red outcrop 2 miles from Sorata down Río Consata bromeliad-grass habitat on exposed cliffs
+habitat                  : Bromeliad-grass habitat on exposed cliffs
+verbatimElevation        : 2630 m
+verbatimCoordinates      : 15° 41' S 68° 43' W
+otherCatalogNumbers      : 1032219
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0099_C0341787F.jpg
+
+verbatimCollectors       : Herb. Acad. Rheno-Traj.
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : dd. 24.IX.1976
+minimumEventDate         : 1976-09-24
+maximumEventDate         : N/A
+verbatimIdentification   : GALAPAGOS ISLANDS, Isla Florenca. Psidium guajava woodland and pampos east of Grus Farm, on rather dry shaded rocks. am. 250-550 m Leg. S. R. Gradstein & W. A. Weber Assoc. M 58 det. W.A.Weber
+latestScientificName     : Rhacopilus tomentosus (Hedw.)Brid.
+identifiedBy             : W. A. Weber
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Ecuador
+firstPoliticalUnit       : Galápagos Islands
+secondPoliticalUnit      : Isla Florenca
+municipality             : N/A
+verbatimLocality         : Psidium guajava woodland and pampos east of Grus Farm, on rather dry shaded rocks.
+locality                 : Psidium guajava woodland and pampos east of Grus Farm, on rather dry shaded rocks.
+habitat                  : Psidium guajava woodland and pampos east of Grus Farm, on rather dry shaded rocks.
+verbatimElevation        : am. 250-550 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1023912
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0058_C2079604F.jpg
+
+verbatimCollectors       : H. E. Prain, R. M. Harley, G. L. Smith
+collectedBy              : H. E. Prain
+secondaryCollectors      : R. M. Harley | G. L. Smith
+recordNumber             : 11712
+verbatimEventDate        : Valley of the Rio das Ondas
+minimumEventDate         : unsure and check
+maximumEventDate         : N/A
+verbatimIdentification   : Isopterygium tenerum (Sw.) Mitt.
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : R. R. Ireland
+verbatimDateIdentified   : 1986
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Valley of the Rio das Ondas, On the bark and exposed roots of Capoeirinha sp. and on adjacent soil, at places cut-over gallery forest and adjacent cerrado, ca. 150m W. of Barreiras, elev. ca. 500m.
+locality                 : Valley of the Rio das Ondas, On the bark and exposed roots of Capoeirinha sp. and on adjacent soil, at places cut-over gallery forest and adjacent cerrado, ca. 150 meters W. of Barreiras
+habitat                  : cut-over gallery forest and adjacent cerrado
+verbatimElevation        : ca. 500m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1059328
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0034_C2079354F.jpg
+
+verbatimCollectors       : Plants of Peru (Departmento de Loreto) Ynes Mexia, No. 6353-a
+collectedBy              : Y. Mexia
+secondaryCollectors      : N/A
+recordNumber             : 6353-a
+verbatimEventDate        : Jan. 2, 1932
+minimumEventDate         : 1932-01-02
+maximumEventDate         : N/A
+verbatimIdentification   : CRYPTOCARPHA HERBARIUM FIELD MUSEUM OF NATURAL HISTORY Hertelia capillata
+latestScientificName     : Hertelia capillata
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : Loreto
+secondPoliticalUnit      : N/A
+municipality             : Iquitos
+verbatimLocality         : Above Pongo de Manseriche alt. 210 m.
+locality                 : Above Pongo de Manseriche
+habitat                  : On earth collected on inclined tree trunk.
+verbatimElevation        : alt. 210 m.
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 873369
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0012_C2077573F.jpg
+
+verbatimCollectors       : J.Florschütz-de Waard & K.Zielman
+collectedBy              : J. Florschütz-de Waard
+secondaryCollectors      : K. Zielman
+recordNumber             : 5933
+verbatimEventDate        : 9 - 11 - 1981
+minimumEventDate         : 1981-11-09
+maximumEventDate         : N/A
+verbatimIdentification   : Pilopogon chlorophyllum (Hornsch.)C.Müll.
+latestScientificName     : Pilopogon chlorophyllum
+identifiedBy             : J. Florschütz-de Waard
+verbatimDateIdentified   : 9 - 11 - 1981
+associatedTaxa           : N/A
+country                  : Suriname
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : Brokopondo
+municipality             : N/A
+verbatimLocality         : Dam project, distr. Brokopondo Dam from road km 39.5, p. 50 294 GH
+locality                 : Dam project, from road km 39.5
+habitat                  : Secondary wood with Cecropia (bospapaja) on rotting log
+verbatimElevation        : alt. 0-50 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1673523 1040101
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0024_C2078913F.jpg
+
+verbatimCollectors       : Dupl ex Naturhistoriska Riksmuseet, Stockholm (S)
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : 22 February 1897
+minimumEventDate         : 1897-02-22
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium albicans (Hedw) Schimp
+latestScientificName     : Brachythecium albicans
+identifiedBy             : P. Dusén 5872
+verbatimDateIdentified   : 22 February 1897
+associatedTaxa           : N/A
+country                  : Chile
+firstPoliticalUnit       : Patagonia occident
+secondPoliticalUnit      : Cerro Colorado
+municipality             : N/A
+verbatimLocality         : N/A
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : 3 ms pr
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 2136354
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0083_C0679948F.jpg
+
+verbatimCollectors       : J P Frahm
+collectedBy              : J. P. Frahm
+secondaryCollectors      : N/A
+recordNumber             : 394
+verbatimEventDate        : 5.9.1982
+minimumEventDate         : 1982-09-05
+maximumEventDate         : N/A
+verbatimIdentification   : 75. Campylopus richardii BRID.
+latestScientificName     : Campylopus exsiccatae
+identifiedBy             : J. P. Frahm
+verbatimDateIdentified   : 5.9.1982
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : Amazonas Prov
+secondPoliticalUnit      : Chachapoyas
+municipality             : Cajamarca km
+verbatimLocality         : Straße Chachapoyas - Cajamarca km 413
+locality                 : Straße 413
+habitat                  : auf feuchtem Erdboden am Straßenrand 3000m
+verbatimElevation        : 3000m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1053585
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0082_C2055747F.jpg
+
+verbatimCollectors       : P Chiappini & G C Grazzini
+collectedBy              : P. Chiappini
+secondaryCollectors      : G. C. Grazzini
+recordNumber             : N/A
+verbatimEventDate        : Aprile 1981
+minimumEventDate         : 1981-04-00
+maximumEventDate         : N/A
+verbatimIdentification   : Erbario Crittogamico Italiano Societa Ottograficolegica Italiana Serie II Fascicolo XXI e XXII Carduus Nutans Aprile 1981
+latestScientificName     : unsure and check
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Italy
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Milano
+verbatimLocality         : Milano
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 982275
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0017_C2077585F.jpg
+
+verbatimCollectors       : J Pifano
+collectedBy              : J. Pifano
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : Aug 31 1927
+minimumEventDate         : 1927-08-31
+maximumEventDate         : N/A
+verbatimIdentification   : Pilosum chlorophyllum (Wagl) CM
+latestScientificName     : Pilosum chlorophyllum
+identifiedBy             : C.M.
+verbatimDateIdentified   : s.d.
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Therezina
+verbatimLocality         : Therezina on fallen log
+locality                 : on fallen log
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : R139
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0043_C2079359F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Vesicularia amphibola (Sprx) Broth in Pittier, Cat Bartram
+latestScientificName     : Vesicularia amphibola
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Peru
+firstPoliticalUnit       : La Convencion; upper valley of the Sambray; affluent of the Vilcanota; on rotten logs in virgin forest
+secondPoliticalUnit      : Cuzco
+municipality             : N/A
+verbatimLocality         : La Convencion; upper valley of the Sambray; affluent of the Vilcanota; on rotten logs in virgin forest
+locality                 : [precise locality unknown]
+habitat                  : on rotten logs in virgin forest
+verbatimElevation        : alt 1800 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1089422
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0060_C2079607F.jpg
+
+verbatimCollectors       : Leg. Mertens
+collectedBy              : Leg. Mertens
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : May 12, 1903
+minimumEventDate         : 1903-05-12
+maximumEventDate         : N/A
+verbatimIdentification   : Fascada de Cresicana Wood ex Krause
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : R. R. Ireland
+verbatimDateIdentified   : 1988
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : Santa Maria
+verbatimLocality         : Laphergeria cuneifolia CJ Mitt ex F Mull
+locality                 : [precise locality unknown]
+habitat                  : On rotten log
+verbatimElevation        : 700 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 870839
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0062_C2079609F.jpg
+
+verbatimCollectors       : DONALD RICHARDS 1988
+collectedBy              : D. Richards
+secondaryCollectors      : N/A
+recordNumber             : 4649
+verbatimEventDate        : March 21, 1988
+minimumEventDate         : 1988-03-21
+maximumEventDate         : N/A
+verbatimIdentification   : Isopterygium tenerum (Sw) Mitt
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : R.R. Ireland 1988
+verbatimDateIdentified   : 1988
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : ROAD to Sao Miguel near to city Miguel 710m distance from margin of road cat tree woods on slope on rotting tree trunk
+locality                 : [precise locality unknown]
+habitat                  : Near de sao miguel road to city Miguel 710m Cat over woods on slope on rotting tree trunk
+verbatimElevation        : 710 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1039978
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0091_C0679855F.jpg
+
+verbatimCollectors       : Rio de Janeiro, Corcovado 600 m
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : 4.8.1977
+minimumEventDate         : 1977-08-04
+maximumEventDate         : N/A
+verbatimIdentification   : Campylopodes brasiliae exsiccatae
+latestScientificName     : Campylopus pilifer Brid.
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Rio de Janeiro
+secondPoliticalUnit      : N/A
+municipality             : Rio de Janeiro
+verbatimLocality         : Corcovado 600 m
+locality                 : Corcovado 600 meters
+habitat                  : an feuchten, zeitweise überrieselten W-exponierten Felsen
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1026006
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0041_C2079357F.jpg
+
+verbatimCollectors       : Vestcularia aophyella (Spr) Broth Coll J Bartram
+collectedBy              : J. Bartram
+secondaryCollectors      : N/A
+recordNumber             : 8377
+verbatimEventDate        : Jan 3 1938
+minimumEventDate         : 1938-01-03
+maximumEventDate         : N/A
+verbatimIdentification   : Vesicularia aophyella (Spr) Broth
+latestScientificName     : Vesicularia aophyella
+identifiedBy             : J. Bartram
+verbatimDateIdentified   : Jan 3 1938
+associatedTaxa           : N/A
+country                  : Panama
+firstPoliticalUnit       : Canal Zone
+secondPoliticalUnit      : N/A
+municipality             : Barro Colorado
+verbatimLocality         : unsure and check
+locality                 : [precise locality unknown]
+habitat                  : On rotten log
+verbatimElevation        : Alt 125 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 870873
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0063_C2079606F.jpg
+
+verbatimCollectors       : Isopterygium tenerum (Sw.) Mitt.
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : s.d.
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Isopterygium tenerum (Sw.) Mitt.
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Minas Gerais
+secondPoliticalUnit      : Viçosa
+municipality             : Agricultural College land
+verbatimLocality         : Viçosa Agricultural College land
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : ca. 700 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 4224, July 81, 1930, Det., Bartr.
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0061_C2079608F.jpg
+
+verbatimCollectors       : Donald Richards
+collectedBy              : D. Richards
+secondaryCollectors      : N/A
+recordNumber             : s.n.
+verbatimEventDate        : Jul 31, 1930
+minimumEventDate         : 1930-07-31
+maximumEventDate         : N/A
+verbatimIdentification   : Isopterygium tenerum (Sw) Mitt
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : R. R. Ireland 1988
+verbatimDateIdentified   : 1988
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Minas Gerais
+secondPoliticalUnit      : N/A
+municipality             : Vigos Agricultural College lands
+verbatimLocality         : Corriga Hibeiro, Shady streambank, on rotten log
+locality                 : Corriga Hibeiro, shady streambank, on rotten log
+habitat                  : N/A
+verbatimElevation        : 675 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1039977
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0020_C2078913F.jpg
+
+verbatimCollectors       : Dupl ex Naturhistoriska Riksmuseet, Stockholm (S)
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 1136354
+verbatimEventDate        : 22 February 1897
+minimumEventDate         : 1897-02-22
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium albicans (Hedw.) Schimp
+latestScientificName     : Brachythecium albicans
+identifiedBy             : P. Daalen 5/97
+verbatimDateIdentified   : 5/97
+associatedTaxa           : N/A
+country                  : Chile
+firstPoliticalUnit       : Patagonia occident
+secondPoliticalUnit      : Cerro Colorado
+municipality             : N/A
+verbatimLocality         : N/A
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 2136354
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0066_C2079609F.jpg
+
+verbatimCollectors       : D H Nicolson
+collectedBy              : D. H. Nicolson
+secondaryCollectors      : N/A
+recordNumber             : 2649
+verbatimEventDate        : March 31, 1960
+minimumEventDate         : 1960-03-31
+maximumEventDate         : N/A
+verbatimIdentification   : Asplerygiura curvicoilum (HJ) Mitt
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : R R Ireland
+verbatimDateIdentified   : 1998
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : State of Minas Geraia Road to Sao Miguel 3 Km west at Arepuaia On rotting tree trunks
+locality                 : Road to Sao Miguel, 3 km west at Arepuaia, on rotting tree trunks
+habitat                  : On rotting tree trunks
+verbatimElevation        : Alt 710 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1039978
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0064_C2079607F.jpg
+
+verbatimCollectors       : Yves Maska
+collectedBy              : Y. Maska
+secondaryCollectors      : N/A
+recordNumber             : 4686
+verbatimEventDate        : May 14, 1983
+minimumEventDate         : 1983-05-14
+maximumEventDate         : N/A
+verbatimIdentification   : Vignea pazcuarensis curvisolla (CA) Bitt ex F
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : N/A
+verbatimDateIdentified   : 19 88
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Minas Gerais
+secondPoliticalUnit      : N/A
+municipality             : Serra de Ouro
+verbatimLocality         : Um rotten log
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : alt 700 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 870839
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0031_C2078930F.jpg
+
+verbatimCollectors       : According to 'descriptionis Blatt' v torn
+collectedBy              : R. Ehrendorfer
+secondaryCollectors      : N/A
+recordNumber             : v.73-2118
+verbatimEventDate        : 26 May 1973
+minimumEventDate         : 1973-05-26
+maximumEventDate         : N/A
+verbatimIdentification   : Brachtheciellar calliergonoides Broth, in Herz
+latestScientificName     : Brachtheciellar calliergonoides
+identifiedBy             : M. Lewis
+verbatimDateIdentified   : 30-78-2118
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Rio Junthuma
+secondPoliticalUnit      : Oruro prov Sajama
+municipality             : Khuchi 4850 m
+verbatimLocality         : Khuchi 4850 m, 18°07' S, 69°00' W, in warmish creek
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : 4850 m
+verbatimCoordinates      : 18°07' S, 69°00' W
+otherCatalogNumbers      : 1049411
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0018_C2077579F.jpg
+
+verbatimCollectors       : E. Rob-Gladstein
+collectedBy              : E. Rob-Gladstein
+secondaryCollectors      : S. S. Gladstein
+recordNumber             : C076
+verbatimEventDate        : 8 March 1977
+minimumEventDate         : 1977-03-08
+maximumEventDate         : N/A
+verbatimIdentification   : Bryophyta neotropica exsiccata Fascicle no (1987) edited by E. Rob Gladstein distributed by the Institute of Systematic Botany Utrecht 217 Pilotum chlorophyllum (Hornsch) C Müll det J Florschütz de Waard GUYANA Mabura Hill 180 km S of Georgetown 5°20'N alt 0-50 m On rotting tree base in mixed rain forest H Cornelissen & S S Gladstein C076
+latestScientificName     : Pilotum chlorophyllum
+identifiedBy             : J. Florschütz de Waard
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Guyana
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Mabura Hill 180 km S of Georgetown 5°20'N
+locality                 : Mabura Hill 180 kilometers south of Georgetown
+habitat                  : On rotting tree base in mixed rain forest
+verbatimElevation        : alt 0-50 m
+verbatimCoordinates      : 5°20'N
+otherCatalogNumbers      : 1091586
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0067_C2079611F.jpg
+
+verbatimCollectors       : Revision by R.R. Ireland
+collectedBy              : R. R. Ireland
+secondaryCollectors      : N/A
+recordNumber             : 1988
+verbatimEventDate        : FEB 1952
+minimumEventDate         : 1952-02-00
+maximumEventDate         : N/A
+verbatimIdentification   : Isopterygium tenerum (Sw.) Mitt
+latestScientificName     : Isopterygium aurantiacum (C. M.) Jaeg
+identifiedBy             : A. J. Sharp
+verbatimDateIdentified   : FEB 1952
+associatedTaxa           : Neckera
+country                  : N/A
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : IN THE CRYPTOGAMIC HERBARIUM CHICAGO NATURAL HISTORY MUSEUM
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1016776
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0030_C2078929F.jpg
+
+verbatimCollectors       : Brecht R Ochyra, 1982
+collectedBy              : R. Ochyra
+secondaryCollectors      : N/A
+recordNumber             : 79-2117
+verbatimEventDate        : 25 May 1979
+minimumEventDate         : 1979-05-25
+maximumEventDate         : N/A
+verbatimIdentification   : Brothythecium callichronoiches Broth. in herb.
+latestScientificName     : Bryophyta of Bolivia
+identifiedBy             : N/A
+verbatimDateIdentified   : Oct. R. Ochyra, 1982
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Rio Junthuma
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Khuchu, 2 mi. down river from Aguas termales de Rio Junthuma Khuchu, 4350 m., 18° 07' S., 69° 00' W. In warmish creek
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : 4350 m
+verbatimCoordinates      : 18° 07' S., 69° 00' W.
+otherCatalogNumbers      : 1049410
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0097_C0341739F.jpg
+
+verbatimCollectors       : Collected in part by a team from National Geographic Society
+collectedBy              : Marko Lewis
+secondaryCollectors      : N/A
+recordNumber             : 83-503
+verbatimEventDate        : 7 Feb 1983
+minimumEventDate         : 1983-02-07
+maximumEventDate         : N/A
+verbatimIdentification   : Racophyllum tomentorum (Hedw.) Brid
+latestScientificName     : Racophyllum tomentorum
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : La Paz
+secondPoliticalUnit      : Nor Yungas
+municipality             : Coroico
+verbatimLocality         : 'Coroico' forest of Coroico along road between Coroico and Yolosa 16°11'S, 67°44'W
+locality                 : Along road between Coroico and Yolosa
+habitat                  : On rocks in shady fruit and coffee plantations On rocks in shady fruit orchard
+verbatimElevation        : ca 1650 m
+verbatimCoordinates      : 16°11'S, 67°44'W
+otherCatalogNumbers      : 1100456
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0059_C2079606F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Plants of Brazil State of Minas Geraes Isopterygium saprolaxum (C.M.) Mitt Mat Barros
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : S.R. Ireland
+verbatimDateIdentified   : 1988
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Minas Gerais
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : In the Cryptogamic Herbarium Field Museum of Natural History 870845
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 4994
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0032_C2078931F.jpg
+
+verbatimCollectors       : DEPTO ORURO PROV SAJAMA: Rio Jurikuma Khuchu 2 mi down river from Agues termales de Rio Jurikuma, in Sajama, 4650 m, 18° 07' S, 69° 00' W In warmish creek
+collectedBy              : Marko Lewis
+secondaryCollectors      : no 79-2107
+recordNumber             : no 79-2107
+verbatimEventDate        : 25 May 1979
+minimumEventDate         : 1979-05-25
+maximumEventDate         : N/A
+verbatimIdentification   : Brachythecium calliergonoides Broth in Herz
+latestScientificName     : Brachythecium calliergonoides
+identifiedBy             : det R Ochyra 1982
+verbatimDateIdentified   : 24 X 1982
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : Oruro
+secondPoliticalUnit      : Sajama
+municipality             : N/A
+verbatimLocality         : Rio Jurikuma Khuchu 2 mi down river from Agues termales de Rio Jurikuma, 18° 07' S, 69° 00' W In warmish creek
+locality                 : Rio Jurikuma Khuchu 2 miles down river from Agues termales de Rio Jurikuma In warmish creek
+habitat                  : N/A
+verbatimElevation        : 4650 m
+verbatimCoordinates      : 18° 07' S, 69° 00' W
+otherCatalogNumbers      : 1049404
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0056_C2079602F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : 879841
+verbatimEventDate        : dec 8, 1950
+minimumEventDate         : 1950-12-08
+maximumEventDate         : N/A
+verbatimIdentification   : Herbarium Field Museum
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : E B Ireland
+verbatimDateIdentified   : 1988
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Minas Gerais
+secondPoliticalUnit      : N/A
+municipality             : Serra dc Pauna
+verbatimLocality         : Isopterygium tenerum (Sw)Mitt Plants of Brazil State of Minas Gerais Vic Mesa No 6304 Isopterygium tenerum (Sw) Mitt Cotype det EG Britton Small Plants on roots Vivo Geraes Alt 710m.
+locality                 : [precise locality unknown]
+habitat                  : on roots
+verbatimElevation        : Alt 710m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 879841
+originalMethod           : Typed
+typeStatus               : Cotype
+
+
+--------------------------------------------------
+Image: 0033_C2078932F.jpg
+
+verbatimCollectors       : Mario Lewis, no. 79-2119
+collectedBy              : M. Lewis
+secondaryCollectors      : N/A
+recordNumber             : 79-2119
+verbatimEventDate        : Oct. F. cahyra, 1982
+minimumEventDate         : 1982-10-00
+maximumEventDate         : N/A
+verbatimIdentification   : Brachystelium calicognonioides Brotb in Herz.
+latestScientificName     : Bryophyta of Bolivia
+identifiedBy             : N/A
+verbatimDateIdentified   : Oct. F. cahyra, 1982
+associatedTaxa           : N/A
+country                  : Bolivia
+firstPoliticalUnit       : La Paz
+secondPoliticalUnit      : N/A
+municipality             : Rio Juntuma Khuchu
+verbatimLocality         : 2 mi down river from Aguas termales de Rio Juntuma Khuchu, 4350 m, 18° 07' S, 69° 00' W In warmish creek
+locality                 : 2 miles down river from Aguas termales de Rio Juntuma Khuchu, In warmish creek
+habitat                  : N/A
+verbatimElevation        : 4350 m
+verbatimCoordinates      : 18° 07' S, 69° 00' W
+otherCatalogNumbers      : 1049412
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0087_C0679841F.jpg
+
+verbatimCollectors       : leg J -P Frahm
+collectedBy              : J. -P. Frahm
+secondaryCollectors      : N/A
+recordNumber             : 6 9 1982
+verbatimEventDate        : unsure and check
+minimumEventDate         : unsure and check
+maximumEventDate         : N/A
+verbatimIdentification   : Campylopus heterostachys (Hampe)Jaeg
+latestScientificName     : Campylopus heterostachys
+identifiedBy             : unsure and check
+verbatimDateIdentified   : unsure and check
+associatedTaxa           : unsure and check
+country                  : Peru
+firstPoliticalUnit       : Amazonas
+secondPoliticalUnit      : N/A
+municipality             : Chachapoyas
+verbatimLocality         : km 417 6 oberhalb Leimebamba auf Uberwachsenen Steinblock im Nebelwald 3000 m
+locality                 : km 417.6 above Leimebamba on overgrown stone block in cloud forest 3000 meters
+habitat                  : N/A
+verbatimElevation        : 3000 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1053590
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0080_C2056328F.jpg
+
+verbatimCollectors       : P Bauer
+collectedBy              : P. Bauer
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : N/A
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Gehechia gigantea (Funb) Boulay 1884
+latestScientificName     : Gehechia gigantea
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : N/A
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Musci europaei exsiccata
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1134438
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0004_C0000578F.jpg
+
+verbatimCollectors       : John J Engel Matt von Konrat & John E Braggins
+collectedBy              : J. J. Engel
+secondaryCollectors      : M. von Konrat | J. E. Braggins
+recordNumber             : 23773
+verbatimEventDate        : 12 February 2003
+minimumEventDate         : 2003-02-12
+maximumEventDate         : N/A
+verbatimIdentification   : Telaranea lindenbergii var papillata Engel & Merr
+latestScientificName     : Telaranea lindenbergii var papillata
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : Blechnum novae-zealandiae, Weinmannia, Dicksonia squarrosa
+country                  : New Zealand
+firstPoliticalUnit       : North Island
+secondPoliticalUnit      : Auckland Prov
+municipality             : Wharoerino Forest
+verbatimLocality         : start of track to Leitch's Hut 280 m 38° 24.5'S 174° 49.8'E Clay banks with Blechnum novae-zealandiae overhang Weinmannia and Dicksonia squarrosa dominat canopy and occasional Leptospermum scoparium
+locality                 : start of track to Leitch's Hut 280 meters, clay banks with Blechnum novae-zealandiae overhang
+habitat                  : Weinmannia and Dicksonia squarrosa dominant canopy and occasional Leptospermum scoparium
+verbatimElevation        : c per + sporo
+verbatimCoordinates      : 38° 24.5'S, 174° 49.8'E
+otherCatalogNumbers      : 1173554
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0088_C0399126F.jpg
+
+verbatimCollectors       : N/A
+collectedBy              : N/A
+secondaryCollectors      : N/A
+recordNumber             : N/A
+verbatimEventDate        : APR 1958
+minimumEventDate         : 1958-04-00
+maximumEventDate         : N/A
+verbatimIdentification   : Chamaecrista mucronata (Spreng) I.&B.
+latestScientificName     : Chamaecrista mucronata
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : Santa Catarina
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Plantas de SANTA CATARINA - BRASIL
+locality                 : [precise locality unknown]
+habitat                  : Campo dos Padres 800 metros altitude
+verbatimElevation        : 800 metros
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1954
+originalMethod           : Handwritten
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0062_C2079604F.jpg
+
+verbatimCollectors       : H R Perrin, G L Smith
+collectedBy              : H. R. Perrin
+secondaryCollectors      : G. L. Smith
+recordNumber             : 31132
+verbatimEventDate        : Valley of the Pio das Ondas
+minimumEventDate         : N/A
+maximumEventDate         : N/A
+verbatimIdentification   : Isopterygium tenerum (Sw) Mitt
+latestScientificName     : Isopterygium tenerum
+identifiedBy             : Revision by R E Ireland
+verbatimDateIdentified   : 1986
+associatedTaxa           : N/A
+country                  : Brazil
+firstPoliticalUnit       : N/A
+secondPoliticalUnit      : N/A
+municipality             : N/A
+verbatimLocality         : Valley of the Pio das Ondas
+locality                 : Valley of the Pio das Ondas
+habitat                  : On the bark and exposed roots of Caperalops sp and on adjacent soil, at clearings Cut-over gallery forest and adjacent cerrado, ca 1200 W of Barreiras, elev ca 500m
+verbatimElevation        : elev ca 500m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1059328
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0010_C2077570F.jpg
+
+verbatimCollectors       : Ynes Mexia No 6292
+collectedBy              : Y. Mexia
+secondaryCollectors      : N/A
+recordNumber             : 6292
+verbatimEventDate        : Dec 9 1931
+minimumEventDate         : 1931-12-09
+maximumEventDate         : N/A
+verbatimIdentification   : Plants of Peru  PLANTS OF PERU  Departmento de Loreto  Picrolemma spruceanum UM, F. D. 1981
+latestScientificName     : Picrolemma spruceanum
+identifiedBy             : unsure and check
+verbatimDateIdentified   : UM, F. D. 1981
+associatedTaxa           : Uncaria guianensis
+country                  : Peru
+firstPoliticalUnit       : Loreto
+secondPoliticalUnit      : N/A
+municipality             : Iquitos
+verbatimLocality         : Above Pango de Manseriche  On fallen log
+locality                 : Above Pango de Manseriche [precise locality unknown]
+habitat                  : Stragglet poor south of Rio Santiago
+verbatimElevation        : Alt 400 m
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1057692
+originalMethod           : Mix of Handwritten and Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0079_C2056314F.jpg
+
+verbatimCollectors       : B. Maurr, lhahel europski eyelopeali, Ber. S.
+collectedBy              : B. Maurr
+secondaryCollectors      : N/A
+recordNumber             : 1198
+verbatimEventDate        : AUG 1948
+minimumEventDate         : 1948-08-00
+maximumEventDate         : N/A
+verbatimIdentification   : CUSCUTA glochuans (Bank) Bensley 1884
+latestScientificName     : Cuscuta glomerata
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : N/A
+country                  : Croatia
+firstPoliticalUnit       : Dalmacija
+secondPoliticalUnit      : Hercegovina
+municipality             : N/A
+verbatimLocality         : Dolazi na razne bolje ee izbjeru prsotuenili, jer kako se deri inda cuidls, muere dantus bethzzi, Raner.
+locality                 : [precise locality unknown]
+habitat                  : N/A
+verbatimElevation        : N/A
+verbatimCoordinates      : N/A
+otherCatalogNumbers      : 1154335
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------
+Image: 0000_C0000578F.jpg
+
+verbatimCollectors       : John J Engel, Matt von Konrat & John E Braggins
+collectedBy              : J. J. Engel
+secondaryCollectors      : M. von Konrat | J. E. Braggins
+recordNumber             : 23773
+verbatimEventDate        : 12 February 2003
+minimumEventDate         : 2003-02-12
+maximumEventDate         : N/A
+verbatimIdentification   : Telaranea lindenbergii var papillata Engel & Merr
+latestScientificName     : Telaranea lindenbergii var papillata
+identifiedBy             : N/A
+verbatimDateIdentified   : N/A
+associatedTaxa           : Blechnum novae-zealandiae, Dicksonia squarrosa, Weinmannia
+country                  : New Zealand
+firstPoliticalUnit       : North Island
+secondPoliticalUnit      : Auckland Prov
+municipality             : N/A
+verbatimLocality         : Whareorina Forest, start of track to Leitch's Hut, 280 m, 38° 24.5' S, 174° 49.8' E, clay banks with Blechnum novae-zealandiae overhang
+locality                 : Whareorina Forest, start of track to Leitch's Hut, 280 meters, clay banks with Blechnum novae-zealandiae overhang [precise locality unknown]
+habitat                  : occasional Leptospermum scoparium
+verbatimElevation        : c per + sporo
+verbatimCoordinates      : 38° 24.5' S, 174° 49.8' E
+otherCatalogNumbers      : 1173554
+originalMethod           : Typed
+typeStatus               : no type status
+
+
+--------------------------------------------------

@@ -1,0 +1,501 @@
+Image: C0000578F.jpg
+
+title: Holotype Hepaticae of New Zealand Telaranea lindenbergii var. papillata Engel & Merr.
+collectedBy: John J. Engel
+secondaryCollectors: Matt von Konrat, John E. Braggins
+recordNumber: 23773
+verbatimEventDate: 12 February 2003
+eventDate: 2003-02-12
+acceptedScientificName: Telaranea lindenbergii var. papillata Engel & Merr.
+phylum: (Division): Marchantiophyta
+family: Lepidoziaceae
+genus: Telaranea
+specificEpithet: lindenbergii
+infraspecificEpithet: papillata
+scientificNameAuthorship: Engel & Merr.
+identifiedBy: N/A
+dateIdentified: N/A
+otherScientificName: N/A
+associatedTaxa: Blechnum novae-zelandiae, Weinmannia, Dicksonia squarrosa, Leptospermum scoparium
+country: New Zealand
+countryCode: NZ
+firstPoliticalUnit: Auckland
+secondPoliticalUnit: N/A
+city: Whareorino Forest
+verbatimLocality: Whareorino Forest, start of track to Leitch's Hut
+locality: Whareorino Forest, start of track to Leitch's Hut
+habitat: On clayey bank
+substrate: clay
+verbatimElevation: 280 meters
+maximumElevationInMeters: 280
+minimumElevationInMeters: 280
+verbatimCoordinates: 38° 24' 5" S, 174° 49' 8" E
+decimalLatitude: -38.401389
+decimalLongitude: 174.818889
+occurrenceRemarks: c. per. + sporo
+collectionCode: N/A
+catalogNumber: 1173554
+language: English
+languageRemarks: N/A
+originalMethod: Typed
+typeStatus: holotype
+sex: N/A
+reproductiveCondition: c. per. - c. sporo (perhaps meaning "with perianth" and "with sporophyte" but unsure)
+generalNotes: Supported by the National Geographic Society, The Field Museum
+expeditionFundedBy: National Geographic Society, The Field Museum
+generalInformationAboutThePlantSpecimenItself: The herbarium sheet includes one specimen of the plant, which appears to be a moderate size, with some soil presence.
+rawFormat: HOLOTYPE; HEPATICAE OF NEW ZEALAND; Telaranea lindenbergii var. papillata Engel & Merr.; On clayey bank; NORTH ISLAND. AUCKLAND PROV.: Whareorino Forest, start of track to Leitch's Hut. 280 meters, 38° 24' 5" S, 174° 49' 8" E. Clay banks with Blechnum novae-zelandiae overhang, Weinmannia and Dicksonia squarrosa dominant canopy and occasional Leptospermum scoparium. John J. Engel, Matt von Konrat & John E. Braggins. No 23773. 12 February 2003. Supported by the National Geographic Society, The Field Museum.
+URL: https://fm-digital-assets.fieldmuseum.org/276/684/C0000578F.jpg
+
+==================================================
+Image: C0020034F.jpg
+
+title: Hepaticae of Eastern North America
+collectedBy: R. M. Schuster
+secondaryCollectors: N/A
+recordNumber: 68-1644
+verbatimEventDate: Aug. 17 68
+eventDate: 1968-08-17
+acceptedScientificName: Anastrophylum minutum
+phylum: (Division): Marchantiophyta
+family: (Unable to accurately determine without further research)
+genus: Anastrophylum
+specificEpithet: minutum
+infraspecificEpithet: N/A
+scientificNameAuthorship: (Authorship information is not present on the label)
+identifiedBy: R. M. Schuster
+dateIdentified: N/A
+otherScientificName: Diplophyllum taxifolium
+associatedTaxa: Diplophyllum taxifolium + gemmae
+country: Canada
+countryCode: CA
+firstPoliticalUnit: Newfoundland and Labrador
+secondPoliticalUnit: N/A
+city: N/A
+verbatimLocality: Along Humber River, in Squires Memorial Park, near Route 1A
+locality: Humber River, Squires Memorial Park, near Route 1A
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+maximumElevationInMeters: N/A
+minimumElevationInMeters: N/A
+verbatimCoordinates: N/A
+decimalLatitude: N/A
+decimalLongitude: N/A
+occurrenceRemarks: See generalNotes
+collectionCode: COI (assumed based on common practice, not on label)
+catalogNumber: N/A
+language: English
+languageRemarks: N/A
+originalMethod: Typed
+typeStatus: no type status
+sex: N/A
+reproductiveCondition: With gemmae
+generalNotes: Specimens collected along Humber River, in Squires Memorial Park with gemmae present
+expeditionFundedBy: N/A
+generalInformationAboutThePlantSpecimenItself: N/A
+rawFormat: HEPATICAE OF EASTERN NORTH AMERICA Collected and Determined by R M Schuster No 68-1644 Aug 17 68 Anastrophylum minutum + gemm NEWFOUNDLAND: Along Humber R,, in Squires Memorial Park, near Rte 1A With: Diplophyllum taxifolium + gemmae 68-1644a
+URL: https://fm-digital-assets.fieldmuseum.org/444/531/C0020034F.jpg
+
+==================================================
+Image: C0020052F.jpg
+
+title: Museum Botanicum Hauniense
+collectedBy: R. M. Schuster
+secondaryCollectors: K. Damsholt
+recordNumber: 82-1049
+verbatimEventDate: July 3.
+eventDate: 03-07-1982
+acceptedScientificName: Anastrophylum minutum (SCHREB.) SCHUST. var. grandis (GOTT.) SCHUST.
+phylum: (Division): N/A
+family: N/A
+genus: Anastrophylum
+specificEpithet: minutum
+infraspecificEpithet: grandis
+scientificNameAuthorship: (SCHREB.) SCHUST.
+identifiedBy: R. M. Schuster & K. Damsholt
+dateIdentified: N/A
+otherScientificName: Cephalozia bicuspidata (L.) DUM.
+associatedTaxa: Cephalozia bicuspidata (L.) DUM.
+country: Greenland
+countryCode: GL
+firstPoliticalUnit: South Greenland
+secondPoliticalUnit: N/A
+city: N/A
+verbatimLocality: Frederiksdal
+locality: Frederiksdal
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+maximumElevationInMeters: N/A
+minimumElevationInMeters: N/A
+verbatimCoordinates: 60°00'N lat., 44°40'W. long.
+decimalLatitude: 60.0000
+decimalLongitude: -44.6667
+occurrenceRemarks: N/A
+collectionCode: S1
+catalogNumber: N/A
+language: English
+languageRemarks: N/A
+originalMethod: Typed
+typeStatus: no type status
+sex: N/A
+reproductiveCondition: N/A
+generalNotes: N/A
+expeditionFundedBy: N/A
+generalInformationAboutThePlantSpecimenItself: N/A
+rawFormat: Museum Botanicum Hauniense HEPATICAE OF SOUTH GREENLAND Collected and Determined by R. M. Schuster & K. Damsholt No.82-1049 1982 Anastrophylum minutum (SCHREB.) SCHUST. Frederiksdal 60°00'N lat., 44°40'W. long. date: July 3. With: Cephalozia bicuspidata (L.) DUM.
+URL: https://fm-digital-assets.fieldmuseum.org/444/535/C0020052F.jpg
+
+==================================================
+Image: C0025138F.jpg
+
+title: Hepaticae of the Nearctic
+collectedBy: R. M. Schuster
+secondaryCollectors: N/A
+recordNumber: 9067
+verbatimEventDate: June 30 1951
+eventDate: 30-06-1951
+acceptedScientificName: Frullania asagrayana Mont.
+phylum: (Division): Marchantiophyta
+family: Frullaniaceae
+genus: Frullania
+specificEpithet: asagrayana
+infraspecificEpithet: N/A
+scientificNameAuthorship: Mont.
+identifiedBy: N/A
+dateIdentified: N/A
+otherScientificName: Plagiochila tridenticulata Dum. (traces)
+associatedTaxa: Abies fraseri
+country: United States
+countryCode: US
+firstPoliticalUnit: North Carolina
+secondPoliticalUnit: N/A
+city: N/A
+verbatimLocality: Balsam Gap, N.C., ca. 25 miles north of Asheville, along Blue Ridge Parkway
+locality: Balsam Gap, Blue Ridge Parkway
+habitat: N/A
+substrate: on Abies fraseri
+verbatimElevation: 5220-5260 feet
+maximumElevationInMeters: 1603 meters (5260 feet converted to meters)
+minimumElevationInMeters: 1591 meters (5220 feet converted to meters)
+verbatimCoordinates: N/A
+decimalLatitude: N/A
+decimalLongitude: N/A
+occurrenceRemarks: Frullania asagrayana Mont. (male, can per.), Plagiochila tridenticulata Dum. (traces)
+collectionCode: N/A
+catalogNumber: N/A
+language: English
+languageRemarks: N/A
+originalMethod: Typed
+typeStatus: no type status
+sex: Male
+reproductiveCondition: can per. (short for Can Perianth)
+generalNotes: N/A
+expeditionFundedBy: N/A
+generalInformationAboutThePlantSpecimenItself: N/A
+rawFormat: HEPATICAE OF THE NEARCTIC Collected by R. M. Schuster No9067 Frullania asagrayana Mont., male, can per. Plagiochila tridenticulata Dum. (traces) Balsam Gap, N.C., ca. 25 miles north of Asheville, along Blue Ridge Parkway, 5220-5260 feet on Abies fraseri Occurring with:
+URL: https://fm-digital-assets.fieldmuseum.org/445/656/C0025138F.jpg
+
+==================================================
+Image: C0025164F.jpg
+
+title: Hepaticae of Eastern North America
+collectedBy: R. M. Schuster
+secondaryCollectors: N/A
+recordNumber: 79-488
+verbatimEventDate: April 14 1979
+eventDate: 1979-04-14
+acceptedScientificName: Frullania asagrayana
+phylum: (Division): Marchantiophyta
+family: Frullaniaceae
+genus: Frullania
+specificEpithet: asagrayana
+infraspecificEpithet: N/A
+scientificNameAuthorship: Mont.
+identifiedBy: R. M. Schuster
+dateIdentified: N/A
+otherScientificName: N/A
+associatedTaxa: N/A
+country: United States of America
+countryCode: US
+firstPoliticalUnit: Arkansas
+secondPoliticalUnit: Stone County
+city: N/A
+verbatimLocality: Ozark Natl. Forest. Barkshed Camp, ca. 10 mi E. of Big Flat.
+locality: Ozark National Forest, Barkshed Camp
+habitat: N/A
+substrate: N/A
+verbatimElevation: N/A
+maximumElevationInMeters: N/A
+minimumElevationInMeters: N/A
+verbatimCoordinates: N/A
+decimalLatitude: N/A
+decimalLongitude: N/A
+occurrenceRemarks: N/A
+collectionCode: N/A
+catalogNumber: N/A
+language: English
+languageRemarks: N/A
+originalMethod: Typed
+typeStatus: no type status
+sex: N/A
+reproductiveCondition: N/A
+generalNotes: N/A
+expeditionFundedBy: N/A
+generalInformationAboutThePlantSpecimenItself: N/A
+rawFormat: HEPATICAE OF EASTERN NORTH AMERICA Collected and Determined by R. M. Schuster No. 79-488 April 14 1979 Frullania asagrayana ARKANSAS: Stone Co.: Ozark Natl. Forest. Barkshed Camp, ca. 10 mi E. of Big Flat.
+URL: https://fm-digital-assets.fieldmuseum.org/409/473/C0025164F.jpg
+
+==================================================
+Image: C0045536F_1586622756_web.jpg
+
+title: Flora of the United States of America
+collectedBy: Thomas G Lammers
+secondaryCollectors: N/A
+recordNumber: 10674
+verbatimEventDate: 9 May 1998
+eventDate: 1998-05-09
+acceptedScientificName: Dryopteris carthusiana
+phylum: (Division): Pteridophyta
+family: Dryopteridaceae
+genus: Dryopteris
+specificEpithet: carthusiana
+infraspecificEpithet: N/A
+scientificNameAuthorship: (Vill.) H.P. Fuchs
+identifiedBy: Thomas G. Lammers
+dateIdentified: N/A
+otherScientificName: N/A
+associatedTaxa: N/A
+country: United States of America
+countryCode: US
+firstPoliticalUnit: Illinois
+secondPoliticalUnit: Cook
+city: N/A
+verbatimLocality: Cook Co.: Palos Twp. Swallow Cliff Woods Forest Preserve, southwest of the int. of US Hwy 45 and State Hwy 83. Local in mesic maple-basswood forest on steep slopes of deep ravine south of toboggan run.
+locality: Swallow Cliff Woods Forest Preserve, Palos Township
+habitat: Mesic maple-basswood forest on steep slopes of deep ravine
+substrate: N/A
+verbatimElevation: N/A
+maximumElevationInMeters: N/A
+minimumElevationInMeters: N/A
+verbatimCoordinates: N/A
+decimalLatitude: N/A
+decimalLongitude: N/A
+occurrenceRemarks: N/A
+collectionCode: N/A
+catalogNumber: 2228497
+language: English
+languageRemarks: N/A
+originalMethod: Typed
+typeStatus: no type status
+sex: N/A
+reproductiveCondition: N/A
+generalNotes: N/A
+expeditionFundedBy: N/A
+generalInformationAboutThePlantSpecimenItself: Appears to be a single moderate-sized plant specimen mounted on a sheet, with roots attached.
+rawFormat: FLORA OF THE UNITED STATES OF AMERICA Field Museum of Natural History Dryopteris carthusiana (Vill.) H.P. Fuchs ILLINOIS: Cook Co.: Palos Twp. Swallow Cliff Woods Forest Preserve, southwest of the int. of US Hwy 45 and State Hwy 83. Local in mesic maple-basswood forest on steep slopes of deep ravine south of toboggan run. Thomas G. Lammers 10674 9 May 1998
+URL: https://www.pteridoportal.org/imglib/fern/F/C0045/C0045536F_1586622756_web.jpg
+
+==================================================
+Image: C0644079F.jpg
+
+title: Field Museum of Natural History Herbarium Specimen
+collectedBy: A. Monteagudo
+secondaryCollectors: C. Mateo, G. Ortiz
+recordNumber: 4909
+verbatimEventDate: 10 Abril 2003
+eventDate: 10-04-2003
+acceptedScientificName: Blechnum occidentale L.
+phylum: (Division): Pteridophyta
+family: Blechnaceae
+genus: Blechnum
+specificEpithet: occidentale
+infraspecificEpithet: N/A
+scientificNameAuthorship: L.
+identifiedBy: H. van der Werff
+dateIdentified: 2005
+otherScientificName: N/A
+associatedTaxa: N/A
+country: Peru
+countryCode: PE
+firstPoliticalUnit: Pasco
+secondPoliticalUnit: Oxapampa
+city: N/A
+verbatimLocality: Distrito Pozuzo, Parque Nacional Yanachaga Chemillen Pozuzo Sector Pan de Azúcar, Zona de Recuperación
+locality: Distrito Pozuzo, Parque Nacional Yanachaga Chemillen, Pozuzo Sector Pan de Azúcar, Zona de Recuperación
+habitat: Bosque ribereño (riparian forest)
+substrate: N/A
+verbatimElevation: 1100-1250m
+maximumElevationInMeters: 1250
+minimumElevationInMeters: 1100
+verbatimCoordinates: 10°15' S, 75°13' W
+decimalLatitude: -10.25
+decimalLongitude: -75.21666667
+occurrenceRemarks: Helecho terrestre adpreso a la roca, soros marrones (Terrestrial fern pressed against a rock, brown sori)
+collectionCode: MISSOURI BOTANICAL GARDEN HERBARIUM (MO)
+catalogNumber: 2287355
+language: Spanish
+languageRemarks: N/A
+originalMethod: Handwritten
+typeStatus: no type status
+sex: not indicated on the label
+reproductiveCondition: soros marrones (brown sori)
+generalNotes: Identified by H. van der Werff in 2005
+expeditionFundedBy: N/A
+generalInformationAboutThePlantSpecimenItself: The plant specimen appears to be a single terrestrial fern, pressed and mounted on a herbarium sheet without soil. The specimen size looks moderate.
+rawFormat: BLECHNACEAE Blechnum occidentale L. Det. H. van der Werff (MO), 2005 PASCO: Oxapampa Distrito Pozuzo, Parque Nacional Yanachaga Chemillen Pozuzo Sector Pan de Azúcar, Zona de Recuperación. Bosque ribereño. 1100-1250m 10°15' S, 75°13' W Helecho terrestre adpreso a la roca, soros marrones. 10 Abril 2003 A. Monteagudo, C. Mateo, G. Ortiz. 4909 MISSOURI BOTANICAL GARDEN HERBARIUM (MO)
+URL: https://fm-digital-assets.fieldmuseum.org/1086/214/C0644079F.jpg
+
+==================================================
+Image: C2077559F.jpg
+
+title: Bryophyta of Ecuador
+collectedBy: Marko Lewis
+secondaryCollectors: N/A
+recordNumber: 70-3163
+verbatimEventDate: 8 December 1978
+eventDate: 1978-12-08
+acceptedScientificName: Hedwigia ciliata (Hedw.) P. Beauv.
+phylum: (Division): Bryophyta
+family: Hedwigiaceae
+genus: Hedwigia
+specificEpithet: ciliata
+infraspecificEpithet: N/A
+scientificNameAuthorship: (Hedw.) P. Beauv.
+identifiedBy: Efraín De Luna
+dateIdentified: 1992
+otherScientificName: N/A
+associatedTaxa: N/A
+country: Ecuador
+countryCode: EC
+firstPoliticalUnit: Azuay
+secondPoliticalUnit: N/A
+city: N/A
+verbatimLocality: Area Nacional de Recreación "Cajas", forested hills of "Surocucho" (Laguna Llaviucu), S of Sayausí
+locality: Area Nacional de Recreación "Cajas", S of Sayausí
+habitat: forested hills
+substrate: stone wall
+verbatimElevation: 3240 m.
+maximumElevationInMeters: 3240
+minimumElevationInMeters: 3240
+verbatimCoordinates: N/A
+decimalLatitude: N/A
+decimalLongitude: N/A
+occurrenceRemarks: N/A
+collectionCode: Cryptogamic Herbarium
+catalogNumber: 1065433
+language: English
+languageRemarks: N/A
+originalMethod: Typed
+typeStatus: no type status
+sex: N/A
+reproductiveCondition: N/A
+generalNotes: N/A
+expeditionFundedBy: N/A
+generalInformationAboutThePlantSpecimenItself: The plant specimen looks moderate in size and consists of multiple fragments mounted on a sheet. There is soil present at the base of the specimens.
+rawFormat: N° 1065433 FIELD MUSEUM OF NATURAL HISTORY CRYPTOGAMIC HERBARIUM Hedwigia ciliata (Hedw.) P. Beauv. Det. Efraín De Luna, 1992 Duke University Herbarium BRYOPHYTA OF ECUADOR Hedwigia ciliata (Hedw.) P. Beauv. Stone wall. 3240 m. PROV. AZUAY: Area Nacional de Recreación "Cajas", forested hills of "Surocucho" (Laguna Llaviucu), S of Sayausí, 255°S. Marko Lewis, no. 70-3163 8 December 1978 Field Museum of Natural History
+URL: https://fm-digital-assets.fieldmuseum.org/2537/873/C2077559F.jpg
+
+==================================================
+Image: C2079898F.jpg
+
+title: Bryophyta of Ecuador
+collectedBy: Marko Lewis
+secondaryCollectors: N/A
+recordNumber: 768-824
+verbatimEventDate: 21-22 November 1978
+eventDate: 21-11-1978/22-11-1978
+acceptedScientificName: Kindbergia praelonga (Hedw.) Ochyra
+phylum: (Division): Bryophyta
+family: Brachytheciaceae
+genus: Kindbergia
+specificEpithet: praelonga
+infraspecificEpithet: N/A
+scientificNameAuthorship: (Hedw.) Ochyra
+identifiedBy: V. C. Steere
+dateIdentified: N/A
+otherScientificName: N/A
+associatedTaxa: N/A
+country: Ecuador
+countryCode: EC
+firstPoliticalUnit: Imbabura
+secondPoliticalUnit: N/A
+city: N/A
+verbatimLocality: E. side of Cerro Cotacachi, 02°02'N, 78°20'W
+locality: East side of Cerro Cotacachi
+habitat: wet bank of runoff ravine
+substrate: N/A
+verbatimElevation: 3750 m.
+maximumElevationInMeters: 3750
+minimumElevationInMeters: 3750
+verbatimCoordinates: 02°02'N, 78°20'W
+decimalLatitude: +2.03333
+decimalLongitude: -78.33333
+occurrenceRemarks: N/A
+collectionCode: Field Museum of Natural History Cryptogamic Herbarium
+catalogNumber: 1065158
+language: English
+languageRemarks: N/A
+originalMethod: Typed
+typeStatus: no type status
+sex: N/A
+reproductiveCondition: N/A
+generalNotes: N/A
+expeditionFundedBy: N/A
+generalInformationAboutThePlantSpecimenItself: The herbarium sheet contains a single plant specimen mounted on white paper.
+rawFormat: N° 1065158 FIELD MUSEUM OF NATURAL HISTORY CRYPTOGAMIC HERBARIUM BRYOPHYTA OF ECUADOR Kindbergia praelonga (Hedw) Ochyra Wet bank of runoff ravine 3750 m. PROV IMBABURA E side of Cerro Cotacachi 02°02'N 78°20'W Marko Lewis, no 768-824 21-22 November 1978
+URL: https://fm-digital-assets.fieldmuseum.org/2535/382/C2079898F.jpg
+
+==================================================
+Image: V0075836F.jpg
+
+title: Trichipteris pinnata Stolze 
+collectedBy: S. Knapp
+secondaryCollectors: N/A
+recordNumber: S881
+verbatimEventDate: 4 July 1982
+eventDate: 1982-07-04
+acceptedScientificName: Trichipteris pinnata Stolze
+phylum: (Division): Pteridophyta
+family: Dryopteridaceae
+genus: Trichipteris
+specificEpithet: pinnata
+infraspecificEpithet: N/A
+scientificNameAuthorship: Stolze
+identifiedBy: Robert G. Stolze
+dateIdentified: 1984
+otherScientificName: N/A
+associatedTaxa: N/A
+country: Panama
+countryCode: PA
+firstPoliticalUnit: Colón
+secondPoliticalUnit: N/A
+city: N/A
+verbatimLocality: Santa Rita Ridge road, 21-26 km from Transisthmian Highway
+locality: Santa Rita Ridge road, 21-26 kilometers from Transisthmian Highway
+habitat: Tropical wet forest
+substrate: Terrestrial
+verbatimElevation: 500-550 m
+maximumElevationInMeters: 550
+minimumElevationInMeters: 500
+verbatimCoordinates: 9°25'N, 79°37'W
+decimalLatitude: 9.41667
+decimalLongitude: -79.61667
+occurrenceRemarks: Soris brown
+collectionCode: Field Museum of Natural History
+catalogNumber: 1932768
+language: English
+languageRemarks: N/A
+originalMethod: Mix of Handwritten and Typed
+typeStatus: Holotype
+sex: N/A
+reproductiveCondition: N/A
+generalNotes: N/A
+expeditionFundedBy: Missouri Botanical Garden Herbarium (MO)
+generalInformationAboutThePlantSpecimenItself: The specimen appears to be a single moderately sized mounted fern specimen. No soil is visible.
+rawFormat: NO 1932768 FIELD MUSEUM OF NATURAL HISTORY | Trichipteris pinnata Stolze | Robert G. Stolze | 1984 | (PHTO) | Field Museum of Natural History | HOLOTYPE: | Trichipteris pinnata Stolze | (MO) | [Amer. Fern J., 74 (3): 1984] | PANAMA Province of Colón | Santa Rita Ridge road, 21-26 km from Transisthmian Highway. Tropical wet forest. 500-550 m. | Terrestrial. Sori brown. | S. Knapp | S881 | 4 July 1982 | MISSOURI BOTANICAL GARDEN HERBARIUM (MO) 
+
+Please note that the information provided here is based on the visible parts of the label in the image provided. Some fields such as "secondPoliticalUnit," "city," and "sex" are inferred as not applicable, based on the absence of that specific information in the provided label data.
+URL: https://fm-digital-assets.fieldmuseum.org/227/835/V0075836F.jpg
+==================================================

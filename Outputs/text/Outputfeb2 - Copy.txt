@@ -1,0 +1,243 @@
+Image: C0020028F.jpg
+
+Title: Hepaticae of Eastern North America
+Collected by: R. M. Schuster
+Secondary Collectors: N/A
+Scientific name: Anastrophyllum minutum
+Associated Taxon: N/A
+Date collected Verbatum: Aug. 17 1968
+Formatted Date Collected: 17/August/1968
+Country: Canada
+First Political Unit: Newfoundland and Labrador
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: Along Humber River, in Squires Memorial Park, near Route 1A
+Habitat: N/A
+Elevation: N/A
+Collection name: N/A
+Collection Number: 68-1666
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+
+Raw format of the sheet:
+HEPATICAE OF EASTERN NORTH AMERICA
+Collected and Determined by R. M. Schuster
+No.68-1666
+Aug. 17 1968
+
+Anastrophyllum minutum (Cr.) Schust.
+
+NEWFOUNDLAND: Along Humber R., in Squires Memorial Park, near Rte 1A.
+
+With:
+URL: http://fm-digital-assets.fieldmuseum.org/2535/404/C2079909F.jpg
+
+==================================================
+Image: C0020034F.jpg
+
+Title: Hepaticae of Eastern North America
+Collected by: R. M. Schuster
+Secondary Collectors: N/A
+Scientific name: Anastrophylum minutum
+Associated Taxon: Diplophyllum taxifolium
+Date collected Verbatum: Aug. 17 68
+Formatted Date Collected: 17/August/1968
+Country: Canada
+First Political Unit: Newfoundland and Labrador
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: Along Humber River, in Squires Memorial Park, near Route 1A
+Habitat: N/A
+Elevation: N/A
+Collection name: N/A
+Collection Number: 68-1644
+Latitude: N/A
+Longitude: N/A
+Additional Notes: Associated with Diplophyllum taxifolium; gemmae 68-1644a
+Raw format of the sheet:
+HEPATICAE OF EASTERN NORTH AMERICA
+Collected and Determined by R. M. Schuster
+No. 68-1644
+Aug. 17 68
+Anastrophylum minutum + gem.
+NEWFOUNDLAND: Along Humber R., in Squires Memorial Park, near Rte 1A.
+
+With: Diplophyllum taxifolium + gemmae 68-1644a
+URL: http://fm-digital-assets.fieldmuseum.org/2537/606/C2077558F.jpg
+
+==================================================
+Image: C0020052F.jpg
+
+Title: Museum Botanicum Hauniense Hepaticae of South Greenland S1
+Collected by: R. M. Schuster
+Secondary Collectors: K. Damsholt
+Scientific name: Anastrophylum minutum (Schreb.) Schust. var. grandis (Gott.) Schust.
+Associated Taxon: Cephalozia bicuspidata (L.) Dum.
+Date collected Verbatum : July 3
+Formatted Date Collected: 3/July/1982
+Country: Greenland
+First Political Unit: N/A
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: Frederiksdal
+Habitat: N/A
+Elevation: N/A
+Collection name: N/A
+Collection Number: 82-1049
+Latitude: 60°00'N
+Longitude: 44°40'W
+Additional Notes: N/A
+
+Raw format of the sheet:
+Museum Botanicum Hauniense
+HEPATICE OF SOUTH GREENLAND
+Collected and Determined by R. M. Schuster & K. Damsholt
+No.82-1049
+Anastrophyllum minutum (SCHREB.) SCHUST.
+Frederiksdal
+60°00'N lat., 44°40'W. long.
+date: July 3.
+With: Cephalozia bicuspidata (L.) DUM.
+URL: http://fm-digital-assets.fieldmuseum.org/2537/873/C2077559F.jpg
+
+==================================================
+Image: C0025138F.jpg
+
+Title: Hepaticae of the Nearctic
+Collected by: R. M. Schuster
+Secondary Collectors: N/A
+Scientific name: Frullania asagrayana Mont.
+Associated Taxon: Plagiochila tridenticulata Dum. (traces)
+Date collected Verbatum: June 30, 1951
+Formatted Date Collected: 30/06/1951
+Country: United States of America
+First Political Unit: North Carolina
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: Balsam Gap, circa 25 miles north of Asheville, along Blue Ridge Parkway
+Habitat: N/A
+Elevation: 5220-5260 feet
+Collection name: N/A
+Collection Number: 9067
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+
+Raw format of the sheet with no changes and or categories:
+HEPATICAE OF THE NEARCTIC
+Collected by R. M. Schuster
+No9067
+Frullania asagrayana Mont., male, can per.
+Plagiochila tridenticulata Dum. (traces)
+Balsam Gap, N.C., ca. 25 mi. n. of Asheville, along Blue Ridge Parkway, 5220-5260 feet on Abies fraseri
+Occurring with:
+URL: http://fm-digital-assets.fieldmuseum.org/2537/874/C2077560F.jpg
+
+==================================================
+Image: C0025161F.jpg
+
+Title: Frullania asagrayana Mont.
+Collected by: R. M. Schuster
+Secondary Collectors: [N/A]
+Scientific name: Frullania asagrayana
+Associated Taxon: [N/A]
+Date collected Verbatim: Sept. 5, 1947
+Formatted Date Collected: 05/September/1947
+Country: United States of America
+First Political Unit: Minnesota
+Second Political Unit: Cook County
+City: [N/A]
+Detailed Locality: 1.5 miles west of Pigeon Point
+Habitat: On dry, shaded, north facing high cliffs
+Elevation: [N/A]
+Collection name: [N/A]
+Collection Number: [N/A]
+Latitude: [N/A]
+Longitude: [N/A]
+Additional Notes: pH 4.2
+
+Raw format of the sheet:
+Frullania asagrayana Mont.
+On dry, shaded, north facing high cliffs, 1.5 miles west of Pigeon Point, Cook County, Minnesota. Sept. 5, 1947. pH 4.2
+R. M. Schuster
+URL: http://fm-digital-assets.fieldmuseum.org/2537/875/C2077561F.jpg
+
+==================================================
+Image: C0025164F.jpg
+
+Title: Hepaticae of Eastern North America
+Collected by: R. M. Schuster
+Secondary Collectors: N/A
+Scientific name: Frullania asagrayana
+Associated Taxon: N/A
+Date collected Verbatum: April 14 79
+Formatted Date Collected: 14/April/1979
+Country: United States of America
+First Political Unit: Arkansas
+Second Political Unit: Stone County
+City: N/A
+Detailed Locality: Ozark National Forest, Barkshed Camp, approximately 10 miles East of Big Flat
+Habitat: N/A
+Elevation: N/A
+Collection name: N/A
+Collection Number: 79-488
+Latitude: N/A
+Longitude: N/A
+Additional Notes: N/A
+
+Raw format of the sheet with no changes and or categories:
+
+HEPATICAE OF EASTERN NORTH AMERICA
+Collected and Determined by R. M. Schuster
+No. 79-488
+
+Frullania asagrayana
+
+ARKANSAS: Stone Co.: Ozark Natl. Forest. Barkshed Camp, ca. 10 mi E. of Big Flat.
+
+With:
+URL: http://fm-digital-assets.fieldmuseum.org/2537/879/C2077562F.jpg
+
+==================================================
+Image: C0028185F.jpg
+
+Title: University of British Columbia Plants of British Columbia
+Collected by: W.B. Schofield
+Secondary Collectors: G.A. Godfrey, T. Goward
+Scientific name: Anastrophyllum assimile (Mitt.) Steph.
+Associated Taxon: N/A
+Date collected: July 26, 1992
+Formatted Date Collected: 26/07/1992
+Country: Canada
+First Political Unit: British Columbia
+Second Political Unit: N/A
+City: N/A
+Detailed Locality: Range Lake, northeast of Tweedsmuir Glacier
+Habitat: Edge depression in tundra
+Elevation: 1100 meters
+Collection name: N/A
+Collection Number: 98242
+Latitude: 59 52'N
+Longitude: 137 50'W
+Additional Notes: N/A
+Raw format of the sheet:
+
+```
+University of British Columbia
+PLANTS OF BRITISH COLUMBIA
+Anastrophyllum assimile (Mitt.) Steph.
+edge depression in tundra
+Range Lake, N.E. of Tweedsmuir
+Glacier
+59 52'N 137 50'W
+1100m
+July 26, 1992
+ACC# B139065
+COLL: W.B. Schofield, G.A. Godfrey
+& T. Goward
+NO: 98242
+DET: WBS
+```
+URL: https://fm-digital-assets.fieldmuseum.org/2537/561/C2077576F.jpg
+==================================================

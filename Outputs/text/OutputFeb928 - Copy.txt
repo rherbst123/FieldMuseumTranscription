@@ -1,0 +1,180 @@
+Image: C2077574F.jpg
+
+title: Flora Surinamensis
+recordedBy: J. Fluoroschütz-de Waard
+secondaryRecordedBy: R. Zieltmann
+acceptedScientificName: Pilotrichum chlorophyllum (Hornsch.) C. Müller
+phylum: Bryophyta
+family: N/A
+genus: Pilotrichum
+specificEpithet: chlorophyllum
+infraspecificEpithet: N/A
+scientificNameAuthorship: (Hornsch.) C. Müller
+identifiedBy: R. Zieltmann
+dateIdentified: N/A
+otherScientificName: N/A
+associatedTaxa: N/A
+verbatimEventDate: 3-11-1981
+eventDate: 1981-11-03
+country: Suriname
+countryCode: SR
+firstPoliticalUnit: N/A
+secondPoliticalUnit: N/A
+city: N/A
+verbatimLocality: area of Kabalebo Dam Project, along Makreleline 1 kilometer in from road km 39.5, 7 degrees 55 minutes South, 58 degrees 50 minutes East, savanna forest, on rotting log
+locality: Area of the Kabalebo Dam Project, along Makreleline, near road km 39.5, 7°55'S, 58°50'E, savanna forest
+habitat: Savanna forest
+substrate: On rotting log
+verbatimElevation: 0 - 50 meters
+maximumElevationInMeters: 50
+minimumElevationInMeters: 0
+verbatimCoordinates: 7 degrees 55 minutes S, 58 degrees 50 minutes E
+decimalLatitude: approximately -7.91667
+decimalLongitude: approximately 58.83333
+occurrenceRemarks: N/A
+collectionCode: N/A
+recordNumber: 5254
+catalogNumber: 1073529
+language: Latin
+languageRemarks: N/A
+originalMethod: Handwritten
+generalNotes: N/A
+rawFormat: FIELD MUSEUM OF NATURAL HISTORY CRYPTOGRAMIC HERBARIUM No 1073529 FLORA SURINAMENSIS Herb Acad Rhenotrai Pilotrichum chlorophyllum (Hornsch.) C. Müller Hab area of Kabalebo Dam Project, along Makreleline 1M in from road km 39,5, P. 55M 50M, SE, Savanna forest, on rotting log 505 Alt 0 - 50 m Leg J Floroschütz-de Waard & R Zieltmann d d 3-11-1981 No 5254 Det R Zieltmann
+URL: http://fm-digital-assets.fieldmuseum.org/2537/559/C2077574F.jpg
+
+==================================================
+Image: C2077575F.jpg
+
+title: Flora Surinamensis
+recordedBy: J. Fluorchtlz-De Waard
+secondaryRecordedBy: R. Zieleman
+acceptedScientificName: Pilotrichum chlorophyllum (Hornsch.) Mitt.
+phylum: Bryophyta
+family: Pilotrichaceae
+genus: Pilotrichum
+specificEpithet: chlorophyllum
+infraspecificEpithet: N/A
+scientificNameAuthorship: (Hornsch.) Mitt.
+identifiedBy: R. Zieleman
+dateIdentified: 30-10-1981
+otherScientificName: N/A
+associatedTaxa: N/A
+verbatimEventDate: N/A
+eventDate: N/A
+country: Suriname
+countryCode: SR
+firstPoliticalUnit: Nickerie
+secondPoliticalUnit: N/A
+city: N/A
+verbatimLocality: Aves of Kabalebo Dam Project, distr. Nickerie, line W from road 34 km, S 55W ca. SE, Rainforest, on rotting logs
+locality: Aves of Kabalebo Dam Project, line West from road at 34 kilometers, South 55 degrees West, southeast, Rainforest, on rotting logs
+habitat: Rainforest
+substrate: Rotting logs
+verbatimElevation: 0 - 50 meters
+maximumElevationInMeters: 50
+minimumElevationInMeters: 0
+verbatimCoordinates: N/A
+decimalLatitude: N/A
+decimalLongitude: N/A
+occurrenceRemarks: N/A
+collectionCode: Cryptogamic Herbarium
+recordNumber: N/A
+catalogNumber: 1073528
+language: Latin
+languageRemarks: (Herb. Acad. Rheno. Trai. is a Latin abbreviation which stands for Herbarium of the Academy of Rhine and Trajectum, referring to the herbarium collection of the Utrecht University)
+originalMethod: Handwritten
+generalNotes: N/A
+rawFormat: FLORA SURINAMENSIS Herb Acad Rheno Trai Pilotrichum chlorophyllum (Hornsch.) Mitt. Hab: Aves of Kabalebo Dam Project, distr. Nickerie, line W from road 34 km, S 55W ca. SE, Rainforest, on rotting logs Alt: 0 - 50 m. Leg: J. Fluorchtlz de Waard & R. Zieleman d.d. 30-10-1981 No: 5098 Det: R Zieleman Nom. vern.: N/A
+URL: http://fm-digital-assets.fieldmuseum.org/2537/560/C2077575F.jpg
+
+==================================================
+Image: C2077576F.jpg
+
+title: Field Museum of Natural History Cryptogamic Herbarium
+recordedBy: J. C. Lindeman
+secondaryRecordedBy: A. A. Pulle, G. M. Jonker-Verhoef, M. Jansen-Jacobs, A. C. Leter
+acceptedScientificName: Pilotrichum chlorophyllum (Hornsch.) Mitt.
+phylum: Bryophyta
+family: Meteoriaceae
+genus: Pilotrichum
+specificEpithet: chlorophyllum
+infraspecificEpithet: N/A
+scientificNameAuthorship: (Hornsch.) Mitt.
+identifiedBy: E. Zickerman
+dateIdentified: 3-12-1980
+otherScientificName: N/A
+associatedTaxa: N/A
+verbatimEventDate: N/A
+eventDate: N/A
+country: Suriname
+countryCode: SR
+firstPoliticalUnit: Nickerie
+secondPoliticalUnit: N/A
+city: N/A
+verbatimLocality: Area of Kabalebo Dam Project, distr. Nickerie
+locality: Area of Kabalebo Dam Project, district Nickerie
+habitat: Forest of km 28.7
+substrate: Epiphyte on tree trunk
+verbatimElevation: Alt. 30 - 130 m
+maximumElevationInMeters: 130
+minimumElevationInMeters: 30
+verbatimCoordinates: 4°50'N, 57°30'W
+decimalLatitude: 4.833333
+decimalLongitude: -57.500000
+occurrenceRemarks: N/A
+collectionCode: N/A
+recordNumber: 243 A
+catalogNumber: 1073527
+language: Latin, English
+languageRemarks: N/A
+originalMethod: Handwritten
+generalNotes: N/A
+rawFormat: FLORA SURINAMENSIS Herb Acad Rheo - Trai Pilotrichum chlorophyllum (Hornsch) C Mitt Haba: Area of Kabalebo Dam Project, distr Nickerie, 4°50'N, 57°30'W Forest of km 287 Epiphyte on tree trunk Alt: 30 - 130 m Leg: J C Lindeman, A A Pulle, G M Jonker-Verhoef, M Jansen-Jacobs, A C Leter d d: 3-12-1980 No: 243 A Det: E Zickerman
+URL: http://fm-digital-assets.fieldmuseum.org/2537/561/C2077576F.jpg
+
+==================================================
+Image: C2077577F.jpg
+
+title: Bryophyta Neotropica Exsiccata
+recordedBy: J. Florschütz-de Waard
+secondaryRecordedBy: R. Zielemán
+acceptedScientificName: Pilotrichum amphistomum (Raddi) Mitt.
+phylum: Bryophyta
+family: Pilotrichaceae
+genus: Pilotrichum
+specificEpithet: amphistomum
+infraspecificEpithet: N/A
+scientificNameAuthorship: (Raddi) Mitt.
+identifiedBy: R. Zielemán
+dateIdentified: N/A
+otherScientificName: Pilotsum chlorophyllum (Hornsch.) C. Müll.
+associatedTaxa: Astrocaryum
+verbatimEventDate: 31 October 1981
+eventDate: 1981-10-31
+country: Suriname
+countryCode: SR
+firstPoliticalUnit: Nickerie
+secondPoliticalUnit: Kabalebo river area
+city: N/A
+verbatimLocality: Dist. Nickerie, Kabalebo river area, 1 line West from road km 34
+locality: Kabalebo river area, 1 line west from road kilometer 34
+habitat: marsh forest
+substrate: decaying log
+verbatimElevation: alt. 0-50 m
+maximumElevationInMeters: 50
+minimumElevationInMeters: 0
+verbatimCoordinates: N/A
+decimalLatitude: N/A
+decimalLongitude: N/A
+occurrenceRemarks: N/A
+collectionCode: Cryptogamic Herbarium
+recordNumber: 5141
+catalogNumber: 1798323
+language: English
+languageRemarks: N/A
+originalMethod: Printed
+generalNotes: N/A
+rawFormat: BRYOPHYTA NEOTROPICA EXSICCATA Fascicle III (1981), edited by S. Rob Gradstein distributed by the Institute of Systematic Botany, Utrecht 124 PILOTICUM CHLOROPHYLLUM (Hornsch.) C. Müll. det. R. Zielemán SURINAME: Distr. Nickerie, Kabalebo river area, 1 line W. from road km 34, S*N, W*58'', alt. 0-50 m decaying log in marsh forest with Astrocaryum J. Florschütz-de Waard and R. Zielemán 5141 31 October 1981
+URL: http://fm-digital-assets.fieldmuseum.org/2537/562/C2077577F.jpg
+
+==================================================

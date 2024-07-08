@@ -1,0 +1,49 @@
+Image: C0000578F.jpg
+
+title: Holotype Hepaticae of New Zealand: Telaranea lindenbergii var. papillata Engel & Merr.
+collectedBy: John J. Engel
+secondaryCollectors: Matt von Konrat, John E. Braggins
+recordNumber: 23773
+verbatimEventDate: 12 February 2003
+eventDate: 12-02-2003
+acceptedScientificName: Telaranea lindenbergii var. papillata Engel & Merr.
+phylum: (Division): Marchantiophyta
+family: Lepidoziaceae
+genus: Telaranea
+specificEpithet: lindenbergii
+infraspecificEpithet: papillata
+scientificNameAuthorship: Engel & Merr.
+identifiedBy: N/A
+dateIdentified: N/A
+otherScientificName: N/A
+associatedTaxa: Blechnum novae-zelandiae, Weinmannia, Dicksonia squarrosa, Leptospermum scoparium
+country: New Zealand
+countryCode: NZ
+firstPoliticalUnit: Auckland
+secondPoliticalUnit: N/A
+city: N/A
+verbatimLocality: North Island, Auckland Prov.; Whareorino Forest, start of track to Leitch's Hut
+locality: Whareorino Forest, start of track to Leitch's Hut
+habitat: On clayey bank with Blechnum novae-zelandiae overhang, Weinmannia and Dicksonia squarrosa dominant canopy and occasional Leptospermum scoparium
+substrate: clayey bank
+verbatimElevation: 280 meters
+maximumElevationInMeters: 280
+minimumElevationInMeters: 280
+verbatimCoordinates: 38° 24.5' South, 174° 49.8' East
+decimalLatitude: -38.4083
+decimalLongitude: 174.8300
+occurrenceRemarks: c. per.+ sporo (with mature perianth and sporophytes)
+collectionCode: N/A
+catalogNumber: 1173554
+language: English
+languageRemarks: N/A
+originalMethod: Typed
+typeStatus: Holotype
+sex: N/A
+reproductiveCondition: c. per. + sporo (with mature perianth and sporophytes)
+generalNotes: Supported by the National Geographic Society The Field Museum
+expeditionFundedBy: National Geographic Society, The Field Museum
+generalInformationAboutThePlantSpecimenItself: The specimen looks like a single plant specimen, moderately sized, mounted on a sheet with no apparent soil present.
+rawFormat: HOLOTYPE HEPATICAE OF NEW ZEALAND Telaranea lindenbergii var. papillata Engel & Merr. On clayey bank. NORTH ISLAND, AUCKLAND PROV.: Whareorino Forest, start of track to Leitch's Hut. 280 meters, 38° 24.5' South, 174° 49.8' East. Clay banks with Blechnum novae-zelandiae overhang, Weinmannia and Dicksonia squarrosa dominant canopy and occasional Leptospermum scoparium. John J. Engel, Matt von Konrat & John E. Braggins. No. 23773 12 February 2003. (Supported by the National Geographic Society The Field Museum)
+URL: https://fm-digital-assets.fieldmuseum.org/276/684/C0000578F.jpg
+==================================================

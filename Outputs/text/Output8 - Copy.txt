@@ -1,0 +1,286 @@
+Image: C0020028F.jpg
+
+Title: HEPATICAE OF EASTERN NORTH AMERICA
+ID: 68-1666
+Barcode: N/A
+Collected by: R. M. Schuster
+Scientific name: Anastrophyllum minutum (Cr.) Schust.
+Date collected: Aug. 17, 1968
+Country: Canada
+State/Province: Newfoundland
+County: N/A
+Locality: Along Humber R., in Squires Memorial Park, near Rte 1A
+Elevation: N/A
+Collection name: N/A
+Collection Number: 68-1666
+Latitude and Longitude: N/A
+Additional Notes: N/A
+
+==================================================
+Image: C0020034F.jpg
+
+Title: HEPATICAE OF EASTERN NORTH AMERICA
+ID: N/A
+Barcode: N/A
+Collected by: R. M. Schuster
+Scientific name: Anastrophylum minutum + gemm.
+Date collected: Aug. 17 1968
+Country: Canada
+State/Province: Newfoundland
+County: N/A
+Locality: Along Humber R., in Squires Memorial Park, near Rte 1A.
+Elevation: N/A
+Collection name: N/A
+Collection Number: 68-1644
+Latitude and Longitude: N/A
+Additional Notes: With: Diplophyllum taxifolium + gemmae 68-1644a
+
+==================================================
+Image: C0020040F.jpg
+
+Title: HEPATICAE OF EASTERN NORTH AMERICA
+ID: N/A
+Barcode: N/A
+Collected by: R. M. Schuster
+Scientific name: Anastrophylum minutum; Mylia taylori
+Date collected: Aug. 17, 1968
+Country: Canada
+State/Province: Newfoundland and Labrador
+County: N/A
+Locality: Along Humber River, Squires Memorial Park, near Route 1A
+Elevation: N/A
+Collection name: N/A
+Collection Number: 68-1660b
+Latitude and Longitude: N/A
+Additional Notes: Associates with Diplophyllum taxifolium 68-1660,a
+
+==================================================
+Image: C0020052F.jpg
+
+Title: Museum Botanicum Hauniense
+ID: 82-1049
+Barcode: N/A
+Collected by: R. M. Schuster & K. Damsholt
+Scientific name: Anastrophylum minutum (SCHREB.) SCHUST. var. grandis (GOTT.) SCHUST.
+Date collected: July 3, 1982
+Country: Greenland
+State/Province: South Greenland
+County: N/A
+Locality: Frederiksdal
+Elevation: N/A
+Collection name: HEPATICAE OF SOUTH GREENLAND
+Collection Number: S1
+Latitude and Longitude: 60°00'N lat., 44°40'W. long.
+Additional Notes: With: Cephalozia bicuspidata (L.) DUM.
+
+==================================================
+Image: C0020064F.jpg
+
+Title: Museum Botanicum Hauniense
+ID: 82-1482
+Barcode: N/A
+Collected by: R. M. Schuster & K. Damsholt
+Scientific name: Anastrophylum minutum (SCHREB.) SCHUST.
+Date collected: July 22, 1982
+Country: Greenland
+State/Province: South Greenland
+County: N/A
+Locality: Pamialdluk: Anordliuitsq, south and west of lake
+Elevation: N/A
+Collection name: HEPATICAE OF SOUTH GREENLAND
+Collection number: S1
+Latitude and Longitude: 60°04'N, 44°16'W
+Additional Notes: With: Lophozia ventricosa (DICKS.) DUM.
+
+==================================================
+Image: C0020083F.jpg
+
+Title: HEPATICAE OF EASTERN NORTH AMERICA
+ID: 45793b
+Barcode: N/A
+Collected by: R. M. Schuster
+Scientific name: Anastrophylum minutus ssp. grandis (Ldb.) Schust.
+Date collected: Aug. 2 1960
+Country: Greenland
+State/Province: Northwest Greenland
+County: N/A
+Locality: Kangerdluarssuk, W. side of Bowdoin Bay, Inglefield Bay
+Elevation: N/A
+Collection name: N/A
+Collection Number: c.gem.
+Latitude and Longitude: N/A
+Additional Notes: Collected in damp peaty soil, between and amidst rocks, with Cassiope tetragona. Accompanying species include Lophozia ventricosa (45793), Tritomaria quinquedentata & Phepharostoma trichophyllum brevirete (in 45793c), and Lophozia aff. ad L. pellucida (45793a).
+
+==================================================
+Image: C0025138F.jpg
+
+Title: HEPATICAE OF THE NEARCTIC
+ID: 9067
+Barcode: N/A
+Collected by: R. M. Schuster
+Scientific name: Frullania asagrayana Mont., male, can per. | Plagiochila tridenticulata Dum. (traces)
+Date collected: June 30, 1951
+Country: United States
+State/Province: North Carolina
+County: N/A
+Locality: Balsam Gap, ca. 25 mi. n. of Asheville, along Blue Ridge Parkway
+Elevation: 5220-5260 feet
+Collection number: 9067
+Latitude and Longitude: N/A
+Additional Notes: Occurring with: Abies fraseri
+
+Please note that "ca." is the abbreviation for "circa," which means "approximately," and "n." stands for "north." "Male, can per." is likely abbreviated botanical terminology related to the reproductive structures or status of the specimens. "Feet" refers to the elevation in feet above sea level. The scientific names are presented as recorded, including any specific information given about the specimens.
+
+==================================================
+Image: C0025161F.jpg
+
+Title: Frullania asagrayana Mt.
+ID: #1303f
+Barcode: N/A
+Collected by: R. M. Schuster
+Scientific name: Frullania asagrayana
+Date collected: Sept. 5, 1947
+Country: USA
+State/Province: Minnesota
+County: Cook
+Locality: On dry, shaded, north facing high cliffs, 1.5 miles west of Pigeon Point
+Elevation: N/A
+Collection name: N/A
+Collection Number: N/A
+Latitude and Longitude: N/A
+Additional Notes: pH 4.2
+
+==================================================
+Image: C0025164F.jpg
+
+Title: HEPATICAE OF EASTERN NORTH AMERICA
+ID: N/A
+Barcode: N/A
+Collected by: R. M. Schuster
+Scientific name: Frullania asagrayana
+Date collected: April 14, 1979
+Country: United States of America
+State/Province: Arkansas
+County: Stone Co.
+Locality: Ozark National Forest, Barkshed Camp, approximately 10 miles East of Big Flat
+Elevation: N/A
+Collection name: N/A
+Collection Number: 79-488
+Latitude and Longitude: N/A
+Additional Notes: N/A
+
+==================================================
+Image: C0076121F.jpg
+
+Title: HEPATICAE OF EASTERN UNITED STATES
+ID: 45179
+Barcode: C0076121F
+Collected by: R. M. Schuster
+Scientific name: Frullania eboracensis Go.
+Date collected: June 14, 1960
+Country: United States
+State/Province: South Carolina
+County: Oconee
+Locality: Thompson R. near mouth of gorge; ca 3.5-4 mi above Jocassee, ca 2-2.5 mi above confluence with Whitewater R.;
+Elevation: N/A
+Collection name: N/A
+Collection Number: N/A
+Latitude and Longitude: N/A
+Additional Notes: Common on bark of Liriodendron tulipifera. With: Frullania brittoniae (45179; with (3)4-6(7-9) oil-bodies per cell); Leucol (part of name cut off, likely Leucoljeunea or similar) uniloba (45179b) (In part with gradation from trigonous perianth to subsp virginica type perianth) (in small part with caducous leaves)
+
+==================================================
+Image: C0081541F.jpg
+
+Title: Herbarium Specimen
+ID: UT 4971 dupl.
+Barcode: C0081541F
+Collected by: A.J. Sharp
+Scientific name: Frullania Asagrayana Mont.
+Date collected: 24 July 1949
+Country: United States of America
+State/Province: Tennessee
+County: Carter
+Locality: Bluff along Laurel Creek, above Hampton
+Elevation: N/A
+Collection Name: Gift Of Alfred Clebsch
+Collection Number: UT 4971 dupl.
+Latitude and Longitude: N/A
+Additional Notes: N/A
+
+==================================================
+Image: C0081562F.jpg
+
+Title: University of British Columbia PLANTS OF NOVA SCOTIA
+ID: ACC# B122514
+Barcode: C0081562F
+Collected by: W.B. Schofield, R.J. Belland, D.P. Weber & J. Ridgland
+Scientific Name: Frullania asagrayana Mont.
+Date Collected: June 28, 1988
+Country: Canada
+State/Province: Nova Scotia
+County: Inverness County
+Locality: Grande Anse River, outcrop near first waterfall, N.E. of Lone Shieling
+Elevation: N/A
+Collection Number: 91928
+Latitude and Longitude: 46 50'N 60 48'W
+Additional Notes: open face of cliff
+
+Detection: WBS
+
+==================================================
+Image: C0084597F.jpg
+
+Title: LIVERWORTS OF FLORIDA No. 85-6089
+ID: 85-6089
+Barcode: C0084597F
+Collected by: David A. Breil
+Scientific name: Frullania brittoniae Evans
+Date collected: 12 January 1985
+Country: USA
+State/Province: Florida
+County: Marion
+Locality: Oklawaha River Park on FL 40, W side of Oklawaha River
+Elevation: N/A
+Collection name: N/A
+Collection Number: N/A
+Latitude and Longitude: N/A
+Additional Notes: Habitat gum-cypress swamp Substrate Taxodium twigs With Cololejeunea minutissima myriocarpa, Leucolejeunea unciloba
+
+==================================================
+Image: C0085744F.jpg
+
+Title: HEPATICAE OF EASTERN NORTH AMERICA
+ID: 44451a
+Barcode: C0085744F
+Collected by: R. M. Schuster
+Scientific name: Frullania donnellii Aust. Frullania kunzei L. et L., c⸗⸗ per.
+Date collected: [Date not provided in the image]
+Country: USA
+State/Province: Florida
+County: Dade
+Locality: At base of Gymnanthes lucida, at open, burned edge of Deer Hammock, Long Pine Key, Everglades Ntl. Pk.
+Elevation: [Elevation not provided in the image]
+Collection number: 44451a
+Latitude and Longitude: N/A
+Additional Notes: With: 2-3 very large oil-bodies in each basal cell; a larger form (to 1200 u wide), very atypical. With Brachiolejeunea bahamensis (44451b), Diplasiolejeunea.
+
+==================================================
+Image: C0085780F.jpg
+
+Title: HEPATICAE OF FLORIDA
+ID: F-131
+Barcode: C0085780F
+Collected by: R. M. Schuster
+Scientific name: Frullania donellii Aust. (paroecious; female bracts dentate)
+Date collected: N/A
+Country: USA
+State/Province: Florida
+County: Levy
+Locality: Over bark of Magnolia grandiflora, in hammock forest just north of Gulf Hammock
+Elevation: N/A
+Collection name: N/A
+Collection Number: N/A
+Latitude and Longitude: N/A
+Additional Notes: Occurring with Frullania squarrosa
+
+==================================================
