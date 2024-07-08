@@ -1,0 +1,45 @@
+Run ID,Prompt Used,Date Run,Time Run,Output Text,Output Spread,Photos Used,Model Used,Number of Photos,Who Ran?,Goal of run
+1,1.1,2.29.24,5:13 PM,Output2.29.24,N/A,Batch 200,,First 100,R,Run of 100 With updated prompt
+2,1.1,3.1.24,11:26 AM,OutputMar1.1126,n/A,Batch 200,,Full 200,R,Testing 200 with internet checking in prompt
+3,1.1,3.4.24,2:26 PM,OutputMar3.221,SpreadMar3.221,Batch 300,,Full 300,R,Testing 300
+4,1.1 Short,3.7.24,4:05 PM,OutputMar7.405,N/a,Batch 300,,Full 300 But only 245 success due to user error,R,With shorter prompt
+4,1.1 Short,3.12.24,4:27 PM,OutputMar12.0427,SpreadMar12.0427,Batch 300,,Full 300,R,Full Run of 300 on short prompt
+5,1.3,3.27.24,11:28,OutputMar27.1128,OutputMar27.1128,Batch 300,,Full 300,R,Full Run with 1.3
+6,1.4 stripped,4.3.24,12:47,OutputApr3.1247,SpreadApr3.1247,Batch 300,,284/300 Completed,R,Full 1.4 Stripped
+7,1.4 stripped,4.4.24,11:00 AM,Output4.4,Spread4.4,Batch 300,,Full 300,JG,Full 1.4 Stripped
+8,1.4 stripped,4.4.24,1:04 PM,Output4.4.1304,Spread4.4.1304,Batch 300,,Full 300,JG,Full 1.4 Stripped replicate
+9,1.4 stripped,4.10.24,1:34 PM,Output4.10.1334,Spread4.10.1334,Batch 202,,202 typed only,JG,"1.4 Stripped on typed only, full image"
+10,1.4 stripped,4.16.24,2:00 PM,Ouput4.16.1400,Spread4.16.1400,Batch 78,,78 bryophytes typed only,JG,"1.4 stripped prompt on full image bryophytes, typed labels only"
+11,1.5 stripped (in process),4.23.24,1:06 PM,Output4.23.1306,Spread4.23.1306,Batch 78,,78 bryophytes typed only,JG,"1.5 stripped prompt on full image bryophytes, typed labels only"
+12,1.5 stripped (in process) V2,5.7.24,13:56,Output5.7.1356,Spread5.7.1356,Batch 78,,78 bryophytes typed only,JG,"1.5 stripped prompt V2 on full image bryophytes, typed labels only, ground truth edits"
+13,1.5 stripped (in process) V2,5.7.24,19:42,,,Batch 78,,78 bryophytes typed only,JG,"1.5 stripped prompt V2 on full image bryophytes, typed labels only, ground truth edits, replicate failed"
+14,1.5 stripped (in process) V2,5.7.24,,,,Batch 78,,78 bryophytes typed only,JG,"1.5 stripped prompt V2 on full image bryophytes, typed labels only, ground truth edits, replicate"
+15,1.5 stripped (in process) V2,5.9.24,11:30,Output5.9.1130,Spread5.9.1130,,,100 bryophytes typed only,JG,"1.5 stripped prompt V2 on full image bryophytes, typed labels only, 100 for comparison with cropped labels"
+16,1.5 stripped (in process) V2,5.9.24,15:00,Output5.9.1500,Spread5.9.1500,,,193 bryophytes,JG,"1.5 stripped prompt V2 on 193 cropped label bryophytes, typed labels only: problems"
+17,1.5 stripped (in process) V2,5.15.24,11:50,Output5.15.1150,Spread5.15.1150,,,193 bryophytes - cropped labels,JG,"1.5 stripped prompt V2 on 193 cropped label bryophytes, typed labels only"
+18,1.5 stripped (in process) V2,5.29.24,11:53,OutputMay29.Comparison1,,10Test,gpt 4o,10 From Jeffs batch 300,R,Comparison of 10 images to see temperature (using gpt 4o)
+19,1.5 stripped (in process) V2,5.29.24,11:53,OutputMay29.Comparison2,,10Test,gpt 4o,10 From Jeffs batch 300,R,Comparison of 10 images to see temperature (using gpt 4o)
+20,1.5 stripped (in process) V2,5.29.24,11:53,OutputMay29.Comparison4,,10Test,gpt 4o,10 From Jeffs batch 300,R,Comparison of 10 images to see temperature (using gpt 4o)
+21,1.5 stripped (in process) V2,5.29.24,11:53,OutputMay29.Comparison3,,10Test,gpt 4o,10 From Jeffs batch 300,R,Comparison of 10 images to see temperature (using gpt 4o)
+22,1.5 stripped (in process) V2,5.29.24,11:53,OutputMay29.Comparison4,,10Test,gpt 4o,10 From Jeffs batch 300,R,Comparison of 10 images to see temperature (using gpt 4o)
+23,1.5 stripped (in process) V2,5.29.24,11:53,OutputMay29.Comparison5,,10Test,gpt 4,10 From Jeffs batch 300,R,Comparison of 10 images to see temperature (Using gpt 4)
+24,1.5 stripped (in process) V2,5.29.24,11:53,OutputMay29.Comparison6,,10Test,gpt 4,10 From Jeffs batch 300,R,Comparison of 10 images to see temperature (Using gpt 4)
+25,1.5 stripped (in process) V2,5.30.24,10:25,Output5.30.1025,Output5.30.1025,,gpt 4,100 bryophytes cropped labels,JG,"1.5 stripped prompt V2 on 100 cropped labels, typed only"
+26,1.5 stripped (in process) V2,5.30.24,11:39,Output5.30.1139,Spread5.30.1139,,gpt 4,100 bryophytes full images,JG,1.5 stripped prompt V2 on 100 full images typed only
+27,1.5 stripped (in process) V2,6.4.24,3:19,OutputJun4.ColorImages,,10Test,gpt4o,10 Test,R,Seeing if postprocessing works better for text extraction
+28,1.5 stripped (in process) V2,6.4.24,3:19,OutputJun4.BWImages,,10Test,gpt4o,10 Test,R,Seeing if postprocessing works better for text extraction
+29,1.5 stripped (in process) V2,6.5.24,11:20,OutputJun5.100Test.COLOR,,100ImageEnhanceTest,gpt4o,100Test (Bryophytes full images),R,Larger Data Set for Color vs Post Processing
+30,1.5 stripped (in process) V2,6.5.24,,OutputJun5.100Test.BW,,100ImageEnhanceTest,gpt4o,100Test (Bryophytes full images),R,Larger Data Set for Color vs Post Processing
+31,1.5 stripped (in process) V2,6.11.24,10:50,Output_6_11_1050.txt,Spread_6_11_1050.csv,100Test,gpt4o,100Test (Bryophytes full images),JG,Checking results with replicate runs with seed and temperature settings
+32,1.5 stripped (in process) V2,6.11.24,11:10,Output_6_11_1110.txt,Spread_6_11_1110.csv,100Test,gpt4o,100Test (Bryophytes full images),JG,Checking results with replicate runs with seed and temperature settings
+33,1.5 stripped (in process) V2,6.11.24,fail ,,,100Test,Claude,100Test (Bryophytes full images),JG,Checking results with replicate runs with seed and temperature settings: Claude
+34,1.5 stripped (in process) V2,6.12.24,14:04,Output_6_12_1404.txt,Spread_6_12_1404.csv,100Test,Claude,100Test (Bryophytes full images),JG,Checking results with replicate runs with seed and temperature settings: Claude
+35,1.5 stripped (in process) V2,6.12.24,14:40,Output_6_12_1440.txt,Spread_6_12_1440.csv,100Test,Claude,100Test (Bryophytes full images),JG,Checking results with replicate runs with seed and temperature settings: Claude
+36,1.5 stripped (in process) V2,6.20.24,11:45,Output_6_20_1145.txt,Spread_6_20_1145.csv,Bryo50,gpt4o,50 (bryophytes full images),JG,ChatGPT run for Bryo50 time trials
+37,1.5 stripped (in process) V2,6.20.24,1:53 PM,OutputJun.20.24.0153.txt,SpreadJun.20.24.0153.csv,image_url's8,Google Gemini,100Test (Bryophytes full images),R,First Run of Google Gemini 
+38,1.5 stripped (in process) V2,6.21.24,10:43 AM,OutputJun.21.24.1043.txt,SpreadJun21.24.1043.csv,image_url's8,Claude3.5 Sonnet,100Test (Bryophytes full images),R,Claude 3.5 (NEW MODEL) Testing
+39,1.5 stripped,6.19.24,16:00,Output06.19.1615.txt,Spread06.19.1615.csv,100Test,gpt4o,100Test(Bryophytes full images),DS,Familiarize with R
+40,1.5 stripped,6.12.24,10:00,Output06.12.1000.txt,Spread06.12.1000.csv,Batch300,gpt4o,Batch300[0000:0204](Bryophytes full images,DS,Familiarize with testing. gpt4o stalled before completion
+41,1.5 stripped,6.12.24,15:00,Output06.12.1500.txt,UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 11452: character maps to <undefined> ,Batch300,gpt4o,Batch300[0200:0300](Bryophytes full images,DS,Finish failed run from earlier
+42,1.5 stripped,6.21.24,10:50 AM,OutputJun.26.24.1050.txt,SpreadJun26.24.1050.csv,image_url's8,Claude 3.5 Sonnet,100 Images,RH,Comparison for claude 3.5 Sonnet
+43,1.5 stripped,6.21.24,11:08 AM,OutputJun.26.24.1108.txt,SpreadJun26.24.1108.csv,image_url's8,Google Gemini,100 Images,RH,Comparison for Google Gemini 
