@@ -99,9 +99,9 @@ def export_to_csv(data, csv_file_path):
 
 if __name__ == "__main__":
     #CHANGE INPUT TO DESIRED .TXT FILE
-    input_file_path = "C:\\Users\\riley\\OneDrive\\Desktop\\CodeForMe\\python\\Outputs\\Output2.29.1147.txt"
+    input_file_path = "C:\\Users\\riley\\OneDrive\\Desktop\\CodeForMe\\python\\Output\\OutputJun.20.24.0153.txt"
     #CHANGE OUTPUT TO DESIRED LOCATION TO .CSV FILE
-    output_csv_file_path = "C:\\Users\\riley\\OneDrive\\Desktop\\CodeForMe\\python\\Outputs\\Spread2.29.1232.csv"
+    output_csv_file_path = "C:\\Users\\riley\\OneDrive\\Desktop\\CodeForMe\\python\\Output\\SpreadJun.20.24.0153.csv"
 
     extracted_data = process_file(input_file_path)
     if extracted_data:
