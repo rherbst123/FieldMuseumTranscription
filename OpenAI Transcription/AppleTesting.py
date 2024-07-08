@@ -6,14 +6,14 @@ import re
 import csv
 import time
 
-# Set your inputs here
+# Set your inputs here and only here. 
 api_key = "YOUR_API_KEY"
 prompt_file_path = "path/to/your/prompt_file.txt"
 url_text = "path/to/your/url_text.txt"
 image_folder = "path/to/your/image_folder"
 output_file = "path/to/your/output_file.txt"
 
-# Ensure all file paths are normalized
+#standardize the paths
 prompt_file_path = os.path.normpath(prompt_file_path)
 url_text = os.path.normpath(url_text)
 image_folder = os.path.normpath(image_folder)
@@ -67,7 +67,7 @@ image_urls = download_images(url_text, image_folder)
 user_confirmation = input("Proceed with parsing the images? (yes/no): ").strip().lower()
 if user_confirmation != "yes":
     print("Parsing cancelled by the user.")
-    quit()
+    exit()
 
 counter = 0
 with open(output_file, 'w') as file:
