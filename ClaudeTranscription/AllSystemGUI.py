@@ -14,40 +14,34 @@ class FullScreenImage:
         self.master = master
         self.original_image = image
         self.top = tk.Toplevel(master)
-        self.top.title("Image on the Side")
+        self.top.title("Adjustable Image Viewer")
         
-        # Get the screen width and height
         screen_width = self.top.winfo_screenwidth()
         screen_height = self.top.winfo_screenheight()
         
-        # Set initial window size to 80% of the screen size
         window_width = int(screen_width * 0.8)
         window_height = int(screen_height * 0.8)
         
-        # Center the window on the screen
         x = (screen_width - window_width) // 2
         y = (screen_height - window_height) // 2
         
         self.top.geometry(f"{window_width}x{window_height}+{x}+{y}")
-        
-        # Allow window resizing
         self.top.resizable(True, True)
         
-        self.canvas = tk.Canvas(self.top)
+        self.canvas = tk.Canvas(self.top, highlightthickness=0)
         self.canvas.pack(fill=tk.BOTH, expand=True)
         
-        # Bind resize event
         self.top.bind('<Configure>', self.resize_image)
-        
-        # Bind mouse wheel for zooming
+        self.canvas.bind('<ButtonPress-1>', self.start_pan)
+        self.canvas.bind('<B1-Motion>', self.pan)
         self.top.bind('<MouseWheel>', self.zoom)  # For Windows
         self.top.bind('<Button-4>', self.zoom)    # For Linux (scroll up)
         self.top.bind('<Button-5>', self.zoom)    # For Linux (scroll down)
-        
-        # Bind right-click for closing
         self.top.bind('<Button-3>', self.close)
         
         self.scale = 1.0
+        self.pan_x = 0
+        self.pan_y = 0
         self.show_image()
 
     def show_image(self):
@@ -73,27 +67,48 @@ class FullScreenImage:
             new_height = int(width / img_ratio)
         
         # Apply zoom scale
-        new_width = int(new_width * self.scale)
-        new_height = int(new_height * self.scale)
+        new_width = max(1, int(new_width * self.scale))
+        new_height = max(1, int(new_height * self.scale))
         
-        resized_image = self.original_image.resize((new_width, new_height), Image.Resampling.LANCZOS)
+        # Use high-quality downsampling filter
+        if self.scale < 1:
+            resample_method = Image.Resampling.LANCZOS
+        else:
+            resample_method = Image.Resampling.BICUBIC
+        
+        resized_image = self.original_image.resize((new_width, new_height), resample_method)
         self.photo = ImageTk.PhotoImage(resized_image)
         
         self.canvas.delete("all")
-        self.canvas.create_image(width//2, height//2, image=self.photo, anchor=tk.CENTER)
+        self.canvas.create_image(width//2 + self.pan_x, height//2 + self.pan_y, image=self.photo, anchor=tk.CENTER, tags="image")
 
     def resize_image(self, event):
         self.update_image()
 
+    def start_pan(self, event):
+        self.canvas.scan_mark(event.x, event.y)
+
+    def pan(self, event):
+        self.canvas.scan_dragto(event.x, event.y, gain=1)
+        self.pan_x = self.canvas.canvasx(0)
+        self.pan_y = self.canvas.canvasy(0)
+
     def zoom(self, event):
-        if event.num == 5 or event.delta == -120:  # Scroll down
-            self.scale *= 0.9
-        if event.num == 4 or event.delta == 120:   # Scroll up
-            self.scale *= 1.1
+        x = self.canvas.canvasx(event.x)
+        y = self.canvas.canvasy(event.y)
+        factor = 0.9 if event.delta < 0 else 1.1
+        self.scale *= factor
+        self.scale = max(0.01, min(self.scale, 5.0))  # Limit zoom scale
+        self.canvas.scale("all", x, y, factor, factor)
+        self.pan_x *= factor
+        self.pan_y *= factor
         self.update_image()
 
     def close(self, event=None):
         self.top.destroy()
+
+
+
 class ImageProcessorGUI:
     def __init__(self, master):
         self.master = master
