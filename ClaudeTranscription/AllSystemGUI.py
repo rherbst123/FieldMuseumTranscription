@@ -12,36 +12,93 @@ import sys
 class FullScreenImage:
     def __init__(self, master, image):
         self.master = master
-        self.image = image
+        self.original_image = image
         self.top = tk.Toplevel(master)
-        self.top.attributes('-fullscreen', True)
-        self.top.bind('<Escape>', self.close)
-        self.top.bind('<Button-1>', self.close)
-
-        self.canvas = tk.Canvas(self.top)
-        self.canvas.pack(fill=tk.BOTH, expand=True)
-
-        self.show_image()
-
-    def show_image(self):
+        self.top.title("Image on the Side")
+        
+        # Get the screen width and height
         screen_width = self.top.winfo_screenwidth()
         screen_height = self.top.winfo_screenheight()
         
-        ratio = min(screen_width/self.image.width, screen_height/self.image.height)
-        new_width = int(self.image.width * ratio)
-        new_height = int(self.image.height * ratio)
+        # Set initial window size to 80% of the screen size
+        window_width = int(screen_width * 0.8)
+        window_height = int(screen_height * 0.8)
         
-        self.photo = ImageTk.PhotoImage(self.image.resize((new_width, new_height), Image.Resampling.LANCZOS))
-        self.canvas.create_image(screen_width//2, screen_height//2, image=self.photo, anchor=tk.CENTER)
+        # Center the window on the screen
+        x = (screen_width - window_width) // 2
+        y = (screen_height - window_height) // 2
+        
+        self.top.geometry(f"{window_width}x{window_height}+{x}+{y}")
+        
+        # Allow window resizing
+        self.top.resizable(True, True)
+        
+        self.canvas = tk.Canvas(self.top)
+        self.canvas.pack(fill=tk.BOTH, expand=True)
+        
+        # Bind resize event
+        self.top.bind('<Configure>', self.resize_image)
+        
+        # Bind mouse wheel for zooming
+        self.top.bind('<MouseWheel>', self.zoom)  # For Windows
+        self.top.bind('<Button-4>', self.zoom)    # For Linux (scroll up)
+        self.top.bind('<Button-5>', self.zoom)    # For Linux (scroll down)
+        
+        # Bind right-click for closing
+        self.top.bind('<Button-3>', self.close)
+        
+        self.scale = 1.0
+        self.show_image()
+
+    def show_image(self):
+        self.update_image()
+
+    def update_image(self):
+        width = self.top.winfo_width()
+        height = self.top.winfo_height()
+        
+        if width <= 1 or height <= 1:
+            self.top.after(100, self.update_image)
+            return
+        
+        # Calculate new size while maintaining aspect ratio
+        img_ratio = self.original_image.width / self.original_image.height
+        win_ratio = width / height
+        
+        if win_ratio > img_ratio:
+            new_height = height
+            new_width = int(height * img_ratio)
+        else:
+            new_width = width
+            new_height = int(width / img_ratio)
+        
+        # Apply zoom scale
+        new_width = int(new_width * self.scale)
+        new_height = int(new_height * self.scale)
+        
+        resized_image = self.original_image.resize((new_width, new_height), Image.Resampling.LANCZOS)
+        self.photo = ImageTk.PhotoImage(resized_image)
+        
+        self.canvas.delete("all")
+        self.canvas.create_image(width//2, height//2, image=self.photo, anchor=tk.CENTER)
+
+    def resize_image(self, event):
+        self.update_image()
+
+    def zoom(self, event):
+        if event.num == 5 or event.delta == -120:  # Scroll down
+            self.scale *= 0.9
+        if event.num == 4 or event.delta == 120:   # Scroll up
+            self.scale *= 1.1
+        self.update_image()
 
     def close(self, event=None):
         self.top.destroy()
-
 class ImageProcessorGUI:
     def __init__(self, master):
         self.master = master
         master.title("Field Museum Herbarium Parser")
-        master.geometry("800x600")
+        master.geometry("800x800")
         master.configure(bg="green")
         
         self.current_image_index = 0
@@ -49,11 +106,11 @@ class ImageProcessorGUI:
         self.processed_outputs = []
         self.output_file = ""
 
-        #Inputs
+        #BUTTONS
         input_frame = ttk.LabelFrame(master, text="Input Settings")
         input_frame.pack(padx=10, pady=10, fill="x")
 
-        ttk.Label(input_frame, text="URL File:").grid(row=0, column=0, sticky="w", padx=5, pady=5)
+        ttk.Label(input_frame, text="URL's of Images").grid(row=0, column=0, sticky="w", padx=5, pady=5)
         self.url_file_entry = ttk.Entry(input_frame, width=50)
         self.url_file_entry.grid(row=0, column=1, padx=5, pady=5)
         ttk.Button(input_frame, text="Browse", command=self.browse_url_file).grid(row=0, column=2, padx=5, pady=5)
