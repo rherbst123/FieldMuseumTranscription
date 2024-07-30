@@ -55,16 +55,14 @@ class FullScreenImage:
             self.top.after(100, self.update_image)
             return
         
-        # Calculate new size while maintaining aspect ratio
+        # Set initial size to 1000x1000 while maintaining aspect ratio
         img_ratio = self.original_image.width / self.original_image.height
-        win_ratio = width / height
-        
-        if win_ratio > img_ratio:
-            new_height = height
-            new_width = int(height * img_ratio)
+        if img_ratio > 1:
+            new_width = 1000
+            new_height = int(1000)
         else:
-            new_width = width
-            new_height = int(width / img_ratio)
+            new_height = 1000
+            new_width = int(1000)
         
         # Apply zoom scale
         new_width = max(1, int(new_width * self.scale))
@@ -334,12 +332,15 @@ class ImageProcessorGUI:
         return formatted_result
 
     def display_image(self, image):
-        image.thumbnail((300, 300))  # Resize image to fit in the GUI
-        photo = ImageTk.PhotoImage(image)
+        # Create a thumbnail for display in the main GUI
+        display_image = image.copy()
+        display_image.thumbnail((400, 400))
+        photo = ImageTk.PhotoImage(display_image)
+        
         self.image_label.config(image=photo)
         self.image_label.image = photo  # Keep a reference
 
-        # Open the image in full screen when clicked
+        # Bind to open the image in full screen with the original resolution
         self.image_label.bind("<Button-1>", lambda event: self.open_full_screen(image))
 
     def open_full_screen(self, image):
