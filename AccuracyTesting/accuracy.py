@@ -7,9 +7,9 @@ CORE_FIELDS_LIST = []
 
 ### SUBSTITUTE YOUR FILENAMES BELOW
 # sources and filenames should be bare; no folder name and no extension name
-LLM_SPREAD_SOURCES = [ "spread08.02.1600.1.1Stripped", "spread08.02.1600.1.2Stripped", "spread08.02.1600.1.3Stripped", "spread08.02.1600.1.4StrippedPrompt", "spread08.02.1600.1.5Stripped", "Spread08.06.1000.1.5Stripped"]## "Spread_6_11_1050", "Spread_6_11_1110", "Spread_6_12_1404", "Spread_6_12_1440"#
-GROUND_TRUTH_FILENAME = "First25BryophytesTyped" # First100BryophytesTyped
-RESULT_FILENAME = "Spreads08.02and08.06AllPromptsAccuracy"
+LLM_SPREAD_SOURCES = []#  "spread08.02.1600.1.1Stripped", "spread08.02.1600.1.2Stripped", "spread08.02.1600.1.3Stripped", "spread08.02.1600.1.4StrippedPrompt", "spread08.02.1600.1.5Stripped", "Spread08.06.1000.1.5Stripped"# "Spread_6_11_1050", "Spread_6_11_1110", "Spread_6_12_1404", "Spread_6_12_1440"#
+GROUND_TRUTH_FILENAME = "" # First100BryophytesTyped # First25BryophytesTyped
+RESULT_FILENAME = ""
 # path wrappers are used to add folder location and add extension names
 # data can be read or saved to a diffeent folder by changing the wrapper
 SOURCE_PATH_WRAPPER = "AccuracyTesting/AccuracyTestingSources/%s.csv"
@@ -73,7 +73,6 @@ def compare_and_tally(transcription_dicts, ground_truth_dicts, comparison_result
                 #num_targets += 1    # uncommenting this will significantly increase the number of targets
                 pass              
     return calculate_accuracy_valid_targets(comparison_results_dict, num_targets, num_matches)                    
-
 
 def process(run_spreadname, ground_truth_dicts, blank_results_dict):
     saved_results: list[dict] = get_contents_from_csv(SOURCE_PATH_WRAPPER%run_spreadname)
