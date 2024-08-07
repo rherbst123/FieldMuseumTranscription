@@ -7,13 +7,13 @@ CORE_FIELDS_LIST = []
 
 ### SUBSTITUTE YOUR FILENAMES BELOW
 # sources and filenames should be bare; no folder name and no extension name
-LLM_SPREAD_SOURCES = []#  "spread08.02.1600.1.1Stripped", "spread08.02.1600.1.2Stripped", "spread08.02.1600.1.3Stripped", "spread08.02.1600.1.4StrippedPrompt", "spread08.02.1600.1.5Stripped", "Spread08.06.1000.1.5Stripped"# "Spread_6_11_1050", "Spread_6_11_1110", "Spread_6_12_1404", "Spread_6_12_1440"#
-GROUND_TRUTH_FILENAME = "" # First100BryophytesTyped # First25BryophytesTyped
-RESULT_FILENAME = ""
+LLM_SPREAD_SOURCES = ["SpreadJun.26.24.1050"]#  "spread08.02.1600.1.1Stripped", "spread08.02.1600.1.2Stripped", "spread08.02.1600.1.3Stripped", "spread08.02.1600.1.4StrippedPrompt", "spread08.02.1600.1.5Stripped", "Spread08.06.1000.1.5Stripped"# "Spread_6_11_1050", "Spread_6_11_1110", "Spread_6_12_1404", "Spread_6_12_1440"#
+GROUND_TRUTH_FILENAME = "First25BryophytesTyped" # First100BryophytesTyped # First25BryophytesTyped
+RESULT_FILENAME = "Acc"
 # path wrappers are used to add folder location and add extension names
 # data can be read or saved to a diffeent folder by changing the wrapper
-SOURCE_PATH_WRAPPER = "Outputs/%s.csv"    # AccuracyTesting/AccuracyTestingSources/
-RESULTS_PATH_WRAPPER = "AccuracyTesting/AccuracyTestingResults/%s.csv"
+SOURCE_PATH_WRAPPER = "Output/%s.csv"    # AccuracyTesting/AccuracyTestingSources/
+RESULTS_PATH_WRAPPER = "Output/%s.csv"  # AccuracyTesting/AccuracyTestingResults/
 
 
 def get_contents_from_csv(fname):
@@ -78,12 +78,12 @@ def compare_and_tally(transcription_dicts, ground_truth_dicts, comparison_result
                      # for this reason, the number of targets does depend on the llm run
                 #num_targets += 1    # uncommenting this will significantly increase the number of targets
                 pass              
-    return comparison_results_dict                   
+    return comparison_results_dict, num_targets, num_matches                   
 
 def process(run_spreadname, ground_truth_dicts, blank_results_dict):
     saved_results: list[dict] = get_contents_from_csv(SOURCE_PATH_WRAPPER%run_spreadname)
     transcription_dicts = [get_fields_to_be_compared(d) for d in saved_results]
-    tallied_results_dict = compare_and_tally(transcription_dicts, ground_truth_dicts, blank_results_dict)  
+    tallied_results_dict, num_targets, num_matches = compare_and_tally(transcription_dicts, ground_truth_dicts, blank_results_dict)  
     return calculate_accuracy_valid_targets(tallied_results_dict, num_targets, num_matches) 
 
 def main(run_spreadnames=LLM_SPREAD_SOURCES): 
@@ -94,7 +94,8 @@ def main(run_spreadnames=LLM_SPREAD_SOURCES):
         blank_results_dict =           \
             {"run": spreadname} | {fieldname: [0,0] for fieldname in ground_truth_dicts[0] if fieldname not in SKIP_LIST}
         master_results += [process(spreadname, ground_truth_dicts, blank_results_dict)]
-    save_to_csv(RESULTS_PATH_WRAPPER%RESULT_FILENAME, master_results)   
+    save_to_csv(RESULTS_PATH_WRAPPER%RESULT_FILENAME, master_results)
+    print(f"Saved to {RESULTS_PATH_WRAPPER%RESULT_FILENAME}!!!!")   
     
 if __name__ == "__main__":
     main()
