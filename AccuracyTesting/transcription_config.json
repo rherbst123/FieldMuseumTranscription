@@ -4,7 +4,10 @@
         "CORE_FIELDS_LIST": [],
         "USE_CORE_FIELDS": "False",
         "EDIT_DISTANCE_CLASS": "NLTKDistance",
-        "EDIT_DISTANCE_CONFIG": {"INSERT_CHAR_COSTS": [[".", 0.5], [" ", 0.5]],
+        "EDIT_DISTANCE_CONFIG": {"comment1": "COSTS are lists of lists.",
+                                 "comment2": "For INSERT_CHAR and DELETE_CHAR, the order of the two elements of the inner list is char, cost.",
+                                 "comment3": "For SUBSTITUTION_CHAR and TRANSPOSITION_CHAR, the order of the three elements of the inner list is char to substitute in, target char to be substuted out, cost.",
+                                 "INSERT_CHAR_COSTS": [[".", 0.5], [" ", 0.5]],  
                                  "DELETE_CHAR_COSTS":  [[".", 0.5], [" ", 0.5]],
                                  "SUBSTITUTION_CHAR_COSTS": [["A", "a", 0.00001]],
                                  "TRANSPOSITON_CHAR_COSTS": [[]]
