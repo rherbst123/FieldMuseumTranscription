@@ -76,7 +76,6 @@ class WeightedLevenshtein(StringDistance):
             costs_lists[ord(substitution), ord(target)] = cost
 
     def assign_temp_ascii_values(self, s1, s2):
-        temp1, temp2 = "", ""
         unused_ascii_range = list(range(32))
         d = {}
         def assign_temp_val(char: str, d, unused: list):  
@@ -86,7 +85,7 @@ class WeightedLevenshtein(StringDistance):
                 d[char] = unused.pop()
                 return chr(d[char]) 
         temp1 = "".join(char if ord(char) < 128 else assign_temp_val(char, d, unused_ascii_range) for char in s1)
-        temp2 = "".join(char if ord(char) < 128 else assign_temp_val(char, d, unused_ascii_range) for char in s1)
+        temp2 = "".join(char if ord(char) < 128 else assign_temp_val(char, d, unused_ascii_range) for char in s2)
         return temp1, temp2
 
 
