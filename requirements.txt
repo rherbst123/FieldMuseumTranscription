@@ -3,8 +3,10 @@ pandas
 opencv-python
 pytesseract
 openai
+anthropic
+tkinter
+pillow
+requests
 nltk
 weighted-levenshtein
-anthropic
-requests
 google-generativeai

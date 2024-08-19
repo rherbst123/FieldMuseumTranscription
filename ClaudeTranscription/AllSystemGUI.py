@@ -12,36 +12,106 @@ import sys
 class FullScreenImage:
     def __init__(self, master, image):
         self.master = master
-        self.image = image
+        self.original_image = image
         self.top = tk.Toplevel(master)
-        self.top.attributes('-fullscreen', True)
-        self.top.bind('<Escape>', self.close)
-        self.top.bind('<Button-1>', self.close)
-
-        self.canvas = tk.Canvas(self.top)
-        self.canvas.pack(fill=tk.BOTH, expand=True)
-
-        self.show_image()
-
-    def show_image(self):
+        self.top.title("Adjustable Image Viewer")
+        
         screen_width = self.top.winfo_screenwidth()
         screen_height = self.top.winfo_screenheight()
         
-        ratio = min(screen_width/self.image.width, screen_height/self.image.height)
-        new_width = int(self.image.width * ratio)
-        new_height = int(self.image.height * ratio)
+        window_width = int(screen_width * 0.8)
+        window_height = int(screen_height * 0.8)
         
-        self.photo = ImageTk.PhotoImage(self.image.resize((new_width, new_height), Image.Resampling.LANCZOS))
-        self.canvas.create_image(screen_width//2, screen_height//2, image=self.photo, anchor=tk.CENTER)
+        x = (screen_width - window_width) // 2
+        y = (screen_height - window_height) // 2
+        
+        self.top.geometry(f"{window_width}x{window_height}+{x}+{y}")
+        self.top.resizable(True, True)
+        
+        self.canvas = tk.Canvas(self.top, highlightthickness=0)
+        self.canvas.pack(fill=tk.BOTH, expand=True)
+        
+        self.top.bind('<Configure>', self.resize_image)
+        self.canvas.bind('<ButtonPress-1>', self.start_pan)
+        self.canvas.bind('<B1-Motion>', self.pan)
+        self.top.bind('<MouseWheel>', self.zoom)  # For Windows
+        self.top.bind('<Button-4>', self.zoom)    # For Linux (scroll up)
+        self.top.bind('<Button-5>', self.zoom)    # For Linux (scroll down)
+        self.top.bind('<Button-3>', self.close)
+        
+        self.scale = 1.0
+        self.pan_x = 0
+        self.pan_y = 0
+        self.show_image()
+
+    def show_image(self):
+        self.update_image()
+
+    def update_image(self):
+        width = self.top.winfo_width()
+        height = self.top.winfo_height()
+        
+        if width <= 1 or height <= 1:
+            self.top.after(100, self.update_image)
+            return
+        
+        # Set initial size to 1000x1000 while maintaining aspect ratio
+        img_ratio = self.original_image.width / self.original_image.height
+        if img_ratio > 1:
+            new_width = 1000
+            new_height = int(1000)
+        else:
+            new_height = 1000
+            new_width = int(1000)
+        
+        # Apply zoom scale
+        new_width = max(1, int(new_width * self.scale))
+        new_height = max(1, int(new_height * self.scale))
+        
+        # Use high-quality downsampling filter
+        if self.scale < 1:
+            resample_method = Image.Resampling.LANCZOS
+        else:
+            resample_method = Image.Resampling.BICUBIC
+        
+        resized_image = self.original_image.resize((new_width, new_height), resample_method)
+        self.photo = ImageTk.PhotoImage(resized_image)
+        
+        self.canvas.delete("all")
+        self.canvas.create_image(width//2 + self.pan_x, height//2 + self.pan_y, image=self.photo, anchor=tk.CENTER, tags="image")
+
+    def resize_image(self, event):
+        self.update_image()
+
+    def start_pan(self, event):
+        self.canvas.scan_mark(event.x, event.y)
+
+    def pan(self, event):
+        self.canvas.scan_dragto(event.x, event.y, gain=1)
+        self.pan_x = self.canvas.canvasx(0)
+        self.pan_y = self.canvas.canvasy(0)
+
+    def zoom(self, event):
+        x = self.canvas.canvasx(event.x)
+        y = self.canvas.canvasy(event.y)
+        factor = 0.9 if event.delta < 0 else 1.1
+        self.scale *= factor
+        self.scale = max(0.01, min(self.scale, 5.0))  # Limit zoom scale
+        self.canvas.scale("all", x, y, factor, factor)
+        self.pan_x *= factor
+        self.pan_y *= factor
+        self.update_image()
 
     def close(self, event=None):
         self.top.destroy()
+
+
 
 class ImageProcessorGUI:
     def __init__(self, master):
         self.master = master
         master.title("Field Museum Herbarium Parser")
-        master.geometry("800x600")
+        master.geometry("800x800")
         master.configure(bg="green")
         
         self.current_image_index = 0
@@ -49,11 +119,11 @@ class ImageProcessorGUI:
         self.processed_outputs = []
         self.output_file = ""
 
-        #Inputs
+        #BUTTONS
         input_frame = ttk.LabelFrame(master, text="Input Settings")
         input_frame.pack(padx=10, pady=10, fill="x")
 
-        ttk.Label(input_frame, text="URL File:").grid(row=0, column=0, sticky="w", padx=5, pady=5)
+        ttk.Label(input_frame, text="URL's of Images").grid(row=0, column=0, sticky="w", padx=5, pady=5)
         self.url_file_entry = ttk.Entry(input_frame, width=50)
         self.url_file_entry.grid(row=0, column=1, padx=5, pady=5)
         ttk.Button(input_frame, text="Browse", command=self.browse_url_file).grid(row=0, column=2, padx=5, pady=5)
@@ -262,12 +332,15 @@ class ImageProcessorGUI:
         return formatted_result
 
     def display_image(self, image):
-        image.thumbnail((300, 300))  # Resize image to fit in the GUI
-        photo = ImageTk.PhotoImage(image)
+        # Create a thumbnail for display in the main GUI
+        display_image = image.copy()
+        display_image.thumbnail((400, 400))
+        photo = ImageTk.PhotoImage(display_image)
+        
         self.image_label.config(image=photo)
         self.image_label.image = photo  # Keep a reference
 
-        # Open the image in full screen when clicked
+        # Bind to open the image in full screen with the original resolution
         self.image_label.bind("<Button-1>", lambda event: self.open_full_screen(image))
 
     def open_full_screen(self, image):
