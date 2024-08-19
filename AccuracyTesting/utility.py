@@ -18,7 +18,7 @@ def load_json(filename):
     with open(filename, 'r', encoding='utf-8') as f:
             return json.load(f)
 
-def remove_extension(fname):
+def remove_csv_extension(fname):
         return re.match("(.+).csv", fname).group(1)
 
 
@@ -28,15 +28,16 @@ def format_values(d: dict):
     return {key: [round(v, 1) if type(v)==float else v for v in val]  if type(val)==list else val for key, val in d.items()}
     #return {key: "|".join(val)  if type(val)==list else val for key, val in d.items()}         
 
-def save_errors(txt_filepath, errors: list[dict], spreadsource, config: dict):
+def save_errors(txt_filepath, errors: list[dict], spreadsource, config: dict, record_ref_fieldname):
     errors = list(filter(None, errors))
     temp = {}
     for d in errors:
+        record_ref = d[record_ref_fieldname]  
         fieldname = d["fieldname"]
         observed_val = d["observed_val"]
         true_val = d["true_val"]
-        weighted_error = round(d["weighted_error"], 2)
-        listing = f"{weighted_error = }: {observed_val}___{true_val}"
+        gradedFP = round(d["gradedFP"], 2)
+        listing = f"{record_ref_fieldname} = {record_ref}, {gradedFP = }: {observed_val}___{true_val}"
         if fieldname in temp:
             temp[fieldname] += [listing]
         else:
@@ -50,6 +51,6 @@ def save_errors(txt_filepath, errors: list[dict], spreadsource, config: dict):
         with open(txt_filepath, "r", encoding="utf-8") as f:
             prior = f.read()
     except FileNotFoundError:
-        prior = str(config) + "\n\n\n"
+        prior = ""
     with open(txt_filepath, "w", encoding="utf-8") as f:
-        f.write(prior + out)                            
+        f.write(prior + str(config) + "\n\n\n" + out)                            

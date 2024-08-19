@@ -3,3 +3,8 @@ pandas
 opencv-python
 pytesseract
 openai
+nltk
+weighted-levenshtein
+anthropic
+requests
+google-generativeai
