@@ -1,27 +1,47 @@
+# This script compares the variability of runs
+# The number of differences per field are calculated and all those differences are summed
+# The number of differences between the runs are then compared to
+#    the number of targets in those runs, as well as compared to
+#       the number of targets in the Ground Truth that don't include "N/A"s
+# All numeric comparisons are saved to a csv
+# For individual fields, the numbers are listed in this order: 1) number differences, 2) number all targets, 3) number non N/A targets
+# Importantly, this script is setup to compare batches of csv s
+# As such, source filenames are stored as lists of lists (see example below)
+#  and saved to a single results file
+
 import utility
 import statistics
 
 SOURCE_PATH = "AccuracyTesting/AccuracyTestingSources/"
 RESULTS_PATH = "AccuracyTesting/AccuracyTestingResults/"
 
-FILENAMES = [["Spread_6_11_1050.csv", "Spread_6_11_1110.csv"], ["Spread_6_12_1404.csv", "Spread_6_12_1440.csv"],  ["Spread_6_11_1050_Spread_6_12_1404_agreed_values.csv", "Spread_6_11_1050_Spread_6_12_1440_agreed_values.csv", "Spread_6_11_1110_Spread_6_12_1404_agreed_values.csv", "Spread_6_11_1110_Spread_6_12_1440_agreed_values.csv"]]
-GROUND_TRUTH_FILENAME = "First100BryophytesTyped.csv"
-RESULTS_FILENAME = "variation.csv"
+# FILENAMES are iterated through as a list of lists
+# The variability will be calculated for each possible pairing of files of each inner list.
 
+#                      ***** one comparison *****                       ***** one comparison *****                                        ****** six comparisons C(4,2) *******
+#FILENAMES = [["Spread_6_11_1050.csv", "Spread_6_11_1110.csv"], ["Spread_6_12_1404.csv", "Spread_6_12_1440.csv"],  ["Spread_6_11_1050_Spread_6_12_1404_agreed_values.csv", "Spread_6_11_1050_Spread_6_12_1440_agreed_values.csv", "Spread_6_11_1110_Spread_6_12_1404_agreed_values.csv", "Spread_6_11_1110_Spread_6_12_1440_agreed_values.csv"]]
+FILENAMES = [[]]
+GROUND_TRUTH_FILENAME = "First100BryophytesTyped.csv"
+
+# Enter below the filename to which results should be saved. The file will be saved to the RESULTS_PATH directory listed above
+RESULTS_FILENAME = ""
 SKIP_LIST = ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"]
 
 def save_results(fname, results: list[dict]):
     utility.save_to_csv(fname, results)    
 
 def calculate_variability(field_counts_dict, sum_dict):
-    var_dict = {"ratio diff:all": sum_dict["sum differences(A,B)"] / sum_dict["sum all"], 
-                "ratio diff:non-N/A": sum_dict["sum differences(A,B)"] / sum_dict["sum non-N/A"]}
+    var_dict = {"ratio diff:targets": f'{sum_dict["SUM diffs(A,B)"]}:{sum_dict["SUM targets"]}', 
+                "percent difference": 100*(sum_dict["SUM diffs(A,B)"] / sum_dict["SUM targets"]), 
+                "ratio diff:non-N/A targets": f'{sum_dict["SUM diffs(A,B)"]}:{sum_dict["SUM non-N/A targets"]}',
+                "percent diff non-N/A targets": 100*(sum_dict["SUM diffs(A,B)"] / sum_dict["SUM non-N/A targets"])}
+                
     return field_counts_dict | sum_dict | var_dict
 
 def sum_differences_and_targets(d):
-    return {"sum differences(A,B)": sum([val[0] for val in d.values()]), 
-            "sum all": sum([val[1] for val in d.values()]), 
-            "sum non-N/A": sum([val[2] for val in d.values()])}     
+    return {"SUM diffs(A,B)": sum([val[0] for val in d.values()]), 
+            "SUM targets": sum([val[1] for val in d.values()]), 
+            "SUM non-N/A targets": sum([val[2] for val in d.values()])}     
 
 def is_different(s1, s2):
     return s1.strip().lower() != s2.strip().lower()
