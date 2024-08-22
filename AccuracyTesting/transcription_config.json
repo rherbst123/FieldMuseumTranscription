@@ -27,9 +27,9 @@
         "CORE_FIELDS_LIST": [],
         "USE_CORE_FIELDS": "False",
         "EDIT_DISTANCE_CLASS": "NLTKDistance",
-        "EDIT_DISTANCE_CONFIG": {"INSERT_CHAR_COSTS": [[".", 0.5], [" ", 0.5]],
-                                 "DELETE_CHAR_COSTS":  [[".", 0.5], [" ", 0.5]],
-                                 "SUBSTITUTION_CHAR_COSTS": [["A", "a", 0.00001]],
+        "EDIT_DISTANCE_CONFIG": {"INSERT_CHAR_COSTS": [[], []],
+                                 "DELETE_CHAR_COSTS":  [[], []],
+                                 "SUBSTITUTION_CHAR_COSTS": [[]],
                                  "TRANSPOSITON_CHAR_COSTS": [[]]
                                 },
         "LLM_SPREAD_SOURCES": ["Spread_6_11_1050.csv", "Spread_6_11_1110.csv", "Spread_6_12_1404.csv", "Spread_6_12_1440.csv"],
