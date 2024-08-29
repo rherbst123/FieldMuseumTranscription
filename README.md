@@ -1,5 +1,5 @@
 # Field Museum Transcription
-### created by Riley Herbst, Matt Von Konrat, Jeff Gwilliam.
+### created by Riley Herbst, Matt Von Konrat, Jeff Gwilliam and Dan Stille.
 ***
 This is a python script series that has the goal of transcribing images in the museums herbarium.
 
