@@ -12,8 +12,8 @@
 import utility
 import statistics
 
-SOURCE_PATH = "AccuracyTesting/AccuracyTestingSources/"
-RESULTS_PATH = "AccuracyTesting/AccuracyTestingResults/"
+SOURCE_PATH = "AccuracyTesting/SourcesForPaper/"
+RESULTS_PATH = "AccuracyTesting/ResultsForPaper/"
 
 # FILENAMES are iterated through as a list of lists
 # The variability will be calculated for each possible pairing of files of each inner list.
@@ -21,7 +21,9 @@ RESULTS_PATH = "AccuracyTesting/AccuracyTestingResults/"
 #                      ***** one comparison *****                       ***** one comparison *****                                        ****** six comparisons C(4,2) *******
 #FILENAMES = [["Spread_6_11_1050.csv", "Spread_6_11_1110.csv"], ["Spread_6_12_1404.csv", "Spread_6_12_1440.csv"],  ["Spread_6_11_1050_Spread_6_12_1404_agreed_values.csv", "Spread_6_11_1050_Spread_6_12_1440_agreed_values.csv", "Spread_6_11_1110_Spread_6_12_1404_agreed_values.csv", "Spread_6_11_1110_Spread_6_12_1440_agreed_values.csv"]]
 FILENAMES = [[]]
-GROUND_TRUTH_FILENAME = "First100BryophytesTyped.csv"
+
+# Enter below the filename for the Ground Truth source
+GROUND_TRUTH_FILENAME = ""
 
 # Enter below the filename to which results should be saved. The file will be saved to the RESULTS_PATH directory listed above
 RESULTS_FILENAME = ""
@@ -30,13 +32,17 @@ SKIP_LIST = ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Labe
 def save_results(fname, results: list[dict]):
     utility.save_to_csv(fname, results)    
 
-def calculate_variability(field_counts_dict, sum_dict):
+def calculate_variability(field_counts_dict, percents_dict, sum_dict):
     var_dict = {"ratio diff:targets": f'{sum_dict["SUM diffs(A,B)"]}:{sum_dict["SUM targets"]}', 
                 "percent difference": 100*(sum_dict["SUM diffs(A,B)"] / sum_dict["SUM targets"]), 
                 "ratio diff:non-N/A targets": f'{sum_dict["SUM diffs(A,B)"]}:{sum_dict["SUM non-N/A targets"]}',
                 "percent diff non-N/A targets": 100*(sum_dict["SUM diffs(A,B)"] / sum_dict["SUM non-N/A targets"])}
                 
-    return field_counts_dict | sum_dict | var_dict
+    return field_counts_dict | percents_dict | sum_dict | var_dict
+
+def get_field_variabilty_as_percents(d):    
+    return {f"%{fieldname} non N/A": 100*(sums[0] / sums[2]) for fieldname, sums in d.items()}    
+
 
 def sum_differences_and_targets(d):
     return {"SUM diffs(A,B)": sum([val[0] for val in d.values()]), 
@@ -77,9 +83,10 @@ def process(filenameA, filenameB):
     field_counts_dict = get_blank_counts_dict(resultsA[0]) 
     for transcriptionA, transcriptionB, tr_val_dict in zip(resultsA, resultsB, true_value_dicts):
         field_counts_dict = compare_differences(transcriptionA, transcriptionB, field_counts_dict, tr_val_dict)
-    sum_dict = sum_differences_and_targets(field_counts_dict) 
-    master_differences_dict = calculate_variability(field_counts_dict, sum_dict)
-    result = {"run A": filenameA, "run B": filenameB} | master_differences_dict
+    percents_dict = get_field_variabilty_as_percents(field_counts_dict)     
+    sum_dict = sum_differences_and_targets(field_counts_dict)
+    master_differences_dict = calculate_variability(field_counts_dict, percents_dict, sum_dict)
+    result = {"run A": filenameA, "run B": filenameB, "counts key": "[num diff, all targets, non N/A targets]"} | master_differences_dict
     return result
 
 def main():
@@ -87,7 +94,7 @@ def main():
     for filelist in FILENAMES:
         for idx, filenameA in enumerate(filelist):
             for filenameB in filelist[idx+1:]:
-                all_results += [process(filenameA, filenameB)]  
+                all_results += [process(filenameA, filenameB)]            
     save_results(RESULTS_PATH+RESULTS_FILENAME, all_results)
     print(f"Yay!!! {RESULTS_FILENAME} saved!")         
 

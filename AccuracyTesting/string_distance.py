@@ -94,9 +94,8 @@ class WeightedLevenshtein(StringDistance):
         temp1 = "".join(char if ord(char) < 128 else assign_temp_val(char, d, unused_ascii_range) for char in s1)
         temp2 = "".join(char if ord(char) < 128 else assign_temp_val(char, d, unused_ascii_range) for char in s2)
         return temp1, temp2
-
-    # exposed method
-    def calculate_weighted_difference(self, s1, s2):
+    
+    def get_edit_distance(self, s1, s2):
         s1, s2 = self.clean(s1, s2)
         try:
             edit_distance = levenshtein(s1, s2, insert_costs=self.INSERT_COSTS, delete_costs=self.DELETE_COSTS, substitute_costs=self.SUBSTITUTE_COSTS)
@@ -104,6 +103,11 @@ class WeightedLevenshtein(StringDistance):
             # see explanation in assign_temp_ascii_values method comments
             s1, s2 = self.assign_temp_ascii_values(s1, s2)
             edit_distance = levenshtein(s1, s2, insert_costs=self.INSERT_COSTS, delete_costs=self.DELETE_COSTS, substitute_costs=self.SUBSTITUTE_COSTS)
+        return edit_distance
+
+    # exposed method
+    def calculate_weighted_difference(self, s1, s2):
+        edit_distance = self.get_edit_distance(s1, s2)
         return self.scale(edit_distance, minimum=0, maximum=max(len(s1), len(s2)))
 
 
