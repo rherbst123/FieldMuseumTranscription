@@ -32,12 +32,12 @@ def save_errors(txt_filepath, errors: list[dict], spreadsource, config: dict, re
     errors = list(filter(None, errors))
     temp = {}
     for d in errors:
-        record_ref = d[record_ref_fieldname]  
+        record_ref = d["ref"]  
         fieldname = d["fieldname"]
         observed_val = d["observed_val"]
         true_val = d["true_val"]
-        gradedFP = round(d["gradedFP"], 2)
-        listing = f"{record_ref_fieldname} = {record_ref}, {gradedFP = }: {observed_val}___{true_val}"
+        gradedFA = round(d["graded_false_app"], 2)
+        listing = f"{record_ref}, {gradedFA = }: {observed_val}___{true_val}"
         if fieldname in temp:
             temp[fieldname] += [listing]
         else:

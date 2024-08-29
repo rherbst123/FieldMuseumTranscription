@@ -1,5 +1,12 @@
+# This script iterates through a list of .csv files
+   # and compares each run to Ground Truth data.
+# Each field of each image is categorized as A or NA (applicable or non-applicable) 
+   # according to whether or not "N\A" is recorded for that field and image in the Ground Truth,
+     # and is compared to the llm data (observed value)
+# This yields a True value for one of the following:
+   #  TA, TNA, FA, FNA (true applicable, true non-applicable, false applicable or false non-applicable)
 # In the spreadsheet, the breakdown of the three numbers in each field is: 
-   # 1) number true (TP+TN), 2) sum graded matches and number true negative (grdTP+TN) , 3) sum of all values (TP+TN+FP+FN) 
+   # 1) number true (TA+TNA), 2) sum graded matches and number true negative (grdTA+TNA) , 3) sum of all values (TA+TNA+FA+FNA) 
 # Accuracy breakdowns are explained in the calculate_accuracy method
 # Errors are appended to the error file designated in the configuration file, if it already exists.
    # Results .csv s are NOT appended. They will be overwritten if they already exist.
@@ -38,83 +45,86 @@ class Comparison:
     def calculate_accuracy(self, master_results_dict, tallies):
         for key, val in tallies.items():
             master_results_dict[key] = val
-        tp, tn, fp, fn = tallies["TPs"], tallies["TNs"], tallies["FPs"], tallies["FNs"]
-        grdtp, grdfp = int(tallies["gradedTPs"]), int(tallies["gradedFPs"])
-        master_results_dict["Correct:TP+TN"] = tp+tn
-        master_results_dict["Errors:FP+FN"] = fp+fn
+        ta, tna, fa, fna = tallies["TrueApplicable"], tallies["TrueN/A"], tallies["FalseApplicable"], tallies["FalseN/A"]
+        grdta, grdfa = int(tallies["GradedTA"]), int(tallies["GradedFA"])
+        master_results_dict["Correct:TA+TN/A"] = ta+tna
+        master_results_dict["Errors:FA+FN/A"] = fa+fna
 
         # Accuracy1 is the sum of all true values divided by the sum of all values, true or false
-        master_results_dict["TP+TN/TP+TN+FP+FN"] = f"{tp}+{tn}/{tp}+{tn}+{fp}+{fn}"
-        master_results_dict["acc1:TP+TN/TP+TN+FP+FN"] = (tp+tn)/(tp+tn+fp+fn)
+        master_results_dict["TA+TNA/TA+TNA+FA+FNA"] = f"{ta}+{tna}/{ta}+{tna}+{fa}+{fna}"
+        master_results_dict["acc1:TA+TNA/TA+TNA+FA+FNA"] = (ta+tna)/(ta+tna+fa+fna)
 
-        # Accuracy2 substitutes graded matches and graded non-matches for TP and FP
-        master_results_dict["grdTP+TN/grdTP+TN+grdFP+FN"] = f"{grdtp}+{tn}/{grdtp}+{tn}+{grdfp}+{fn}"
-        master_results_dict["acc2:grdTP+TN/grdTP+TN+grdFP+FN"] = (grdtp+tn)/(grdtp+tn+grdfp+fn)
+        # Accuracy2 substitutes graded matches and graded non-matches for TrueApplicable and FalseApplicable
+        master_results_dict["grdTA+TNA/grdTA+TNA+grdFA+FNA"] = f"{grdta}+{tna}/{grdta}+{tna}+{grdfa}+{fna}"
+        master_results_dict["acc2:grdTP+TN/grdTP+TN+grdFP+FN"] = (grdta+tna)/(grdta+tna+grdfa+fna)
 
-        # Accuracy3 leaves out true negatives, i.e., the true value is "N/A"
-        master_results_dict["TP/TP+FP+FN"] = f"{tp}/{tp}+{fp}+{fn}"
-        master_results_dict["acc3:TP/TP+FP+FN"] = tp/(tp+fp+fn)
+        # Accuracy3 leaves out TrueN/A, i.e., the true value is "N/A"
+        master_results_dict["TA/TA+FA+FNA"] = f"{ta}/{ta}+{fa}+{fna}"
+        master_results_dict["acc3:TA/TA+FA+FNA"] = ta/(ta+fa+fna)
 
          # Accuracy4 is like Accuracy3, but substituting graded matches and graded non-matches
-        master_results_dict["grdTP/grdTP+grdFP+FN"] = f"{grdtp}/{grdtp}+{grdfp}+{fn}"
-        master_results_dict["acc4:grdTP+TN/grdTP+TN+grdFP+FN"] = grdtp/(grdtp+grdfp+fn)
+        master_results_dict["grdTA/grdTA+grdFA+FNA"] = f"{grdta}/{grdta}+{grdfa}+{fna}"
+        master_results_dict["acc4:grdTA/grdTA+grdFA+FNA"] = grdta/(grdta+grdfa+fna)
         return master_results_dict  
 
     def update_comparison_fields(self, d, master_comparison_dict):
         fieldname = d["fieldname"]
-        master_comparison_dict[fieldname][0] += d["is_true_pos"] or d["is_true_neg"]
-        master_comparison_dict[fieldname][1] += d["is_true_neg"] or d["gradedTP"]
-        master_comparison_dict[fieldname][2] += d["is_true_pos"] or d["is_true_neg"] or d["is_false_pos"] or d["is_false_neg"]
+        master_comparison_dict[fieldname][0] += d["is_true_app"] or d["is_true_n/a"]
+        master_comparison_dict[fieldname][1] += d["is_true_n/a"] or d["graded_true_app"]
+        master_comparison_dict[fieldname][2] += d["is_true_app"] or d["is_true_n/a"] or d["is_false_app"] or d["is_false_n/a"]
         return master_comparison_dict
 
     def update_tallies(self, tallies, field_comparison_dict, master_comparison_dict):
-        tallies["TPs"] += field_comparison_dict["is_true_pos"]
-        tallies["TNs"] += field_comparison_dict["is_true_neg"]
-        tallies["FPs"] += field_comparison_dict["is_false_pos"]
-        tallies["FNs"] += field_comparison_dict["is_false_neg"]
-        tallies["gradedTPs"] += field_comparison_dict["gradedTP"]
-        tallies["gradedFPs"] += field_comparison_dict["gradedFP"]
+        tallies["TrueApplicable"] += field_comparison_dict["is_true_app"]
+        tallies["TrueN/A"] += field_comparison_dict["is_true_n/a"]
+        tallies["FalseApplicable"] += field_comparison_dict["is_false_app"]
+        tallies["FalseN/A"] += field_comparison_dict["is_false_n/a"]
+        tallies["GradedTA"] += field_comparison_dict["graded_true_app"]
+        tallies["GradedFA"] += field_comparison_dict["graded_false_app"]
         master_comparison_dict = self.update_comparison_fields(field_comparison_dict, master_comparison_dict)    
         return tallies, master_comparison_dict    
 
     def get_errors(self, d):
-        if d["is_false_pos"] or d["is_false_neg"]:
-           return {f"{self.RECORD_REF_FIELDNAME}": d["record_ref"], "fieldname": d["fieldname"], "observed_val": d["observed_val"], "true_val": d["true_val"], "gradedTP": d["gradedTP"], "gradedFP": d["gradedFP"]}
+        if d["is_false_app"] or d["is_false_n/a"]:
+           return {"ref": d["record_ref"], "fieldname": d["fieldname"], "observed_val": d["observed_val"], "true_val": d["true_val"], "graded_true_app": d["graded_true_app"], "graded_false_app": d["graded_false_app"]}
         return None   
-             
+
+    # this method is used to take false applicable values and determine by an edit distance algorithm
+    # how far the observed value is to the true value and then grade that distance
+    # that grade is used to "split" false applicable values into grades of "true" and grades of "false"         
     def get_graded_difference(self, observed_val, true_val):
         if observed_val == "N/A":   # don't bother getting the edit distance when the observed value is "N/A"; just return 1
             return 1       
         else:
             return self.edit_distance_interface.calculate_weighted_difference(observed_val, true_val)
 
-    def grade(self, is_true_pos, is_false_pos, observed_val, true_val):
-        if is_false_pos:
+    def grade(self, is_true_app, is_false_app, observed_val, true_val):
+        if is_false_app:
             graded_error = self.get_graded_difference(observed_val, true_val)
-            gradedTP = 1 - graded_error
-            gradedFP = graded_error
-            return gradedTP, gradedFP
+            graded_true_app = 1 - graded_error
+            graded_false_app = graded_error
+            return graded_true_app, graded_false_app
         else:
-            return is_true_pos, is_false_pos   
+            return is_true_app, is_false_app   
 
     def is_true(self, observed_val, true_val):
-        return observed_val.lower() == true_val.lower()
+        return observed_val.strip().lower() == true_val.strip().lower()
 
-    def is_positive(self, val):
+    def is_applicable(self, val):
         return val != "N/A"
 
     def get_comparisons(self, fieldname, observed_val, true_val, record_ref):
-        is_positive = self.is_positive(true_val)
+        is_applicable = self.is_applicable(true_val)
         is_true = self.is_true(observed_val, true_val)
-        true_pos = is_positive and is_true
-        true_neg = not is_positive and is_true
-        false_pos = is_positive and not is_true
-        false_neg = not is_positive and not is_true
-        gradedTP, gradedFP = self.grade(true_pos, false_pos, observed_val, true_val)
-        return {"fieldname": fieldname, "observed_val": observed_val, "true_val": true_val, "is_true_pos": true_pos, "is_true_neg": true_neg, "is_false_pos": false_pos, "is_false_neg": false_neg, "gradedTP": gradedTP, "gradedFP": gradedFP, "record_ref": record_ref}    
+        true_app = is_applicable and is_true
+        true_non_app = not is_applicable and is_true
+        false_app = is_applicable and not is_true
+        false_non_app = not is_applicable and not is_true
+        graded_true_app, graded_false_app = self.grade(true_app, false_app, observed_val, true_val)
+        return {"fieldname": fieldname, "observed_val": observed_val, "true_val": true_val, "is_true_app": true_app, "is_true_n/a": true_non_app, "is_false_app": false_app, "is_false_n/a": false_non_app, "graded_true_app": graded_true_app, "graded_false_app": graded_false_app, "record_ref": record_ref}    
     
     def compare_and_tally(self, observed_values_dicts, true_values_dicts, master_comparison_dict):
-        tallies = {"TPs": 0, "TNs": 0, "FPs": 0, "FNs": 0, "gradedTPs": 0, "gradedFPs": 0}
+        tallies = {"TrueApplicable": 0, "TrueN/A": 0, "FalseApplicable": 0, "FalseN/A": 0, "GradedTA": 0, "GradedFA": 0}
         run_errors = []
         for record_ref, observed_values_dict, true_values_dict in zip(self.RECORD_REFS, observed_values_dicts, true_values_dicts):
             for fieldname, observed_val in observed_values_dict.items():

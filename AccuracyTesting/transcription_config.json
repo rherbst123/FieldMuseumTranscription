@@ -32,10 +32,10 @@
                                  "SUBSTITUTION_CHAR_COSTS": [[]],
                                  "TRANSPOSITON_CHAR_COSTS": [[]]
                                 },
-        "LLM_SPREAD_SOURCES": ["Spread_6_11_1050.csv", "Spread_6_11_1110.csv", "Spread_6_12_1404.csv", "Spread_6_12_1440.csv"],
+        "LLM_SPREAD_SOURCES": ["Spread_6_11_1050.csv", "Spread_6_11_1110.csv", "SpreadJun.21.24.1043.csv", "SpreadJun.26.24.1050.csv"],
         "GROUND_TRUTH_FILENAME": "First100BryophytesTyped.csv",
         "RESULT_FILENAME": "gpt4o_and_sonnet3.5_agreement.csv",
-        "ERRORS_FILENAME": "gpt4o_and_sonnet3.5_agreement_errors_6_11_6_12.txt",
+        "ERRORS_FILENAME": "gpt4o_and_sonnet3.5_agreement_errors_6_11_6_21_6_24.txt",
         "SOURCE_PATH": "AccuracyTesting/AccuracyTestingSources/",
         "RESULTS_PATH": "AccuracyTesting/AccuracyTestingResults/"
     },
@@ -51,20 +51,20 @@
                                  "SUBSTITUTION_CHAR_COSTS": [[], []],
                                  "TRANSPOSITON_CHAR_COSTS": [[], []]
                                 },
-        "LLM_SPREAD_SOURCES": ["Spread_6_11_1050.csv", "Spread_6_11_1110.csv", "Spread_6_12_1404.csv", "Spread_6_12_1440.csv"],
+        "LLM_SPREAD_SOURCES": ["Spread_6_11_1050.csv", "Spread_6_11_1110.csv", "SpreadJun.21.24.1043.csv", "SpreadJun.26.24.1050.csv"],
         "GROUND_TRUTH_FILENAME": "First100BryophytesTyped.csv",
         "RESULT_FILENAME": "gpt4o_and_sonnet3.5_repeats.csv",
-        "ERRORS_FILENAME": "gpt4o_and_sonnet3.5_repeats_errors_6_11_6_12.txt",
+        "ERRORS_FILENAME": "gpt4o_and_sonnet3.5_repeats_errors_6_11_6_21_6_26.txt",
         "SOURCE_PATH": "AccuracyTesting/AccuracyTestingSources/",
         "RESULTS_PATH": "AccuracyTesting/AccuracyTestingResults/"
     },
 
-    "blank1": {
+    "agreement": {
         "RECORD_REF_FIELDNAME": "accessURI",
         "SKIP_LIST": ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"], 
         "CORE_FIELDS_LIST": [],
         "USE_CORE_FIELDS": "False",
-        "EDIT_DISTANCE_CLASS": "",
+        "EDIT_DISTANCE_CLASS": "NLTKDistance",
         "EDIT_DISTANCE_CONFIG": {"comment1": "COSTS are lists of lists.",
                                  "comment2": "For INSERT_CHAR and DELETE_CHAR, the order of the two elements of the inner list is char, cost.",
                                  "comment3": "For SUBSTITUTION_CHAR and TRANSPOSITION_CHAR, the order of the three elements of the inner list is char to substitute in, target char to be substuted out, cost.",
@@ -73,20 +73,20 @@
                                  "SUBSTITUTION_CHAR_COSTS": [[]],
                                  "TRANSPOSITON_CHAR_COSTS": [[]]
                                 },
-        "LLM_SPREAD_SOURCES": [""],                        
-        "GROUND_TRUTH_FILENAME": "",
-        "RESULT_FILENAME": "",
-        "ERRORS_FILENAME": "",
+        "LLM_SPREAD_SOURCES": ["Spread_6_11_1050.csv", "Spread_6_11_1110.csv", "SpreadJun.21.24.1043.csv", "SpreadJun.26.24.1050.csv"],                        
+        "GROUND_TRUTH_FILENAME": "First100BryophytesTyped.csv",
+        "RESULT_FILENAME": "frankenstein_after_validate.csv",
+        "ERRORS_FILENAME": "frankenstein_after_validate.txt",
         "SOURCE_PATH": "AccuracyTesting/AccuracyTestingSources/",
-        "RESULTS_PATH": "AccuracyTesting/AccuracyTestingSources/"
+        "RESULTS_PATH": "AccuracyTesting/AccuracyTestingResults/"
     },
 
-    "blank2": {
+    "First100BryophytesRunsForPaper": {
         "RECORD_REF_FIELDNAME": "accessURI",
-        "SKIP_LIST": ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"], 
+        "SKIP_LIST": ["PROV LARECAJA", "Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"], 
         "CORE_FIELDS_LIST": [],
         "USE_CORE_FIELDS": "False",
-        "EDIT_DISTANCE_CLASS": "",
+        "EDIT_DISTANCE_CLASS": "NLTKDistance",
         "EDIT_DISTANCE_CONFIG": {"comment1": "COSTS are lists of lists.",
                                  "comment2": "For INSERT_CHAR and DELETE_CHAR, the order of the two elements of the inner list is char, cost.",
                                  "comment3": "For SUBSTITUTION_CHAR and TRANSPOSITION_CHAR, the order of the three elements of the inner list is char to substitute in, target char to be substuted out, cost.",
@@ -95,12 +95,69 @@
                                  "SUBSTITUTION_CHAR_COSTS": [[]],
                                  "TRANSPOSITON_CHAR_COSTS": [[]]
                                 },
-        "LLM_SPREAD_SOURCES": [],
-        "GROUND_TRUTH_FILENAME": "",
-        "RESULT_FILENAME": "",
-        "ERRORS_FILENAME": "",
-        "SOURCE_PATH": "AccuracyTesting/AccuracyTestingSources/",
-        "RESULTS_PATH": "AccuracyTesting/AccuracyTestingSources/"
+        "LLM_SPREAD_SOURCES": ["Spread_5_30_1139.csv", 
+                                "Spread_5_30_1025.csv",
+                                "Spread_6_11_1050.csv", 
+                                "Spread_6_11_1110.csv", 
+                                "Spread_6_12_1404.csv", 
+                                "Spread_6_12_1440.csv", 
+                                "SpreadJun.20.24.0153.csv", 
+                                "SpreadJun.26.24.1108.csv", 
+                                "SpreadJun.21.24.1043.csv", 
+                                "SpreadJun.26.24.1050.csv"],
+        "GROUND_TRUTH_FILENAME": "First100BryophytesTyped.csv",
+        "RESULT_FILENAME": "First100BryophytesAccuracyForPaper.csv",
+        "ERRORS_FILENAME": "First100BryophytesErrorsForPaper.txt",
+        "SOURCE_PATH": "AccuracyTesting/SourcesForPaper/",
+        "RESULTS_PATH": "AccuracyTesting/ResultsForPaper/"
+    },
+
+    "BatchOf300RunsForPaper": {
+        "RECORD_REF_FIELDNAME": "accessURI",
+        "SKIP_LIST": [ "PROV LARECAJA", "Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"], 
+        "CORE_FIELDS_LIST": [],
+        "USE_CORE_FIELDS": "False",
+        "EDIT_DISTANCE_CLASS": "NLTKDistance",
+        "EDIT_DISTANCE_CONFIG": {"comment1": "COSTS are lists of lists.",
+                                 "comment2": "For INSERT_CHAR and DELETE_CHAR, the order of the two elements of the inner list is char, cost.",
+                                 "comment3": "For SUBSTITUTION_CHAR and TRANSPOSITION_CHAR, the order of the three elements of the inner list is char to substitute in, target char to be substuted out, cost.",
+                                 "INSERT_CHAR_COSTS": [[]],  
+                                 "DELETE_CHAR_COSTS":  [[]],
+                                 "SUBSTITUTION_CHAR_COSTS": [[]],
+                                 "TRANSPOSITON_CHAR_COSTS": [[]]
+                                },
+        "LLM_SPREAD_SOURCES": [ 
+                                "Spread_4_4(1.4StrippedPrompt).csv"
+                                ],
+        "GROUND_TRUTH_FILENAME": "7.5.2024 Jeff's Updated Copy of Batch 300 Testing chat gpt status, results and ground truth - Stripped Ground Truth Batch 300 - Copy.csv",
+        "RESULT_FILENAME": "BatchOf300RunsAccuracyForPaper.csv",
+        "ERRORS_FILENAME": "BatchOf300RunsErrorsForPaper.txt",
+        "SOURCE_PATH": "AccuracyTesting/SourcesForPaper/",
+        "RESULTS_PATH": "AccuracyTesting/ResultsForPaper/"
+    },
+
+    "78BryophytesRunsForPaper": {
+        "RECORD_REF_FIELDNAME": "accessURI",
+        "SKIP_LIST": [ "PROV LARECAJA", "Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"], 
+        "CORE_FIELDS_LIST": [],
+        "USE_CORE_FIELDS": "False",
+        "EDIT_DISTANCE_CLASS": "NLTKDistance",
+        "EDIT_DISTANCE_CONFIG": {"comment1": "COSTS are lists of lists.",
+                                 "comment2": "For INSERT_CHAR and DELETE_CHAR, the order of the two elements of the inner list is char, cost.",
+                                 "comment3": "For SUBSTITUTION_CHAR and TRANSPOSITION_CHAR, the order of the three elements of the inner list is char to substitute in, target char to be substuted out, cost.",
+                                 "INSERT_CHAR_COSTS": [[]],  
+                                 "DELETE_CHAR_COSTS":  [[]],
+                                 "SUBSTITUTION_CHAR_COSTS": [[]],
+                                 "TRANSPOSITON_CHAR_COSTS": [[]]
+                                },
+        "LLM_SPREAD_SOURCES": [ 
+                                "Spread_5_7_1356.csv", "Spread_5_7_1952.csv"
+                                ],
+        "GROUND_TRUTH_FILENAME": "May.7.2024_Bryophytes_Typed.csv",
+        "RESULT_FILENAME": "78BryophytesRunsAccuracyForPaper.csv",
+        "ERRORS_FILENAME": "78BryophytesRunsErrorsForPaper.txt",
+        "SOURCE_PATH": "AccuracyTesting/SourcesForPaper/",
+        "RESULTS_PATH": "AccuracyTesting/ResultsForPaper/"
     },
 
     "blank3": {
@@ -122,7 +179,7 @@
         "RESULT_FILENAME": "",
         "ERRORS_FILENAME": "",
         "SOURCE_PATH": "AccuracyTesting/AccuracyTestingSources/",
-        "RESULTS_PATH": "AccuracyTesting/AccuracyTestingSources/"
+        "RESULTS_PATH": "AccuracyTesting/AccuracyTestingResults/"
     },
 
     "blank4": {
@@ -144,7 +201,7 @@
         "RESULT_FILENAME": "",
         "ERRORS_FILENAME": "",
         "SOURCE_PATH": "AccuracyTesting/AccuracyTestingSources/",
-        "RESULTS_PATH": "AccuracyTesting/AccuracyTestingSources/"
+        "RESULTS_PATH": "AccuracyTesting/AccuracyTestingResults/"
     },
 
     "blank5": {
@@ -166,7 +223,7 @@
         "RESULT_FILENAME": "",
         "ERRORS_FILENAME": "",
         "SOURCE_PATH": "AccuracyTesting/AccuracyTestingSources/",
-        "RESULTS_PATH": "AccuracyTesting/AccuracyTestingSources/"
+        "RESULTS_PATH": "AccuracyTesting/AccuracyTestingResults/"
     }
 
 }

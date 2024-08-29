@@ -38,6 +38,7 @@ class Agreement(Comparison):
                 bare_spreadname2 = utility.remove_csv_extension(spreadname2)
                 fname = f"{bare_spreadname1}_{bare_spreadname2}_agreed_values.csv"
                 utility.save_to_csv(self.SOURCE_PATH+fname, agreement_values)
+                print(f"prelimary results saved to {fname}")
                 saved_filenames += [fname]
         return saved_filenames       
     

@@ -16,6 +16,11 @@ Agreed fields are stored as is, and when there is not agreement, "PASS" is store
 These results are saved as separate csv s, and then the script calls `comparison_and_accuracy.py`,
 where comparison against the Ground Truth takes place.
 
+`run_variability.py`
+This script determines the run-to-run variability of a given model (each run presumably using the same prompt and configuration). Variability is done for a field to field and overall basis (the sum of field differences / the sum of targets).
+This script does not access the configuration file, so all files must be listed in the script itself.
+Istructions for doing so are in the file.
+
 
 # INSTRUCTIONS
 
