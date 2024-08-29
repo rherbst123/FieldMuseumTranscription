@@ -31,3 +31,4 @@ git clone https://github.com/rherbst123/FieldMuseumTranscription
 
 ***
 
+Special thanks to Matt Von Konrat, Jeff Gwillam, Dan Stille, Rick Ree, Felix Grewe, Grangier Bioinformatics Center and the Field Museum.
