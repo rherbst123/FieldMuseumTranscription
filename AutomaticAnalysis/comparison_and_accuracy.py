@@ -1,5 +1,7 @@
 # This script iterates through a list of .csv files
    # and compares each run to Ground Truth data.
+# The configuration file template.json can be copied and saved to configure how run data is compared to
+   # Ground Truth data (see the README in this folder for details)   
 # Each field of each image is categorized as A or NA (applicable or non-applicable) 
    # according to whether or not "N\A" is recorded for that field and image in the Ground Truth,
      # and is compared to the llm data (observed value)
@@ -11,36 +13,42 @@
 # Errors are appended to the error file designated in the configuration file, if it already exists.
    # Results .csv s are NOT appended. They will be overwritten if they already exist.
 
+
 import utility
 import string_distance
 import re
+from tolerances import FieldTolerances
+from string_distance import WeightedLevenshtein
 
 class Comparison:
-    def __init__(self, config_filename, config_name):
-        self.config_name = config_name
-        config = utility.load_json(config_filename)[config_name]
-        self.config = config
-        self.RUN_SPREADNAMES = config["LLM_SPREAD_SOURCES"]
-        self.SOURCE_PATH = config["SOURCE_PATH"]
-        self.GROUND_TRUTH_FILENAME = config["GROUND_TRUTH_FILENAME"]
-        self.RECORD_REF_FIELDNAME = config["RECORD_REF_FIELDNAME"]
+    def __init__(self, config_filename):
+        config = utility.load_json(config_filename)
+        self.config = config["COMPARISON_CONFIG"]
+        self.config_name = config["CONFIGURATION_NAME"]
+        self.RUN_SPREADNAMES = self.config["LLM_SPREAD_SOURCES"]
+        self.SOURCE_PATH = self.config["SOURCE_PATH"]
+        self.GROUND_TRUTH_FILENAME = self.config["GROUND_TRUTH_FILENAME"]
+        self.RECORD_REF_FIELDNAME = self.config["RECORD_REF_FIELDNAME"]
         self.RECORD_REFS = []
-        self.SKIP_LIST = config["SKIP_LIST"]
-        self.CORE_FIELDS_LIST = config["CORE_FIELDS_LIST"]
-        self.RESULTS_PATH = config["RESULTS_PATH"]
-        self.RESULT_FILENAME = config["RESULT_FILENAME"]
-        self.ERRORS_FILENAME = config["ERRORS_FILENAME"]
-        self.CORE_FIELDS_ONLY = config["USE_CORE_FIELDS"] == "True"
-        edit_distance_class = config["EDIT_DISTANCE_CLASS"]
-        self.edit_distance_interface = self.setup_edit_distance_interface(edit_distance_class, config["EDIT_DISTANCE_CONFIG"])
+        self.SKIP_LIST = self.config["SKIP_LIST"]
+        self.CORE_FIELDS_LIST = self.config["CORE_FIELDS_LIST"]
+        self.RESULTS_PATH = self.config["RESULTS_PATH"]
+        self.RESULT_FILENAME = self.config["RESULT_FILENAME"]
+        self.ERRORS_FILENAME = self.config["ERRORS_FILENAME"]
+        self.CORE_FIELDS_ONLY = self.config["USE_CORE_FIELDS"] == "True"
+        self.setup_interfaces(config)
+        
 
-    def setup_edit_distance_interface(self, edit_distance_class, edit_distance_config):
-        if edit_distance_class == "WeightedLevenshtein":
-            from string_distance import WeightedLevenshtein
-            return WeightedLevenshtein(edit_distance_config)
-        elif edit_distance_class == "NLTKDistance":
-            from string_distance import NLTKDistance
-            return NLTKDistance(edit_distance_config)   
+    def setup_interfaces(self, config):
+        self.edit_distance_config = config["EDIT_DISTANCE_CONFIG"]
+        self.USE_FIELDNAMES_EXCLUSIVELY = self.edit_distance_config["USE_FIELDNAMES_EXCLUSIVELY"] == "True"
+        tolerances_config = config["TOLERANCES_CONFIG"] 
+        self.TOLERANCES_ALLOWED = tolerances_config["TOLERANCES_ALLOWED"] == "True"
+        self.TOLS = tolerances_config["TOLS"] if self.TOLERANCES_ALLOWED else {}
+        self.field_tolerances = FieldTolerances(tolerances_config, self.edit_distance_config)
+
+    def get_edit_distance_interface(self, fieldname):
+        return WeightedLevenshtein(self.edit_distance_config, fieldname)
     
     def calculate_accuracy(self, master_results_dict, tallies):
         for key, val in tallies.items():
@@ -92,20 +100,26 @@ class Comparison:
     # this method is used to take false applicable values and determine by an edit distance algorithm
     # how far the observed value is to the true value and then grade that distance
     # that grade is used to "split" false applicable values into grades of "true" and grades of "false"         
-    def get_graded_difference(self, observed_val, true_val):
+    def get_graded_difference(self, observed_val, true_val, fieldname):
         if observed_val == "N/A":   # don't bother getting the edit distance when the observed value is "N/A"; just return 1
             return 1       
-        else:
-            return self.edit_distance_interface.calculate_weighted_difference(observed_val, true_val)
+        elif self.USE_FIELDNAMES_EXCLUSIVELY and fieldname not in self.edit_distance_config["FIELDNAMES_COSTS"]: 
+            return 1
+        edit_distance_interface = self.get_edit_distance_interface(fieldname)        
+        return edit_distance_interface.calculate_weighted_difference(observed_val, true_val)
 
-    def grade(self, is_true_app, is_false_app, observed_val, true_val):
+    def grade(self, is_true_app, is_false_app, observed_val, true_val, fieldname):
         if is_false_app:
-            graded_error = self.get_graded_difference(observed_val, true_val)
+            graded_error = self.get_graded_difference(observed_val, true_val, fieldname)
             graded_true_app = 1 - graded_error
             graded_false_app = graded_error
             return graded_true_app, graded_false_app
         else:
-            return is_true_app, is_false_app   
+            return is_true_app, is_false_app 
+
+    def is_within_tolerances(self, fieldname, observed_val, true_val):
+        return self.field_tolerances.is_within_tolerances(fieldname, observed_val, true_val) 
+
 
     def is_true(self, observed_val, true_val):
         return observed_val.strip().lower() == true_val.strip().lower()
@@ -115,12 +129,12 @@ class Comparison:
 
     def get_comparisons(self, fieldname, observed_val, true_val, record_ref):
         is_applicable = self.is_applicable(true_val)
-        is_true = self.is_true(observed_val, true_val)
+        is_true = self.is_true(observed_val, true_val) or fieldname in self.TOLS and self.is_within_tolerances(fieldname, observed_val, true_val)
         true_app = is_applicable and is_true
         true_non_app = not is_applicable and is_true
         false_app = is_applicable and not is_true
         false_non_app = not is_applicable and not is_true
-        graded_true_app, graded_false_app = self.grade(true_app, false_app, observed_val, true_val)
+        graded_true_app, graded_false_app = self.grade(true_app, false_app, observed_val, true_val, fieldname)
         return {"fieldname": fieldname, "observed_val": observed_val, "true_val": true_val, "is_true_app": true_app, "is_true_n/a": true_non_app, "is_false_app": false_app, "is_false_n/a": false_non_app, "graded_true_app": graded_true_app, "graded_false_app": graded_false_app, "record_ref": record_ref}    
     
     def compare_and_tally(self, observed_values_dicts, true_values_dicts, master_comparison_dict):
@@ -180,10 +194,10 @@ class Comparison:
         print(f"Comaparisons saved to {self.RESULTS_PATH+self.RESULT_FILENAME}!!!!")   
     
 if __name__ == "__main__":
-    config_filename = "AccuracyTesting/transcription_config.json" 
+    
 
-    # copy in the name of the configuration to be used below
-    config_name = ""
+    # copy in the name of the configuration file to be used below
+    config_filename = "AutomaticAnalysis/Configurations/demo.json" 
 
-    accuracy_run = Comparison(config_filename, config_name)
+    accuracy_run = Comparison(config_filename)
     accuracy_run.run()

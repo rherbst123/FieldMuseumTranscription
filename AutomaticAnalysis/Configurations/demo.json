@@ -5,7 +5,7 @@
                             "SKIP_LIST": ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"], 
                             "CORE_FIELDS_LIST": [],
                             "USE_CORE_FIELDS": "False",
-                            "LLM_SPREAD_SOURCES": ["TolsSpread_6_11_1050.csv"],
+                            "LLM_SPREAD_SOURCES": ["Spread_6_11_1050.csv", "Spread_6_11_1110.csv"],
                             "GROUND_TRUTH_FILENAME": "First100BryophytesTyped.csv",
                             "RESULT_FILENAME": "demo.csv",
                             "ERRORS_FILENAME": "demo_errors.txt",
@@ -26,15 +26,19 @@
                              },
                              "USE_FIELDNAMES_EXCLUSIVELY": "True",
                              "FIELDNAMES_COSTS": {
-                                                  "verbatimLocality": {"INSERT_CHAR_COSTS": [[".", 5000]],  
-                                                                       "DELETE_CHAR_COSTS":  [[".", 4000]],
+                                                  "comment": "note the effect on results of the high costs for periods",
+                                                  "verbatimLocality": {"INSERT_CHAR_COSTS": [[".", 500]],  
+                                                                       "DELETE_CHAR_COSTS":  [[".", 400]],
                                                                        "SUBSTITUTION_CHAR_COSTS": [[]],
                                                                        "TRANSPOSITON_CHAR_COSTS": [[]]
                                                                        }
                         }
                             },
 
-    "TOLERANCES_CONFIG": {"USE_TOLERANCES": "True",
+    "TOLERANCES_CONFIG": {"TOLERANCES_ALLOWED": "True",
+                          "USE_GRADED_MATCH_THRESHOLD": "True",
+                          "GRADED_MATCH_THRESHOLD": "0.80",
+                          "comment": "note the effect on results for the following fields",
                           "TOLS": {"locality": ["always_true"],
                                    "identifiedBy": ["missing_abbreviation_point", "double_space"]}
 
