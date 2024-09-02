@@ -1,0 +1,45 @@
+4.1.1 Transcriptions Errors
+Transcription errors involved mistranscribed strings, typically misidentified characters or numerals, such as a “6” for an “8” . In two separate runs on GPT-4o with the below image, the string “Awutu” was mistranscribed.
+From Output06.12.1000.txt: 
+verbatimLocality: Avutu - Winneba Road
+locality: Avutu - Winneba Road
+
+From Output06.12.1500.txt:
+verbatimLocality: Avusu Winneba Road
+locality: Avusu Winneba Road
+
+4.1.2 Logical Errors
+
+Logical errors are the cases when the LLM transcribed the text correctly, but assigned it to the wrong field.
+As noted in section 3.2 above, many mismatches between the LLM output and the ground truth data were due to formatting which did not match the rules followed by the Field Museum’s transcribers, even when the text itself had been accurately transcribed. This type of error is amenable to prompt engineering. This could be addressed by explicitly defining the format in the prompt for that field, e.g., for collectedBy, “The collector’s name should be formatted with the first and/or middle names abbreviated and the last name spelled out, eg. R. M. Schuster. Spacing is required between the first, middle, and last names.”  With this prompt, the transcription of the collectedBy field typically achieved 67-80% accuracy. This highlights the importance of tailoring the prompt to achieve the best match with the requirements for each organization’s databases.
+
+Hallucination: Challenges with hallucinations came in two forms. One being false information being transcribed such as a wrong provence or coordinates longitudes and latitudes being swapped. The other hallucination being the LLM (more often GPT-4, but also see below for Claude Sonnet-3.5) filling in gaps of information that were not present to begin with. 
+
+
+Please transcribe and expand all details from this herbarium label. Do not Include any Full stops. If there is no information present for a field insert N/A. If in a language other than English, do not translate. If unsure at all, state “unsure and check”. I require information on the following categories and to output in the following order(Make sure the fields are exactly as typed). 
+
+
+verbatimCollectors: (The collectors as you see it on the label, this might be one collector, a string of collectors, that collected the sample) Collected by or collectors maybe prefixed by leg. or sometimes legit
+collectedBy: (The First Collector, only capitalize names) Collected by or collectors may be prefixed by leg. or sometimes legit. The collector’s name should be formatted with the first and/or middle names abbreviated and the last name spelled out, eg. R. M. Schuster. Spacing is required between the first, middle, and last names.
+secondaryCollectors: (These are collectors listed after the first, only capitalize names) The names should be formatted with the first and/or middle names abbreviated and the last name spelled out, eg. R. M. Schuster. Spacing is required between the first, middle, and last names. Also separate multiple collectors by a pipe (ie |).
+recordNumber:(An identifier given to the specimen at the time it was recorded - this is the collection number by the person who collected the specimen), If not present put “s.n.”
+verbatimEventDate: (The Verbatim Date field is used to record the collection date exactly as shown on the label - with no correction of spacing, or anything else. Precisely as appearing on label.), If not present put “s.d.”. 
+minimumEventDate: (The date the specimen was collected. Convert the date as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".), Used if date is singular or start of date if a range, 
+maximumEventDate: Used for the last date in a range. If there is no range, insert N/A. Do not repeat the minimumEventDate.  Convert the date as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".)
+verbatimIdentification: A string representing the taxonomic identification as it appeared in the original label. This term is meant to allow the capture of an unaltered original identification/determination, including identification qualifiers, hybrid formulas, uncertainties, etc. Precisely as appearing on label.
+latestScientificName: If there are multiple scientific names select the one with the latest determination date.This might be on an extra label. A scientific name is typically a binomial with a genus name and species name. Sometimes there might be a variety or subspecies identified by var. or subsp.. Can you strip the taxonomic authority (appears as a persons name and not a Latin name, the persons name might be abbreviated with initials at the end of the name and just provide the Latin binomial.
+identifiedBy: (this is the person who identified the specimen, sometimes represented by Det. or det. Or determined by. The name should be formatted with the first and/or middle names abbreviated and the last name spelled out, eg. R. M. Schuster. Spacing is required between the first, middle, and last names. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A.
+verbatimDateIdentified: (The date on which the subject was identified as representing the Taxon. This is not eventDate so make sure to differentiate), Precisely as appearing on label.
+associatedTaxa: (This is a taxonomic name that may be directly associated with the acceptedScientificName. i.e., it is growing directly with the acceptedScientificName. This is not a scientific name that is associated with the general forest or vegetation that describes the habitat). Can you strip the taxonomic authority (appears as a persons name and not a Latin name, the persons name might be abbreviated with initials at the end of the name and just provide the Latin binomial.
+country: (The name of the country or major administrative unit in which the event occurred), Please find and enter the current name of the country, convert abbreviations to full country name
+firstPoliticalUnit: (The name of the first-order administrative division in which the event occurred (e.g., state or province)), Use the name only and omit the political division tier. This would be immediately after country in terms of hierarchy. 
+secondPoliticalUnit: There may or may  The name of the second-order administrative division in which the event occurred (e.g., county)), Use the name only and omit the political division tier. 
+municipality: (The city, town, village in which the event occurred), 
+verbatimLocality: (The original textual description of the place where the occurrence was recorded, do not convert any abbreviated text at all, do not convert acronyms, exclude however the coordinates or information on latitude and longitude, exclude elevation, this should otherwise read precisely as it is on the label), If the first and second political units have been parsed out, do not repeat them here. 
+locality: (The specific description of the place. For all entries do not shorten units of measurement and always print out full units (mi to miles, m to meters, ft to feet). Exclude the coordinates or information on latitude and longitude and exclude any information about the elevation, exclude any reference to vegetation, habitat and just retain where the plant was collected. Include any place names, names of parks, etc. If the first and second political units have been parsed out, do not repeat them here.) (Do not abbreviate or shorten the response) If no Precise Locality is found put the following [precise locality unknown]
+habitat: (The description of the habitat in which the specimen was collected as described on the original label, this might be a description or summarization of all of the existing biotic and abiotic factors in the current area that may assist in the survival and reproduction of the collected specimen, for example, the description of the forest, geography etc.)
+verbatimElevation: (The original verbatim text of the elevation (altitude) of the occurrence), Precisely as appearing on label.
+verbatimCoordinates: (The original verbatim text of the coordinates, if they exist on the label), Precisely as appearing on label.
+otherCatalogNumbers: (An identifier for the record within the dataset - this is not to be confused with the recordNumber - the otherCatalogNumbers maybe a stamped number on the herbarium sheet), 
+originalMethod: The method by which the original data was recorded, select from this list (Handwritten, Typed, Mix of Handwritten and Typed, Unsure)
+typeStatus: If the specimen has “type” written or typed on the label and can take the form holotype, isotype etc state as such, otherwise so “no type status”

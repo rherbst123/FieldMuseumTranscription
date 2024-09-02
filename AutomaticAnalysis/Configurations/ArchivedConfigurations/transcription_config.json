@@ -160,12 +160,13 @@
         "RESULTS_PATH": "AccuracyTesting/ResultsForPaper/"
     },
 
-    "blank3": {
+    "tolerances_experiment": {
         "RECORD_REF_FIELDNAME": "accessURI",
         "SKIP_LIST": ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"], 
         "CORE_FIELDS_LIST": [],
         "USE_CORE_FIELDS": "False",
-        "EDIT_DISTANCE_CLASS": "",
+        "EDIT_DISTANCE_CLASS": "WeightedLevenshtein",
+        "USE_FIELDNAMES_EDIT_DISTANCE": "True",
         "EDIT_DISTANCE_CONFIG": {"comment1": "COSTS are lists of lists.",
                                  "comment2": "For INSERT_CHAR and DELETE_CHAR, the order of the two elements of the inner list is char, cost.",
                                  "comment3": "For SUBSTITUTION_CHAR and TRANSPOSITION_CHAR, the order of the three elements of the inner list is char to substitute in, target char to be substuted out, cost.",
@@ -174,10 +175,17 @@
                                  "SUBSTITUTION_CHAR_COSTS": [[]],
                                  "TRANSPOSITON_CHAR_COSTS": [[]]
                                 },
-        "LLM_SPREAD_SOURCES": [""],
-        "GROUND_TRUTH_FILENAME": "",
-        "RESULT_FILENAME": "",
-        "ERRORS_FILENAME": "",
+        "FIELDNAMES_COSTS": {"collectedBy": {"INSERT_CHAR_COSTS": [[".", "2500"]],  
+                                            "DELETE_CHAR_COSTS":  [[".", "3000"]],
+                                            "SUBSTITUTION_CHAR_COSTS": [[]],
+                                            "TRANSPOSITON_CHAR_COSTS": [[]]}
+                            },                       
+        "USE_TOLERANCES": "False",
+        "TOLS": {"verbatimLocality": ["double_space", "abreviation_point"], "locality": ["double_space"], "collectedBy": ["double_space"]},
+        "LLM_SPREAD_SOURCES": ["TolsSpread_6_11_1050.csv"],
+        "GROUND_TRUTH_FILENAME": "First100BryophytesTyped.csv",
+        "RESULT_FILENAME": "tolerances_experiment.csv",
+        "ERRORS_FILENAME": "tolerances_experiment_errors.txt",
         "SOURCE_PATH": "AccuracyTesting/AccuracyTestingSources/",
         "RESULTS_PATH": "AccuracyTesting/AccuracyTestingResults/"
     },

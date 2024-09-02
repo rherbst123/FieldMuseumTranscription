@@ -1,0 +1,31 @@
+{
+        "CONFIGURATION_NAME": "", 
+        "RECORD_REF_FIELDNAME": "accessURI",
+        "SKIP_LIST": ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"], 
+        "CORE_FIELDS_LIST": [],
+        "USE_CORE_FIELDS": "False",
+        "EDIT_DISTANCE_CLASS": "",
+        "USE_FIELDNAMES_EDIT_DISTANCE": "False",
+        "EDIT_DISTANCE_CONFIG": {"comment1": "COSTS are lists of lists.",
+                                 "comment2": "For INSERT_CHAR and DELETE_CHAR, the order of the two elements of the inner list is char, cost.",
+                                 "comment3": "For SUBSTITUTION_CHAR and TRANSPOSITION_CHAR, the order of the three elements of the inner list is char to substitute in, target char to be substuted out, cost.",
+                                 "INSERT_CHAR_COSTS": [[]],  
+                                 "DELETE_CHAR_COSTS":  [[]],
+                                 "SUBSTITUTION_CHAR_COSTS": [[]],
+                                 "TRANSPOSITON_CHAR_COSTS": [[]]
+                                },
+        "FIELDNAMES_COSTS": {"": {"INSERT_CHAR_COSTS": [[]],  
+                                  "DELETE_CHAR_COSTS":  [[]],
+                                  "SUBSTITUTION_CHAR_COSTS": [[]],
+                                  "TRANSPOSITON_CHAR_COSTS": [[]]
+                                }
+                            },                       
+        "USE_TOLERANCES": "False",
+        "TOLS": {"": []},
+        "LLM_SPREAD_SOURCES": [],
+        "GROUND_TRUTH_FILENAME": "",
+        "RESULT_FILENAME": "",
+        "ERRORS_FILENAME": "",
+        "SOURCE_PATH": "AccuracyTesting/AccuracyTestingSources/",
+        "RESULTS_PATH": "AccuracyTesting/AccuracyTestingResults/"
+    }

@@ -43,10 +43,9 @@ class Agreement(Comparison):
         return saved_filenames       
     
 if __name__ == "__main__":
-    config_filename = "AccuracyTesting/transcription_config.json" 
 
-    # copy in the name of the configuration to be used below
-    config_name = ""
+    # copy in the name of the configuration file to be used below
+    config_filename = "" 
     
     agreement = Agreement(config_filename, config_name)
     saved_filenames = agreement.gather_data()
