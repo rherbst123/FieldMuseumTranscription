@@ -3,8 +3,8 @@
 
     "COMPARISON_CONFIG": {"RECORD_REF_FIELDNAME": "accessURI",
                             "SKIP_LIST": ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"], 
-                            "CORE_FIELDS_LIST": [],
-                            "USE_CORE_FIELDS": "False",
+                            "SELECTED_FIELDS_LIST": [],
+                            "USE_SELECTED_FIELDS_ONLY": "False",
                             "LLM_SPREAD_SOURCES": ["Spread_6_11_1050.csv", "Spread_6_11_1110.csv"],
                             "GROUND_TRUTH_FILENAME": "First100BryophytesTyped.csv",
                             "RESULT_FILENAME": "demo.csv",

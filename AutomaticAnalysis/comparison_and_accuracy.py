@@ -25,17 +25,17 @@ class Comparison:
         config = utility.load_json(config_filename)
         self.config = config["COMPARISON_CONFIG"]
         self.config_name = config["CONFIGURATION_NAME"]
-        self.RUN_SPREADNAMES = self.config["LLM_SPREAD_SOURCES"]
         self.SOURCE_PATH = self.config["SOURCE_PATH"]
         self.GROUND_TRUTH_FILENAME = self.config["GROUND_TRUTH_FILENAME"]
-        self.RECORD_REF_FIELDNAME = self.config["RECORD_REF_FIELDNAME"]
-        self.RECORD_REFS = []
-        self.SKIP_LIST = self.config["SKIP_LIST"]
-        self.CORE_FIELDS_LIST = self.config["CORE_FIELDS_LIST"]
+        self.RUN_SPREADNAMES = self.config["LLM_SPREAD_SOURCES"] 
         self.RESULTS_PATH = self.config["RESULTS_PATH"]
         self.RESULT_FILENAME = self.config["RESULT_FILENAME"]
         self.ERRORS_FILENAME = self.config["ERRORS_FILENAME"]
-        self.CORE_FIELDS_ONLY = self.config["USE_CORE_FIELDS"] == "True"
+        self.RECORD_REF_FIELDNAME = self.config["RECORD_REF_FIELDNAME"]
+        self.RECORD_REFS = []
+        self.SKIP_LIST = self.config["SKIP_LIST"]
+        self.SELECTED_FIELDS_LIST = self.config["SELECTED_FIELDS_LIST"]
+        self.USE_SELECTED_FIELDS_ONLY = self.config["USE_SELECTED_FIELDS_ONLY"] == "True"
         self.setup_interfaces(config)
         
 
@@ -167,13 +167,13 @@ class Comparison:
     def remove_skipped_fields(self, d: dict):
         return {key: val for key, val in d.items() if key not in self.SKIP_LIST} 
 
-    # use only core fields for comparison
-    def get_core_fields_only(self, d: dict):
-        return {key: val for key, val in d.items() if key in self.CORE_FIELDS_LIST}
+    # use only selected fields for comparison
+    def get_selected_fields_only(self, d: dict):
+        return {key: val for key, val in d.items() if key in self.SELECTED_FIELDS_LIST}
 
     # this method determines whether to use core fields or just skip select fields
     def get_fields_to_be_compared(self, d: dict):
-        return self.remove_skipped_fields(d) if not self.CORE_FIELDS_ONLY else  self.get_core_fields_only(d)
+        return self.remove_skipped_fields(d) if not self.USE_SELECTED_FIELDS_ONLY else  self.get_selected_fields_only(d)
 
     def set_record_refs(self, reference_dicts):
         self.RECORD_REFS = [ref_dict[self.RECORD_REF_FIELDNAME] for ref_dict in reference_dicts]     

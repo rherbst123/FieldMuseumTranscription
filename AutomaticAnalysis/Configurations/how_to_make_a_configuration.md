@@ -14,10 +14,10 @@ Follow the below comments to fill out your configuration
 
                         "SKIP_LIST": ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"], 
 
-                        # if you want to use only certain fields, add them to "CORE_FIELDS_LIST"
-                            # and set "USE_CORE_FIELDS" to "True"
-                        "CORE_FIELDS_LIST": [],
-                        "USE_CORE_FIELDS": "False",
+                        # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"
+                            # and set "USE_SELECTED_FIELDS_ONLY" to "True"
+                        "SELECTED_FIELDS_LIST": [],
+                        "USE_SELECTED_FIELDS_ONLY": "False",
 
                         # list all the names of the .csv files you want to run in "LLM_SPREAD_SOURCES"
                             # do not set the SOURCE directory here
