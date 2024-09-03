@@ -42,7 +42,8 @@
   "TOLERANCES_CONFIG": {"TOLERANCES_ALLOWED": "False",
                         "USE_GRADED_MATCH_THRESHOLD": "False",
                         "GRADED_MATCH_THRESHOLD": "0.99999",
-                        "TOLS": {"": [""]
+                        "TOLS": {
+                                 "": [""]
                                  }
 
   }

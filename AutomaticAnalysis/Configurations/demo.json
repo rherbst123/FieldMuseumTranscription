@@ -31,8 +31,15 @@
                                                                        "DELETE_CHAR_COSTS":  [[".", 400]],
                                                                        "SUBSTITUTION_CHAR_COSTS": [[]],
                                                                        "TRANSPOSITON_CHAR_COSTS": [[]]
-                                                                       }
-                        }
+                                                                       },
+                                                   "locality": {
+                                                                        "INSERT_CHAR_COSTS": [[".", 500]],  
+                                                                        "DELETE_CHAR_COSTS":  [[".", 400]],
+                                                                        "SUBSTITUTION_CHAR_COSTS": [[]],
+                                                                        "TRANSPOSITON_CHAR_COSTS": [[]]
+                                                                      }
+                        }                    
+                        
                             },
 
     "TOLERANCES_CONFIG": {"TOLERANCES_ALLOWED": "True",
@@ -40,7 +47,8 @@
                           "GRADED_MATCH_THRESHOLD": "0.80",
                           "comment": "note the effect on results for the following fields",
                           "TOLS": {"locality": ["always_true"],
-                                   "identifiedBy": ["missing_abbreviation_point", "double_space"]}
+                                   "identifiedBy": ["missing_abbreviation_point", "double_space"]
+                                   }
 
     }
     

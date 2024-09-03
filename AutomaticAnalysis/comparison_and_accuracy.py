@@ -36,16 +36,16 @@ class Comparison:
         self.SKIP_LIST = self.config["SKIP_LIST"]
         self.SELECTED_FIELDS_LIST = self.config["SELECTED_FIELDS_LIST"]
         self.USE_SELECTED_FIELDS_ONLY = self.config["USE_SELECTED_FIELDS_ONLY"] == "True"
-        self.setup_interfaces(config)
+        self.setup(config)
         
 
-    def setup_interfaces(self, config):
+    def setup(self, config):
         self.edit_distance_config = config["EDIT_DISTANCE_CONFIG"]
         self.USE_FIELDNAMES_EXCLUSIVELY = self.edit_distance_config["USE_FIELDNAMES_EXCLUSIVELY"] == "True"
-        tolerances_config = config["TOLERANCES_CONFIG"] 
-        self.TOLERANCES_ALLOWED = tolerances_config["TOLERANCES_ALLOWED"] == "True"
-        self.TOLS = tolerances_config["TOLS"] if self.TOLERANCES_ALLOWED else {}
-        self.field_tolerances = FieldTolerances(tolerances_config, self.edit_distance_config)
+        self.tolerances_config = config["TOLERANCES_CONFIG"] 
+        self.TOLERANCES_ALLOWED = self.tolerances_config["TOLERANCES_ALLOWED"] == "True"
+        self.TOLS = self.tolerances_config["TOLS"] if self.TOLERANCES_ALLOWED else {}
+        self.field_tolerances = FieldTolerances(self.tolerances_config, self.edit_distance_config)
 
     def get_edit_distance_interface(self, fieldname):
         return WeightedLevenshtein(self.edit_distance_config, fieldname)
@@ -187,7 +187,7 @@ class Comparison:
             blank_results_dict = self.get_blank_results_dict(spreadname, true_values_dicts[0]) 
             run_errors, results = self.process(spreadname, true_values_dicts, blank_results_dict)  
             master_results += [results]
-            utility.save_errors(self.RESULTS_PATH+self.ERRORS_FILENAME, run_errors, spreadname, self.config, self.RECORD_REF_FIELDNAME)
+            utility.save_errors(self.RESULTS_PATH+self.ERRORS_FILENAME, run_errors, spreadname, self.RECORD_REF_FIELDNAME, self.config, self.edit_distance_config, self.tolerances_config)
             print(f"Errors saved to {self.RESULTS_PATH+self.ERRORS_FILENAME}!!!!")  
         formatted_results = [utility.format_values(d) for d in master_results]    
         utility.save_to_csv(self.RESULTS_PATH+self.RESULT_FILENAME, formatted_results)

@@ -75,7 +75,7 @@ if __name__ == "__main__":
                                                     "TRANSPOSITON_CHAR_COSTS": [[]]
                                                     }}
     }                
-    observed_val = "The  Congo"
+    observed_val = "The,   Congo"
     true_val = "The. congo"
     fieldname = "verbatimLocality"
     ft = FieldTolerances(config, edit_distance_config)
