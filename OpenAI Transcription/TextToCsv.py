@@ -74,7 +74,7 @@ def extract_info_from_text(text):
 #Open file
 def process_file(file_path):
     try:
-        with open(file_path, 'r') as file:
+        with open(file_path, 'r', encoding="utf-8") as file:
             contents = file.read()
     except FileNotFoundError:
         print(f"Error: File '{file_path}' not found.")
@@ -92,16 +92,16 @@ def process_file(file_path):
 def export_to_csv(data, csv_file_path):
     fields = list(data[0].keys())
 
-    with open(csv_file_path, 'w', newline='') as csvfile:
+    with open(csv_file_path, 'w', encoding="utf-8", newline='') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fields)
         writer.writeheader()
         writer.writerows(data)
 
 if __name__ == "__main__":
     #CHANGE INPUT TO DESIRED .TXT FILE
-    input_file_path = "C:\\Users\\riley\\OneDrive\\Desktop\\CodeForMe\\python\\Output\\OutputJun.20.24.0153.txt"
+    input_file_path = "AccuracyTesting\SourcesForPaper\OutputMar12.0427.txt"
     #CHANGE OUTPUT TO DESIRED LOCATION TO .CSV FILE
-    output_csv_file_path = "C:\\Users\\riley\\OneDrive\\Desktop\\CodeForMe\\python\\Output\\SpreadJun.20.24.0153.csv"
+    output_csv_file_path = "AccuracyTesting\SourcesForPaper\SpreadMar12.0427.csv"
 
     extracted_data = process_file(input_file_path)
     if extracted_data:

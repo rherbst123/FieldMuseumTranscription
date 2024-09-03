@@ -44,17 +44,20 @@ class NLTKDistance(StringDistance):
         edit_distance = nltk_edit_distance(s1, s2, substitution_cost=1)
         return self.scale(edit_distance, minimum=0, maximum=max(len(s1), len(s2)))
 
-  
 
 class WeightedLevenshtein(StringDistance):
-    def __init__(self, config):
+    def __init__(self, config, fieldname):
+        self.config = config
         self.INSERT_COSTS = np.ones(128, dtype=np.float64)  # make an array of all 1's of size 128, the number of ASCII characters
         self.DELETE_COSTS = np.ones(128, dtype=np.float64)
         self.SUBSTITUTE_COSTS = np.ones((128, 128), dtype=np.float64)  # make a 2D array of 1's
         self.TRANSPOSITION_COSTS = np.ones((128, 128), dtype=np.float64)
-        self.setup_costs(config)
+        if fieldname in self.config["FIELDNAMES_COSTS"]:
+            self.update_costs(self.config["FIELDNAMES_COSTS"][fieldname])
+        else:
+            self.update_costs(self.config["ALL_FIELDS_CUSTOM_COSTS"])    
 
-    def setup_costs(self, config):
+    def update_costs(self, config):
         insert_char_costs = config["INSERT_CHAR_COSTS"]
         delete_char_costs = config["DELETE_CHAR_COSTS"] 
         substitution_char_costs = config["SUBSTITUTION_CHAR_COSTS"]  

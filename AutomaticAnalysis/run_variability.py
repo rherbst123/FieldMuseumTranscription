@@ -10,10 +10,9 @@
 #  and saved to a single results file
 
 import utility
-import statistics
 
-SOURCE_PATH = "AccuracyTesting/SourcesForPaper/"
-RESULTS_PATH = "AccuracyTesting/ResultsForPaper/"
+SOURCE_PATH = "AutomaticAnalysis/Sources/"
+RESULTS_PATH = "AutomaticAnalysis/Results/"
 
 # FILENAMES are iterated through as a list of lists
 # The variability will be calculated for each possible pairing of files of each inner list.

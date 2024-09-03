@@ -28,7 +28,7 @@ def format_values(d: dict):
     return {key: [round(v, 1) if type(v)==float else v for v in val]  if type(val)==list else val for key, val in d.items()}
     #return {key: "|".join(val)  if type(val)==list else val for key, val in d.items()}         
 
-def save_errors(txt_filepath, errors: list[dict], spreadsource, config: dict, record_ref_fieldname):
+def save_errors(txt_filepath, errors: list[dict], spreadsource, record_ref_fieldname, comparison_config, edit_distance_config, tolerances_config):
     errors = list(filter(None, errors))
     temp = {}
     for d in errors:
@@ -53,4 +53,4 @@ def save_errors(txt_filepath, errors: list[dict], spreadsource, config: dict, re
     except FileNotFoundError:
         prior = ""
     with open(txt_filepath, "w", encoding="utf-8") as f:
-        f.write(prior + str(config) + "\n\n\n" + out)                            
+        f.write(f"{prior}\n{comparison_config = }\n{edit_distance_config = }\n{tolerances_config = }\n\n\n{out}")                            
