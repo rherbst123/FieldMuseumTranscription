@@ -88,7 +88,7 @@ def process(filenameA, filenameB):
     result = {"run A": filenameA, "run B": filenameB, "counts key": "[num diff, all targets, non N/A targets]"} | master_differences_dict
     return result
 
-def main():
+def main(logger):
     all_results = []
     for filelist in FILENAMES:
         for idx, filenameA in enumerate(filelist):
@@ -98,5 +98,6 @@ def main():
     print(f"Yay!!! {RESULTS_FILENAME} saved!")         
 
 if __name__ == "__main__":
-    main()
+    logger = utility.get_logger()
+    main(logger)
     

@@ -14,6 +14,7 @@
    # Results .csv s are NOT appended. They will be overwritten if they already exist.
 
 
+import logging
 import utility
 import string_distance
 import re
@@ -22,9 +23,10 @@ from string_distance import WeightedLevenshtein
 
 class Comparison:
     def __init__(self, config_filename):
-        config = utility.load_json(config_filename)
-        self.config = config["COMPARISON_CONFIG"]
+        config = utility.load_yaml(config_filename)
         self.config_name = config["CONFIGURATION_NAME"]
+        self.config = config["COMPARISON_CONFIG"]
+        self.POST_PROCESSING_CONFIG = config["POST_PROCESSING_CONFIG"]
         self.SOURCE_PATH = self.config["SOURCE_PATH"]
         self.GROUND_TRUTH_FILENAME = self.config["GROUND_TRUTH_FILENAME"]
         self.RUN_SPREADNAMES = self.config["LLM_SPREAD_SOURCES"] 
@@ -35,15 +37,16 @@ class Comparison:
         self.RECORD_REFS = []
         self.SKIP_LIST = self.config["SKIP_LIST"]
         self.SELECTED_FIELDS_LIST = self.config["SELECTED_FIELDS_LIST"]
-        self.USE_SELECTED_FIELDS_ONLY = self.config["USE_SELECTED_FIELDS_ONLY"] == "True"
+        self.USE_SELECTED_FIELDS_ONLY = self.config["USE_SELECTED_FIELDS_ONLY"]
         self.setup(config)
         
 
     def setup(self, config):
+        self.logger = utility.get_logger()
         self.edit_distance_config = config["EDIT_DISTANCE_CONFIG"]
-        self.USE_FIELDNAMES_EXCLUSIVELY = self.edit_distance_config["USE_FIELDNAMES_EXCLUSIVELY"] == "True"
+        self.USE_FIELDNAMES_EXCLUSIVELY = self.edit_distance_config["USE_FIELDNAMES_EXCLUSIVELY"]
         self.tolerances_config = config["TOLERANCES_CONFIG"] 
-        self.TOLERANCES_ALLOWED = self.tolerances_config["TOLERANCES_ALLOWED"] == "True"
+        self.TOLERANCES_ALLOWED = self.tolerances_config["TOLERANCES_ALLOWED"]
         self.TOLS = self.tolerances_config["TOLS"] if self.TOLERANCES_ALLOWED else {}
         self.field_tolerances = FieldTolerances(self.tolerances_config, self.edit_distance_config)
 
@@ -129,7 +132,7 @@ class Comparison:
 
     def get_comparisons(self, fieldname, observed_val, true_val, record_ref):
         is_applicable = self.is_applicable(true_val)
-        is_true = self.is_true(observed_val, true_val) or fieldname in self.TOLS and self.is_within_tolerances(fieldname, observed_val, true_val)
+        is_true = self.is_true(observed_val, true_val) or self.is_within_tolerances(fieldname, observed_val, true_val) and fieldname in self.TOLS
         true_app = is_applicable and is_true
         true_non_app = not is_applicable and is_true
         false_app = is_applicable and not is_true
@@ -197,7 +200,7 @@ if __name__ == "__main__":
     
 
     # copy in the name of the configuration file to be used below
-    config_filename = "AutomaticAnalysis/Configurations/demo.json" 
+    config_filename = "AutomaticAnalysis/Configurations/example.yaml" 
 
     accuracy_run = Comparison(config_filename)
     accuracy_run.run()
