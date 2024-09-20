@@ -1,6 +1,8 @@
 import csv
 import json
 import re
+import yaml
+import logging
 
 
 def get_contents_from_csv(csv_file_path):
@@ -20,6 +22,19 @@ def load_json(filename):
 
 def remove_csv_extension(fname):
         return re.match("(.+).csv", fname).group(1)
+
+def load_yaml(filename):
+    with open(filename, 'r', encoding="utf-8") as f:
+        return yaml.load(f, Loader=yaml.SafeLoader) 
+
+def get_logger():
+        logger = logging.getLogger()
+        logging.basicConfig(filename="AutomaticAnalysis/Logs/analysis.log", format='%(asctime)s %(name)s %(funcName)s %(levelname)s: %(message)s',level=logging.DEBUG, encoding = "UTF-8")
+        console_handler = logging.StreamHandler()
+        console_handler.setLevel(logging.INFO)
+        logger.addHandler(console_handler)
+        console_handler.setFormatter(logging.Formatter('%(name)s - %(levelname)s - %(funcName)s - %(message)s'))
+        return logger                   
 
 
 

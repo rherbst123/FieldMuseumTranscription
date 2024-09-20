@@ -17,6 +17,11 @@ Agreed fields are stored as is, and when there is not agreement, "PASS" is store
 These results are saved as separate csv s, and then the script calls `comparison_and_accuracy.py`,
 where comparison against the Ground Truth takes place.
 
+`post_processing.py`
+This script takes a list of files and performs post-processing operations to those fields indicated in the configuration file.
+For example, if the fieldname `verbatimCollectors` is listed, `coll.`, `Coll.`, `leg.` and  `Leg.` are removed from the field transcription and saved with the filename `post_` + original_filename.
+Then `comparison_and_accuracy.py` is run to compare both original values and post-processed values to the Ground Truth and saved.
+
 `run_variability.py`
 This script determines the run-to-run variability of a given model (each run presumably using the same prompt and configuration). Variability is done for a field to field and overall basis (the sum of field differences / the sum of targets).
 This script does not access the configuration file, so all files must be listed in the script itself.
@@ -37,100 +42,8 @@ But if you already have this project installed, you may want to use just:
 
 `pip install nltk weighted-levenshtein`
 
-After everything has been installed the next step is to define and/or select a configuration for `comparison_and_accuracy.py` or `llm_agreement_and_accuracy.py`:
-Go to the file `transcription_config.py` and fill out one of the blank configurations, the instructions for which are in the next section.
-Copy the name of that configuration into `config_name` variable found at the bottom of the script you are going to run. For example `config_name = "gpt4o and sonnet3.5 repeats"`.
+After everything has been installed the next step is to define and/or select a configuration for `comparison_and_accuracy.py`, `llm_agreement_and_accuracy.py` or `post_processing.py`:
+Go to the `Configurations` folder and copy the file `configuration_template.yaml` into a new file in the same folder. Fill out the configuration, the instructions for which are in the comments in the file.
+Copy the name of that configuration into the `config_name` variable found at the bottom of the script you are going to run. For example `config_name = "gpt4o and sonnet3.5 repeats"`.
+A completed sample configuration can be found in `example.yaml` and also run.
 Your script is ready to run!!!
-
-
-## CONFIGURATION
-
-Follow the below comments to fill out your configuration
-
-```
-{
-    # enter the name you want to give your configuration
-    "CONFIGURATION_NAME": "",
-
-
-    "COMPARISON_CONFIG": {
-                         # this is the field used for identifying what image the error refers to
-                        "RECORD_REF_FIELDNAME": "accessURI",
-
-                        "SKIP_LIST": ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"], 
-
-                        # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"
-                            # and set "USE_SELECTED_FIELDS_ONLY" to "True"
-                        "SELECTED_FIELDS_LIST": [],
-                        "USE_SELECTED_FIELDS_ONLY": "False",
-
-                        # list all the names of the .csv files you want to run in "LLM_SPREAD_SOURCES"
-                            # do not set the SOURCE directory here
-                        "LLM_SPREAD_SOURCES": [""],
-
-                        # insert the name of the ground truth file you are going to use below
-                        "GROUND_TRUTH_FILENAME": "",
-
-                        # insert the name of the file you want to create for your spreadsheet/csv
-                            # this file, if it already exists, will be overwritten
-                        "RESULT_FILENAME": "",
-
-                        # insert the name of the text file you want transcription errors logged to
-                            # this file, if it already exists, will be appended
-                        "ERRORS_FILENAME": "",
-
-                        # the SOURCE directory/folder can be modified below
-                        "SOURCE_PATH": "AutomaticAnalysis/Sources/",
-
-                        # the RESULTS directory/folder can be modified below
-                        "RESULTS_PATH": "AutomaticAnalysis/Results/"
-                    },
-    
-    "EDIT_DISTANCE_CONFIG": {
-                             "comment1": "COSTS are lists of lists.",
-                             "comment2": "For INSERT_CHAR and DELETE_CHAR, the order of the two elements of the inner list is char, cost.",
-                             "comment3": "For SUBSTITUTION_CHAR and TRANSPOSITION_CHAR, the order of the three elements of the inner list is char to substitute in, target char to be substuted out, cost.",
-                             "ALL_FIELDS_CUSTOM_COSTS": {
-                                                "INSERT_CHAR_COSTS": [[]],  
-                                                "DELETE_CHAR_COSTS":  [[]],
-                                                "SUBSTITUTION_CHAR_COSTS": [[]],
-                                                "TRANSPOSITON_CHAR_COSTS": [[]]
-
-                             },
-
-                             # enter "True" below to use ONLY the fieldnames declared in FIELDNAMES_COSTS
-                                # entering "False" below will have the edit_distance module first look among the fieldnames for costs
-                                  #  and then use the costs above if the fieldname is not specified
-                             "USE_FIELDNAMES_EXCLUSIVELY": "",
-
-                             # FIELDNAMES COSTS take precedence over ALL_FIELDS_CUSTOM_COSTS
-                             "FIELDNAMES_COSTS": {
-                                                  "": {"INSERT_CHAR_COSTS": [[]],  
-                                                                       "DELETE_CHAR_COSTS":  [[]],
-                                                                       "SUBSTITUTION_CHAR_COSTS": [[]],
-                                                                       "TRANSPOSITON_CHAR_COSTS": [[]]
-                                                                       }
-                        }
-                            },
-
-    "TOLERANCES_CONFIG": {
-                          # enter "True" enable tolerances for comparisons
-                          "TOLERANCES_ALLOWED": "",
-
-                          # enter "True" to allow using a graded match among the tolerances
-                             # graded_matches are derived from edit distances (Levenshtein distances)
-                                # essentially: graded_match = 1 - scaled Levenshtein distance 
-                          "USE_GRADED_MATCH_THRESHOLD": "",
-
-                          # modify that thresheold below; it should be a value between 0.0 and 1.0
-                          "GRADED_MATCH_THRESHOLD": "0.99999",
-
-                          # TOLS are dictionary of fieldnames and tolerances pairs, where the tolerances are 
-                            # listed as strings in a list (see options in tolerances.py)
-                               # for example: {"identifiedBy": ["missing_abbreviation_point", "double_space"]}
-                          "TOLS": {}
-
-    }
-    
-    
-}
