@@ -11,22 +11,24 @@
 
 import utility
 
-SOURCE_PATH = "AutomaticAnalysis/Sources/"
-RESULTS_PATH = "AutomaticAnalysis/Results/"
+SOURCE_PATH = "AutomaticAnalysis/SourcesForPaper/"
+RESULTS_PATH = "AutomaticAnalysis/ResultsForSCSE/"
 
 # FILENAMES are iterated through as a list of lists
 # The variability will be calculated for each possible pairing of files of each inner list.
 
 #                      ***** one comparison *****                       ***** one comparison *****                                        ****** six comparisons C(4,2) *******
 #FILENAMES = [["Spread_6_11_1050.csv", "Spread_6_11_1110.csv"], ["Spread_6_12_1404.csv", "Spread_6_12_1440.csv"],  ["Spread_6_11_1050_Spread_6_12_1404_agreed_values.csv", "Spread_6_11_1050_Spread_6_12_1440_agreed_values.csv", "Spread_6_11_1110_Spread_6_12_1404_agreed_values.csv", "Spread_6_11_1110_Spread_6_12_1440_agreed_values.csv"]]
-FILENAMES = [[]]
+FILENAMES = [["Spread_6_11_1050.csv", "Spread_6_11_1110.csv"], ["SpreadJun.21.24.1043.csv", "SpreadJun.26.24.1050.csv"]]#, 
+#["spread08.02.1600.1.1Stripped.csv", "spread08.02.1600.1.2Stripped.csv", "spread08.02.1600.1.3Stripped.csv", "spread08.02.1600.1.4StrippedPrompt.csv", "spread08.02.1600.1.5Stripped.csv"]]
 
 # Enter below the filename for the Ground Truth source
-GROUND_TRUTH_FILENAME = ""
+GROUND_TRUTH_FILENAME = "First100BryophytesTyped.csv"
 
 # Enter below the filename to which results should be saved. The file will be saved to the RESULTS_PATH directory listed above
-RESULTS_FILENAME = ""
+RESULTS_FILENAME = "repeats_variability.csv"
 SKIP_LIST = ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"]
+VERBATIM_LIST = [ "verbatimCollectors", "verbatimEventDate", "verbatimIdentification", "verbatimCoordinates", "verbatimLocality", "verbatimElevation"]
 
 def save_results(fname, results: list[dict]):
     utility.save_to_csv(fname, results)    
@@ -39,7 +41,10 @@ def calculate_variability(field_counts_dict, percents_dict, sum_dict):
                 
     return field_counts_dict | percents_dict | sum_dict | var_dict
 
-def get_field_variabilty_as_percents(d):    
+def get_field_variabilty_as_percents(d): 
+    for fieldname, sums in d.items():
+        if sums[2] == 0:
+            d[fieldname][2] = d[fieldname][0] 
     return {f"%{fieldname} non N/A": 100*(sums[0] / sums[2]) for fieldname, sums in d.items()}    
 
 
@@ -58,7 +63,7 @@ def compare_differences(transcriptionA, transcriptionB, field_counts_dict, true_
             continue
         field_counts_dict[fieldname][0] += is_different(valA, valB)
         field_counts_dict[fieldname][1] += fieldnameA==fieldnameB
-        field_counts_dict[fieldname][2] += fieldnameB==fieldnameB and true_val != "N/A"
+        field_counts_dict[fieldname][2] += fieldnameA==fieldnameB and true_val != "N/A"
     return field_counts_dict    
 
 def get_blank_counts_dict(result_sample):

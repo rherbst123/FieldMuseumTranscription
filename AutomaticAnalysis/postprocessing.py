@@ -11,14 +11,25 @@ class PostProcessor(Comparison):
     def get_field_methods(self):
         return {"verbatimCollectors": self.clean_verbatim_collectors,
                 "collectedBy": self.format_names,
-                "identifiedBy": self.format_names}      
+                "identifiedBy": self.format_names,
+                "verbatimCoordinates": self.clean_verbatim_coordinates}
+
+    def remove_abbreviation_points(self, val):
+        return re.sub(r"\.", "", val)
+
+    def remove_commas(self, val):
+        return re.sub(r",", "", val)
+
+    def collapse_spacing(self, val):
+        return re.sub(r" ", "", val)                    
 
     def remove_extra_spaces(self, val):
         return re.sub(r"\s+", " ", val)
 
     def abbreviate_name(self, w):
-        if re.match(r"^[a-z]", w) or w in ["De", "de"]:
-            return " " +w+" "
+        w = w.strip()
+        if re.match(r"^[a-z]", w) or w in ["De", "Von"]:
+            return w+" "
         else:
             return w[0]+". "    
     
@@ -34,7 +45,10 @@ class PostProcessor(Comparison):
         return " ".join([w.strip() for w in words if w.strip() not in ["coll.", "Coll.", "leg.", "Leg."]]) 
 
     def clean_verbatim_coordinates(self, val):
-        pass     
+        val = self.collapse_spacing(val)
+        val = self.remove_abbreviation_points(val)   
+        val = self.remove_commas(val)  
+        return val
             
     def check_fields(self, fieldname, val):
         
@@ -69,12 +83,13 @@ class PostProcessor(Comparison):
        
     
 if __name__ == "__main__":
+    CONFIG_PATH = "AutomaticAnalysis/Configurations/"
     # copy in the name of the configuration file to be used below
-    config_filename = "AutomaticAnalysis/Configurations/example.yaml" 
+    config_filename = "" 
 
-    post_process_run = PostProcessor(config_filename)
+    post_process_run = PostProcessor(CONFIG_PATH+config_filename)
     post_process_run.post()
-    #s = "Matt Matt Heart Attack von Konrat-Schiller"
+    #s = "Matt Matt Heart Attack Von Konrat-Schiller"
     #s = "M Fleischer"
     #abr = post_process_run.format_names(s)
     #print(abr)
