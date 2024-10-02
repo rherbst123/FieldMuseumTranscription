@@ -80,9 +80,9 @@ class Comparison:
 
     def update_comparison_fields(self, d, master_comparison_dict):
         fieldname = d["fieldname"]
-        master_comparison_dict[fieldname][0] += d["is_true_app"] or d["is_true_n/a"]
-        master_comparison_dict[fieldname][1] += d["is_true_n/a"] or d["graded_true_app"]
-        master_comparison_dict[fieldname][2] += d["is_true_app"] or d["is_true_n/a"] or d["is_false_app"] or d["is_false_n/a"]
+        master_comparison_dict[fieldname][0] += d["is_true_app"] 
+        master_comparison_dict[fieldname][1] += d["graded_true_app"]
+        master_comparison_dict[fieldname][2] += d["is_true_app"] or d["is_false_app"] or d["is_false_n/a"]
         return master_comparison_dict
 
     def update_tallies(self, tallies, field_comparison_dict, master_comparison_dict):
@@ -132,7 +132,7 @@ class Comparison:
 
     def get_comparisons(self, fieldname, observed_val, true_val, record_ref):
         is_applicable = self.is_applicable(true_val)
-        is_true = self.is_true(observed_val, true_val) or self.is_within_tolerances(fieldname, observed_val, true_val) and fieldname in self.TOLS
+        is_true = self.is_true(observed_val, true_val) or self.is_within_tolerances(fieldname, observed_val, true_val) #and fieldname in self.TOLS
         true_app = is_applicable and is_true
         true_non_app = not is_applicable and is_true
         false_app = is_applicable and not is_true
@@ -162,9 +162,9 @@ class Comparison:
         results_dict, tallies, run_errors = self.compare_and_tally(observed_values_dicts, true_values_dicts, blank_results_dict)  
         return run_errors, self.calculate_accuracy(results_dict, tallies) 
 
-    def get_blank_results_dict(self, spreadname, true_values_dict):
+    def get_blank_results_dict(self, spreadname, sample_dict):
         return   {"run": spreadname, "ground truth filename": self.GROUND_TRUTH_FILENAME, "configuration name": self.config_name, "errors filename": self.ERRORS_FILENAME}  |   \
-                 {fieldname: [0,0,0] for fieldname in true_values_dict}        
+                 {fieldname: [0,0,0] for fieldname in sample_dict}        
     
     # remove fields before comparison
     def remove_skipped_fields(self, d: dict):
@@ -194,13 +194,13 @@ class Comparison:
             print(f"Errors saved to {self.RESULTS_PATH+self.ERRORS_FILENAME}!!!!")  
         formatted_results = [utility.format_values(d) for d in master_results]    
         utility.save_to_csv(self.RESULTS_PATH+self.RESULT_FILENAME, formatted_results)
-        print(f"Comaparisons saved to {self.RESULTS_PATH+self.RESULT_FILENAME}!!!!")   
+        print(f"Comparisons saved to {self.RESULTS_PATH+self.RESULT_FILENAME}!!!!")   
     
 if __name__ == "__main__":
-    
+    CONFIG_PATH = "AutomaticAnalysis/Configurations/"
 
     # copy in the name of the configuration file to be used below
-    config_filename = "AutomaticAnalysis/Configurations/example.yaml" 
+    config_filename = "" 
 
-    accuracy_run = Comparison(config_filename)
+    accuracy_run = Comparison(CONFIG_PATH+config_filename)
     accuracy_run.run()

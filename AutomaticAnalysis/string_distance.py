@@ -105,7 +105,6 @@ class WeightedLevenshtein(StringDistance):
     #    they would never appear as single characters in a text.
     # This lowest unicode range is used in this method to represent the the characters >= 128 on a temporary basis,
     #     i.e., a sort of translation applied the same way to both strings, just for one comparison
-        unused_ascii_range = list(range(32))
         d = {}
         def assign_temp_val(char: str, d, unused: list):
             if char in self.char_dict_costs:

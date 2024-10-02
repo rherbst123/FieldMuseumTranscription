@@ -17,7 +17,9 @@ class FieldTolerances:
                                "always_true": self.return_true_val,
                                "both_case": self.to_lowercase,
                                "unstripped_whitespace": self.strip_whitespace,
-                               "misaligned_spacing": self.collapse_spacing} 
+                               "misaligned_spacing": self.collapse_spacing,
+                               "mismatching_abbreviation": self.remove_abbreviation_points,
+                               "missing_commas": self.remove_commas} 
                               
 
     def get_edit_distance_interface(self, fieldname):
@@ -41,6 +43,12 @@ class FieldTolerances:
     # this method is used for demonstration and testing purposes
     def return_true_val(self, observed_val, true_val):
         return true_val, true_val
+
+    def remove_abbreviation_points(self, observed_val, true_val):
+        return re.sub(r"\.", "", observed_val), re.sub(r"\.", "", true_val) 
+
+    def remove_commas(self, observed_val, true_val):
+        return re.sub(r",", "", observed_val), re.sub(r",", "", true_val) 
 
     def collapse_spacing(self, observed_val, true_val):
         return re.sub(" ", "", observed_val), re.sub(" ", "", true_val)    
@@ -73,10 +81,11 @@ class FieldTolerances:
 
 if __name__ == "__main__":
     config = {"TOLERANCES_ALLOWED": True,
-            "USE_EDIT_DISTANCE_THRESHOLD": True,
+            "_EDIT_DISTANCE_THRESHOLD": True,
             "GRADED_MATCH_THRESHOLD": "1.00",
             "TOLS": {"locality": [None, "double_space"],
-                    "verbatimLocality": [None, "missing_abbreviation_point", "double_space"]}}
+                    "verbatimLocality": [None, "missing_abbreviation_point", "double_space"],
+                    "verbatimCoordinates": []}}
     edit_distance_config =  {
                            "ALL_FIELDS_CUSTOM_COSTS": {
                                               "INSERT_CHAR_COSTS": [[]],  

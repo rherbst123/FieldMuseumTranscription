@@ -20,12 +20,7 @@ COMPARISON_CONFIG:
 # For INSERT_CHAR and DELETE_CHAR, the order of the two elements of the inner list is char, cost.
 # For SUBSTITUTION_CHAR and TRANSPOSITION_CHAR, the order of the three elements of the inner list is
 #     char to substitute in, target char to be substituted out, cost.
-EDIT_DISTANCE_CONFIG:  # fieldnames have precedence over defaults, just in case USE_FIELNAMES_EXCLUSIVELY is False
-    DEFAULT_FIELDS_CUSTOM_COSTS:
-        INSERT_CHAR_COSTS: [[".", 0.25], [" ", "0.25"], [",", 0.5]] 
-        DELETE_CHAR_COSTS:  [[]]
-        SUBSTITUTION_CHAR_COSTS: [ ["á", "a", 0.10], ["é", "e", 0.11], ["í", "i",0.12], ["ó","o", 0.13], ["ú","u", 0.14]]
-        TRANSPOSITON_CHAR_COSTS: [[]]
+EDIT_DISTANCE_CONFIG:  # fieldnames have precedence over defaults, just in case USE_FIELDNAMES_EXCLUSIVELY is False
     USE_FIELDNAMES_EXCLUSIVELY: False  
     FIELDNAMES_COSTS:
         verbatimCollectors:
@@ -37,10 +32,15 @@ EDIT_DISTANCE_CONFIG:  # fieldnames have precedence over defaults, just in case 
             INSERT_CHAR_COSTS: [[".", 0.25]] 
             DELETE_CHAR_COSTS:  [[]]
             SUBSTITUTION_CHAR_COSTS: [[]]
-            TRANSPOSITON_CHAR_COSTS: [[]]    
+            TRANSPOSITON_CHAR_COSTS: [[]]
+    DEFAULT_FIELDS_CUSTOM_COSTS:
+        INSERT_CHAR_COSTS: [[".", 0.25], [" ", 0.25], [",", 0.5]] 
+        DELETE_CHAR_COSTS:  [[]]
+        SUBSTITUTION_CHAR_COSTS: [ ["á", "a", 0.10], ["é", "e", 0.11], ["í", "i",0.12], ["ó","o", 0.13], ["ú","u", 0.14]]
+        TRANSPOSITON_CHAR_COSTS: [[]]        
 
 TOLERANCES_CONFIG: 
-    TOLERANCES_ALLOWED:
+    TOLERANCES_ALLOWED: True
     TOLS: 
         verbatimLocality:
             - double_space
@@ -49,16 +49,16 @@ TOLERANCES_CONFIG:
             - misaligned_spacing
         ENABLE_EDIT_DISTANCE_THRESHOLD: True     
         EDIT_DISTANCE_THRESHOLDS:  # fieldnames take precedence over default
-            DEFAULT:
-                SCALED: True  # this scales Levenshtein distance to a value in the range of 0.0 and 1.00
-                VALUE: 0.0     #  a scaled value less than VALUE will be within tolerances
             verbatimCollectors:
                 SCALED: False  # this uses the raw Levenshtein distance, which can be any value greater than zero
-                VALUE: 2.5       #  this is the sum of the costs, perhaps customized costs, which can be floats of any size
+                VALUE: 2.5       #  this is the sum of the costs, perhaps customized costs, which can be ints or floats of any size
                                    # an unscaled value less than VALUE will be within tolerances
             verbatimCoordinates:
                 SCALED: True
-                VALUE: 0.10                                                     
+                VALUE: 0.10
+            DEFAULT:
+                SCALED: True  # this scales Levenshtein distance to a value in the range of 0.0 and 1.00
+                VALUE: 0.0     #  a scaled value less than VALUE will be within tolerances                                                         
         
 
 POST_PROCESSING_CONFIG:    # this is a list of fieldnames, the data for which can be post-processed in `post_processor.py`
