@@ -1,0 +1,128 @@
+
+comparison_config = {'RECORD_REF_FIELDNAME': 'accessURI', 'SKIP_LIST': ['Image Name', 'catalogNumber', 'Dataset Source', 'accessURI', 'Label only?', 'modifiedBy', 'verifiedBy', 'substrate', 'URL', 'Image'], 'SELECTED_FIELDS_LIST': ['collectedBy', 'recordNumber', 'minimumEventDate', 'latestScientificName', 'country'], 'USE_SELECTED_FIELDS_ONLY': True, 'LLM_SPREAD_SOURCES': ['gpt-4o-2024-06-11-1050-transcriptions.csv'], 'GROUND_TRUTH_FILENAME': '100-bryophytes-typed.csv', 'RESULT_FILENAME': 'gpt-4o-2024-06-11-1050-skeleton_fields-comparsions.csv', 'ERRORS_FILENAME': 'gpt-4o-2024-06-11-1050-skeleton_fields-errors.txt', 'SOURCE_PATH': 'DataAnalysis/Transcriptions/', 'RESULTS_PATH': 'DataAnalysis/Comparisons/SingleComparisons/'}
+edit_distance_config = {'USE_FIELDNAMES_EXCLUSIVELY': False, 'FIELDNAMES_COSTS': {'RANDO_FIELDNAME1': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}, 'RANDO_FIELDNAME2': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}, 'DEFAULT_FIELDS_CUSTOM_COSTS': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}
+tolerances_config = {'TOLERANCES_ALLOWED': False, 'TOLS': {'RANDO_FIELDNAME1': ['double_space', 'missing_abbreviation_point'], 'RANDO_FIELDNAME2': ['misaligned_spacing'], 'ENABLE_EDIT_DISTANCE_THRESHOLD': False, 'EDIT_DISTANCE_THRESHOLDS': {'RANDO_FIELDNAME1': {'SCALED': False, 'VALUE': 2.5}, 'RANDO_FIELDNAME2': {'SCALED': True, 'VALUE': 0.1}, 'DEFAULT': {'SCALED': True, 'VALUE': 0.0}}}}
+
+
+spreadsource = 'gpt-4o-2024-06-11-1050-transcriptions.csv'
+
+recordNumber: 28
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.17: B 2754___B 2734
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 1.0: s.n.___1129
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1.0: s.n.___33
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 1.0: s.n.___20
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 1.0: s.n.___431
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 1.0: s.n.___322
+https://fm-digital-assets.fieldmuseum.org/2303/680/C0268581F.jpg, gradedNoMatchValid = 0.25: B.4.___B.4
+https://fm-digital-assets.fieldmuseum.org/2303/691/C0268587F.jpg, gradedNoMatchValid = 1.0: s.n.___1379
+https://fm-digital-assets.fieldmuseum.org/2303/693/C0268588F.jpg, gradedNoMatchValid = 0.86: X. 1932___141
+https://fm-digital-assets.fieldmuseum.org/2303/695/C0268589F.jpg, gradedNoMatchValid = 1.0: s.n.___639
+https://fm-digital-assets.fieldmuseum.org/2307/538/C0341164F.jpg, gradedNoMatchValid = 0.25: 2681___2281
+https://fm-digital-assets.fieldmuseum.org/2307/619/C0341205F.jpg, gradedNoMatchValid = 1.0: 25001___s.n.
+https://fm-digital-assets.fieldmuseum.org/2307/910/C0341213F.jpg, gradedNoMatchValid = 0.67: 116___145
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 0.25: 4217___4247
+https://fm-digital-assets.fieldmuseum.org/2307/722/C0341234F.jpg, gradedNoMatchValid = 0.67: 971___917
+https://fm-digital-assets.fieldmuseum.org/2307/725/C0341238F.jpg, gradedNoMatchValid = 0.82: 10.5.10/249___s.n.
+https://fm-digital-assets.fieldmuseum.org/2307/726/C0341239F.jpg, gradedNoMatchValid = 0.82: 10.3.79(29)___s.n.
+https://fm-digital-assets.fieldmuseum.org/2307/733/C0341246F.jpg, gradedNoMatchValid = 0.5: 97___B 97
+https://fm-digital-assets.fieldmuseum.org/2307/753/C0341266F.jpg, gradedNoMatchValid = 1.0: 577___PV-1143
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.17: 5281a___5281-a
+https://fm-digital-assets.fieldmuseum.org/2310/772/C0341834F.jpg, gradedNoMatchValid = 0.17: 50.186___50186
+https://fm-digital-assets.fieldmuseum.org/2311/060/C0342159F.jpg, gradedNoMatchValid = 0.2: 4056___34056
+https://fm-digital-assets.fieldmuseum.org/2311/073/C0342165F.jpg, gradedNoMatchValid = 0.4: 34365___34635
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 1.0: s.n.___109
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 1.0: s.n.___337
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 1.0: s.n.___26
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 0.5: 9934___2993
+https://fm-digital-assets.fieldmuseum.org/2301/660/C0679841F.jpg, gradedNoMatchValid = 1.0: s.n.___11
+
+minimumEventDate: 20
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.1: 1968-05-04___1958-05-04
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.2: 1946-07-00___1946-10-00
+https://fm-digital-assets.fieldmuseum.org/2303/669/C0268575F.jpg, gradedNoMatchValid = 0.1: 1928-05-02___1925-05-02
+https://fm-digital-assets.fieldmuseum.org/2303/680/C0268581F.jpg, gradedNoMatchValid = 0.1: 1928-03-00___1925-03-00
+https://fm-digital-assets.fieldmuseum.org/2307/547/C0341169F.jpg, gradedNoMatchValid = 0.1: 1973-07-01___1973-07-04
+https://fm-digital-assets.fieldmuseum.org/2307/568/C0341179F.jpg, gradedNoMatchValid = 0.3: 1896-09-30___1908-09-30
+https://fm-digital-assets.fieldmuseum.org/2307/619/C0341205F.jpg, gradedNoMatchValid = 0.4: 1991-07-25___1979-02-23
+https://fm-digital-assets.fieldmuseum.org/2307/621/C0341207F.jpg, gradedNoMatchValid = 0.1: 1970-12-30___1973-12-30
+https://fm-digital-assets.fieldmuseum.org/2307/910/C0341213F.jpg, gradedNoMatchValid = 0.1: 1941-07-23___1944-07-23
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 0.1: 1972-12-19___1972-12-09
+https://fm-digital-assets.fieldmuseum.org/2307/724/C0341237F.jpg, gradedNoMatchValid = 0.1: 1906-07-17___1908-07-17
+https://fm-digital-assets.fieldmuseum.org/2307/725/C0341238F.jpg, gradedNoMatchValid = 0.6: 0000-00-00___1979-03-10
+https://fm-digital-assets.fieldmuseum.org/2307/753/C0341266F.jpg, gradedNoMatchValid = 0.2: 1988-03-11___1985-03-01
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.2: 1975-12-18___1975.12.18
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0.2: 1984-09-26___1984.09.26
+https://fm-digital-assets.fieldmuseum.org/2310/951/C0342106F.jpg, gradedNoMatchValid = 0.1: 1953-02-21___1953-02-11
+https://fm-digital-assets.fieldmuseum.org/2311/073/C0342165F.jpg, gradedNoMatchValid = 0.1: 1953-02-21___1953-02-11
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0: 0000-00-00___N/A
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 1.0: 1977-07-22___s.d.
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 0.1: 1938-01-29___1948-01-29
+
+collectedBy: 31
+
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.25: J. B. Berrié___R. P. Ferrié
+https://fm-digital-assets.fieldmuseum.org/2303/635/C0268558F.jpg, gradedNoMatchValid = 1: N/A___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/637/C0268559F.jpg, gradedNoMatchValid = 0.29: A. Town___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/643/C0268562F.jpg, gradedNoMatchValid = 0.29: A. Town___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/645/C0268563F.jpg, gradedNoMatchValid = 0.29: A. Town___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/661/C0268571F.jpg, gradedNoMatchValid = 0.09: A. Mayebara___K. Mayebara
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 0.18: K. Mayahara___K. Mayebara
+https://fm-digital-assets.fieldmuseum.org/2303/668/C0268574F.jpg, gradedNoMatchValid = 0.36: H. H. Cow___H. H. Chung
+https://fm-digital-assets.fieldmuseum.org/2303/680/C0268581F.jpg, gradedNoMatchValid = 0.27: H. H. Chow___H. H. Chung
+https://fm-digital-assets.fieldmuseum.org/2303/693/C0268588F.jpg, gradedNoMatchValid = 0.23: C. K. Sakurai___K. Sakurai
+https://fm-digital-assets.fieldmuseum.org/2303/695/C0268589F.jpg, gradedNoMatchValid = 0.12: K. Sato___K. Saito
+https://fm-digital-assets.fieldmuseum.org/2307/803/C0341047F.jpg, gradedNoMatchValid = 0.47: A. W. M. Brunn___W. M. A. Brooke
+https://fm-digital-assets.fieldmuseum.org/2307/804/C0341048F.jpg, gradedNoMatchValid = 0.06: W. M. A. Brookes___W. M. A. Brooke
+https://fm-digital-assets.fieldmuseum.org/2307/879/C0341117F.jpg, gradedNoMatchValid = 0.21: P.-F. Hegewald___P. Hegewald
+https://fm-digital-assets.fieldmuseum.org/2307/619/C0341205F.jpg, gradedNoMatchValid = 0.47: N. Eggers___H. F. A. Eggers
+https://fm-digital-assets.fieldmuseum.org/2307/621/C0341207F.jpg, gradedNoMatchValid = 0.25: F. P. Bowler___F. D. Bowers
+https://fm-digital-assets.fieldmuseum.org/2307/716/C0341228F.jpg, gradedNoMatchValid = 0.08: P. J. Hermann___F. J. Hermann
+https://fm-digital-assets.fieldmuseum.org/2307/725/C0341238F.jpg, gradedNoMatchValid = 0.47: N. Eggers___H. F. A. Eggers
+https://fm-digital-assets.fieldmuseum.org/2307/726/C0341239F.jpg, gradedNoMatchValid = 0.47: E. Eggers___H. F. A. Eggers
+https://fm-digital-assets.fieldmuseum.org/2307/733/C0341246F.jpg, gradedNoMatchValid = 0.29: D. Griffin___D. Griffin III
+https://fm-digital-assets.fieldmuseum.org/2307/752/C0341265F.jpg, gradedNoMatchValid = 0.11: M. Dillon___M Dillon
+https://fm-digital-assets.fieldmuseum.org/2307/753/C0341266F.jpg, gradedNoMatchValid = 0.29: D. Griffin___D. Griffin III
+https://fm-digital-assets.fieldmuseum.org/2308/209/C0341789F.jpg, gradedNoMatchValid = 0.21: P.-H. Hegewald___P. Hegewald
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.38: J. Florschütz___J. Florschütz-de Ward
+https://fm-digital-assets.fieldmuseum.org/2310/772/C0341834F.jpg, gradedNoMatchValid = 0.29: D. Griffin___D. Griffin III
+https://fm-digital-assets.fieldmuseum.org/2310/492/C0341932F.jpg, gradedNoMatchValid = 0.29: D. Griffin___D. Griffin III
+https://fm-digital-assets.fieldmuseum.org/2310/987/C0342123F.jpg, gradedNoMatchValid = 0.06: J. M. Fitzpatrick___J. W. Fitzpatrick
+https://fm-digital-assets.fieldmuseum.org/2298/760/C0399126F.jpg, gradedNoMatchValid = 0.27: R. Reitz___P. R. Reitz
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 0.36: N. Frahm___J. P. Frahm
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 0.73: M. Rambo___P. R. Reitz
+https://fm-digital-assets.fieldmuseum.org/2301/660/C0679841F.jpg, gradedNoMatchValid = 0.09: J.-P. Frahm___J. P. Frahm
+
+latestScientificName: 23
+
+https://fm-digital-assets.fieldmuseum.org/2303/691/C0268587F.jpg, gradedNoMatchValid = 0.25: Macromitrium synoicum___Macromitrium gymnostomum
+https://fm-digital-assets.fieldmuseum.org/2302/601/C0268725F.jpg, gradedNoMatchValid = 0.05: Poconatum urnigerum___Pogonatum urnigerum
+https://fm-digital-assets.fieldmuseum.org/2307/804/C0341048F.jpg, gradedNoMatchValid = 0.36: Phleobothis___Philonotis
+https://fm-digital-assets.fieldmuseum.org/2307/513/C0341152F.jpg, gradedNoMatchValid = 0.5: Braunia secunda___Braunia andrieuxii
+https://fm-digital-assets.fieldmuseum.org/2307/538/C0341164F.jpg, gradedNoMatchValid = 0.5: Braunia secunda___Braunia andrieuxii
+https://fm-digital-assets.fieldmuseum.org/2307/716/C0341228F.jpg, gradedNoMatchValid = 0.11: Braunia squarrosa___Braunia squarrulosa
+https://fm-digital-assets.fieldmuseum.org/2307/722/C0341234F.jpg, gradedNoMatchValid = 0.11: Braunia squarrosa___Braunia squarrulosa
+https://fm-digital-assets.fieldmuseum.org/2307/725/C0341238F.jpg, gradedNoMatchValid = 0.11: Braunia squarrosa___Braunia squarrulosa
+https://fm-digital-assets.fieldmuseum.org/2307/726/C0341239F.jpg, gradedNoMatchValid = 0.11: Braunia squarrosa___Braunia squarrulosa
+https://fm-digital-assets.fieldmuseum.org/2307/729/C0341242F.jpg, gradedNoMatchValid = 0.11: Braunia squarrosa___Braunia squarrulosa
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 0.07: Braunia exserta___Braunia exerta
+https://fm-digital-assets.fieldmuseum.org/2307/750/C0341263F.jpg, gradedNoMatchValid = 0.84: Hedwigidium integrifolium___Braunia rupestris
+https://fm-digital-assets.fieldmuseum.org/2307/751/C0341264F.jpg, gradedNoMatchValid = 0.84: Hedwigidium integrifolium___Braunia rupestris
+https://fm-digital-assets.fieldmuseum.org/2307/757/C0341270F.jpg, gradedNoMatchValid = 0.22: Braunia subplicata___Braunia subincana
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/207/C0341787F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/219/C0341805F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.09: Rhaecopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2310/761/C0341828F.jpg, gradedNoMatchValid = 0.21: Leucoloma lignicola___Leucomium lignicola
+https://fm-digital-assets.fieldmuseum.org/2310/772/C0341834F.jpg, gradedNoMatchValid = 0.32: Leucoloma limicola___Leucomium lignicola
+https://fm-digital-assets.fieldmuseum.org/2311/202/C0341890F.jpg, gradedNoMatchValid = 0.6: Trachyxypyhium tenue___Hooperiopsis tenue
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0.33: Weissia compacta___Weisia compacta Brid.
+
+country: 1
+
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0.83: France___Italy
+
+--------------------------------------------------
+

@@ -1,0 +1,812 @@
+
+comparison_config = {'RECORD_REF_FIELDNAME': 'accessURI', 'SKIP_LIST': ['modelname', 'Image Name', 'catalogNumber', 'Dataset Source', 'accessURI', 'Label only?', 'modifiedBy', 'verifiedBy', 'substrate', 'URL', 'Image'], 'SELECTED_FIELDS_LIST': [], 'USE_SELECTED_FIELDS_ONLY': False, 'LLM_SPREAD_SOURCES': [['gpt-4o-2024-06-11-1050-transcriptions.csv', 'gpt-4o-2024-06-11-1110-transcriptions.csv'], ['gemini-1.5-pro-2024-06-20-0153-transcriptions.csv', 'gemini-1.5-pro-2024-06-26-1108-transcriptions.csv']], 'GROUND_TRUTH_FILENAME': '100-bryophytes-typed.csv', 'RESULT_FILENAME': 'gpt-4o-gemini-1.5-pro-cross-validated_values-comparisons.csv', 'ERRORS_FILENAME': 'gpt-4o-gemini-1.5-pro-cross-validated_values-errors.txt', 'SOURCE_PATH': 'DataAnalysis/Transcriptions/', 'RESULTS_PATH': 'DataAnalysis/Comparisons/BatchComparisons/'}
+edit_distance_config = {'USE_FIELDNAMES_EXCLUSIVELY': False, 'FIELDNAMES_COSTS': {'RANDO_FIELDNAME1': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}, 'RANDO_FIELDNAME2': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}, 'DEFAULT_FIELDS_CUSTOM_COSTS': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}
+tolerances_config = {'TOLERANCES_ALLOWED': False, 'TOLS': {'RANDO_FIELDNAME1': ['double_space', 'missing_abbreviation_point'], 'verbatimCoordinates': ['misaligned_spacing', 'mismatching_abbreviation', 'missing_commas'], 'ENABLE_EDIT_DISTANCE_THRESHOLD': False, 'EDIT_DISTANCE_THRESHOLDS': {'RANDO_FIELDNAME1': {'SCALED': False, 'VALUE': 2.5}, 'RANDO_FIELDNAME2': {'SCALED': True, 'VALUE': 0.1}, 'DEFAULT': {'SCALED': True, 'VALUE': 0.0}}}}
+
+
+spreadsource = 'gpt-4o-2024-06-11-1050-gemini-1.5-pro-2024-06-20-0153-cross-validated_values-transcriptions.csv'
+
+verbatimCollectors: 9
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.29: leg. M. Fleischer___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.54: Coll. & det. T. Nakajima___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0.33: leg. S. Hattori___S. Hattori
+https://fm-digital-assets.fieldmuseum.org/2307/726/C0341239F.jpg, gradedNoMatchValid = 0.72: LEG.EGGERS & FRAHM___Eggers & Frahm
+https://fm-digital-assets.fieldmuseum.org/2308/102/C0341698F.jpg, gradedNoMatchValid = 0.08: S.R. Gradstein & M. Lewis___S.R.Gradstein & M.Lewis
+https://fm-digital-assets.fieldmuseum.org/2311/048/C0342153F.jpg, gradedNoMatchValid = 0.05: S.P. Churchill et al.___S.P. Churcill et al.
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 0.43: Coll. H. Inoue___H. Inoue
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 0.5: leg. Frahm___Frahm
+https://fm-digital-assets.fieldmuseum.org/2301/652/C0679833F.jpg, gradedNoMatchValid = 0.25: leg. Schäfer-Verwimp___Schäfer-Verwimp
+
+verbatimLocality: 3
+
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.67: bei Brisbane___Australien: Queensland, bei Brisbane
+https://fm-digital-assets.fieldmuseum.org/2307/797/C0341038F.jpg, gradedNoMatchValid = 0.4: Along road 1 mi. from Sorata towards Achacachi___Depto. La Paz, Prov. Larecaja: Along road 1 mi. from Sorata towards Achacachi
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.79: Fazenda de F. Lopez. Cut over woods. On rotting log.___Viçosa. Fazenda de F. Lopez
+
+verbatimDateIdentified: 7
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 1: N/A___May 4, 1958
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0: Ser. I (1947)___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/513/C0341152F.jpg, gradedNoMatchValid = 1: N/A___1992
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 1: N/A___1992
+https://fm-digital-assets.fieldmuseum.org/2307/750/C0341263F.jpg, gradedNoMatchValid = 0.56: Nov. 1991___1991
+https://fm-digital-assets.fieldmuseum.org/2307/751/C0341264F.jpg, gradedNoMatchValid = 0.56: Nov. 1991___1991
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___1948
+
+associatedTaxa: 2
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0: Fagus crenata___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 0: Pinus thunbergii___N/A
+
+recordNumber: 8
+
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 1.0: s.n.___1129
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1.0: s.n.___33
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 1.0: s.n.___20
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 1.0: s.n.___431
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 1.0: s.n.___322
+https://fm-digital-assets.fieldmuseum.org/2303/680/C0268581F.jpg, gradedNoMatchValid = 0.25: B.4.___B.4
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 1.0: s.n.___337
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 1.0: s.n.___26
+
+municipality: 10
+
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.31: Shirahama-chō___Shirahama
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 0: Yoshio___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 1: N/A___Pueblo Nuevo
+https://fm-digital-assets.fieldmuseum.org/2308/191/C0341739F.jpg, gradedNoMatchValid = 0: Coroico___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 1: N/A___Villavicencio
+https://fm-digital-assets.fieldmuseum.org/2308/218/C0341804F.jpg, gradedNoMatchValid = 0: Coroico___N/A
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0: Athis___N/A
+https://fm-digital-assets.fieldmuseum.org/2298/760/C0399126F.jpg, gradedNoMatchValid = 1: N/A___Bom Retiro
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___Itajaí
+https://fm-digital-assets.fieldmuseum.org/2301/652/C0679833F.jpg, gradedNoMatchValid = 1: N/A___Atibaia
+
+habitat: 18
+
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0: ad arborum truncos___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/629/C0268554F.jpg, gradedNoMatchValid = 1: N/A___Garden
+https://fm-digital-assets.fieldmuseum.org/2303/639/C0268560F.jpg, gradedNoMatchValid = 1: N/A___Summit of ridge
+https://fm-digital-assets.fieldmuseum.org/2303/676/C0268579F.jpg, gradedNoMatchValid = 0.35: Rather open montane forest with dominating Pandanus trees___Open montane forest with pandanus trees
+https://fm-digital-assets.fieldmuseum.org/2307/796/C0341037F.jpg, gradedNoMatchValid = 0.04: Super humid Ceja de Montaña forests following ravines In small rill in dripping area of small waterfall___Super humid Ceja de Montaña forests following raviens, in small rill in dripping area of small waterfall
+https://fm-digital-assets.fieldmuseum.org/2307/879/C0341117F.jpg, gradedNoMatchValid = 0: Fels, Erde, Mauer, Baum, Strauch, Holz, See, Bach___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/724/C0341237F.jpg, gradedNoMatchValid = 1: N/A___Base of trees
+https://fm-digital-assets.fieldmuseum.org/2307/740/C0341253F.jpg, gradedNoMatchValid = 0.17: In ravine with waterfall___Ravine with waterfall
+https://fm-digital-assets.fieldmuseum.org/2307/741/C0341254F.jpg, gradedNoMatchValid = 0.36: Arid woodland and cliff area, many cacti present. At base of cliffs near river amongst a boulder pile in a deep canyon. Small trees, tree cacti and shrubs in shady, protected area.___Arid woodland and cliff area, many cacti present; at base of cliffs near river amongst a boulder pile in a deep canyon
+https://fm-digital-assets.fieldmuseum.org/2307/742/C0341255F.jpg, gradedNoMatchValid = 0: Abundant on exposed rock face___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/752/C0341265F.jpg, gradedNoMatchValid = 0: Growing on branches___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/755/C0341268F.jpg, gradedNoMatchValid = 0.41: On rocks in dry deciduous forest___Dry deciduous forest
+https://fm-digital-assets.fieldmuseum.org/2308/191/C0341739F.jpg, gradedNoMatchValid = 0.23: Fruit and coffee plantations. On rocks in shady fruit orchard.___Fruit and coffee plantations, shady fruit orchard
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.8: on rock in wood___Wood
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.81: On rock in woods___Wood
+https://fm-digital-assets.fieldmuseum.org/2311/202/C0341890F.jpg, gradedNoMatchValid = 0.15: In secondary montane forest___Secondary montane forest
+https://fm-digital-assets.fieldmuseum.org/2311/071/C0342164F.jpg, gradedNoMatchValid = 0.2: In Weinmannia forest___Weinmania forest
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___Rupestre
+
+verbatimElevation: 15
+
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.11: ca 500 m___ca. 500 m
+https://fm-digital-assets.fieldmuseum.org/2303/643/C0268562F.jpg, gradedNoMatchValid = 0.1: c. 3450 m.___c. 3450 m
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 0.07: 60 m. above sea___60 m above sea
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 0.43: ca. 100m. alt.___ca. 100m
+https://fm-digital-assets.fieldmuseum.org/2307/796/C0341037F.jpg, gradedNoMatchValid = 0.1: ca 3550 m___ca. 3550 m
+https://fm-digital-assets.fieldmuseum.org/2307/797/C0341038F.jpg, gradedNoMatchValid = 0.14: 2740 m.___2740 m
+https://fm-digital-assets.fieldmuseum.org/2307/513/C0341152F.jpg, gradedNoMatchValid = 0.35: Alt. ca. 6300 ft.___ca. 6300 ft
+https://fm-digital-assets.fieldmuseum.org/2307/538/C0341164F.jpg, gradedNoMatchValid = 0.14: 1625 m___±1625 m
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0.5: alt. 600 m___600 m
+https://fm-digital-assets.fieldmuseum.org/2308/219/C0341805F.jpg, gradedNoMatchValid = 0.5: Alt. 1950 m.___1950 m
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.5: Alt. 1100 m.___1100 m
+https://fm-digital-assets.fieldmuseum.org/2310/951/C0342106F.jpg, gradedNoMatchValid = 0.32: elev. 1250 - 1200 m___1250 - 1200 m
+https://fm-digital-assets.fieldmuseum.org/2310/953/C0342107F.jpg, gradedNoMatchValid = 0.53: ca. 450 m at summit___ca. 450 m
+https://fm-digital-assets.fieldmuseum.org/2311/060/C0342159F.jpg, gradedNoMatchValid = 0.39: elev. 1200-1250 m.___1200-1250 m
+https://fm-digital-assets.fieldmuseum.org/2311/073/C0342165F.jpg, gradedNoMatchValid = 0.32: elev. 1250 - 1200 m___1250 - 1200 m
+
+identifiedBy: 12
+
+https://fm-digital-assets.fieldmuseum.org/2303/669/C0268575F.jpg, gradedNoMatchValid = 0.54: Theriot___E. C. Thériot
+https://fm-digital-assets.fieldmuseum.org/2303/693/C0268588F.jpg, gradedNoMatchValid = 1: N/A___K. Sakurai
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 0.8: F. Bowers___E. De Luna
+https://fm-digital-assets.fieldmuseum.org/2307/719/C0341231F.jpg, gradedNoMatchValid = 0.73: A. J. Sharp___E. De Luna
+https://fm-digital-assets.fieldmuseum.org/2307/752/C0341265F.jpg, gradedNoMatchValid = 0.19: Dana Griffin III___D. Griffin III
+https://fm-digital-assets.fieldmuseum.org/2307/757/C0341270F.jpg, gradedNoMatchValid = 0.36: Efrain De Luna___E. De Luna
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.1: P. A. Florschütz | J. Florschütz-de Waard___P. A. Florschütz and J. Florschütz-de Ward
+https://fm-digital-assets.fieldmuseum.org/2308/219/C0341805F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___E. B. Bartram
+
+verbatimEventDate: 7
+
+https://fm-digital-assets.fieldmuseum.org/2303/691/C0268587F.jpg, gradedNoMatchValid = 0.08: Jan. 23, 1975___Jan. 23,1975
+https://fm-digital-assets.fieldmuseum.org/2307/803/C0341047F.jpg, gradedNoMatchValid = 0.08: 13 Oct. 1950___13 Oct.1950
+https://fm-digital-assets.fieldmuseum.org/2307/804/C0341048F.jpg, gradedNoMatchValid = 0.08: 13 Oct. 1950___13 Oct.1950
+https://fm-digital-assets.fieldmuseum.org/2307/910/C0341213F.jpg, gradedNoMatchValid = 0.08: July 23, 1941___July 23, 1944
+https://fm-digital-assets.fieldmuseum.org/2307/726/C0341239F.jpg, gradedNoMatchValid = 0.36: 10.3.79(29)___10.3.79
+https://fm-digital-assets.fieldmuseum.org/2310/772/C0341834F.jpg, gradedNoMatchValid = 0.06: Julio-Agosto 1977___Júlio-Agosto 1977
+https://fm-digital-assets.fieldmuseum.org/2310/492/C0341932F.jpg, gradedNoMatchValid = 0.07: Julio 3-4, 1977___Júlio 3-4, 1977
+
+secondPoliticalUnit: 3
+
+https://fm-digital-assets.fieldmuseum.org/2303/693/C0268588F.jpg, gradedNoMatchValid = 0: Musashi___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0: Villavicencio___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.9: Churubamba___Huanuco
+
+firstPoliticalUnit: 6
+
+https://fm-digital-assets.fieldmuseum.org/2302/601/C0268725F.jpg, gradedNoMatchValid = 0: Azores___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/619/C0341205F.jpg, gradedNoMatchValid = 0.22: Veracruz___Vera Cruz
+https://fm-digital-assets.fieldmuseum.org/2308/207/C0341787F.jpg, gradedNoMatchValid = 0: Galapagos Islands___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0.25: Meta___Mata
+https://fm-digital-assets.fieldmuseum.org/2311/060/C0342159F.jpg, gradedNoMatchValid = 0.5: Estado Bolívar___Bolívar
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 0.11: Sao Paulo___São Paulo
+
+latestScientificName: 11
+
+https://fm-digital-assets.fieldmuseum.org/2307/513/C0341152F.jpg, gradedNoMatchValid = 0.5: Braunia secunda___Braunia andrieuxii
+https://fm-digital-assets.fieldmuseum.org/2307/538/C0341164F.jpg, gradedNoMatchValid = 0.5: Braunia secunda___Braunia andrieuxii
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 0.07: Braunia exserta___Braunia exerta
+https://fm-digital-assets.fieldmuseum.org/2307/750/C0341263F.jpg, gradedNoMatchValid = 0.84: Hedwigidium integrifolium___Braunia rupestris
+https://fm-digital-assets.fieldmuseum.org/2307/751/C0341264F.jpg, gradedNoMatchValid = 0.84: Hedwigidium integrifolium___Braunia rupestris
+https://fm-digital-assets.fieldmuseum.org/2307/757/C0341270F.jpg, gradedNoMatchValid = 0.22: Braunia subplicata___Braunia subincana
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/207/C0341787F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/219/C0341805F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0.33: Weissia compacta___Weisia compacta Brid.
+
+locality: 4
+
+https://fm-digital-assets.fieldmuseum.org/2307/568/C0341179F.jpg, gradedNoMatchValid = 0.4: On rocks near Guadalajara___Near Guadalajara
+https://fm-digital-assets.fieldmuseum.org/2307/742/C0341255F.jpg, gradedNoMatchValid = 0.02: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.71: Hacienda Exito; bank of Rio Ysabel; on rock in wood___Distrito Churubamba, Hacienda Exito, bank of Rio Ysabel
+https://fm-digital-assets.fieldmuseum.org/2311/202/C0341890F.jpg, gradedNoMatchValid = 0.05: Cerro San Miguel South of San Miguel___Cerro San Miguel, south of San Miguel
+
+minimumEventDate: 5
+
+https://fm-digital-assets.fieldmuseum.org/2307/910/C0341213F.jpg, gradedNoMatchValid = 0.1: 1941-07-23___1944-07-23
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 0.1: 1972-12-19___1972-12-09
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.2: 1975-12-18___1975.12.18
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0.2: 1984-09-26___1984.09.26
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 1.0: 1977-07-22___s.d.
+
+collectedBy: 3
+
+https://fm-digital-assets.fieldmuseum.org/2307/726/C0341239F.jpg, gradedNoMatchValid = 0.47: E. Eggers___H. F. A. Eggers
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.38: J. Florschütz___J. Florschütz-de Ward
+https://fm-digital-assets.fieldmuseum.org/2310/492/C0341932F.jpg, gradedNoMatchValid = 0.29: D. Griffin___D. Griffin III
+
+verbatimIdentification: 4
+
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 0.04: Braunia exserta C. Müller___Braunia exerta C. Müller
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.03: Racopilum tomentosum (Hedw.) Brid.___Racopilum tomentosum (Hedw.)Brid.
+https://fm-digital-assets.fieldmuseum.org/2310/974/C0342117F.jpg, gradedNoMatchValid = 0.05: Hypnella pilifera (Hook. & Wils.) Jaeg.___Hypnella pilifera (Hook. et Wils.) Jaeg.
+https://fm-digital-assets.fieldmuseum.org/2310/987/C0342123F.jpg, gradedNoMatchValid = 0.05: Hypnella pilifera (Hook. & Wils.) Jaeg.___Hypnella pilifera (Hook. et Wils.) Jaeg.
+
+originalMethod: 3
+
+https://fm-digital-assets.fieldmuseum.org/2307/740/C0341253F.jpg, gradedNoMatchValid = 0.82: Mix of Handwritten and Typed___Typed
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0.82: Mix of Handwritten and Typed___Typed
+https://fm-digital-assets.fieldmuseum.org/2301/652/C0679833F.jpg, gradedNoMatchValid = 0.82: Mix of Handwritten and Typed___Typed
+
+secondaryCollectors: 2
+
+https://fm-digital-assets.fieldmuseum.org/2307/753/C0341266F.jpg, gradedNoMatchValid = 1: N/A___J. Dugarte
+https://fm-digital-assets.fieldmuseum.org/2311/048/C0342153F.jpg, gradedNoMatchValid = 1: N/A___et al.
+
+verbatimCoordinates: 3
+
+https://fm-digital-assets.fieldmuseum.org/2308/191/C0341739F.jpg, gradedNoMatchValid = 0.12: 16°11'S, 67°43'W___16°11'S 67°43'E
+https://fm-digital-assets.fieldmuseum.org/2308/218/C0341804F.jpg, gradedNoMatchValid = 0.12: 16°11'S, 67°43'W___16°11'S 67°43'E
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 1: N/A___about 10 m
+
+country: 1
+
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0.83: France___Italy
+
+--------------------------------------------------
+
+
+comparison_config = {'RECORD_REF_FIELDNAME': 'accessURI', 'SKIP_LIST': ['modelname', 'Image Name', 'catalogNumber', 'Dataset Source', 'accessURI', 'Label only?', 'modifiedBy', 'verifiedBy', 'substrate', 'URL', 'Image'], 'SELECTED_FIELDS_LIST': [], 'USE_SELECTED_FIELDS_ONLY': False, 'LLM_SPREAD_SOURCES': [['gpt-4o-2024-06-11-1050-transcriptions.csv', 'gpt-4o-2024-06-11-1110-transcriptions.csv'], ['gemini-1.5-pro-2024-06-20-0153-transcriptions.csv', 'gemini-1.5-pro-2024-06-26-1108-transcriptions.csv']], 'GROUND_TRUTH_FILENAME': '100-bryophytes-typed.csv', 'RESULT_FILENAME': 'gpt-4o-gemini-1.5-pro-cross-validated_values-comparisons.csv', 'ERRORS_FILENAME': 'gpt-4o-gemini-1.5-pro-cross-validated_values-errors.txt', 'SOURCE_PATH': 'DataAnalysis/Transcriptions/', 'RESULTS_PATH': 'DataAnalysis/Comparisons/BatchComparisons/'}
+edit_distance_config = {'USE_FIELDNAMES_EXCLUSIVELY': False, 'FIELDNAMES_COSTS': {'RANDO_FIELDNAME1': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}, 'RANDO_FIELDNAME2': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}, 'DEFAULT_FIELDS_CUSTOM_COSTS': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}
+tolerances_config = {'TOLERANCES_ALLOWED': False, 'TOLS': {'RANDO_FIELDNAME1': ['double_space', 'missing_abbreviation_point'], 'verbatimCoordinates': ['misaligned_spacing', 'mismatching_abbreviation', 'missing_commas'], 'ENABLE_EDIT_DISTANCE_THRESHOLD': False, 'EDIT_DISTANCE_THRESHOLDS': {'RANDO_FIELDNAME1': {'SCALED': False, 'VALUE': 2.5}, 'RANDO_FIELDNAME2': {'SCALED': True, 'VALUE': 0.1}, 'DEFAULT': {'SCALED': True, 'VALUE': 0.0}}}}
+
+
+spreadsource = 'gpt-4o-2024-06-11-1050-gemini-1.5-pro-2024-06-26-1108-cross-validated_values-transcriptions.csv'
+
+verbatimLocality: 1
+
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.67: bei Brisbane___Australien: Queensland, bei Brisbane
+
+verbatimCollectors: 6
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.54: Coll. & det. T. Nakajima___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0.33: leg. S. Hattori___S. Hattori
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.19: Leg. J. & P. A. Florschütz___J. & P. A. Florschütz
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 0.43: Coll. H. Inoue___H. Inoue
+https://fm-digital-assets.fieldmuseum.org/2298/760/C0399126F.jpg, gradedNoMatchValid = 0.27: R. Reitz___P. R. Reitz
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 0.5: leg. Frahm___Frahm
+
+verbatimDateIdentified: 6
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 1: N/A___May 4, 1958
+https://fm-digital-assets.fieldmuseum.org/2307/513/C0341152F.jpg, gradedNoMatchValid = 1: N/A___1992
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 1: N/A___1992
+https://fm-digital-assets.fieldmuseum.org/2307/733/C0341246F.jpg, gradedNoMatchValid = 1: N/A___1992
+https://fm-digital-assets.fieldmuseum.org/2307/750/C0341263F.jpg, gradedNoMatchValid = 0.56: Nov. 1991___1991
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___1948
+
+associatedTaxa: 2
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0: Fagus crenata___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 0: Pinus thunbergii___N/A
+
+recordNumber: 8
+
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 1.0: s.n.___1129
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1.0: s.n.___33
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 1.0: s.n.___20
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 1.0: s.n.___322
+https://fm-digital-assets.fieldmuseum.org/2303/680/C0268581F.jpg, gradedNoMatchValid = 0.25: B.4.___B.4
+https://fm-digital-assets.fieldmuseum.org/2303/691/C0268587F.jpg, gradedNoMatchValid = 1.0: s.n.___1379
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 1.0: s.n.___337
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 1.0: s.n.___26
+
+habitat: 21
+
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0: ad arborum truncos___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/629/C0268554F.jpg, gradedNoMatchValid = 1: N/A___Garden
+https://fm-digital-assets.fieldmuseum.org/2303/641/C0268561F.jpg, gradedNoMatchValid = 0.4: Forest remnant in deep chasm near the summit on soaking wet bark of trees___Forest remnant in deep chasm near the summit
+https://fm-digital-assets.fieldmuseum.org/2303/645/C0268563F.jpg, gradedNoMatchValid = 0.83: Pendulous from heavy tree branches and slanting trunks___Upper montane forest
+https://fm-digital-assets.fieldmuseum.org/2303/676/C0268579F.jpg, gradedNoMatchValid = 0.35: Rather open montane forest with dominating Pandanus trees___Open montane forest with pandanus trees
+https://fm-digital-assets.fieldmuseum.org/2303/693/C0268588F.jpg, gradedNoMatchValid = 1: N/A___Mountain slope
+https://fm-digital-assets.fieldmuseum.org/2307/879/C0341117F.jpg, gradedNoMatchValid = 0: Fels, Erde, Mauer, Baum, Strauch, Holz, See, Bach___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/719/C0341231F.jpg, gradedNoMatchValid = 0.67: Dry, full shade, oak branch. Oak-pine woods___Oak-pine woods
+https://fm-digital-assets.fieldmuseum.org/2307/724/C0341237F.jpg, gradedNoMatchValid = 1: N/A___Base of trees
+https://fm-digital-assets.fieldmuseum.org/2307/729/C0341242F.jpg, gradedNoMatchValid = 0.53: On oak trunk in oak-pine woods___Oak-pine woods
+https://fm-digital-assets.fieldmuseum.org/2307/740/C0341253F.jpg, gradedNoMatchValid = 0.17: In ravine with waterfall___Ravine with waterfall
+https://fm-digital-assets.fieldmuseum.org/2307/742/C0341255F.jpg, gradedNoMatchValid = 0: Abundant on exposed rock face___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/751/C0341264F.jpg, gradedNoMatchValid = 0.04: Dirt bank in Kheñwa forest___Dirt ban in Kheñwa forest
+https://fm-digital-assets.fieldmuseum.org/2307/755/C0341268F.jpg, gradedNoMatchValid = 0.41: On rocks in dry deciduous forest___Dry deciduous forest
+https://fm-digital-assets.fieldmuseum.org/2308/191/C0341739F.jpg, gradedNoMatchValid = 0.23: Fruit and coffee plantations. On rocks in shady fruit orchard.___Fruit and coffee plantations, shady fruit orchard
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.8: on rock in wood___Wood
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.81: On rock in woods___Wood
+https://fm-digital-assets.fieldmuseum.org/2310/953/C0342107F.jpg, gradedNoMatchValid = 0: On branches at summit___N/A
+https://fm-digital-assets.fieldmuseum.org/2310/974/C0342117F.jpg, gradedNoMatchValid = 0.2: In Weinmannia forest___Weinmania forest
+https://fm-digital-assets.fieldmuseum.org/2311/071/C0342164F.jpg, gradedNoMatchValid = 0.2: In Weinmannia forest___Weinmania forest
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___Rupestre
+
+verbatimElevation: 9
+
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.11: ca 500 m___ca. 500 m
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 0.43: ca. 100m. alt.___ca. 100m
+https://fm-digital-assets.fieldmuseum.org/2307/803/C0341047F.jpg, gradedNoMatchValid = 0.11: 10000 ft.___10000 ft
+https://fm-digital-assets.fieldmuseum.org/2307/513/C0341152F.jpg, gradedNoMatchValid = 0.35: Alt. ca. 6300 ft.___ca. 6300 ft
+https://fm-digital-assets.fieldmuseum.org/2307/538/C0341164F.jpg, gradedNoMatchValid = 0.14: 1625 m___±1625 m
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.55: Alt. 720 m.___720 m
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0.5: alt. 600 m___600 m
+https://fm-digital-assets.fieldmuseum.org/2308/219/C0341805F.jpg, gradedNoMatchValid = 0.5: Alt. 1950 m.___1950 m
+https://fm-digital-assets.fieldmuseum.org/2310/953/C0342107F.jpg, gradedNoMatchValid = 0.53: ca. 450 m at summit___ca. 450 m
+
+identifiedBy: 10
+
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.46: Thériot___E. C. Thériot
+https://fm-digital-assets.fieldmuseum.org/2303/669/C0268575F.jpg, gradedNoMatchValid = 0.54: Theriot___E. C. Thériot
+https://fm-digital-assets.fieldmuseum.org/2303/693/C0268588F.jpg, gradedNoMatchValid = 1: N/A___K. Sakurai
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 0.8: F. Bowers___E. De Luna
+https://fm-digital-assets.fieldmuseum.org/2307/752/C0341265F.jpg, gradedNoMatchValid = 0.19: Dana Griffin III___D. Griffin III
+https://fm-digital-assets.fieldmuseum.org/2307/757/C0341270F.jpg, gradedNoMatchValid = 0.36: Efrain De Luna___E. De Luna
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2308/219/C0341805F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___E. B. Bartram
+
+locality: 6
+
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.56: Yaku-Sima___Yakushima Island
+https://fm-digital-assets.fieldmuseum.org/2307/879/C0341117F.jpg, gradedNoMatchValid = 0.19: Las Palmas between Balsas and Leimebamba___Las Palmas, zwischen Balsas und Leimebamba
+https://fm-digital-assets.fieldmuseum.org/2307/568/C0341179F.jpg, gradedNoMatchValid = 0.4: On rocks near Guadalajara___Near Guadalajara
+https://fm-digital-assets.fieldmuseum.org/2307/719/C0341231F.jpg, gradedNoMatchValid = 0.02: Roadside near San Pablo Ayutla about 70 kilometers east of Oaxaca___Roadside near San Pablo Ayutla, about 70 kilometers east of Oaxaca
+https://fm-digital-assets.fieldmuseum.org/2307/742/C0341255F.jpg, gradedNoMatchValid = 0.02: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.71: Hacienda Exito; bank of Rio Ysabel; on rock in wood___Distrito Churubamba, Hacienda Exito, bank of Rio Ysabel
+
+municipality: 10
+
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 0: Yoshio___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/661/C0268571F.jpg, gradedNoMatchValid = 0: Koonose___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 1: N/A___Pueblo Nuevo
+https://fm-digital-assets.fieldmuseum.org/2307/719/C0341231F.jpg, gradedNoMatchValid = 0: San Pablo Ayutla___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/191/C0341739F.jpg, gradedNoMatchValid = 0: Coroico___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 1: N/A___Villavicencio
+https://fm-digital-assets.fieldmuseum.org/2308/218/C0341804F.jpg, gradedNoMatchValid = 0: Coroico___N/A
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0: Athis___N/A
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___Itajaí
+https://fm-digital-assets.fieldmuseum.org/2301/652/C0679833F.jpg, gradedNoMatchValid = 1: N/A___Atibaia
+
+verbatimEventDate: 6
+
+https://fm-digital-assets.fieldmuseum.org/2303/693/C0268588F.jpg, gradedNoMatchValid = 0.14: X. 1932___X.1932
+https://fm-digital-assets.fieldmuseum.org/2307/803/C0341047F.jpg, gradedNoMatchValid = 0.08: 13 Oct. 1950___13 Oct.1950
+https://fm-digital-assets.fieldmuseum.org/2307/804/C0341048F.jpg, gradedNoMatchValid = 0.08: 13 Oct. 1950___13 Oct.1950
+https://fm-digital-assets.fieldmuseum.org/2307/910/C0341213F.jpg, gradedNoMatchValid = 0.08: July 23, 1941___July 23, 1944
+https://fm-digital-assets.fieldmuseum.org/2310/772/C0341834F.jpg, gradedNoMatchValid = 0.06: Julio-Agosto 1977___Júlio-Agosto 1977
+https://fm-digital-assets.fieldmuseum.org/2310/492/C0341932F.jpg, gradedNoMatchValid = 0.07: Julio 3-4, 1977___Júlio 3-4, 1977
+
+firstPoliticalUnit: 6
+
+https://fm-digital-assets.fieldmuseum.org/2303/693/C0268588F.jpg, gradedNoMatchValid = 0.71: Honshu___Musashi
+https://fm-digital-assets.fieldmuseum.org/2302/601/C0268725F.jpg, gradedNoMatchValid = 0: Azores___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/619/C0341205F.jpg, gradedNoMatchValid = 0.22: Veracruz___Vera Cruz
+https://fm-digital-assets.fieldmuseum.org/2308/207/C0341787F.jpg, gradedNoMatchValid = 0: Galapagos Islands___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0.25: Meta___Mata
+https://fm-digital-assets.fieldmuseum.org/2311/060/C0342159F.jpg, gradedNoMatchValid = 0.5: Estado Bolívar___Bolívar
+
+secondPoliticalUnit: 3
+
+https://fm-digital-assets.fieldmuseum.org/2303/693/C0268588F.jpg, gradedNoMatchValid = 0: Musashi___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0: Villavicencio___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.9: Churubamba___Huanuco
+
+verbatimIdentification: 7
+
+https://fm-digital-assets.fieldmuseum.org/2307/879/C0341117F.jpg, gradedNoMatchValid = 0.03: Philonotis sphaerocarpa (Hedw.) Brid.___Philonotis sphaerrocarpa (Hedw.) Brid.
+https://fm-digital-assets.fieldmuseum.org/2307/910/C0341213F.jpg, gradedNoMatchValid = 0.33: Braunia secunda (Hook.) Bruch & Schimp.___Braunia secunda (Hook.) BSG
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 0.04: Braunia exserta C. Müller___Braunia exerta C. Müller
+https://fm-digital-assets.fieldmuseum.org/2308/207/C0341787F.jpg, gradedNoMatchValid = 0.03: Rhacopilum tomentosum (Hedw.) Brid.___Rhacopilum tomentosum (Hedw.)Brid.
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.03: Racopilum tomentosum (Hedw.) Brid.___Racopilum tomentosum (Hedw.)Brid.
+https://fm-digital-assets.fieldmuseum.org/2310/974/C0342117F.jpg, gradedNoMatchValid = 0.05: Hypnella pilifera (Hook. & Wils.) Jaeg.___Hypnella pilifera (Hook. et Wils.) Jaeg.
+https://fm-digital-assets.fieldmuseum.org/2310/987/C0342123F.jpg, gradedNoMatchValid = 0.05: Hypnella pilifera (Hook. & Wils.) Jaeg.___Hypnella pilifera (Hook. et Wils.) Jaeg.
+
+latestScientificName: 11
+
+https://fm-digital-assets.fieldmuseum.org/2307/513/C0341152F.jpg, gradedNoMatchValid = 0.5: Braunia secunda___Braunia andrieuxii
+https://fm-digital-assets.fieldmuseum.org/2307/538/C0341164F.jpg, gradedNoMatchValid = 0.5: Braunia secunda___Braunia andrieuxii
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 0.07: Braunia exserta___Braunia exerta
+https://fm-digital-assets.fieldmuseum.org/2307/750/C0341263F.jpg, gradedNoMatchValid = 0.84: Hedwigidium integrifolium___Braunia rupestris
+https://fm-digital-assets.fieldmuseum.org/2307/751/C0341264F.jpg, gradedNoMatchValid = 0.84: Hedwigidium integrifolium___Braunia rupestris
+https://fm-digital-assets.fieldmuseum.org/2307/757/C0341270F.jpg, gradedNoMatchValid = 0.22: Braunia subplicata___Braunia subincana
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/207/C0341787F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/219/C0341805F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0.33: Weissia compacta___Weisia compacta Brid.
+
+minimumEventDate: 5
+
+https://fm-digital-assets.fieldmuseum.org/2307/910/C0341213F.jpg, gradedNoMatchValid = 0.1: 1941-07-23___1944-07-23
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 0.1: 1972-12-19___1972-12-09
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.2: 1975-12-18___1975.12.18
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0.2: 1984-09-26___1984.09.26
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 1.0: 1977-07-22___s.d.
+
+collectedBy: 1
+
+https://fm-digital-assets.fieldmuseum.org/2307/726/C0341239F.jpg, gradedNoMatchValid = 0.47: E. Eggers___H. F. A. Eggers
+
+originalMethod: 2
+
+https://fm-digital-assets.fieldmuseum.org/2307/726/C0341239F.jpg, gradedNoMatchValid = 0.82: Mix of Handwritten and Typed___Typed
+https://fm-digital-assets.fieldmuseum.org/2307/740/C0341253F.jpg, gradedNoMatchValid = 0.82: Mix of Handwritten and Typed___Typed
+
+secondaryCollectors: 2
+
+https://fm-digital-assets.fieldmuseum.org/2307/753/C0341266F.jpg, gradedNoMatchValid = 1: N/A___J. Dugarte
+https://fm-digital-assets.fieldmuseum.org/2311/048/C0342153F.jpg, gradedNoMatchValid = 1: N/A___et al.
+
+verbatimCoordinates: 3
+
+https://fm-digital-assets.fieldmuseum.org/2308/191/C0341739F.jpg, gradedNoMatchValid = 0.12: 16°11'S, 67°43'W___16°11'S 67°43'E
+https://fm-digital-assets.fieldmuseum.org/2308/218/C0341804F.jpg, gradedNoMatchValid = 0.12: 16°11'S, 67°43'W___16°11'S 67°43'E
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 1: N/A___about 10 m
+
+country: 1
+
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0.83: France___Italy
+
+--------------------------------------------------
+
+
+comparison_config = {'RECORD_REF_FIELDNAME': 'accessURI', 'SKIP_LIST': ['modelname', 'Image Name', 'catalogNumber', 'Dataset Source', 'accessURI', 'Label only?', 'modifiedBy', 'verifiedBy', 'substrate', 'URL', 'Image'], 'SELECTED_FIELDS_LIST': [], 'USE_SELECTED_FIELDS_ONLY': False, 'LLM_SPREAD_SOURCES': [['gpt-4o-2024-06-11-1050-transcriptions.csv', 'gpt-4o-2024-06-11-1110-transcriptions.csv'], ['gemini-1.5-pro-2024-06-20-0153-transcriptions.csv', 'gemini-1.5-pro-2024-06-26-1108-transcriptions.csv']], 'GROUND_TRUTH_FILENAME': '100-bryophytes-typed.csv', 'RESULT_FILENAME': 'gpt-4o-gemini-1.5-pro-cross-validated_values-comparisons.csv', 'ERRORS_FILENAME': 'gpt-4o-gemini-1.5-pro-cross-validated_values-errors.txt', 'SOURCE_PATH': 'DataAnalysis/Transcriptions/', 'RESULTS_PATH': 'DataAnalysis/Comparisons/BatchComparisons/'}
+edit_distance_config = {'USE_FIELDNAMES_EXCLUSIVELY': False, 'FIELDNAMES_COSTS': {'RANDO_FIELDNAME1': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}, 'RANDO_FIELDNAME2': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}, 'DEFAULT_FIELDS_CUSTOM_COSTS': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}
+tolerances_config = {'TOLERANCES_ALLOWED': False, 'TOLS': {'RANDO_FIELDNAME1': ['double_space', 'missing_abbreviation_point'], 'verbatimCoordinates': ['misaligned_spacing', 'mismatching_abbreviation', 'missing_commas'], 'ENABLE_EDIT_DISTANCE_THRESHOLD': False, 'EDIT_DISTANCE_THRESHOLDS': {'RANDO_FIELDNAME1': {'SCALED': False, 'VALUE': 2.5}, 'RANDO_FIELDNAME2': {'SCALED': True, 'VALUE': 0.1}, 'DEFAULT': {'SCALED': True, 'VALUE': 0.0}}}}
+
+
+spreadsource = 'gpt-4o-2024-06-11-1110-gemini-1.5-pro-2024-06-20-0153-cross-validated_values-transcriptions.csv'
+
+verbatimCollectors: 10
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.29: leg. M. Fleischer___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.54: Coll. & det. T. Nakajima___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0.33: leg. S. Hattori___S. Hattori
+https://fm-digital-assets.fieldmuseum.org/2307/726/C0341239F.jpg, gradedNoMatchValid = 0.72: LEG.EGGERS & FRAHM___Eggers & Frahm
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 1.0: Burnet O'Connor___S. Churchill
+https://fm-digital-assets.fieldmuseum.org/2311/048/C0342153F.jpg, gradedNoMatchValid = 0.05: S.P. Churchill et al.___S.P. Churcill et al.
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 0.43: Coll. H. Inoue___H. Inoue
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 0.5: leg. Frahm___Frahm
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___P. R. Reitz
+https://fm-digital-assets.fieldmuseum.org/2301/652/C0679833F.jpg, gradedNoMatchValid = 0.25: leg. Schäfer-Verwimp___Schäfer-Verwimp
+
+verbatimLocality: 3
+
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.67: bei Brisbane___Australien: Queensland, bei Brisbane
+https://fm-digital-assets.fieldmuseum.org/2307/797/C0341038F.jpg, gradedNoMatchValid = 0.4: Along road 1 mi. from Sorata towards Achacachi___Depto. La Paz, Prov. Larecaja: Along road 1 mi. from Sorata towards Achacachi
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.43: Brownsberg, trail to Leo fall. On decaying log.___Brownsberg, trail to Leo Val
+
+verbatimDateIdentified: 7
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 1: N/A___May 4, 1958
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0: Ser. I (1947)___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/513/C0341152F.jpg, gradedNoMatchValid = 1: N/A___1992
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 1: N/A___1992
+https://fm-digital-assets.fieldmuseum.org/2307/750/C0341263F.jpg, gradedNoMatchValid = 0.56: Nov. 1991___1991
+https://fm-digital-assets.fieldmuseum.org/2307/751/C0341264F.jpg, gradedNoMatchValid = 0.56: Nov. 1991___1991
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___1948
+
+associatedTaxa: 2
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0: Fagus crenata___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 0: Pinus thunbergii___N/A
+
+recordNumber: 9
+
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 1.0: s.n.___1129
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1.0: s.n.___33
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 1.0: s.n.___20
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 1.0: s.n.___431
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 1.0: s.n.___322
+https://fm-digital-assets.fieldmuseum.org/2303/680/C0268581F.jpg, gradedNoMatchValid = 0.25: B.4.___B.4
+https://fm-digital-assets.fieldmuseum.org/2307/879/C0341117F.jpg, gradedNoMatchValid = 0.5: Nr. 6989___6989
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 1.0: s.n.___337
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 1.0: s.n.___26
+
+municipality: 11
+
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.31: Shirahama-chō___Shirahama
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 0: Yoshio___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 1: N/A___Pueblo Nuevo
+https://fm-digital-assets.fieldmuseum.org/2307/729/C0341242F.jpg, gradedNoMatchValid = 0: San Cristobal De Las Casas___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/738/C0341251F.jpg, gradedNoMatchValid = 0: Rio Cochuna___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/191/C0341739F.jpg, gradedNoMatchValid = 0: Coroico___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 1: N/A___Villavicencio
+https://fm-digital-assets.fieldmuseum.org/2308/218/C0341804F.jpg, gradedNoMatchValid = 0: Coroico___N/A
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0: Athis___N/A
+https://fm-digital-assets.fieldmuseum.org/2298/760/C0399126F.jpg, gradedNoMatchValid = 1: N/A___Bom Retiro
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___Itajaí
+
+habitat: 17
+
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0: ad arborum truncos___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/639/C0268560F.jpg, gradedNoMatchValid = 1: N/A___Summit of ridge
+https://fm-digital-assets.fieldmuseum.org/2303/676/C0268579F.jpg, gradedNoMatchValid = 0.35: Rather open montane forest with dominating Pandanus trees___Open montane forest with pandanus trees
+https://fm-digital-assets.fieldmuseum.org/2307/796/C0341037F.jpg, gradedNoMatchValid = 0.04: Super humid Ceja de Montaña forests following ravines In small rill in dripping area of small waterfall___Super humid Ceja de Montaña forests following raviens, in small rill in dripping area of small waterfall
+https://fm-digital-assets.fieldmuseum.org/2307/879/C0341117F.jpg, gradedNoMatchValid = 0: Fels, Erde, Mauer, Baum, Strauch, Holz, See, Bach___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/724/C0341237F.jpg, gradedNoMatchValid = 1: N/A___Base of trees
+https://fm-digital-assets.fieldmuseum.org/2307/740/C0341253F.jpg, gradedNoMatchValid = 0.17: In ravine with waterfall___Ravine with waterfall
+https://fm-digital-assets.fieldmuseum.org/2307/742/C0341255F.jpg, gradedNoMatchValid = 0: Abundant on exposed rock face___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/752/C0341265F.jpg, gradedNoMatchValid = 0: Growing on branches___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/755/C0341268F.jpg, gradedNoMatchValid = 0.41: On rocks in dry deciduous forest___Dry deciduous forest
+https://fm-digital-assets.fieldmuseum.org/2308/191/C0341739F.jpg, gradedNoMatchValid = 0.23: Fruit and coffee plantations. On rocks in shady fruit orchard.___Fruit and coffee plantations, shady fruit orchard
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.52: Cut over woods On rotting log___Cut over woods
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.8: on rock in wood___Wood
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.81: On rock in woods___Wood
+https://fm-digital-assets.fieldmuseum.org/2311/202/C0341890F.jpg, gradedNoMatchValid = 0.15: In secondary montane forest___Secondary montane forest
+https://fm-digital-assets.fieldmuseum.org/2311/071/C0342164F.jpg, gradedNoMatchValid = 0.2: In Weinmannia forest___Weinmania forest
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___Rupestre
+
+verbatimElevation: 13
+
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.11: ca 500 m___ca. 500 m
+https://fm-digital-assets.fieldmuseum.org/2303/643/C0268562F.jpg, gradedNoMatchValid = 0.1: c. 3450 m.___c. 3450 m
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 0.07: 60 m. above sea___60 m above sea
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 0.43: ca. 100m. alt.___ca. 100m
+https://fm-digital-assets.fieldmuseum.org/2307/797/C0341038F.jpg, gradedNoMatchValid = 0.14: 2740 m.___2740 m
+https://fm-digital-assets.fieldmuseum.org/2307/513/C0341152F.jpg, gradedNoMatchValid = 0.35: Alt. ca. 6300 ft.___ca. 6300 ft
+https://fm-digital-assets.fieldmuseum.org/2307/538/C0341164F.jpg, gradedNoMatchValid = 0.14: 1625 m___±1625 m
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.5: Alt. 1100 m.___1100 m
+https://fm-digital-assets.fieldmuseum.org/2310/951/C0342106F.jpg, gradedNoMatchValid = 0.32: elev. 1250 - 1200 m___1250 - 1200 m
+https://fm-digital-assets.fieldmuseum.org/2310/953/C0342107F.jpg, gradedNoMatchValid = 0.53: ca. 450 m at summit___ca. 450 m
+https://fm-digital-assets.fieldmuseum.org/2310/987/C0342123F.jpg, gradedNoMatchValid = 0.14: 2850 m.___2850 m
+https://fm-digital-assets.fieldmuseum.org/2311/060/C0342159F.jpg, gradedNoMatchValid = 0.39: elev. 1200-1250 m.___1200-1250 m
+https://fm-digital-assets.fieldmuseum.org/2311/073/C0342165F.jpg, gradedNoMatchValid = 0.32: elev. 1250 - 1200 m___1250 - 1200 m
+
+secondaryCollectors: 4
+
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 1: N/A___B. J. Ferrié
+https://fm-digital-assets.fieldmuseum.org/2307/879/C0341117F.jpg, gradedNoMatchValid = 0.09: P. Hegewald___E. Hegewald
+https://fm-digital-assets.fieldmuseum.org/2307/753/C0341266F.jpg, gradedNoMatchValid = 1: N/A___J. Dugarte
+https://fm-digital-assets.fieldmuseum.org/2311/048/C0342153F.jpg, gradedNoMatchValid = 1: N/A___et al.
+
+locality: 5
+
+https://fm-digital-assets.fieldmuseum.org/2303/649/C0268565F.jpg, gradedNoMatchValid = 0.49: Tel Basin Ridge above Camp 2___Star Mountains, Tel Basin, ridge above camp
+https://fm-digital-assets.fieldmuseum.org/2307/568/C0341179F.jpg, gradedNoMatchValid = 0.4: On rocks near Guadalajara___Near Guadalajara
+https://fm-digital-assets.fieldmuseum.org/2307/742/C0341255F.jpg, gradedNoMatchValid = 0.02: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.71: Hacienda Exito; bank of Rio Ysabel; on rock in wood___Distrito Churubamba, Hacienda Exito, bank of Rio Ysabel
+https://fm-digital-assets.fieldmuseum.org/2311/202/C0341890F.jpg, gradedNoMatchValid = 0.03: Cerro San Miguel south of San Miguel___Cerro San Miguel, south of San Miguel
+
+identifiedBy: 11
+
+https://fm-digital-assets.fieldmuseum.org/2303/669/C0268575F.jpg, gradedNoMatchValid = 0.54: Theriot___E. C. Thériot
+https://fm-digital-assets.fieldmuseum.org/2307/797/C0341038F.jpg, gradedNoMatchValid = 0: Crum___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/719/C0341231F.jpg, gradedNoMatchValid = 0.73: A. J. Sharp___E. De Luna
+https://fm-digital-assets.fieldmuseum.org/2307/752/C0341265F.jpg, gradedNoMatchValid = 0.19: Dana Griffin III___D. Griffin III
+https://fm-digital-assets.fieldmuseum.org/2307/757/C0341270F.jpg, gradedNoMatchValid = 0.36: Efrain De Luna___E. De Luna
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.1: P. A. Florschütz | J. Florschütz-de Waard___P. A. Florschütz and J. Florschütz-de Ward
+https://fm-digital-assets.fieldmuseum.org/2308/219/C0341805F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___E. B. Bartram
+
+verbatimEventDate: 9
+
+https://fm-digital-assets.fieldmuseum.org/2303/691/C0268587F.jpg, gradedNoMatchValid = 0.08: Jan. 23, 1975___Jan. 23,1975
+https://fm-digital-assets.fieldmuseum.org/2307/803/C0341047F.jpg, gradedNoMatchValid = 0.08: 13 Oct. 1950___13 Oct.1950
+https://fm-digital-assets.fieldmuseum.org/2307/804/C0341048F.jpg, gradedNoMatchValid = 0.08: 13 Oct. 1950___13 Oct.1950
+https://fm-digital-assets.fieldmuseum.org/2307/879/C0341117F.jpg, gradedNoMatchValid = 0.4: Datum 31.8.1973___31.8.1973
+https://fm-digital-assets.fieldmuseum.org/2307/910/C0341213F.jpg, gradedNoMatchValid = 0.08: July 23, 1941___July 23, 1944
+https://fm-digital-assets.fieldmuseum.org/2307/726/C0341239F.jpg, gradedNoMatchValid = 0.36: 10.3.79(29)___10.3.79
+https://fm-digital-assets.fieldmuseum.org/2310/772/C0341834F.jpg, gradedNoMatchValid = 0.06: Julio-Agosto 1977___Júlio-Agosto 1977
+https://fm-digital-assets.fieldmuseum.org/2310/492/C0341932F.jpg, gradedNoMatchValid = 0.07: Julio 3-4, 1977___Júlio 3-4, 1977
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 0.78: 22.7.1977___s.d.
+
+secondPoliticalUnit: 5
+
+https://fm-digital-assets.fieldmuseum.org/2303/693/C0268588F.jpg, gradedNoMatchValid = 0: Musashi___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 1: N/A___Burdett O'Connor
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0: Villavicencio___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/219/C0341805F.jpg, gradedNoMatchValid = 1: N/A___Huanuco
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.9: Churubamba___Huanuco
+
+firstPoliticalUnit: 5
+
+https://fm-digital-assets.fieldmuseum.org/2302/601/C0268725F.jpg, gradedNoMatchValid = 0: Azores___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/619/C0341205F.jpg, gradedNoMatchValid = 0.22: Veracruz___Vera Cruz
+https://fm-digital-assets.fieldmuseum.org/2308/207/C0341787F.jpg, gradedNoMatchValid = 0: Galapagos Islands___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0.25: Meta___Mata
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 0.11: Sao Paulo___São Paulo
+
+latestScientificName: 10
+
+https://fm-digital-assets.fieldmuseum.org/2307/513/C0341152F.jpg, gradedNoMatchValid = 0.5: Braunia secunda___Braunia andrieuxii
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 0.07: Braunia exserta___Braunia exerta
+https://fm-digital-assets.fieldmuseum.org/2307/750/C0341263F.jpg, gradedNoMatchValid = 0.84: Hedwigidium integrifolium___Braunia rupestris
+https://fm-digital-assets.fieldmuseum.org/2307/751/C0341264F.jpg, gradedNoMatchValid = 0.84: Hedwigidium integrifolium___Braunia rupestris
+https://fm-digital-assets.fieldmuseum.org/2307/757/C0341270F.jpg, gradedNoMatchValid = 0.22: Braunia subplicata___Braunia subincana
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/207/C0341787F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/219/C0341805F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0.33: Weissia compacta___Weisia compacta Brid.
+
+minimumEventDate: 5
+
+https://fm-digital-assets.fieldmuseum.org/2307/910/C0341213F.jpg, gradedNoMatchValid = 0.1: 1941-07-23___1944-07-23
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 0.1: 1972-12-19___1972-12-09
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.2: 1975-12-18___1975.12.18
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0.2: 1984-09-26___1984.09.26
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 1.0: 1977-07-22___s.d.
+
+originalMethod: 2
+
+https://fm-digital-assets.fieldmuseum.org/2307/716/C0341228F.jpg, gradedNoMatchValid = 0.82: Mix of Handwritten and Typed___Typed
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0.82: Mix of Handwritten and Typed___Typed
+
+verbatimIdentification: 4
+
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 0.04: Braunia exserta C. Müller___Braunia exerta C. Müller
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.03: Racopilum tomentosum (Hedw.) Brid.___Racopilum tomentosum (Hedw.)Brid.
+https://fm-digital-assets.fieldmuseum.org/2310/974/C0342117F.jpg, gradedNoMatchValid = 0.05: Hypnella pilifera (Hook. & Wils.) Jaeg.___Hypnella pilifera (Hook. et Wils.) Jaeg.
+https://fm-digital-assets.fieldmuseum.org/2310/987/C0342123F.jpg, gradedNoMatchValid = 0.05: Hypnella pilifera (Hook. & Wils.) Jaeg.___Hypnella pilifera (Hook. et Wils.) Jaeg.
+
+verbatimCoordinates: 3
+
+https://fm-digital-assets.fieldmuseum.org/2308/191/C0341739F.jpg, gradedNoMatchValid = 0.12: 16°11'S, 67°43'W___16°11'S 67°43'E
+https://fm-digital-assets.fieldmuseum.org/2308/218/C0341804F.jpg, gradedNoMatchValid = 0.12: 16°11'S, 67°43'W___16°11'S 67°43'E
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 1: N/A___about 10 m
+
+collectedBy: 2
+
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.38: J. Florschütz___J. Florschütz-de Ward
+https://fm-digital-assets.fieldmuseum.org/2310/492/C0341932F.jpg, gradedNoMatchValid = 0.29: D. Griffin___D. Griffin III
+
+country: 1
+
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0.83: France___Italy
+
+--------------------------------------------------
+
+
+comparison_config = {'RECORD_REF_FIELDNAME': 'accessURI', 'SKIP_LIST': ['modelname', 'Image Name', 'catalogNumber', 'Dataset Source', 'accessURI', 'Label only?', 'modifiedBy', 'verifiedBy', 'substrate', 'URL', 'Image'], 'SELECTED_FIELDS_LIST': [], 'USE_SELECTED_FIELDS_ONLY': False, 'LLM_SPREAD_SOURCES': [['gpt-4o-2024-06-11-1050-transcriptions.csv', 'gpt-4o-2024-06-11-1110-transcriptions.csv'], ['gemini-1.5-pro-2024-06-20-0153-transcriptions.csv', 'gemini-1.5-pro-2024-06-26-1108-transcriptions.csv']], 'GROUND_TRUTH_FILENAME': '100-bryophytes-typed.csv', 'RESULT_FILENAME': 'gpt-4o-gemini-1.5-pro-cross-validated_values-comparisons.csv', 'ERRORS_FILENAME': 'gpt-4o-gemini-1.5-pro-cross-validated_values-errors.txt', 'SOURCE_PATH': 'DataAnalysis/Transcriptions/', 'RESULTS_PATH': 'DataAnalysis/Comparisons/BatchComparisons/'}
+edit_distance_config = {'USE_FIELDNAMES_EXCLUSIVELY': False, 'FIELDNAMES_COSTS': {'RANDO_FIELDNAME1': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}, 'RANDO_FIELDNAME2': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}, 'DEFAULT_FIELDS_CUSTOM_COSTS': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}
+tolerances_config = {'TOLERANCES_ALLOWED': False, 'TOLS': {'RANDO_FIELDNAME1': ['double_space', 'missing_abbreviation_point'], 'verbatimCoordinates': ['misaligned_spacing', 'mismatching_abbreviation', 'missing_commas'], 'ENABLE_EDIT_DISTANCE_THRESHOLD': False, 'EDIT_DISTANCE_THRESHOLDS': {'RANDO_FIELDNAME1': {'SCALED': False, 'VALUE': 2.5}, 'RANDO_FIELDNAME2': {'SCALED': True, 'VALUE': 0.1}, 'DEFAULT': {'SCALED': True, 'VALUE': 0.0}}}}
+
+
+spreadsource = 'gpt-4o-2024-06-11-1110-gemini-1.5-pro-2024-06-26-1108-cross-validated_values-transcriptions.csv'
+
+verbatimLocality: 2
+
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.67: bei Brisbane___Australien: Queensland, bei Brisbane
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.43: Brownsberg, trail to Leo fall. On decaying log.___Brownsberg, trail to Leo Val
+
+verbatimCollectors: 8
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.54: Coll. & det. T. Nakajima___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0.33: leg. S. Hattori___S. Hattori
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 1.0: Burnet O'Connor___S. Churchill
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.19: Leg. J. & P. A. Florschütz___J. & P. A. Florschütz
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 0.43: Coll. H. Inoue___H. Inoue
+https://fm-digital-assets.fieldmuseum.org/2298/760/C0399126F.jpg, gradedNoMatchValid = 0.27: R. Reitz___P. R. Reitz
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 0.5: leg. Frahm___Frahm
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___P. R. Reitz
+
+verbatimDateIdentified: 6
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 1: N/A___May 4, 1958
+https://fm-digital-assets.fieldmuseum.org/2307/513/C0341152F.jpg, gradedNoMatchValid = 1: N/A___1992
+https://fm-digital-assets.fieldmuseum.org/2307/910/C0341213F.jpg, gradedNoMatchValid = 0: 1992___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 1: N/A___1992
+https://fm-digital-assets.fieldmuseum.org/2307/750/C0341263F.jpg, gradedNoMatchValid = 0.56: Nov. 1991___1991
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___1948
+
+associatedTaxa: 2
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0: Fagus crenata___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 0: Pinus thunbergii___N/A
+
+recordNumber: 9
+
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 1.0: s.n.___1129
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1.0: s.n.___33
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 1.0: s.n.___20
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 1.0: s.n.___322
+https://fm-digital-assets.fieldmuseum.org/2303/680/C0268581F.jpg, gradedNoMatchValid = 0.25: B.4.___B.4
+https://fm-digital-assets.fieldmuseum.org/2303/691/C0268587F.jpg, gradedNoMatchValid = 1.0: s.n.___1379
+https://fm-digital-assets.fieldmuseum.org/2307/879/C0341117F.jpg, gradedNoMatchValid = 0.5: Nr. 6989___6989
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 1.0: s.n.___337
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 1.0: s.n.___26
+
+habitat: 20
+
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0: ad arborum truncos___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/641/C0268561F.jpg, gradedNoMatchValid = 0.4: Forest remnant in deep chasm near the summit on soaking wet bark of trees___Forest remnant in deep chasm near the summit
+https://fm-digital-assets.fieldmuseum.org/2303/643/C0268562F.jpg, gradedNoMatchValid = 0.27: open sub-alpine scrub. At base of limestone rock faces. Very abundant.___Open sub-alpine scrub, at base of limestone rock faces
+https://fm-digital-assets.fieldmuseum.org/2303/645/C0268563F.jpg, gradedNoMatchValid = 0.83: Pendulous from heavy tree branches and slanting trunks___Upper montane forest
+https://fm-digital-assets.fieldmuseum.org/2303/676/C0268579F.jpg, gradedNoMatchValid = 0.35: Rather open montane forest with dominating Pandanus trees___Open montane forest with pandanus trees
+https://fm-digital-assets.fieldmuseum.org/2307/879/C0341117F.jpg, gradedNoMatchValid = 0: Fels, Erde, Mauer, Baum, Strauch, Holz, See, Bach___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/724/C0341237F.jpg, gradedNoMatchValid = 1: N/A___Base of trees
+https://fm-digital-assets.fieldmuseum.org/2307/729/C0341242F.jpg, gradedNoMatchValid = 0.53: On oak trunk in oak-pine woods___Oak-pine woods
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 0.33: Bosque montano Tucumano-Boliviano, remanente. Musgo sobre ramas.___Bosque montano Tucumano-Boliviano remanente
+https://fm-digital-assets.fieldmuseum.org/2307/740/C0341253F.jpg, gradedNoMatchValid = 0.17: In ravine with waterfall___Ravine with waterfall
+https://fm-digital-assets.fieldmuseum.org/2307/742/C0341255F.jpg, gradedNoMatchValid = 0: Abundant on exposed rock face___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/751/C0341264F.jpg, gradedNoMatchValid = 0.04: Dirt bank in Kheñwa forest___Dirt ban in Kheñwa forest
+https://fm-digital-assets.fieldmuseum.org/2307/755/C0341268F.jpg, gradedNoMatchValid = 0.41: On rocks in dry deciduous forest___Dry deciduous forest
+https://fm-digital-assets.fieldmuseum.org/2308/191/C0341739F.jpg, gradedNoMatchValid = 0.23: Fruit and coffee plantations. On rocks in shady fruit orchard.___Fruit and coffee plantations, shady fruit orchard
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.8: on rock in wood___Wood
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.81: On rock in woods___Wood
+https://fm-digital-assets.fieldmuseum.org/2310/953/C0342107F.jpg, gradedNoMatchValid = 0: On branches at summit___N/A
+https://fm-digital-assets.fieldmuseum.org/2310/974/C0342117F.jpg, gradedNoMatchValid = 0.2: In Weinmannia forest___Weinmania forest
+https://fm-digital-assets.fieldmuseum.org/2311/071/C0342164F.jpg, gradedNoMatchValid = 0.2: In Weinmannia forest___Weinmania forest
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___Rupestre
+
+verbatimElevation: 7
+
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.11: ca 500 m___ca. 500 m
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 0.43: ca. 100m. alt.___ca. 100m
+https://fm-digital-assets.fieldmuseum.org/2307/803/C0341047F.jpg, gradedNoMatchValid = 0.11: 10000 ft.___10000 ft
+https://fm-digital-assets.fieldmuseum.org/2307/513/C0341152F.jpg, gradedNoMatchValid = 0.35: Alt. ca. 6300 ft.___ca. 6300 ft
+https://fm-digital-assets.fieldmuseum.org/2307/538/C0341164F.jpg, gradedNoMatchValid = 0.14: 1625 m___±1625 m
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.55: Alt. 720 m.___720 m
+https://fm-digital-assets.fieldmuseum.org/2310/953/C0342107F.jpg, gradedNoMatchValid = 0.53: ca. 450 m at summit___ca. 450 m
+
+identifiedBy: 9
+
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.46: Thériot___E. C. Thériot
+https://fm-digital-assets.fieldmuseum.org/2303/669/C0268575F.jpg, gradedNoMatchValid = 0.54: Theriot___E. C. Thériot
+https://fm-digital-assets.fieldmuseum.org/2307/797/C0341038F.jpg, gradedNoMatchValid = 0: Crum___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/752/C0341265F.jpg, gradedNoMatchValid = 0.19: Dana Griffin III___D. Griffin III
+https://fm-digital-assets.fieldmuseum.org/2307/757/C0341270F.jpg, gradedNoMatchValid = 0.36: Efrain De Luna___E. De Luna
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2308/219/C0341805F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.46: Bartram___E. B. Bartram
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___E. B. Bartram
+
+locality: 6
+
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.56: Yaku-Sima___Yakushima Island
+https://fm-digital-assets.fieldmuseum.org/2307/879/C0341117F.jpg, gradedNoMatchValid = 0.19: Las Palmas between Balsas and Leimebamba___Las Palmas, zwischen Balsas und Leimebamba
+https://fm-digital-assets.fieldmuseum.org/2307/568/C0341179F.jpg, gradedNoMatchValid = 0.4: On rocks near Guadalajara___Near Guadalajara
+https://fm-digital-assets.fieldmuseum.org/2307/742/C0341255F.jpg, gradedNoMatchValid = 0.02: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0.4: forest of the Bavaria brewery near río Guatiquía___Bavaria brewery near Rio Gauitiquia
+https://fm-digital-assets.fieldmuseum.org/2308/220/C0341806F.jpg, gradedNoMatchValid = 0.71: Hacienda Exito; bank of Rio Ysabel; on rock in wood___Distrito Churubamba, Hacienda Exito, bank of Rio Ysabel
+
+municipality: 9
+
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 0: Yoshio___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 1: N/A___Pueblo Nuevo
+https://fm-digital-assets.fieldmuseum.org/2307/719/C0341231F.jpg, gradedNoMatchValid = 0: San Pablo Ayutla___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/729/C0341242F.jpg, gradedNoMatchValid = 0: San Cristobal De Las Casas___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/191/C0341739F.jpg, gradedNoMatchValid = 0: Coroico___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 1: N/A___Villavicencio
+https://fm-digital-assets.fieldmuseum.org/2308/218/C0341804F.jpg, gradedNoMatchValid = 0: Coroico___N/A
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0: Athis___N/A
+https://fm-digital-assets.fieldmuseum.org/2298/847/C0399191F.jpg, gradedNoMatchValid = 1: N/A___Itajaí
+
+verbatimEventDate: 7
+
+https://fm-digital-assets.fieldmuseum.org/2303/693/C0268588F.jpg, gradedNoMatchValid = 0.14: X. 1932___X.1932
+https://fm-digital-assets.fieldmuseum.org/2307/803/C0341047F.jpg, gradedNoMatchValid = 0.08: 13 Oct. 1950___13 Oct.1950
+https://fm-digital-assets.fieldmuseum.org/2307/804/C0341048F.jpg, gradedNoMatchValid = 0.08: 13 Oct. 1950___13 Oct.1950
+https://fm-digital-assets.fieldmuseum.org/2307/910/C0341213F.jpg, gradedNoMatchValid = 0.08: July 23, 1941___July 23, 1944
+https://fm-digital-assets.fieldmuseum.org/2310/772/C0341834F.jpg, gradedNoMatchValid = 0.06: Julio-Agosto 1977___Júlio-Agosto 1977
+https://fm-digital-assets.fieldmuseum.org/2310/492/C0341932F.jpg, gradedNoMatchValid = 0.07: Julio 3-4, 1977___Júlio 3-4, 1977
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 0.78: 22.7.1977___s.d.
+
+firstPoliticalUnit: 5
+
+https://fm-digital-assets.fieldmuseum.org/2303/693/C0268588F.jpg, gradedNoMatchValid = 0.71: Honshu___Musashi
+https://fm-digital-assets.fieldmuseum.org/2302/601/C0268725F.jpg, gradedNoMatchValid = 0: Azores___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/619/C0341205F.jpg, gradedNoMatchValid = 0.22: Veracruz___Vera Cruz
+https://fm-digital-assets.fieldmuseum.org/2308/207/C0341787F.jpg, gradedNoMatchValid = 0: Galapagos Islands___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0.25: Meta___Mata
+
+secondPoliticalUnit: 4
+
+https://fm-digital-assets.fieldmuseum.org/2303/693/C0268588F.jpg, gradedNoMatchValid = 0: Musashi___N/A
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 1: N/A___Burdett O'Connor
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0: Villavicencio___N/A
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.9: Churubamba___Huanuco
+
+verbatimIdentification: 7
+
+https://fm-digital-assets.fieldmuseum.org/2307/879/C0341117F.jpg, gradedNoMatchValid = 0.03: Philonotis sphaerocarpa (Hedw.) Brid.___Philonotis sphaerrocarpa (Hedw.) Brid.
+https://fm-digital-assets.fieldmuseum.org/2307/910/C0341213F.jpg, gradedNoMatchValid = 0.33: Braunia secunda (Hook.) Bruch & Schimp.___Braunia secunda (Hook.) BSG
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 0.04: Braunia exserta C. Müller___Braunia exerta C. Müller
+https://fm-digital-assets.fieldmuseum.org/2308/207/C0341787F.jpg, gradedNoMatchValid = 0.03: Rhacopilum tomentosum (Hedw.) Brid.___Rhacopilum tomentosum (Hedw.)Brid.
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.03: Racopilum tomentosum (Hedw.) Brid.___Racopilum tomentosum (Hedw.)Brid.
+https://fm-digital-assets.fieldmuseum.org/2310/974/C0342117F.jpg, gradedNoMatchValid = 0.05: Hypnella pilifera (Hook. & Wils.) Jaeg.___Hypnella pilifera (Hook. et Wils.) Jaeg.
+https://fm-digital-assets.fieldmuseum.org/2310/987/C0342123F.jpg, gradedNoMatchValid = 0.05: Hypnella pilifera (Hook. & Wils.) Jaeg.___Hypnella pilifera (Hook. et Wils.) Jaeg.
+
+latestScientificName: 10
+
+https://fm-digital-assets.fieldmuseum.org/2307/513/C0341152F.jpg, gradedNoMatchValid = 0.5: Braunia secunda___Braunia andrieuxii
+https://fm-digital-assets.fieldmuseum.org/2307/735/C0341248F.jpg, gradedNoMatchValid = 0.07: Braunia exserta___Braunia exerta
+https://fm-digital-assets.fieldmuseum.org/2307/750/C0341263F.jpg, gradedNoMatchValid = 0.84: Hedwigidium integrifolium___Braunia rupestris
+https://fm-digital-assets.fieldmuseum.org/2307/751/C0341264F.jpg, gradedNoMatchValid = 0.84: Hedwigidium integrifolium___Braunia rupestris
+https://fm-digital-assets.fieldmuseum.org/2307/757/C0341270F.jpg, gradedNoMatchValid = 0.22: Braunia subplicata___Braunia subincana
+https://fm-digital-assets.fieldmuseum.org/2308/199/C0341763F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/207/C0341787F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/219/C0341805F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2308/221/C0341807F.jpg, gradedNoMatchValid = 0.05: Rhacopilum tomentosum___Racopilum tomentosum
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0.33: Weissia compacta___Weisia compacta Brid.
+
+minimumEventDate: 5
+
+https://fm-digital-assets.fieldmuseum.org/2307/910/C0341213F.jpg, gradedNoMatchValid = 0.1: 1941-07-23___1944-07-23
+https://fm-digital-assets.fieldmuseum.org/2307/712/C0341223F.jpg, gradedNoMatchValid = 0.1: 1972-12-19___1972-12-09
+https://fm-digital-assets.fieldmuseum.org/2308/214/C0341798F.jpg, gradedNoMatchValid = 0.2: 1975-12-18___1975.12.18
+https://fm-digital-assets.fieldmuseum.org/2308/115/C0341803F.jpg, gradedNoMatchValid = 0.2: 1984-09-26___1984.09.26
+https://fm-digital-assets.fieldmuseum.org/2298/823/C0399179F.jpg, gradedNoMatchValid = 1.0: 1977-07-22___s.d.
+
+originalMethod: 1
+
+https://fm-digital-assets.fieldmuseum.org/2307/716/C0341228F.jpg, gradedNoMatchValid = 0.82: Mix of Handwritten and Typed___Typed
+
+secondaryCollectors: 2
+
+https://fm-digital-assets.fieldmuseum.org/2307/753/C0341266F.jpg, gradedNoMatchValid = 1: N/A___J. Dugarte
+https://fm-digital-assets.fieldmuseum.org/2311/048/C0342153F.jpg, gradedNoMatchValid = 1: N/A___et al.
+
+verbatimCoordinates: 3
+
+https://fm-digital-assets.fieldmuseum.org/2308/191/C0341739F.jpg, gradedNoMatchValid = 0.12: 16°11'S, 67°43'W___16°11'S 67°43'E
+https://fm-digital-assets.fieldmuseum.org/2308/218/C0341804F.jpg, gradedNoMatchValid = 0.12: 16°11'S, 67°43'W___16°11'S 67°43'E
+https://fm-digital-assets.fieldmuseum.org/2303/929/C0398471F.jpg, gradedNoMatchValid = 1: N/A___about 10 m
+
+country: 1
+
+https://fm-digital-assets.fieldmuseum.org/2314/809/C0342515F.jpg, gradedNoMatchValid = 0.83: France___Italy
+
+--------------------------------------------------
+
