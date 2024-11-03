@@ -1,16 +1,21 @@
 
-CONFIGURATION_NAME: "single_run_comparison"   
+CONFIGURATION_NAME: "claude-3.5-sonnet-various_prompts"   
 COMPARISON_CONFIG:
    RECORD_REF_FIELDNAME: "accessURI"   # this is the fieldname used for reference in the errors file, here a URL
    SKIP_LIST: ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"] 
    SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
    USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
    SOURCE_PATH: "DataAnalysis/Transcriptions/"
-   LLM_SPREAD_SOURCES: ["claude-3.5-sonnet-2024-10-31-2134-transcriptions.csv"]
-   GROUND_TRUTH_FILENAME: "100-bryophytes-typed.csv"
+   LLM_SPREAD_SOURCES: ["claude-3.5-sonnet-2024-08-02-1600-prompt1.0-transcriptions.csv",
+                        "claude-3.5-sonnet-2024-08-02-1615-prompt1.1-transcriptions.csv",
+                        "claude-3.5-sonnet-2024-08-02-1630-prompt1.2-transcriptions.csv",
+                        "claude-3.5-sonnet-2024-10-31-2134-prompt1.3-transcriptions.csv",
+                        "claude-3.5-sonnet-2024-08-02-1645-prompt1.4-transcriptions.csv",
+                        "claude-3.5-sonnet-2024-08-02-1700-prompt1.5.2-transcriptions.csv"]
+   GROUND_TRUTH_FILENAME: "25-bryophytes-typed.csv"
    RESULTS_PATH: "DataAnalysis/Comparisons/"
-   RESULT_FILENAME: "SingleComparisons/claude-3.5-sonnet-2024-10-31-2134-comparisons.csv"
-   ERRORS_FILENAME: "Errors/claude-3.5-sonnet-2024-10-31-2134-errors.txt"
+   RESULT_FILENAME: "BatchComparisons/claude-3.5-sonnet-various_prompts-comparisons.csv"
+   ERRORS_FILENAME: "Errors/claude-3.5-sonnet-various_prompts-errors.txt"
    
    
 

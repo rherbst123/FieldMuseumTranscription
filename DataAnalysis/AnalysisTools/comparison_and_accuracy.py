@@ -191,10 +191,10 @@ class Comparison:
         print(f"Comparisons saved to {self.RESULTS_PATH+self.RESULT_FILENAME}!!!!")   
     
 if __name__ == "__main__":
-    CONFIG_PATH = "AutomaticAnalysis/Configurations/"
+    CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
 
     # copy in the name of the configuration file to be used below
-    config_filename = "selected_fields_gpt.yaml" 
+    config_filename = "gpt_no_verbatim.yaml" 
 
     accuracy_run = Comparison(CONFIG_PATH+config_filename)
     accuracy_run.run()

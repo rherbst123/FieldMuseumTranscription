@@ -29,7 +29,7 @@ def load_yaml(filename):
 
 def get_logger():
         logger = logging.getLogger()
-        logging.basicConfig(filename="AutomaticAnalysis/Logs/analysis.log", format='%(asctime)s %(name)s %(funcName)s %(levelname)s: %(message)s',level=logging.DEBUG, encoding = "UTF-8")
+        logging.basicConfig(filename="DataAnalysis/AnalysisTools/Logs/analysis.log", format='%(asctime)s %(name)s %(funcName)s %(levelname)s: %(message)s',level=logging.DEBUG, encoding = "UTF-8")
         console_handler = logging.StreamHandler()
         console_handler.setLevel(logging.INFO)
         logger.addHandler(console_handler)

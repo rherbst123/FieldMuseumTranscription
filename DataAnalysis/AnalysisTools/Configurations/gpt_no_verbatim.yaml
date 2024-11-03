@@ -1,18 +1,19 @@
 
-CONFIGURATION_NAME: "single_run_comparison"   
+CONFIGURATION_NAME: "gpt-4o-2024-06-11-1050-no_verbatim"    # give your configuration a name and copy that name into either:
+                            # `comparison_and_accuracy.py`, `llm_agreement_and_accuracy.py` or `postprocessor.py`
+                             #  this is the only modification to those scripts needed to run.
+
 COMPARISON_CONFIG:
    RECORD_REF_FIELDNAME: "accessURI"   # this is the fieldname used for reference in the errors file, here a URL
-   SKIP_LIST: ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"] 
+   SKIP_LIST: ["verbatimCollectors", "verbatimEventDate", "verbatimDateIdentified", "verbatimCoordinates", "verbatimLocality", "verbatimElevation", "verbatimIdentification", "Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"] 
    SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
    USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
-   SOURCE_PATH: "DataAnalysis/Transcriptions/"
-   LLM_SPREAD_SOURCES: ["claude-3.5-sonnet-2024-10-31-2134-transcriptions.csv"]
+   LLM_SPREAD_SOURCES: ["gpt-4o-2024-06-11-1050-transcriptions.csv"]
    GROUND_TRUTH_FILENAME: "100-bryophytes-typed.csv"
+   RESULT_FILENAME: "SingleComparisons/gpt-4o-2024-06-11-1050-no_verbatim-comparisons.csv"
+   ERRORS_FILENAME: "Errors/gpt-4o-2024-06-11-1050-no_verbatim-errors.txt"
+   SOURCE_PATH: "DataAnalysis/Transcriptions/"
    RESULTS_PATH: "DataAnalysis/Comparisons/"
-   RESULT_FILENAME: "SingleComparisons/claude-3.5-sonnet-2024-10-31-2134-comparisons.csv"
-   ERRORS_FILENAME: "Errors/claude-3.5-sonnet-2024-10-31-2134-errors.txt"
-   
-   
 
 # edit distance is the sum of the COSTS of the operations needed to change string1 (s1) into string2 (s2)
 # COSTS are lists of lists.
