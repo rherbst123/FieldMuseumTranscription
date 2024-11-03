@@ -1,0 +1,69 @@
+
+CONFIGURATION_NAME: "multi_agreement_gpt_sonnet_gemini"    # give your configuration a name and copy that name into either:
+                            # `comparison_and_accuracy.py`, `llm_agreement_and_accuracy.py` or `postprocessor.py`
+                             #  this is the only modification to those scripts needed to run.
+
+COMPARISON_CONFIG:
+   RECORD_REF_FIELDNAME: "accessURI"   # this is the fieldname used for reference in the errors file, here a URL
+   SKIP_LIST: ["modelname", "Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"] 
+   SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
+   USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
+   LLM_SPREAD_SOURCES: [["GPT-4o_Spread_6_11_1050.csv", "GPT-4o_Spread_6_11_1110.csv"], ["Sonnet_SpreadJun.21.24.1043.csv", "Sonnet_SpreadJun.26.24.1050.csv"],  ["Gemini_SpreadJun.20.24.0153.csv", "Gemini_SpreadJun.26.24.1108.csv"]]
+   GROUND_TRUTH_FILENAME: "First100BryophytesTyped.csv"
+   RESULT_FILENAME: "multi_agreement_gpt_sonnet_gemini.csv"
+   ERRORS_FILENAME: "multi_agreement_gpt_sonnet_gemini_errors.txt"
+   SOURCE_PATH: "AutomaticAnalysis/SourcesForPaper/"
+   RESULTS_PATH: "AutomaticAnalysis/ResultsForPaper/"
+
+# edit distance is the sum of the COSTS of the operations needed to change string1 (s1) into string2 (s2)
+# COSTS are lists of lists.
+# For INSERT_CHAR and DELETE_CHAR, the order of the two elements of the inner list is char, cost.
+# For SUBSTITUTION_CHAR and TRANSPOSITION_CHAR, the order of the three elements of the inner list is
+#     char to substitute in, target char to be substituted out, cost.
+EDIT_DISTANCE_CONFIG:  # fieldnames have precedence over defaults, just in case USE_FIELNAMES_EXCLUSIVELY is False
+    USE_FIELDNAMES_EXCLUSIVELY: False  
+    FIELDNAMES_COSTS:
+        RANDO_FIELDNAME1:                      # verbatimCollectors:
+            INSERT_CHAR_COSTS: [[]]           #     INSERT_CHAR_COSTS: [[".", 0.5]] 
+            DELETE_CHAR_COSTS:  [[]]
+            SUBSTITUTION_CHAR_COSTS: [[]]
+            TRANSPOSITON_CHAR_COSTS: [[]]
+        RANDO_FIELDNAME2:                      # verbatimCoordinates:
+            INSERT_CHAR_COSTS: [[]]           #     INSERT_CHAR_COSTS: [[".", 0.25]] 
+            DELETE_CHAR_COSTS:  [[]]
+            SUBSTITUTION_CHAR_COSTS: [[]]
+            TRANSPOSITON_CHAR_COSTS: [[]]    
+    DEFAULT_FIELDS_CUSTOM_COSTS:
+        INSERT_CHAR_COSTS: [[]]  # INSERT_CHAR_COSTS: [[".", 0.25], [" ", "0.25"], [",", 0.5]] 
+        DELETE_CHAR_COSTS:  [[]]
+        SUBSTITUTION_CHAR_COSTS: [[]]  # SUBSTITUTION_CHAR_COSTS: [ ["á", "a", 0.10], ["é", "e", 0.11], ["í", "i",0.12], ["ó","o", 0.13], ["ú","u", 0.14]]
+        TRANSPOSITON_CHAR_COSTS: [[]]
+
+TOLERANCES_CONFIG: 
+    TOLERANCES_ALLOWED: False  # enter True to enable tolerances for comparisons
+    TOLS: 
+        RANDO_FIELDNAME1:  # verbatimLocality:
+            - double_space
+            - missing_abbreviation_point 
+        verbatimCoordinates:  #  verbatimCoordinates:
+            - misaligned_spacing
+            - mismatching_abbreviation
+            - missing_commas
+        ENABLE_EDIT_DISTANCE_THRESHOLD: False   # enter True to allow using Levenshtein distance among the tolerances     
+        EDIT_DISTANCE_THRESHOLDS:  # fieldnames take precedence over default
+            RANDO_FIELDNAME1: # verbatimCollectors
+                SCALED: False  # this uses the raw Levenshtein distance, which can be any value greater than zero
+                VALUE: 2.5       #  this is the sum of the costs, perhaps customized costs, which can be floats of any size
+                                   # an unscaled value less than VALUE will be within tolerances
+            RANDO_FIELDNAME2:  # verbatimCoordinates
+                SCALED: True
+                VALUE: 0.10                                                     
+            DEFAULT:
+                SCALED: True  # this scales Levenshtein distance to a value in the range of 0.0 and 1.00
+                VALUE: 0.0     #  a scaled value less than VALUE will be within tolerances
+
+POST_PROCESSING_CONFIG:    # this is a list of fieldnames, the data for which can be post-processed in `post_processor.py`
+    - RANDO_FIELDNAME1   #  - verbatimCollectors
+    - verbatimCoordinates
+
+                        
