@@ -27,20 +27,20 @@ This project contains Python scripts designed to transcribe and categorize image
     ```
 
 ### API Keys
-To access GPT-4 and Claude 3 for transcription, obtain API keys from the following:
+To access GPT and Claude  for transcription, obtain API keys from the following:
 - [OpenAI](https://platform.openai.com/docs/introduction)
 - [Claude (Anthropic)](https://support.anthropic.com/en/collections/5370014-claude-api)
 
-## Project Structure
+## Project Directory
 
-- **AutomaticAnalysis/**: Contains automated analysis scripts for organizing transcription results.
-- **ClaudeTranscription/**: Scripts and functions that interact with the Claude API for text extraction.
-- **DataAnalysis/**: Tools and scripts for further data processing and analysis.
-- **GoogleGemini/**: Experimental code using Google Gemini for transcription tasks.
-- **OpenAI Transcription/**: Scripts and functions for integrating with OpenAI's GPT API.
-- **Outputs/**: Folder for storing transcription outputs.
-- **Prompts/**: Predefined prompts used for various transcription tasks.
-- **TextBlob/**: Utilities leveraging TextBlob for natural language processing.
+- **ClaudeTranscription**: Scripts and functions that interact with the Claude API for text extraction.
+- **DataAnalysis**: Tools and scripts for further data processing and analysis.
+    - **/AutomaticAnalysis**: Contains automated analysis scripts for organizing transcription results.
+- **GoogleGemini**: Experimental code using Google Gemini for transcription tasks.
+- **OpenAI Transcription**: Scripts and functions for integrating with OpenAI's GPT API.
+- **Outputs**: Folder for storing transcription outputs.
+- **Prompts**: Predefined prompts used for various transcription tasks.
+- **TextBlob**: Utilities leveraging TextBlob for natural language processing.
 
 ## Special Thanks
 
