@@ -1,7 +1,7 @@
 
 # Field Museum Transcription Project
 
-This repository contains Python scripts designed to transcribe and categorize images from herbarium specimens at the Field Museum. Using the latest AI tools, specifically OpenAI's GPT-4 and Anthropic's Claude 3, this project facilitates the automated extraction and organization of text from herbarium images.
+This project contains Python scripts designed to transcribe and categorize images from herbarium specimens at the Field Museum. Using assorted LLM's specifically OpenAI's GPT-4 and Anthropic's Claude 3 and 3.5, this project facilitates the automated extraction and organization of text from herbarium images.
 
 ## Created and Contributed By:
 
