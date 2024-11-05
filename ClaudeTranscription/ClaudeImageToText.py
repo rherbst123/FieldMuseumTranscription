@@ -11,8 +11,8 @@ import time
 api_key = "API KEY"
 prompt_file_path = "Prompt.txt"
 output_file = "Output.txt"
-url_text = "urls.txt"
-image_folder = "images/"
+url_text = "c:\\Users\\Riley\\Desktop\\Portal\\Code\\Python\\Inputs\\Batch200.txt"
+image_folder = "c:\\Users\\Riley\\Desktop\\Portal\\Code\\Images"
 
 total_elapsed_time = 0
 def download_images(file_path, save_folder):
