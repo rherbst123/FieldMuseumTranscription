@@ -3,6 +3,8 @@ import json
 import re
 import yaml
 import logging
+import time
+
 
 
 def get_contents_from_csv(csv_file_path):
@@ -68,4 +70,12 @@ def save_errors(txt_filepath, errors: list[dict], spreadsource, record_ref_field
     except FileNotFoundError:
         prior = ""
     with open(txt_filepath, "w", encoding="utf-8") as f:
-        f.write(f"{prior}\n{comparison_config = }\n{edit_distance_config = }\n{tolerances_config = }\n\n\n{out}")                            
+        f.write(f"{prior}\n{comparison_config = }\n{edit_distance_config = }\n{tolerances_config = }\n\n\n{out}")  
+
+def get_timestamp():
+    return time.strftime("%Y-%m-%d-%H%M") 
+
+def get_run_name(modelname):
+    return f"{modelname}-{get_timestamp()}"    
+
+                                    

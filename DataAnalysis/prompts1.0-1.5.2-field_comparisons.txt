@@ -1,0 +1,875 @@
+prompt1.0
+reproductiveCondition: the label might include information about reproductive features such as perianth, sporophyte (these might be abbreviated). Spell out perianth, sporophyte or any remarks.
+prompt1.1
+reproductiveCondition: the label might include information about reproductive features such as perianth, sporophyte (these might be abbreviated). Spell out perianth, sporophyte or any remarks.
+===========================================================================
+prompt1.0
+sex: Field not present in this prompt
+prompt1.1
+sex: This might come in the form of a symbol on the label, male, female 
+===========================================================================
+prompt1.0
+collectedBy: Field not present in this prompt
+prompt1.1
+collectedBy: (The First Collector)
+===========================================================================
+prompt1.0
+firstPoliticalUnit: (The name of the first-order administrative division in which the event occurred (e.g., state or province)), 
+prompt1.1
+firstPoliticalUnit: (The name of the first-order administrative division in which the event occurred (e.g., state or province)), 
+===========================================================================
+prompt1.0
+family: (The family in which the taxon is classified), 
+prompt1.1
+family: (The family in which the taxon is classified), 
+===========================================================================
+prompt1.0
+Secondary Collectors: (These are collectors listed after the first)
+prompt1.1
+Secondary Collectors: Field not present in this prompt
+===========================================================================
+prompt1.0
+Collected by: (The First Collector)
+prompt1.1
+Collected by: Field not present in this prompt
+===========================================================================
+prompt1.0
+habitat: (A category or description of the habitat in which the event occurred), 
+prompt1.1
+habitat: (A category or description of the habitat in which the event occurred), 
+===========================================================================
+prompt1.0
+title: (A name given to the resource), 
+prompt1.1
+title: (A name given to the resource), 
+===========================================================================
+prompt1.0
+secondPoliticalUnit:  The name of the second-order administrative division in which the event occurred (e.g., county)), 
+prompt1.1
+secondPoliticalUnit:  The name of the second-order administrative division in which the event occurred (e.g., county)), 
+===========================================================================
+prompt1.0
+city: (The city or locality in which the event occurred), 
+prompt1.1
+city: (The city or locality in which the event occurred), 
+===========================================================================
+prompt1.0
+decimalLatitude: (The latitude of the location from which the occurrence was recorded, expressed in decimal degrees), 
+prompt1.1
+decimalLatitude: (The latitude of the location from which the occurrence was recorded, expressed in decimal degrees), 
+===========================================================================
+prompt1.0
+genus: (The genus in which the taxon is classified), 
+prompt1.1
+genus: (The genus in which the taxon is classified), 
+===========================================================================
+prompt1.0
+originalMethod ((Handwritten, Typed, Mix of Handwritten and Typed): The method by which the original data was recorded), 
+prompt1.1
+originalMethod ((Handwritten, Typed, Mix of Handwritten and Typed): The method by which the original data was recorded), 
+===========================================================================
+prompt1.0
+countryCode: (The standard code for the country in which the event occurred), 
+prompt1.1
+countryCode: (The standard code for the country in which the event occurred), 
+===========================================================================
+prompt1.0
+locality: (The specific description of the place. Less specific than verbatimLocality), 
+prompt1.1
+locality: (The specific description of the place. Less specific than verbatimLocality), 
+===========================================================================
+prompt1.0
+collectionCode: (The identifier for the collection or dataset from which the record was derived.), catalogNumber: (An identifier for the record within the dataset - this is not to be confused with the recordNumber which is often on a sheet not on a collection label), 
+prompt1.1
+collectionCode: (The identifier for the collection or dataset from which the record was derived.), catalogNumber: (An identifier for the record within the dataset - this is not to be confused with the recordNumber which is often on a sheet not on a collection label), 
+===========================================================================
+prompt1.0
+scientificNameAuthorship: (The authorship information for the scientific name formatted according to the conventions of the applicable nomenclatural code), 
+prompt1.1
+scientificNameAuthorship: (The authorship information for the scientific name formatted according to the conventions of the applicable nomenclatural code), 
+===========================================================================
+prompt1.0
+infraspecificEpithet: (The infraspecific epithet of the scientific name; in trinomial nomenclature, the third part of the name), 
+prompt1.1
+infraspecificEpithet: (The infraspecific epithet of the scientific name; in trinomial nomenclature, the third part of the name), 
+===========================================================================
+prompt1.0
+language: (The language of the resource), 
+prompt1.1
+language: (The language of the resource), 
+===========================================================================
+prompt1.0
+occurrenceRemarks: (Comments or notes about the occurrence), 
+prompt1.1
+occurrenceRemarks: (Comments or notes about the occurrence), 
+===========================================================================
+prompt1.0
+phylum: (Division): The phylum or division in which the taxon is classified, 
+prompt1.1
+phylum: (Division): The phylum or division in which the taxon is classified, 
+===========================================================================
+prompt1.0
+eventDate: (The date-time or interval during which an event occurred or the original occurrence , in an ISO 8601 date format, Separate day, month, year with -, this might also be a range of dates), 
+prompt1.1
+eventDate: (The date-time or interval during which an event occurred or the original occurrence , in an ISO 8601 date format, Separate day, month, year with -, this might also be a range of dates), 
+===========================================================================
+prompt1.0
+Sex: This might come in the form of a symbol on the label, male, female 
+prompt1.1
+Sex: Field not present in this prompt
+===========================================================================
+prompt1.0
+typeStatus: Field not present in this prompt
+prompt1.1
+typeStatus: If the specimen has “type” written or typed on the label and can take the form holotype, isotype etc state as such, otherwise so “no type status”
+===========================================================================
+prompt1.0
+languageRemarks: (Comments or notes about the language of the resource), 
+prompt1.1
+languageRemarks: (Comments or notes about the language of the resource), 
+===========================================================================
+prompt1.0
+identifiedBy: (this is the person who identified the specimen, sometimes represented by det. Or determined by. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A.
+prompt1.1
+identifiedBy: (this is the person who identified the specimen, sometimes represented by det. Or determined by. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A.
+===========================================================================
+prompt1.0
+substrate: (The underlying material or surface on which an organism lives or grows), verbatimElevation: (The original verbatim text of the elevation (altitude, depth) of the occurrence), 
+prompt1.1
+substrate: (The underlying material or surface on which an organism lives or grows), verbatimElevation: (The original verbatim text of the elevation (altitude, depth) of the occurrence), 
+===========================================================================
+prompt1.0
+Expedition funded by: Some collection events might be sponsored or funded by a foundation or government agency. Record this information.
+prompt1.1
+Expedition funded by: Field not present in this prompt
+===========================================================================
+prompt1.0
+dateIdentified: (The date on which the subject was identified as representing the Taxon. This is not eventDate so make sure to differentiate), 
+prompt1.1
+dateIdentified: (The date on which the subject was identified as representing the Taxon. This is not eventDate so make sure to differentiate), 
+===========================================================================
+prompt1.0
+specificEpithet: (The specific epithet of the scientific name; in binomial nomenclature, the second part of the name), 
+prompt1.1
+specificEpithet: (The specific epithet of the scientific name; in binomial nomenclature, the second part of the name), 
+===========================================================================
+prompt1.0
+recordNumber: ( An identifier given to the occurrence at the time it was recorded - this is the collection number by the person who collected the specimen), 
+prompt1.1
+recordNumber: ( An identifier given to the occurrence at the time it was recorded - this is the collection number by the person who collected the specimen), 
+===========================================================================
+prompt1.0
+Type status: If the specimen has “type” written or typed on the label and can take the form holotype, isotype etc state as such, otherwise so “no type status”
+prompt1.1
+Type status: Field not present in this prompt
+===========================================================================
+prompt1.0
+secondaryCollectors: Field not present in this prompt
+prompt1.1
+secondaryCollectors: (These are collectors listed after the first)
+===========================================================================
+prompt1.0
+verbatimEventDate: (The original verbatim text of the date and time information for the original occurrence), 
+prompt1.1
+verbatimEventDate: (The original verbatim text of the date and time information for the original occurrence), 
+===========================================================================
+prompt1.0
+maximumElevationInMeters: (The upper limit of elevation (in meters) for the occurrence), minimumElevationInMeters: (The lower limit of elevation (in meters) for the occurrence), verbatimCoordinates: (The original verbatim text of the coordinates), 
+prompt1.1
+maximumElevationInMeters: (The upper limit of elevation (in meters) for the occurrence), minimumElevationInMeters: (The lower limit of elevation (in meters) for the occurrence. If there is only one measurement of elevation it is in the minimumElevationInMeters), verbatimCoordinates: (The original verbatim text of the coordinates), 
+===========================================================================
+prompt1.0
+generalInformationAboutThePlantSpecimenItself: Field not present in this prompt
+prompt1.1
+generalInformationAboutThePlantSpecimenItself: (or example, does it look like there are multiple plant specimens mounted on a sheet? Is there soil present? Does the sample look small, moderate or large? Otherwise N/A)
+===========================================================================
+prompt1.0
+decimalLongitude: (The longitude of the location from which the occurrence was recorded, expressed in decimal degrees), 
+prompt1.1
+decimalLongitude: (The longitude of the location from which the occurrence was recorded, expressed in decimal degrees), 
+===========================================================================
+prompt1.0
+otherScientificName: (Alternative scientific names that have been applied to the specimen), associatedTaxa: (A list of identifiers or names of taxa and their associations with the occurrence), 
+prompt1.1
+otherScientificName: (Alternative scientific names that have been applied to the specimen), associatedTaxa: (This is a taxonomic name that maybe directly associated with the acceptedScientificName. i.e., it is growing directly with the acceptedScientificName. This is not a scientific name that is associated with the general forest or vegetation that describes the habitat), 
+===========================================================================
+prompt1.0
+expeditionFundedBy: Field not present in this prompt
+prompt1.1
+expeditionFundedBy: Some collection events might be sponsored or funded by a foundation or government agency. Record this information.
+===========================================================================
+prompt1.0
+verbatimLocality: (The original textual description of the place where the occurrence was recorded), 
+prompt1.1
+verbatimLocality: (The original textual description of the place where the occurrence was recorded), 
+===========================================================================
+prompt1.0
+acceptedScientificName: (The full scientific name, according to the latest taxonomic treatment according to the World Flora Online - An Online Flora of All Known Plants (acceptance), of the organism referred to in the occurrence record). If there are multiple scientific names select the one with the latest determination date.
+prompt1.1
+acceptedScientificName: (The full scientific name, according to the latest taxonomic treatment according to the World Flora Online - An Online Flora of All Known Plants (acceptance), of the organism referred to in the occurrence record). If there are multiple scientific names select the one with the latest determination date.
+===========================================================================
+prompt1.0
+country: (The name of the country or major administrative unit in which the event occurred), 
+prompt1.1
+country: (The name of the country or major administrative unit in which the event occurred), 
+===========================================================================
+prompt1.0
+generalNotes: (Additional comments or notes not covered but are on the label)
+prompt1.1
+generalNotes: (Additional comments or notes not covered but are on the label)
+===========================================================================
+
+
+
+***************************************************************************
+
+
+prompt1.1
+minimumEventDate: Field not present in this prompt
+prompt1.2
+minimumEventDate: (The date the specimen was collected. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".), Used if date is singular or start of date if a range,
+===========================================================================
+prompt1.1
+verbatimElevation: Field not present in this prompt
+prompt1.2
+verbatimElevation: (The original verbatim text of the elevation (altitude) of the occurrence), 
+===========================================================================
+prompt1.1
+sex: This might come in the form of a symbol on the label, male, female 
+prompt1.2
+sex: Field not present in this prompt
+===========================================================================
+prompt1.1
+reproductiveCondition: the label might include information about reproductive features such as perianth, sporophyte (these might be abbreviated). Spell out perianth, sporophyte or any remarks.
+prompt1.2
+reproductiveCondition: Field not present in this prompt
+===========================================================================
+prompt1.1
+collectedBy: (The First Collector)
+prompt1.2
+collectedBy: (The First Collector, only capitalize names)
+===========================================================================
+prompt1.1
+firstPoliticalUnit: (The name of the first-order administrative division in which the event occurred (e.g., state or province)), 
+prompt1.2
+firstPoliticalUnit: (The name of the first-order administrative division in which the event occurred (e.g., state or province)), 
+===========================================================================
+prompt1.1
+family: (The family in which the taxon is classified), 
+prompt1.2
+family: Field not present in this prompt
+===========================================================================
+prompt1.1
+decimalLatitude: (The latitude of the location from which the occurrence was recorded, expressed in decimal degrees), 
+prompt1.2
+decimalLatitude: Field not present in this prompt
+===========================================================================
+prompt1.1
+habitat: (A category or description of the habitat in which the event occurred), 
+prompt1.2
+habitat: (The description of the habitat in which the specimen was collected as described on the original label, this might be a description or summarization of all of the existing biotic and abiotic factors in the current area that may assist in the survival and reproduction of the collected specimen, for example, the description of the forest, geography etc.)
+===========================================================================
+prompt1.1
+title: (A name given to the resource), 
+prompt1.2
+title: Field not present in this prompt
+===========================================================================
+prompt1.1
+secondPoliticalUnit:  The name of the second-order administrative division in which the event occurred (e.g., county)), 
+prompt1.2
+secondPoliticalUnit:  The name of the second-order administrative division in which the event occurred (e.g., county)), 
+===========================================================================
+prompt1.1
+city: (The city or locality in which the event occurred), 
+prompt1.2
+city: Field not present in this prompt
+===========================================================================
+prompt1.1
+verbatimCoordinates: Field not present in this prompt
+prompt1.2
+verbatimCoordinates: (The original verbatim text of the coordinates, if they exist on the label), 
+===========================================================================
+prompt1.1
+verbatimIdentification: Field not present in this prompt
+prompt1.2
+verbatimIdentification: A string representing the taxonomic identification as it appeared in the original label. This term is meant to allow the capture of an unaltered original identification/determination, including identification qualifiers, hybrid formulas, uncertainties, etc. 
+===========================================================================
+prompt1.1
+genus: (The genus in which the taxon is classified), 
+prompt1.2
+genus: Field not present in this prompt
+===========================================================================
+prompt1.1
+originalMethod ((Handwritten, Typed, Mix of Handwritten and Typed): The method by which the original data was recorded), 
+prompt1.2
+originalMethod ((Handwritten, Typed, Mix of Handwritten and Typed): Field not present in this prompt
+===========================================================================
+prompt1.1
+otherCatalogNumbers: Field not present in this prompt
+prompt1.2
+otherCatalogNumbers: (An identifier for the record within the dataset - this is not to be confused with the recordNumber - the otherCatalogNumbers maybe a stamped number on the herbarium sheet), 
+===========================================================================
+prompt1.1
+countryCode: (The standard code for the country in which the event occurred), 
+prompt1.2
+countryCode: Field not present in this prompt
+===========================================================================
+prompt1.1
+locality: (The specific description of the place. Less specific than verbatimLocality), 
+prompt1.2
+locality: (The specific description of the place. For all entries do not shorten units of measurement and always print out full units (mi to miles, m to meters, ft to feet). Exclude the coordinates or information on latitude and longitude and exclude any information about the elevation, exclude any reference to vegetation, habitat and just retain where the plant was collected. Include any place names, names of parks, etc. If the first and second political units have been parsed out, do not repeat them here.) If no Locality is found put the following [No Locality Found]
+===========================================================================
+prompt1.1
+latestScientificName: Field not present in this prompt
+prompt1.2
+latestScientificName: If there are multiple scientific names select the one with the latest determination date.This might be on an extra label.
+===========================================================================
+prompt1.1
+collectionCode: (The identifier for the collection or dataset from which the record was derived.), catalogNumber: (An identifier for the record within the dataset - this is not to be confused with the recordNumber which is often on a sheet not on a collection label), 
+prompt1.2
+collectionCode: Field not present in this prompt
+===========================================================================
+prompt1.1
+scientificNameAuthorship: (The authorship information for the scientific name formatted according to the conventions of the applicable nomenclatural code), 
+prompt1.2
+scientificNameAuthorship: Field not present in this prompt
+===========================================================================
+prompt1.1
+infraspecificEpithet: (The infraspecific epithet of the scientific name; in trinomial nomenclature, the third part of the name), 
+prompt1.2
+infraspecificEpithet: Field not present in this prompt
+===========================================================================
+prompt1.1
+language: (The language of the resource), 
+prompt1.2
+language: Field not present in this prompt
+===========================================================================
+prompt1.1
+occurrenceRemarks: (Comments or notes about the occurrence), 
+prompt1.2
+occurrenceRemarks: Field not present in this prompt
+===========================================================================
+prompt1.1
+phylum: (Division): The phylum or division in which the taxon is classified, 
+prompt1.2
+phylum: Field not present in this prompt
+===========================================================================
+prompt1.1
+eventDate: (The date-time or interval during which an event occurred or the original occurrence , in an ISO 8601 date format, Separate day, month, year with -, this might also be a range of dates), 
+prompt1.2
+eventDate: Field not present in this prompt
+===========================================================================
+prompt1.1
+typeStatus: If the specimen has “type” written or typed on the label and can take the form holotype, isotype etc state as such, otherwise so “no type status”
+prompt1.2
+typeStatus: If the specimen has “type” written or typed on the label and can take the form holotype, isotype etc state as such, otherwise so “no type status”
+===========================================================================
+prompt1.1
+languageRemarks: (Comments or notes about the language of the resource), 
+prompt1.2
+languageRemarks: Field not present in this prompt
+===========================================================================
+prompt1.1
+identifiedBy: (this is the person who identified the specimen, sometimes represented by det. Or determined by. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A.
+prompt1.2
+identifiedBy: (this is the person who identified the specimen, sometimes represented by Det. or det. Or determined by. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A.
+===========================================================================
+prompt1.1
+substrate: (The underlying material or surface on which an organism lives or grows), verbatimElevation: (The original verbatim text of the elevation (altitude, depth) of the occurrence), 
+prompt1.2
+substrate: (The underlying material or surface on which an organism lives or grows, select only from this simple list: bark, twigs, leaves, soil, rock, boulder, stone, wall, log, wood),
+===========================================================================
+prompt1.1
+maximumEventDate: Field not present in this prompt
+prompt1.2
+maximumEventDate: Used for the last date in a range. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".)
+===========================================================================
+prompt1.1
+dateIdentified: (The date on which the subject was identified as representing the Taxon. This is not eventDate so make sure to differentiate), 
+prompt1.2
+dateIdentified: Field not present in this prompt
+===========================================================================
+prompt1.1
+specificEpithet: (The specific epithet of the scientific name; in binomial nomenclature, the second part of the name), 
+prompt1.2
+specificEpithet: Field not present in this prompt
+===========================================================================
+prompt1.1
+verbatimCollectors: Field not present in this prompt
+prompt1.2
+verbatimCollectors: (The collectors as you see it on the label, this might be one collector, a string of collectors, that collected the sample)
+===========================================================================
+prompt1.1
+verbatimDateIdentified: Field not present in this prompt
+prompt1.2
+verbatimDateIdentified: (The date on which the subject was identified as representing the Taxon. This is not eventDate so make sure to differentiate), 
+===========================================================================
+prompt1.1
+secondaryCollectors: (These are collectors listed after the first)
+prompt1.2
+secondaryCollectors: (These are collectors listed after the first, only capitalize names)
+===========================================================================
+prompt1.1
+recordNumber: ( An identifier given to the occurrence at the time it was recorded - this is the collection number by the person who collected the specimen), 
+prompt1.2
+recordNumber: (An identifier given to the occurrence at the time it was recorded - this is the collection number by the person who collected the specimen), 
+===========================================================================
+prompt1.1
+generalInformationAboutThePlantSpecimenItself: (or example, does it look like there are multiple plant specimens mounted on a sheet? Is there soil present? Does the sample look small, moderate or large? Otherwise N/A)
+prompt1.2
+generalInformationAboutThePlantSpecimenItself: Field not present in this prompt
+===========================================================================
+prompt1.1
+verbatimEventDate: (The original verbatim text of the date and time information for the original occurrence), 
+prompt1.2
+verbatimEventDate: (The original verbatim text of the date and time information for the original occurrence), 
+===========================================================================
+prompt1.1
+maximumElevationInMeters: (The upper limit of elevation (in meters) for the occurrence), minimumElevationInMeters: (The lower limit of elevation (in meters) for the occurrence. If there is only one measurement of elevation it is in the minimumElevationInMeters), verbatimCoordinates: (The original verbatim text of the coordinates), 
+prompt1.2
+maximumElevationInMeters: Field not present in this prompt
+===========================================================================
+prompt1.1
+associatedTaxa: Field not present in this prompt
+prompt1.2
+associatedTaxa: (This is a taxonomic name that may be directly associated with the acceptedScientificName. i.e., it is growing directly with the acceptedScientificName. This is not a scientific name that is associated with the general forest or vegetation that describes the habitat), 
+===========================================================================
+prompt1.1
+decimalLongitude: (The longitude of the location from which the occurrence was recorded, expressed in decimal degrees), 
+prompt1.2
+decimalLongitude: Field not present in this prompt
+===========================================================================
+prompt1.1
+otherScientificName: (Alternative scientific names that have been applied to the specimen), associatedTaxa: (This is a taxonomic name that maybe directly associated with the acceptedScientificName. i.e., it is growing directly with the acceptedScientificName. This is not a scientific name that is associated with the general forest or vegetation that describes the habitat), 
+prompt1.2
+otherScientificName: Field not present in this prompt
+===========================================================================
+prompt1.1
+municipality: Field not present in this prompt
+prompt1.2
+municipality: (The city, town, village in which the event occurred), 
+===========================================================================
+prompt1.1
+expeditionFundedBy: Some collection events might be sponsored or funded by a foundation or government agency. Record this information.
+prompt1.2
+expeditionFundedBy: Field not present in this prompt
+===========================================================================
+prompt1.1
+originalMethod: Field not present in this prompt
+prompt1.2
+originalMethod: The method by which the original data was recorded, select from this list (Handwritten, Typed, Mix of Handwritten and Typed, Unsure)
+===========================================================================
+prompt1.1
+verbatimLocality: (The original textual description of the place where the occurrence was recorded), 
+prompt1.2
+verbatimLocality: (The original textual description of the place where the occurrence was recorded, do not convert any abbreviated text at all, do not convert acronyms, exclude however the coordinates or information on latitude and longitude, exclude elevation, this should otherwise read precisely as it is on the label), If the first and second political units have been parsed out, do not repeat them here. 
+===========================================================================
+prompt1.1
+acceptedScientificName: (The full scientific name, according to the latest taxonomic treatment according to the World Flora Online - An Online Flora of All Known Plants (acceptance), of the organism referred to in the occurrence record). If there are multiple scientific names select the one with the latest determination date.
+prompt1.2
+acceptedScientificName: Field not present in this prompt
+===========================================================================
+prompt1.1
+country: (The name of the country or major administrative unit in which the event occurred), 
+prompt1.2
+country: (The name of the country or major administrative unit in which the event occurred), 
+===========================================================================
+prompt1.1
+generalNotes: (Additional comments or notes not covered but are on the label)
+prompt1.2
+generalNotes: Field not present in this prompt
+===========================================================================
+
+
+
+***************************************************************************
+
+
+prompt1.2
+minimumEventDate: (The date the specimen was collected. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".), Used if date is singular or start of date if a range,
+prompt1.3
+minimumEventDate: (The date the specimen was collected. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".), Used if date is singular or start of date if a range,
+===========================================================================
+prompt1.2
+collectedBy: (The First Collector, only capitalize names)
+prompt1.3
+collectedBy: (The First Collector, only capitalize names) Collected by or collectors maybe prefixed by leg. or sometimes legit
+===========================================================================
+prompt1.2
+firstPoliticalUnit: (The name of the first-order administrative division in which the event occurred (e.g., state or province)), 
+prompt1.3
+firstPoliticalUnit: (The name of the first-order administrative division in which the event occurred (e.g., state or province)), 
+===========================================================================
+prompt1.2
+typeStatus: If the specimen has “type” written or typed on the label and can take the form holotype, isotype etc state as such, otherwise so “no type status”
+prompt1.3
+typeStatus: If the specimen has “type” written or typed on the label and can take the form holotype, isotype etc state as such, otherwise so “no type status”
+===========================================================================
+prompt1.2
+identifiedBy: (this is the person who identified the specimen, sometimes represented by Det. or det. Or determined by. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A.
+prompt1.3
+identifiedBy: (this is the person who identified the specimen, sometimes represented by Det. or det. Or determined by. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A.
+===========================================================================
+prompt1.2
+habitat: (The description of the habitat in which the specimen was collected as described on the original label, this might be a description or summarization of all of the existing biotic and abiotic factors in the current area that may assist in the survival and reproduction of the collected specimen, for example, the description of the forest, geography etc.)
+prompt1.3
+habitat: (The description of the habitat in which the specimen was collected as described on the original label, this might be a description or summarization of all of the existing biotic and abiotic factors in the current area that may assist in the survival and reproduction of the collected specimen, for example, the description of the forest, geography etc.)
+===========================================================================
+prompt1.2
+substrate: (The underlying material or surface on which an organism lives or grows, select only from this simple list: bark, twigs, leaves, soil, rock, boulder, stone, wall, log, wood),
+prompt1.3
+substrate: (The underlying material or surface on which an organism lives or grows, select only from this simple list: bark, twigs, leaves, soil, rock, boulder, stone, wall, log, wood),
+===========================================================================
+prompt1.2
+maximumEventDate: Used for the last date in a range. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".)
+prompt1.3
+maximumEventDate: Used for the last date in a range. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".)
+===========================================================================
+prompt1.2
+secondPoliticalUnit:  The name of the second-order administrative division in which the event occurred (e.g., county)), 
+prompt1.3
+secondPoliticalUnit:  The name of the second-order administrative division in which the event occurred (e.g., county)), 
+===========================================================================
+prompt1.2
+verbatimCoordinates: (The original verbatim text of the coordinates, if they exist on the label), 
+prompt1.3
+verbatimCoordinates: (The original verbatim text of the coordinates, if they exist on the label), 
+===========================================================================
+prompt1.2
+verbatimIdentification: A string representing the taxonomic identification as it appeared in the original label. This term is meant to allow the capture of an unaltered original identification/determination, including identification qualifiers, hybrid formulas, uncertainties, etc. 
+prompt1.3
+verbatimIdentification: A string representing the taxonomic identification as it appeared in the original label. This term is meant to allow the capture of an unaltered original identification/determination, including identification qualifiers, hybrid formulas, uncertainties, etc. 
+===========================================================================
+prompt1.2
+verbatimCollectors: (The collectors as you see it on the label, this might be one collector, a string of collectors, that collected the sample)
+prompt1.3
+verbatimCollectors: (The collectors as you see it on the label, this might be one collector, a string of collectors, that collected the sample) Collected by or collectors maybe prefixed by leg. or sometimes legit
+===========================================================================
+prompt1.2
+verbatimDateIdentified: (The date on which the subject was identified as representing the Taxon. This is not eventDate so make sure to differentiate), 
+prompt1.3
+verbatimDateIdentified: (The date on which the subject was identified as representing the Taxon. This is not eventDate so make sure to differentiate), 
+===========================================================================
+prompt1.2
+verbatimElevation: (The original verbatim text of the elevation (altitude) of the occurrence), 
+prompt1.3
+verbatimElevation: (The original verbatim text of the elevation (altitude) of the occurrence), 
+===========================================================================
+prompt1.2
+secondaryCollectors: (These are collectors listed after the first, only capitalize names)
+prompt1.3
+secondaryCollectors: (These are collectors listed after the first, only capitalize names)
+===========================================================================
+prompt1.2
+recordNumber: (An identifier given to the occurrence at the time it was recorded - this is the collection number by the person who collected the specimen), 
+prompt1.3
+recordNumber: (An identifier given to the occurrence at the time it was recorded - this is the collection number by the person who collected the specimen), 
+===========================================================================
+prompt1.2
+verbatimEventDate: (The original verbatim text of the date and time information for the original occurrence), 
+prompt1.3
+verbatimEventDate: (The original verbatim text of the date and time information for the original occurrence), 
+===========================================================================
+prompt1.2
+associatedTaxa: (This is a taxonomic name that may be directly associated with the acceptedScientificName. i.e., it is growing directly with the acceptedScientificName. This is not a scientific name that is associated with the general forest or vegetation that describes the habitat), 
+prompt1.3
+associatedTaxa: (This is a taxonomic name that may be directly associated with the acceptedScientificName. i.e., it is growing directly with the acceptedScientificName. This is not a scientific name that is associated with the general forest or vegetation that describes the habitat), 
+===========================================================================
+prompt1.2
+otherCatalogNumbers: (An identifier for the record within the dataset - this is not to be confused with the recordNumber - the otherCatalogNumbers maybe a stamped number on the herbarium sheet), 
+prompt1.3
+otherCatalogNumbers: (An identifier for the record within the dataset - this is not to be confused with the recordNumber - the otherCatalogNumbers maybe a stamped number on the herbarium sheet), 
+===========================================================================
+prompt1.2
+municipality: (The city, town, village in which the event occurred), 
+prompt1.3
+municipality: (The city, town, village in which the event occurred), 
+===========================================================================
+prompt1.2
+locality: (The specific description of the place. For all entries do not shorten units of measurement and always print out full units (mi to miles, m to meters, ft to feet). Exclude the coordinates or information on latitude and longitude and exclude any information about the elevation, exclude any reference to vegetation, habitat and just retain where the plant was collected. Include any place names, names of parks, etc. If the first and second political units have been parsed out, do not repeat them here.) If no Locality is found put the following [No Locality Found]
+prompt1.3
+locality: (The specific description of the place. For all entries do not shorten units of measurement and always print out full units (mi to miles, m to meters, ft to feet). Exclude the coordinates or information on latitude and longitude and exclude any information about the elevation, exclude any reference to vegetation, habitat and just retain where the plant was collected. Include any place names, names of parks, etc. If the first and second political units have been parsed out, do not repeat them here.) If no Precise Locality is found put the following [precise locality unknown]
+===========================================================================
+prompt1.2
+latestScientificName: If there are multiple scientific names select the one with the latest determination date.This might be on an extra label.
+prompt1.3
+latestScientificName: If there are multiple scientific names select the one with the latest determination date.This might be on an extra label.
+===========================================================================
+prompt1.2
+originalMethod: The method by which the original data was recorded, select from this list (Handwritten, Typed, Mix of Handwritten and Typed, Unsure)
+prompt1.3
+originalMethod: The method by which the original data was recorded, select from this list (Handwritten, Typed, Mix of Handwritten and Typed, Unsure)
+===========================================================================
+prompt1.2
+verbatimLocality: (The original textual description of the place where the occurrence was recorded, do not convert any abbreviated text at all, do not convert acronyms, exclude however the coordinates or information on latitude and longitude, exclude elevation, this should otherwise read precisely as it is on the label), If the first and second political units have been parsed out, do not repeat them here. 
+prompt1.3
+verbatimLocality: (The original textual description of the place where the occurrence was recorded, do not convert any abbreviated text at all, do not convert acronyms, exclude however the coordinates or information on latitude and longitude, exclude elevation, this should otherwise read precisely as it is on the label), If the first and second political units have been parsed out, do not repeat them here. 
+===========================================================================
+prompt1.2
+country: (The name of the country or major administrative unit in which the event occurred), 
+prompt1.3
+country: (The name of the country or major administrative unit in which the event occurred), 
+===========================================================================
+
+
+
+***************************************************************************
+
+
+prompt1.3
+minimumEventDate: (The date the specimen was collected. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".), Used if date is singular or start of date if a range,
+prompt1.4
+minimumEventDate: (The date the specimen was collected. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".), Used if date is singular or start of date if a range, 
+===========================================================================
+prompt1.3
+collectedBy: (The First Collector, only capitalize names) Collected by or collectors maybe prefixed by leg. or sometimes legit
+prompt1.4
+collectedBy: (The First Collector, only capitalize names) Collected by or collectors maybe prefixed by leg. or sometimes legit. Use this format: Initials followed by full last name
+===========================================================================
+prompt1.3
+firstPoliticalUnit: (The name of the first-order administrative division in which the event occurred (e.g., state or province)), 
+prompt1.4
+firstPoliticalUnit: (The name of the first-order administrative division in which the event occurred (e.g., state or province)), 
+===========================================================================
+prompt1.3
+typeStatus: If the specimen has “type” written or typed on the label and can take the form holotype, isotype etc state as such, otherwise so “no type status”
+prompt1.4
+typeStatus: If the specimen has “type” written or typed on the label and can take the form holotype, isotype etc state as such, otherwise so “no type status”
+===========================================================================
+prompt1.3
+identifiedBy: (this is the person who identified the specimen, sometimes represented by Det. or det. Or determined by. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A.
+prompt1.4
+identifiedBy: (this is the person who identified the specimen, sometimes represented by Det. or det. Or determined by. Use this format: Initials followed by full last name. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A.
+===========================================================================
+prompt1.3
+habitat: (The description of the habitat in which the specimen was collected as described on the original label, this might be a description or summarization of all of the existing biotic and abiotic factors in the current area that may assist in the survival and reproduction of the collected specimen, for example, the description of the forest, geography etc.)
+prompt1.4
+habitat: (The description of the habitat in which the specimen was collected as described on the original label, this might be a description or summarization of all of the existing biotic and abiotic factors in the current area that may assist in the survival and reproduction of the collected specimen, for example, the description of the forest, geography etc.)
+===========================================================================
+prompt1.3
+substrate: (The underlying material or surface on which an organism lives or grows, select only from this simple list: bark, twigs, leaves, soil, rock, boulder, stone, wall, log, wood),
+prompt1.4
+substrate: Field not present in this prompt
+===========================================================================
+prompt1.3
+maximumEventDate: Used for the last date in a range. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".)
+prompt1.4
+maximumEventDate: Used for the last date in a range. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".)
+===========================================================================
+prompt1.3
+secondPoliticalUnit:  The name of the second-order administrative division in which the event occurred (e.g., county)), 
+prompt1.4
+secondPoliticalUnit:  The name of the second-order administrative division in which the event occurred (e.g., county)), 
+===========================================================================
+prompt1.3
+verbatimCoordinates: (The original verbatim text of the coordinates, if they exist on the label), 
+prompt1.4
+verbatimCoordinates: (The original verbatim text of the coordinates, if they exist on the label), 
+===========================================================================
+prompt1.3
+verbatimIdentification: A string representing the taxonomic identification as it appeared in the original label. This term is meant to allow the capture of an unaltered original identification/determination, including identification qualifiers, hybrid formulas, uncertainties, etc. 
+prompt1.4
+verbatimIdentification: A string representing the taxonomic identification as it appeared in the original label. This term is meant to allow the capture of an unaltered original identification/determination, including identification qualifiers, hybrid formulas, uncertainties, etc. 
+===========================================================================
+prompt1.3
+verbatimCollectors: (The collectors as you see it on the label, this might be one collector, a string of collectors, that collected the sample) Collected by or collectors maybe prefixed by leg. or sometimes legit
+prompt1.4
+verbatimCollectors: (The collectors as you see it on the label, this might be one collector, a string of collectors, that collected the sample) Collected by or collectors maybe prefixed by leg. or sometimes legit
+===========================================================================
+prompt1.3
+verbatimDateIdentified: (The date on which the subject was identified as representing the Taxon. This is not eventDate so make sure to differentiate), 
+prompt1.4
+verbatimDateIdentified: (The date on which the subject was identified as representing the Taxon. This is not eventDate so make sure to differentiate), 
+===========================================================================
+prompt1.3
+verbatimElevation: (The original verbatim text of the elevation (altitude) of the occurrence), 
+prompt1.4
+verbatimElevation: (The original verbatim text of the elevation (altitude) of the occurrence), 
+===========================================================================
+prompt1.3
+secondaryCollectors: (These are collectors listed after the first, only capitalize names)
+prompt1.4
+secondaryCollectors: (These are collectors listed after the first, only capitalize names) Use this format: Initials followed by full last name
+===========================================================================
+prompt1.3
+recordNumber: (An identifier given to the occurrence at the time it was recorded - this is the collection number by the person who collected the specimen), 
+prompt1.4
+recordNumber: (An identifier given to the occurrence at the time it was recorded - this is the collection number by the person who collected the specimen), If not present put “s.n.”
+===========================================================================
+prompt1.3
+verbatimEventDate: (The original verbatim text of the date and time information for the original occurrence), 
+prompt1.4
+verbatimEventDate: (The original verbatim text of the date and time information for the original occurrence), if not present put “s.d.”. 
+===========================================================================
+prompt1.3
+associatedTaxa: (This is a taxonomic name that may be directly associated with the acceptedScientificName. i.e., it is growing directly with the acceptedScientificName. This is not a scientific name that is associated with the general forest or vegetation that describes the habitat), 
+prompt1.4
+associatedTaxa: (This is a taxonomic name that may be directly associated with the acceptedScientificName. i.e., it is growing directly with the acceptedScientificName. This is not a scientific name that is associated with the general forest or vegetation that describes the habitat), 
+===========================================================================
+prompt1.3
+otherCatalogNumbers: (An identifier for the record within the dataset - this is not to be confused with the recordNumber - the otherCatalogNumbers maybe a stamped number on the herbarium sheet), 
+prompt1.4
+otherCatalogNumbers: (An identifier for the record within the dataset - this is not to be confused with the recordNumber - the otherCatalogNumbers maybe a stamped number on the herbarium sheet), 
+===========================================================================
+prompt1.3
+municipality: (The city, town, village in which the event occurred), 
+prompt1.4
+municipality: (The city, town, village in which the event occurred), 
+===========================================================================
+prompt1.3
+locality: (The specific description of the place. For all entries do not shorten units of measurement and always print out full units (mi to miles, m to meters, ft to feet). Exclude the coordinates or information on latitude and longitude and exclude any information about the elevation, exclude any reference to vegetation, habitat and just retain where the plant was collected. Include any place names, names of parks, etc. If the first and second political units have been parsed out, do not repeat them here.) If no Precise Locality is found put the following [precise locality unknown]
+prompt1.4
+locality: (The specific description of the place. For all entries do not shorten units of measurement and always print out full units (mi to miles, m to meters, ft to feet). Exclude the coordinates or information on latitude and longitude and exclude any information about the elevation, exclude any reference to vegetation, habitat and just retain where the plant was collected. Include any place names, names of parks, etc. If the first and second political units have been parsed out, do not repeat them here.)(Do not abbreviate or shorten the response) If no Precise Locality is found put the following [precise locality unknown]
+===========================================================================
+prompt1.3
+latestScientificName: If there are multiple scientific names select the one with the latest determination date.This might be on an extra label.
+prompt1.4
+latestScientificName: If there are multiple scientific names select the one with the latest determination date.This might be on an extra label.
+===========================================================================
+prompt1.3
+originalMethod: The method by which the original data was recorded, select from this list (Handwritten, Typed, Mix of Handwritten and Typed, Unsure)
+prompt1.4
+originalMethod: The method by which the original data was recorded, select from this list (Handwritten, Typed, Mix of Handwritten and Typed, Unsure)
+===========================================================================
+prompt1.3
+verbatimLocality: (The original textual description of the place where the occurrence was recorded, do not convert any abbreviated text at all, do not convert acronyms, exclude however the coordinates or information on latitude and longitude, exclude elevation, this should otherwise read precisely as it is on the label), If the first and second political units have been parsed out, do not repeat them here. 
+prompt1.4
+verbatimLocality: (The original textual description of the place where the occurrence was recorded, do not convert any abbreviated text at all, do not convert acronyms, exclude however the coordinates or information on latitude and longitude, exclude elevation, this should otherwise read precisely as it is on the label), If the first and second political units have been parsed out, do not repeat them here. 
+===========================================================================
+prompt1.3
+country: (The name of the country or major administrative unit in which the event occurred), 
+prompt1.4
+country: (The name of the country or major administrative unit in which the event occurred), Please find and enter the current name of the country,
+===========================================================================
+
+
+
+***************************************************************************
+
+
+prompt1.4
+minimumEventDate: (The date the specimen was collected. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".), Used if date is singular or start of date if a range, 
+prompt1.5.2
+minimumEventDate: (The date the specimen was collected. Convert the date as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".), Used if date is singular or start of date if a range, 
+===========================================================================
+prompt1.4
+collectedBy: (The First Collector, only capitalize names) Collected by or collectors maybe prefixed by leg. or sometimes legit. Use this format: Initials followed by full last name
+prompt1.5.2
+collectedBy: (The First Collector, only capitalize names) Collected by or collectors may be prefixed by leg. or sometimes legit. The collector’s name should be formatted with the first and/or middle names abbreviated and the last name spelled out, eg. R. M. Schuster. Spacing is required between the first, middle, and last names.
+===========================================================================
+prompt1.4
+firstPoliticalUnit: (The name of the first-order administrative division in which the event occurred (e.g., state or province)), 
+prompt1.5.2
+firstPoliticalUnit: (The name of the first-order administrative division in which the event occurred (e.g., state or province)), Use the name only and omit the political division tier. This would be immediately after country in terms of hierarchy. 
+===========================================================================
+prompt1.4
+typeStatus: If the specimen has “type” written or typed on the label and can take the form holotype, isotype etc state as such, otherwise so “no type status”
+prompt1.5.2
+typeStatus: If the specimen has “type” written or typed on the label and can take the form holotype, isotype etc state as such, otherwise so “no type status”
+===========================================================================
+prompt1.4
+identifiedBy: (this is the person who identified the specimen, sometimes represented by Det. or det. Or determined by. Use this format: Initials followed by full last name. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A.
+prompt1.5.2
+identifiedBy: (this is the person who identified the specimen, sometimes represented by Det. or det. Or determined by. The name should be formatted with the first and/or middle names abbreviated and the last name spelled out, eg. R. M. Schuster. Spacing is required between the first, middle, and last names. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A.
+===========================================================================
+prompt1.4
+habitat: (The description of the habitat in which the specimen was collected as described on the original label, this might be a description or summarization of all of the existing biotic and abiotic factors in the current area that may assist in the survival and reproduction of the collected specimen, for example, the description of the forest, geography etc.)
+prompt1.5.2
+habitat: (The description of the habitat in which the specimen was collected as described on the original label, this might be a description or summarization of all of the existing biotic and abiotic factors in the current area that may assist in the survival and reproduction of the collected specimen, for example, the description of the forest, geography etc.)
+===========================================================================
+prompt1.4
+maximumEventDate: Used for the last date in a range. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".)
+prompt1.5.2
+maximumEventDate: Used for the last date in a range. If there is no range, insert N/A. Do not repeat the minimumEventDate.  Convert the date as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".)
+===========================================================================
+prompt1.4
+secondPoliticalUnit:  The name of the second-order administrative division in which the event occurred (e.g., county)), 
+prompt1.5.2
+secondPoliticalUnit: There may or may  The name of the second-order administrative division in which the event occurred (e.g., county)), Use the name only and omit the political division tier. 
+===========================================================================
+prompt1.4
+verbatimCoordinates: (The original verbatim text of the coordinates, if they exist on the label), 
+prompt1.5.2
+verbatimCoordinates: (The original verbatim text of the coordinates, if they exist on the label), Precisely as appearing on label.
+===========================================================================
+prompt1.4
+verbatimIdentification: A string representing the taxonomic identification as it appeared in the original label. This term is meant to allow the capture of an unaltered original identification/determination, including identification qualifiers, hybrid formulas, uncertainties, etc. 
+prompt1.5.2
+verbatimIdentification: A string representing the taxonomic identification as it appeared in the original label. This term is meant to allow the capture of an unaltered original identification/determination, including identification qualifiers, hybrid formulas, uncertainties, etc. Precisely as appearing on label.
+===========================================================================
+prompt1.4
+verbatimCollectors: (The collectors as you see it on the label, this might be one collector, a string of collectors, that collected the sample) Collected by or collectors maybe prefixed by leg. or sometimes legit
+prompt1.5.2
+verbatimCollectors: (The collectors as you see it on the label, this might be one collector, a string of collectors, that collected the sample) Collected by or collectors maybe prefixed by leg. or sometimes legit
+===========================================================================
+prompt1.4
+verbatimDateIdentified: (The date on which the subject was identified as representing the Taxon. This is not eventDate so make sure to differentiate), 
+prompt1.5.2
+verbatimDateIdentified: (The date on which the subject was identified as representing the Taxon. This is not eventDate so make sure to differentiate), Precisely as appearing on label.
+===========================================================================
+prompt1.4
+verbatimElevation: (The original verbatim text of the elevation (altitude) of the occurrence), 
+prompt1.5.2
+verbatimElevation: (The original verbatim text of the elevation (altitude) of the occurrence), Precisely as appearing on label.
+===========================================================================
+prompt1.4
+secondaryCollectors: (These are collectors listed after the first, only capitalize names) Use this format: Initials followed by full last name
+prompt1.5.2
+secondaryCollectors: (These are collectors listed after the first, only capitalize names) The names should be formatted with the first and/or middle names abbreviated and the last name spelled out, eg. R. M. Schuster. Spacing is required between the first, middle, and last names. Also separate multiple collectors by a pipe (ie |).
+===========================================================================
+prompt1.4
+recordNumber: (An identifier given to the occurrence at the time it was recorded - this is the collection number by the person who collected the specimen), If not present put “s.n.”
+prompt1.5.2
+recordNumber: (An identifier given to the specimen at the time it was recorded - this is the collection number by the person who collected the specimen), If not present put “s.n.”
+===========================================================================
+prompt1.4
+verbatimEventDate: (The original verbatim text of the date and time information for the original occurrence), if not present put “s.d.”. 
+prompt1.5.2
+verbatimEventDate: (The Verbatim Date field is used to record the collection date exactly as shown on the label - with no correction of spacing, or anything else. Precisely as appearing on label.), If not present put “s.d.”. 
+===========================================================================
+prompt1.4
+associatedTaxa: (This is a taxonomic name that may be directly associated with the acceptedScientificName. i.e., it is growing directly with the acceptedScientificName. This is not a scientific name that is associated with the general forest or vegetation that describes the habitat), 
+prompt1.5.2
+associatedTaxa: (This is a taxonomic name that may be directly associated with the acceptedScientificName. i.e., it is growing directly with the acceptedScientificName. This is not a scientific name that is associated with the general forest or vegetation that describes the habitat). Can you strip the taxonomic authority (appears as a persons name and not a Latin name, the persons name might be abbreviated with initials at the end of the name and just provide the Latin binomial.
+===========================================================================
+prompt1.4
+otherCatalogNumbers: (An identifier for the record within the dataset - this is not to be confused with the recordNumber - the otherCatalogNumbers maybe a stamped number on the herbarium sheet), 
+prompt1.5.2
+otherCatalogNumbers: (An identifier for the record within the dataset - this is not to be confused with the recordNumber - the otherCatalogNumbers maybe a stamped number on the herbarium sheet), 
+===========================================================================
+prompt1.4
+municipality: (The city, town, village in which the event occurred), 
+prompt1.5.2
+municipality: (The city, town, village in which the event occurred), 
+===========================================================================
+prompt1.4
+locality: (The specific description of the place. For all entries do not shorten units of measurement and always print out full units (mi to miles, m to meters, ft to feet). Exclude the coordinates or information on latitude and longitude and exclude any information about the elevation, exclude any reference to vegetation, habitat and just retain where the plant was collected. Include any place names, names of parks, etc. If the first and second political units have been parsed out, do not repeat them here.)(Do not abbreviate or shorten the response) If no Precise Locality is found put the following [precise locality unknown]
+prompt1.5.2
+locality: (The specific description of the place. For all entries do not shorten units of measurement and always print out full units (mi to miles, m to meters, ft to feet). Exclude the coordinates or information on latitude and longitude and exclude any information about the elevation, exclude any reference to vegetation, habitat and just retain where the plant was collected. Include any place names, names of parks, etc. If the first and second political units have been parsed out, do not repeat them here.) (Do not abbreviate or shorten the response) If no Precise Locality is found put the following [precise locality unknown]
+===========================================================================
+prompt1.4
+latestScientificName: If there are multiple scientific names select the one with the latest determination date.This might be on an extra label.
+prompt1.5.2
+latestScientificName: If there are multiple scientific names select the one with the latest determination date.This might be on an extra label. A scientific name is typically a binomial with a genus name and species name. Sometimes there might be a variety or subspecies identified by var. or subsp.. Can you strip the taxonomic authority (appears as a persons name and not a Latin name, the persons name might be abbreviated with initials at the end of the name and just provide the Latin binomial.
+===========================================================================
+prompt1.4
+originalMethod: The method by which the original data was recorded, select from this list (Handwritten, Typed, Mix of Handwritten and Typed, Unsure)
+prompt1.5.2
+originalMethod: The method by which the original data was recorded, select from this list (Handwritten, Typed, Mix of Handwritten and Typed, Unsure)
+===========================================================================
+prompt1.4
+verbatimLocality: (The original textual description of the place where the occurrence was recorded, do not convert any abbreviated text at all, do not convert acronyms, exclude however the coordinates or information on latitude and longitude, exclude elevation, this should otherwise read precisely as it is on the label), If the first and second political units have been parsed out, do not repeat them here. 
+prompt1.5.2
+verbatimLocality: (The original textual description of the place where the occurrence was recorded, do not convert any abbreviated text at all, do not convert acronyms, exclude however the coordinates or information on latitude and longitude, exclude elevation, this should otherwise read precisely as it is on the label), If the first and second political units have been parsed out, do not repeat them here. 
+===========================================================================
+prompt1.4
+country: (The name of the country or major administrative unit in which the event occurred), Please find and enter the current name of the country,
+prompt1.5.2
+country: (The name of the country or major administrative unit in which the event occurred), Please find and enter the current name of the country, convert abbreviations to full country name
+===========================================================================
+
+
+
+***************************************************************************
+
+
