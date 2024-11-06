@@ -29,7 +29,7 @@ class Comparison:
         self.POST_PROCESSING_CONFIG = config["POST_PROCESSING_CONFIG"]
         self.SOURCE_PATH = self.config["SOURCE_PATH"]
         self.GROUND_TRUTH_FILENAME = self.config["GROUND_TRUTH_FILENAME"]
-        self.GROUND_TRUTH_PATH = "DataAnalysis/GroundTruth/"
+        self.GROUND_TRUTH_PATH = "DataAnalysis/GroundTruths/"
         self.RUN_SPREADNAMES = self.config["LLM_SPREAD_SOURCES"] 
         self.RESULTS_PATH = self.config["RESULTS_PATH"]
         self.RESULT_FILENAME = self.config["RESULT_FILENAME"]
@@ -194,7 +194,7 @@ if __name__ == "__main__":
     CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
 
     # copy in the name of the configuration file to be used below
-    config_filename = "gpt_no_verbatim.yaml" 
+    config_filename = "basic_single_run.yaml" 
 
     accuracy_run = Comparison(CONFIG_PATH+config_filename)
     accuracy_run.run()

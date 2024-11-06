@@ -1,0 +1,23 @@
+Associated Files,,,,,,
+Run Name,DataSets,Prompt version,Ground Truth,,Notes,
+gpt-4-2024-11-05-2140,dataset1.txt,Prompt 1.3.txt,300-mixed_families-202-fully_typed-20-label_only.csv,,3.2a,original transcription file was corrupted: rerun on 2024-11-06 with same model as original run--gpt-4-0314(legacy)
+gpt-4-2024-04-04,dataset1.txt,Prompt 1.4.txt,300-mixed_families-202-fully_typed-20-label_only.csv,,3.2b,
+gpt-4-2024-04-10-1334,dataset2.txt,Prompt 1.4.txt,202-mixed_families-typed.csv,,3.3,
+gpt-4-2024-05-07-1356,dataset3.txt,Prompt 1.5.2.txt,78-bryophytes-typed.csv,,3.4a,
+gpt-4-2024-05-07-1952,dataset3.txt,Prompt 1.5.2.txt,78-bryophytes-typed.csv,,3.4b,
+gpt-4o-2024-06-05-COLORIMAGES,dataset4.txt,Prompt 1.5.2.txt,100-bryophytes-typed-enhanced_images_test.csv,,3.5a,
+gpt-4o-2024-06-05-BWImages,dataset6.txt,Prompt 1.5.2.txt,100-bryophytes-typed-enhanced_images_test.csv,,3.5b,enhanced contrast
+gpt-4-2024-05-30-1139,dataset5.txt,Prompt 1.5.2.txt,100-bryophytes-typed.csv,,3.6a,
+gpt-4-2024-05-30-1025,dataset7.txt,Prompt 1.5.2.txt,100-bryophytes-typed.csv,,3.6b,cropped labels
+gpt-4o-2024-06-11-1050,dataset5.txt,Prompt 1.5.2.txt,100-bryophytes-typed.csv,,3.7a,
+gpt-4o-2024-06-11-1110,dataset5.txt,Prompt 1.5.2.txt,100-bryophytes-typed.csv,,3.7b,
+claude-3-opus-2024-06-12-1404,dataset5.txt,Prompt 1.5.2.txt,100-bryophytes-typed.csv,,3.8a,
+claude-3-opus-2024-06-12-1440,dataset5.txt,Prompt 1.5.2.txt,100-bryophytes-typed.csv,,3.8b,
+gemini-1.5-pro-2024-06-20-0153,dataset5.txt,Prompt 1.5.2.txt,100-bryophytes-typed.csv,,3.9a,
+gemini-1.5-pro-2024-06-26-1108,dataset5.txt,Prompt 1.5.2.txt,100-bryophytes-typed.csv,,3.9b,
+claude-3.5-sonnet-2024-06-21-1043,dataset5.txt,Prompt 1.5.2.txt,100-bryophytes-typed.csv,,3.10a,
+claude-3.5-sonnet-2024-06-26-1050,dataset5.txt,Prompt 1.5.2.txt,100-bryophytes-typed.csv,,3.10b,
+gpt-4o-2024-06-11-1050-no_verbatim,dataset5.txt ,Prompt 1.5.2.txt,100-bryophytes-typed.csv,,3.11a,
+gpt-4o-2024-06-11-1050-skeleton_fields,dataset5.txt,Prompt 1.5.2.txt,100-bryophytes-typed.csv,,3.11b,
+gpt-4o-gemini-1.5-pro-cross-validated_values,dataset5.txt,Prompt 1.5.2.txt,100-bryophytes-typed.csv,,3.12,BatchRuns
+claude-3.5-sonnet-various_prompts,dataset5.txt,"Prompts 1.0,1.1,1.2,1.3,1.4,1.5.2(.txt)",25-bryophytes-typed.csv,,Table 5,BatchRuns
