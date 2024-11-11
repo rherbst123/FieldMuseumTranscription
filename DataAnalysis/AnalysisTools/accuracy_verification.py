@@ -1,7 +1,7 @@
 # This script gets the accuracy of runs without all the bells and whistles of comparison_and_accuracy.py
 # It is intended to verify the results of that script
 
-import utility
+from Utilities import utility
 import re
 
 SOURCE_PATH = "AutomaticAnalysis/SourcesForPaper/"

@@ -1,24 +1,18 @@
-# enter the name of this file into `comparison_and_accuracy.py`, `llm_agreement_and_accuracy.py` or `postprocessor.py`
-# the only modifications needed to run those scripts are in the COMPARISON_CONFIG
-# the other configurations are optional
 
-CONFIGURATION_NAME: ""    # give your configuration a name and copy that name into either:
-
+CONFIGURATION_NAME: "end_to_end_comparisons"   
 COMPARISON_CONFIG:
    RECORD_REF_FIELDNAME: "accessURI"   # this is the fieldname used for reference in the errors file, here a URL
-   SKIP_LIST: ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"] 
+   SKIP_LIST: ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "URL", "Image", "substrate"] 
    SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
    USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
-   LLM_SPREAD_SOURCES: []    # ["Spread_6_11_1050.csv", "Spread_6_11_1110.csv"]
-   GROUND_TRUTH_FILENAME: ""    # "First100BryophytesTyped.csv"
-   RESULT_FILENAME: ""   #  "demo.csv"
-   ERRORS_FILENAME: ""   #  "demo_errors.txt"
-   SOURCE_PATH: "AutomaticAnalysis/Sources/"
-   RESULTS_PATH: "AutomaticAnalysis/Results/"
+   SOURCE_PATH: "DataAnalysis/Transcriptions/"
+   RUN_NAME: "claude-3.5-sonnet-2024-08-02-1600-prompt1.5.2" 
+   GROUND_TRUTH_FILENAME: "25-bryophytes-typed.csv"
+   RESULTS_PATH: "DataAnalysis/Comparisons/"
+   
+   
 
-# THE FOLLOWING CONFIGURATIONS ARE OPTIONAL
-
-# edit distance is the minimal sum of the COSTS of the operations needed to change string1 (s1) into string2 (s2)
+# edit distance is the sum of the COSTS of the operations needed to change string1 (s1) into string2 (s2)
 # COSTS are lists of lists.
 # For INSERT_CHAR and DELETE_CHAR, the order of the two elements of the inner list is char, cost.
 # For SUBSTITUTION_CHAR and TRANSPOSITION_CHAR, the order of the three elements of the inner list is

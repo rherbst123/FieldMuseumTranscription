@@ -1,0 +1,83 @@
+# this template was created on 2024-11-09
+
+# enter the name of this file into `comparison_and_accuracy.py`, 'end_to_end_comparison_and_accuracy.py', `llm_agreement_and_accuracy.py` or `postprocessor.py`
+# the only modifications needed to run those scripts are in the COMPARISON_CONFIG
+# the other configurations are optional
+
+
+COMPARISON_CONFIG:
+    COMPARISON_TYPE: "batch_run"
+    RUN_NAMES: []  # e,g,. ["gpt-4o-2024-06-11-1050", "gpt-4o-2024-06-11-1110"]
+                   # see DataAnalsis/README.md for run naming conventions
+    BATCH_NAME: "" # this name is NOT optional; 
+                                # BATCH_NAME will be used instead of RUN_NAMES for the comparison filename.
+                                    # individual run names will be listed in the comparison file: e.g., "gpt-4o-2024-06-11-1050"
+
+    COMPARISON_NAME: ""  # this name is optional
+                                        # the comparison name will be appended to BATCH_NAME for comparison files.
+                                        # for example: BATCH_NAME: "gpt-4o-2024-repeats"
+                                        #              COMPARISON_NAME: "skeleton_fields"
+                                        # will produce the file: "gpt-4o-repeats-skeleton_fields-comparsions.csv" 
+                                                    
+                                
+                            
+    RECORD_REF_FIELDNAME: "accessURI"   # this is the fieldname used for reference in the errors file, here a URL
+    SKIP_LIST: ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"] 
+    SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
+    USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
+    GROUND_TRUTH_FILENAME: "100-bryophytes-typed.csv"    # "100-bryophytes-typed.csv"
+    TRANSCRIPTIONS_PATH: "DataAnalysis/Transcriptions/"
+    COMPARISONS_PATH: "DataAnalysis/Comparisons/"
+
+# THE FOLLOWING CONFIGURATIONS ARE OPTIONAL
+
+# edit distance is the minimal sum of the COSTS of the operations needed to change string1 (s1) into string2 (s2)
+# COSTS are lists of lists.
+# For INSERT_CHAR and DELETE_CHAR, the order of the two elements of the inner list is char, cost.
+# For SUBSTITUTION_CHAR and TRANSPOSITION_CHAR, the order of the three elements of the inner list is
+#     char to substitute in, target char to be substituted out, cost.
+EDIT_DISTANCE_CONFIG:  # fieldnames have precedence over defaults, just in case USE_FIELNAMES_EXCLUSIVELY is False
+    USE_FIELDNAMES_EXCLUSIVELY: False  
+    FIELDNAMES_COSTS:
+        RANDO_FIELDNAME1:                      # verbatimCollectors:
+            INSERT_CHAR_COSTS: [[]]           #     INSERT_CHAR_COSTS: [[".", 0.5]] 
+            DELETE_CHAR_COSTS:  [[]]
+            SUBSTITUTION_CHAR_COSTS: [[]]
+            TRANSPOSITON_CHAR_COSTS: [[]]
+        RANDO_FIELDNAME2:                      # verbatimCoordinates:
+            INSERT_CHAR_COSTS: [[]]           #     INSERT_CHAR_COSTS: [[".", 0.25]] 
+            DELETE_CHAR_COSTS:  [[]]
+            SUBSTITUTION_CHAR_COSTS: [[]]
+            TRANSPOSITON_CHAR_COSTS: [[]]    
+    DEFAULT_FIELDS_CUSTOM_COSTS:
+        INSERT_CHAR_COSTS: [[]]  # INSERT_CHAR_COSTS: [[".", 0.25], [" ", "0.25"], [",", 0.5]] 
+        DELETE_CHAR_COSTS:  [[]]
+        SUBSTITUTION_CHAR_COSTS: [[]]  # SUBSTITUTION_CHAR_COSTS: [ ["á", "a", 0.10], ["é", "e", 0.11], ["í", "i",0.12], ["ó","o", 0.13], ["ú","u", 0.14]]
+        TRANSPOSITON_CHAR_COSTS: [[]]
+
+TOLERANCES_CONFIG: 
+    TOLERANCES_ALLOWED: False  # enter True to enable tolerances for comparisons
+    TOLS: 
+        RANDO_FIELDNAME1:  # verbatimLocality:
+            -                   # - double_space
+            -                   #  - missing_abbreviation_point 
+        RANDO_FIELDNAME2:  #  verbatimCoordinates:
+            -                   #  - misaligned_spacing
+        ENABLE_EDIT_DISTANCE_THRESHOLD: False   # enter True to allow using Levenshtein distance among the tolerances     
+        EDIT_DISTANCE_THRESHOLDS:  # fieldnames take precedence over default
+            RANDO_FIELDNAME1:    # verbatimCollectors
+                SCALED:          # Boolean, False would use the raw Levenshtein distance, which can be any value greater than zero
+                VALUE:           # float or int, this is the sum of the costs, perhaps customized costs, which can be floats of any size
+                                     # an unscaled value less than VALUE will be within tolerances
+            RANDO_FIELDNAME2:    # verbatimCoordinates
+                SCALED:          # Boolean
+                VALUE:           # float or int                                                
+            DEFAULT:
+                SCALED:          # Boolean, True would scale Levenshtein distance to a value in the range of 0.0 and 1.00
+                VALUE:               # a scaled value less than VALUE will be within tolerances
+
+POST_PROCESSING_CONFIG:    # this is a list of fieldnames, the data for which can be post-processed in `post_processor.py`
+    - RANDO_FIELDNAME1   #  - verbatimCollectors
+    - RANDO_FIELDNAME2   #  - verbatimCoordinates
+
+                        

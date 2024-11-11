@@ -4,7 +4,7 @@
 
 
 from comparison_and_accuracy import Comparison
-import utility
+from Utilities import utility
 import re
 
 class Agreement(Comparison):
@@ -171,11 +171,11 @@ class Agreement(Comparison):
                  
     
 if __name__ == "__main__":
-    CONFIG_PATH = "AutomaticAnalysis/Configurations/"
+    CONFIG_PATH = "DataAnalysis/Configurations/"
     # copy in the name of the configuration file to be used below
     config_filename = "" 
     
-    agreement = Agreement(CONFIG_PATH+config_filename)
+    agreement = Agreement(CONFIG_PATH, config_filename)
     saved_filenames = agreement.cross_validate_then_complete_fields_algorithmically()
     agreement.RUN_SPREADNAMES = saved_filenames
     agreement.run()

@@ -19,7 +19,7 @@ Alternatively, if you want to use just the scripts in this folder, you can enter
 
 `pip install nltk weighted-levenshtein numpy`
 
-After everything has been installed the next step is to define and/or select a configuration for `comparison_and_accuracy.py`, `cross_validation_and_accuracy.py`, `cross_validationX2_and_accuracy.py` or `post_processing.py`. (These scripts are explained in the following sections.)
+After everything has been installed the next step is to define and/or select a configuration for `comparison_and_accuracy.py`, `end_to_end_comparison_and_accuracy.py`, `cross_validation_and_accuracy.py`, `cross_validationX2_and_accuracy.py` or `post_processing.py`. (These scripts are explained in the following sections.)
 
 Go to the `Configurations` folder and copy the contents of `configuration_template.yaml` into a new file in the same folder. Fill out the configuration, the instructions for which are in the comments in the file.
 
@@ -60,6 +60,14 @@ When all files have been compared, a single csv is created with the results.
 Individuals errors are stored as strings and written alongside Ground Truth targets to a separate text file.
 
 For more information, see `DataAnalysis/Comparisons/README.md`.
+
+## END TO END COMPARISON AND ACCURACY
+
+`end_to_end_comparison_and_accuracy.py` takes an LLM .txt file output and first converts it a .csv file,
+
+and then performs a comparison run. This can be useful if an LLM output has not yet parsed to a .csv file.
+
+Note that LLM output files are expected to be in the `Transcriptions/TextTranscriptions` directory.
 
 
 ## CROSS VALIDATION AND ACCURACY

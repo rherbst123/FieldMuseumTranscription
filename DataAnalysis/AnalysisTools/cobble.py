@@ -1,4 +1,4 @@
-import utility
+from Utilities import utility
 import copy
 SOURCEFILE_AVERAGES1 = "multi_agreement_gpt_sonnet_gemini.csv"
 SOURCEFILE_AVERAGES2 = "tagged_model_repeats.csv"

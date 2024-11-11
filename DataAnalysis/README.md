@@ -1,3 +1,9 @@
+# DATA ANALYSIS
+
+Many folders in this directory contain their own READMEs and should be consulted for explanation of their respective folders.
+
+Below are the naming conventions employed which are used to associate a run with its various data files.
+
 
 ### Naming Conventions
 
