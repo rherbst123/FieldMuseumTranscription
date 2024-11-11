@@ -1,0 +1,279 @@
+
+comparison_config = {'COMPARISON_TYPE': 'single_run', 'RUN_NAME': 'claude-3.5-sonnet-2024-08-02-1600-prompt1.5.2', 'COMPARISON_NAME': '', 'RECORD_REF_FIELDNAME': 'accessURI', 'SKIP_LIST': ['Image Name', 'catalogNumber', 'Dataset Source', 'accessURI', 'Label only?', 'modifiedBy', 'verifiedBy', 'substrate', 'URL', 'Image'], 'SELECTED_FIELDS_LIST': [], 'USE_SELECTED_FIELDS_ONLY': False, 'GROUND_TRUTH_FILENAME': '100-bryophytes-typed.csv', 'TRANSCRIPTIONS_PATH': 'DataAnalysis/Transcriptions/', 'COMPARISONS_PATH': 'DataAnalysis/Comparisons/'}
+edit_distance_config = {'USE_FIELDNAMES_EXCLUSIVELY': False, 'FIELDNAMES_COSTS': {'RANDO_FIELDNAME1': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}, 'RANDO_FIELDNAME2': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}, 'DEFAULT_FIELDS_CUSTOM_COSTS': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}
+tolerances_config = {'TOLERANCES_ALLOWED': False, 'TOLS': {'RANDO_FIELDNAME1': [None, None], 'RANDO_FIELDNAME2': [None], 'ENABLE_EDIT_DISTANCE_THRESHOLD': False, 'EDIT_DISTANCE_THRESHOLDS': {'RANDO_FIELDNAME1': {'SCALED': False, 'VALUE': 2.5}, 'RANDO_FIELDNAME2': {'SCALED': True, 'VALUE': 0.1}, 'DEFAULT': {'SCALED': True, 'VALUE': 0.0}}}}
+
+
+spreadsource = 'claude-3.5-sonnet-2024-08-02-1600-prompt1.5.2-transcriptions.csv'
+
+verbatimCollectors: 23
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.6: leg H Fleischer nr B 2754___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.61: leg. W. Fleischer nr. B 2692___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0.6: leg M Fleischer nr B 2952___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.6: leg M Fleischer nr B 2697___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.09: T Nakajima___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.54: Coll. & det. T. Nakajima___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.38: leg S Hattori___S. Hattori
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.48: Leg. R.P.J.-B. Faurie___R.P. J.B. Ferrié
+https://fm-digital-assets.fieldmuseum.org/2303/629/C0268554F.jpg, gradedNoMatchValid = 1: N/A___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/633/C0268557F.jpg, gradedNoMatchValid = 0.67: A Touw No 18543___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/635/C0268558F.jpg, gradedNoMatchValid = 1: N/A___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/637/C0268559F.jpg, gradedNoMatchValid = 0.59: A. Touw No. 16376___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/639/C0268560F.jpg, gradedNoMatchValid = 1: N/A___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/641/C0268561F.jpg, gradedNoMatchValid = 0.67: A Touw No 16420___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/643/C0268562F.jpg, gradedNoMatchValid = 0.59: A. Touw No. 17205___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/645/C0268563F.jpg, gradedNoMatchValid = 0.67: A Touw No 18046___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/647/C0268564F.jpg, gradedNoMatchValid = 0.59: A. Touw No. 16555___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/649/C0268565F.jpg, gradedNoMatchValid = 0.67: A Touw No 15768___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0.38: leg S Hattori___S. Hattori
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 0.35: Coll. K. Mayebara___K. Mayebara
+https://fm-digital-assets.fieldmuseum.org/2303/661/C0268571F.jpg, gradedNoMatchValid = 0.4: Coll K Mayebara___K. Mayebara
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 1: N/A___K. Mayebara
+https://fm-digital-assets.fieldmuseum.org/2303/668/C0268574F.jpg, gradedNoMatchValid = 1: N/A___H. H. Chung
+
+collectedBy: 8
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.08: H. Fleischer___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.08: W. Fleischer___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.5: R. P. J.-B. Faurie___R. P. Ferrié
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.33: R. P. J. B. Ferrié___R. P. Ferrié
+https://fm-digital-assets.fieldmuseum.org/2303/629/C0268554F.jpg, gradedNoMatchValid = 1: N/A___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/635/C0268558F.jpg, gradedNoMatchValid = 1: N/A___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/641/C0268561F.jpg, gradedNoMatchValid = 0.14: A Touw___A. Touw
+https://fm-digital-assets.fieldmuseum.org/2303/649/C0268565F.jpg, gradedNoMatchValid = 0.14: A Touw___A. Touw
+
+recordNumber: 10
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.17: B 2754___B 2734
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0.17: B 2952___B 2552
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 1.0: s.n.___1229
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 1.0: s.n.___714
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 1.0: s.n.___1129
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1.0: s.n.___33
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 1.0: s.n.___20
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 1.0: s.n.___431
+https://fm-digital-assets.fieldmuseum.org/2303/661/C0268571F.jpg, gradedNoMatchValid = 1.0: s.n.___430
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 1.0: s.n.___322
+
+verbatimEventDate: 11
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.33: 25 4 1903___25.3.1903
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.11: 29.3.1903___25.3.1903
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.38: 1 X 1946___X.1946
+https://fm-digital-assets.fieldmuseum.org/2303/629/C0268554F.jpg, gradedNoMatchValid = 0.11: 9-3- 1975___9-3-1975
+https://fm-digital-assets.fieldmuseum.org/2303/635/C0268558F.jpg, gradedNoMatchValid = 0.11: 8.5. 1975___8.5.1975
+https://fm-digital-assets.fieldmuseum.org/2303/639/C0268560F.jpg, gradedNoMatchValid = 0.43: Dat. 8.5. 1975___8.5.1975
+https://fm-digital-assets.fieldmuseum.org/2303/643/C0268562F.jpg, gradedNoMatchValid = 0.11: 5.5. 1975___5.5.1975
+https://fm-digital-assets.fieldmuseum.org/2303/649/C0268565F.jpg, gradedNoMatchValid = 0.11: 7.4. 1975___7.4.1975
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0.22: 'III 1946___VIII.1946
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 0.09: March, 1952___March 1952
+https://fm-digital-assets.fieldmuseum.org/2303/668/C0268574F.jpg, gradedNoMatchValid = 0.92: s.d.___August, 1925
+
+minimumEventDate: 4
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.1: 1903-04-25___1903-03-25
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.1: 1903-03-29___1903-03-25
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.1: 1946-10-01___1946-10-00
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0.1: 1946-03-00___1946-08-00
+
+municipality: 7
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 1: N/A___Eumundi
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 1: N/A___Eumundi
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 1: N/A___Sydney
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0: Ohara___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 1: N/A___Shirahama
+https://fm-digital-assets.fieldmuseum.org/2303/629/C0268554F.jpg, gradedNoMatchValid = 1: N/A___Lae
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 1: N/A___Hitoyoshi
+
+verbatimLocality: 24
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.53: Eumundi (ca 100 km nordlich Brisbane) Urwald___Australien: Queensland, Eumundi (ca. 100 km nördlich Brisbane)
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.52: Eumundi (ca. 100 km nördlich Brisbane), Urwald___Australien: Queensland, Eumundi (ca. 100 km nördlich Brisbane)
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0.41: Blue Mountains bei Sydney, Wentworth Falls___Australien: New South Wales, Blue Mountains bei Sydney, Wentworth Falls
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.67: bei Brisbane___Australien: Queensland, bei Brisbane
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.46: On vertical face of rock, 330 m alt., Ohara, Yata, Nishimuro-gun, Wakayama Prefecture___Ohara, Yuya, Oto-mura, Nishimuro-gun, Wakayama Prefecture
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.12: Mt. Ohako; Nara Prefecture___Mt. Obaki, Nara Prefecture
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.31: On rocks, ca. 100 m alt., Shirahama-cho, Nishimuro-gun, Wakayama Prefecture___Syōgawa, Shirahama-chō, Nishimuro-gun, Wakayama Prefecture
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.23: KIUSHIU: Miyazaki, Minamimata, Sakatani___Kiushiu, Miyazaki, Minaminaka, Sakatani
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.2: Iles Liou-Kiou - Centre de l'ile___Japon : Iles Liou-Kiou - Centre de l'ile
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.47: Yaku-Sima___Japon : Yaku-Sima
+https://fm-digital-assets.fieldmuseum.org/2303/629/C0268554F.jpg, gradedNoMatchValid = 0.86: In fork of Plumeria tree in garden___Papua New Guinea, Morobe Distr., Lae
+https://fm-digital-assets.fieldmuseum.org/2303/633/C0268557F.jpg, gradedNoMatchValid = 0.72: Busilmin; wet forest on slope above Ok Din river W of Busilmin; on trees along Ok Din River___Papua New Guinea, West Sepik Distr., Star Mts., Busilmin. slope above Ok Din river W of Busilmin
+https://fm-digital-assets.fieldmuseum.org/2303/635/C0268558F.jpg, gradedNoMatchValid = 0.81: c 5°S141°05E NE summit of Mt. Capella; on stems and branches of trees and shrubs in summit scrub___Papua New Guinea, West Sepik Distr., Star Mts., NE summit of Mt. Capella
+https://fm-digital-assets.fieldmuseum.org/2303/637/C0268559F.jpg, gradedNoMatchValid = 0.8: c. 5°S141°05'E Mt. Capella Base Camp; Limestone ridge near camp; c. 4 -5 m. high stunted forest on ridge___Papua New Guinea, West Sepik Distr., Star Mts., Mt. Capella Base Camp
+https://fm-digital-assets.fieldmuseum.org/2303/639/C0268560F.jpg, gradedNoMatchValid = 0.45: c. 5°S 141°05'E NE Summit of Mt. Capella. Summit of ridge between Mt. Capella Base Camp and Mt. Capella ridge; on isolated tree___Papua New Guinea, West Sepik Distr., Star Mts., NE summit of Mt. Capella. Summit of ridge between Mt. Capella Base Camp and Mt. Capella ridge
+https://fm-digital-assets.fieldmuseum.org/2303/641/C0268561F.jpg, gradedNoMatchValid = 0.74: Mt Capella NE summit; forest remnant in deep chasm near the summit on soaking wet bark of trees___Papua New Guinea, West Sepik Distr., Star Mts., Mt. Capella NE summit
+https://fm-digital-assets.fieldmuseum.org/2303/643/C0268562F.jpg, gradedNoMatchValid = 0.84: Near Mt. Capella Base Camp, along trail to Tamanagabip; open sub-alpine scrub. At base of limestone rock faces.___Papua New Guinea, West Sepik Distr., Star Mts., Near Mt. Capella Base Camp, along trail to Tamanagabip
+https://fm-digital-assets.fieldmuseum.org/2303/645/C0268563F.jpg, gradedNoMatchValid = 0.48: c 5°14'05E Upper montane forest between Folongonom and Artis' Camp___Papua New Guinea, West Sepik Distr., Star Mts., between Folongonom and Artis' Camp
+https://fm-digital-assets.fieldmuseum.org/2303/647/C0268564F.jpg, gradedNoMatchValid = 0.79: c. 5°(40'S) Small Kuki (grassfield) SW of Mt. Capella Base Camp; on vertical face of moss covered limestone boulder at edge of kuni.___Papua New Guinea, West Sepik Distr., Star Mts., SW of Mt. capella Base Camp
+https://fm-digital-assets.fieldmuseum.org/2303/649/C0268565F.jpg, gradedNoMatchValid = 0.67: Tel Basin; Ridge above Camp 2___Papua New Guinea, West Sepik Distr., Star Mts., Tel Basin; Ridge above Camp
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0.23: KIUSHIU: Miyazaki, Minaminiaka, Obi___Kiushiu, Miyazaki, Minaminaka, Obi
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 0.6: On exposed rocks, 60 m. above sea, Yosiho, Kumamoto Prefecture___Yoshio, Kumamoto Prefecture
+https://fm-digital-assets.fieldmuseum.org/2303/661/C0268571F.jpg, gradedNoMatchValid = 0.53: On rocks, ca. 100m. above sea, Koonose, Kumamoto Prefecture___Koonose, Kumamoto Prefecture
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 0.5: On rocks, ca. 1000m alt., Hitoyoshi, Kumamoto County___Hitoyoshi, Kumamoto County
+
+locality: 25
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.61: Eumundi (about 100 kilometers north of Brisbane) [precise locality unknown]___Circa 100 kilometers nördlich Brisbane
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.62: Eumundi (about 100 kilometers north of Brisbane), [precise locality unknown]___Circa 100 kilometers nördlich Brisbane
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0.56: Blue Mountains near Sydney, Wentworth Falls [precise locality unknown]___Blue Mountains, Wentworth Falls
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.85: near Brisbane___[precise locality unknown]
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.81: On vertical face of rock, Ohara, Yata [precise locality unknown]___Nishimuro District, Otomura, Yuya, Ohara
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.74: Mount Ohako [precise locality unknown]___Mount Obako
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.79: On rocks, approximately 100 meters altitude, Shirahama-cho___Nishimuro District, Syōgawa
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.79: Minamimata, Sakatani [precise locality unknown]___Kyushu Island | Mimaninaka District, Sakatani
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.9: [precise locality unknown]___Iles Liou-Kiou | Centre d'ile
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.56: Yaku-Sima___Yakushima Island
+https://fm-digital-assets.fieldmuseum.org/2303/629/C0268554F.jpg, gradedNoMatchValid = 0.82: In fork of Plumeria tree in garden___[precise locality unknown]
+https://fm-digital-assets.fieldmuseum.org/2303/633/C0268557F.jpg, gradedNoMatchValid = 0.55: Wet forest on slope above Ok Din river west of Busilmin; on trees along Ok Din River___Slope above Ok Din River, west of Busilmin
+https://fm-digital-assets.fieldmuseum.org/2303/635/C0268558F.jpg, gradedNoMatchValid = 0.9: NE summit of Mt Capella [precise locality unknown]___Star Mountains, northeast summit of Mount Capella
+https://fm-digital-assets.fieldmuseum.org/2303/637/C0268559F.jpg, gradedNoMatchValid = 0.84: Mt. Capella Base Camp; Limestone ridge near camp; high stunted forest on ridge [precise locality unknown]___Star Mountains, Mount Capella Base Camp
+https://fm-digital-assets.fieldmuseum.org/2303/639/C0268560F.jpg, gradedNoMatchValid = 0.65: NE Summit of Mt Capella Summit of ridge between Mt Capella Base Camp and Mt Capella ridge on isolated tree [precise locality unknown]___Star Mountains, northeast summit of Mount Capella, between Mount Capella Base Camp and Mount Capella ridge
+https://fm-digital-assets.fieldmuseum.org/2303/641/C0268561F.jpg, gradedNoMatchValid = 0.6: Mount Capella northeast summit [precise locality unknown]___Star Mountains, northeast summit of Mount Capella
+https://fm-digital-assets.fieldmuseum.org/2303/643/C0268562F.jpg, gradedNoMatchValid = 0.59: Near Mt. Capella Base Camp, along trail to Tamanagabip [precise locality unknown]___Star Mountains, near Mount Capella Base Camp, along trail to Tamanagabip
+https://fm-digital-assets.fieldmuseum.org/2303/645/C0268563F.jpg, gradedNoMatchValid = 0.25: Upper montane forest between Folongonom and Artis' Camp___Star Mountains, between Folongonom and Artis' Camp
+https://fm-digital-assets.fieldmuseum.org/2303/647/C0268564F.jpg, gradedNoMatchValid = 0.67: Small Kuki (grassfield) southwest of Mount Capella Base Camp; on vertical face of moss covered limestone boulder at edge of kuni___Star Mountains, southwest of Mount Capella Base Camp
+https://fm-digital-assets.fieldmuseum.org/2303/649/C0268565F.jpg, gradedNoMatchValid = 0.81: Ridge above Camp 2 in Tel Basin___Star Mountains, Tel Basin, ridge above camp
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0.7: Minaminiaka, Obi___Kyushu Island | Mimaninaka District, Obi
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 0.92: On exposed rocks, 60 meters above sea, Yosiho [precise locality unknown]___Yoshio
+https://fm-digital-assets.fieldmuseum.org/2303/661/C0268571F.jpg, gradedNoMatchValid = 0.91: On rocks, approximately 100 meters above sea, Koonose [precise locality unknown]___Koonose
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 0.68: On rocks, approximately 1000 meters altitude, Hitoyoshi [precise locality unknown]___[precise locality unknown]
+https://fm-digital-assets.fieldmuseum.org/2303/668/C0268574F.jpg, gradedNoMatchValid = 0.59: Kushan near Foochow [precise locality unknown]___Kushan near Foochow
+
+habitat: 21
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.75: Urwald (primeval forest)___Urwald
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.75: Urwald (primeval forest)___Urwald
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0: On vertical face of rock___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0: On trunks of Fagus crenata, ca. 1200 m. alt.___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0: On rocks___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0: ad arborum truncos___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/629/C0268554F.jpg, gradedNoMatchValid = 1: N/A___Garden
+https://fm-digital-assets.fieldmuseum.org/2303/633/C0268557F.jpg, gradedNoMatchValid = 0.48: Wet forest on slope; on trees___Wet forest along river
+https://fm-digital-assets.fieldmuseum.org/2303/635/C0268558F.jpg, gradedNoMatchValid = 0.93: on stems and branches of trees and shrubs in summit scrub___Scrub
+https://fm-digital-assets.fieldmuseum.org/2303/637/C0268559F.jpg, gradedNoMatchValid = 0.18: Limestone ridge near camp; high stunted forest on ridge___Limestone ridge near camp, high stunted forest
+https://fm-digital-assets.fieldmuseum.org/2303/639/C0268560F.jpg, gradedNoMatchValid = 1: N/A___Summit of ridge
+https://fm-digital-assets.fieldmuseum.org/2303/641/C0268561F.jpg, gradedNoMatchValid = 0.4: Forest remnant in deep chasm near the summit on soaking wet bark of trees___Forest remnant in deep chasm near the summit
+https://fm-digital-assets.fieldmuseum.org/2303/643/C0268562F.jpg, gradedNoMatchValid = 0.05: Open sub-alpine scrub. At base of limestone rock faces.___Open sub-alpine scrub, at base of limestone rock faces
+https://fm-digital-assets.fieldmuseum.org/2303/645/C0268563F.jpg, gradedNoMatchValid = 0.83: Pendulous from heavy tree branches and slanting trunks___Upper montane forest
+https://fm-digital-assets.fieldmuseum.org/2303/647/C0268564F.jpg, gradedNoMatchValid = 0.29: On vertical face of moss covered limestone boulder at edge of kuni___Small kuni (grassfield), on vertical face of moss covered limestone boulder at edge of kuni 
+https://fm-digital-assets.fieldmuseum.org/2303/649/C0268565F.jpg, gradedNoMatchValid = 0.11: Terrestrial in open shrubbery on ridge Dense moss vegetation covering soil rocks and the lower portion of shrubs Dominant___Terrestrial in open shrubbery on ridge, dense moss vegetation covering soil, rocks, and the lower portion of shrubs
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0: rupicola, photophila, ca 50 m___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 0: On exposed rocks___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/661/C0268571F.jpg, gradedNoMatchValid = 0: On rocks___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 0: On rocks___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/668/C0268574F.jpg, gradedNoMatchValid = 0: On rock___N/A
+
+otherCatalogNumbers: 8
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.53: 1076713 1044984___1076713
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.14: 1076659___1076699
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0.14: 1076821___1076824
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.53: 1076705 1044145___1076705
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.29: 1235073___1285078
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0.29: 1235066___1285006
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 0.14: 4043493___1043493
+https://fm-digital-assets.fieldmuseum.org/2303/668/C0268574F.jpg, gradedNoMatchValid = 0.14: 1122334___1122634
+
+originalMethod: 5
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.82: Mix of Handwritten and Typed___Typed
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.82: Mix of Handwritten and Typed___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.82: Mix of Handwritten and Typed___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/639/C0268560F.jpg, gradedNoMatchValid = 0.82: Mix of Handwritten and Typed___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0.82: Mix of Handwritten and Typed___Typed
+
+verbatimIdentification: 9
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.15: Macromitrium gymnostomum Sull. et Lesq. c. fr.___Macromitrium gymnostomum Sull. et Lesq.
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.25: Macromitrium gymnostomum Sull. & Lesq.    c. fr.___Macromitrium gymnostomum Sull. et Lesq.
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.52: Macromitrium gymnostomum S. L. = m. rupestre Mitt. Bull. Card.___Macromitrium gymnostomum S. L.
+https://fm-digital-assets.fieldmuseum.org/2303/635/C0268558F.jpg, gradedNoMatchValid = 0.03: Macromitrium macrosporum Broth___Macromitrium macrosporum Broth.
+https://fm-digital-assets.fieldmuseum.org/2303/641/C0268561F.jpg, gradedNoMatchValid = 0.03: Macromitrium macrosporum Broth___Macromitrium macrosporum Broth.
+https://fm-digital-assets.fieldmuseum.org/2303/645/C0268563F.jpg, gradedNoMatchValid = 0.03: Macromitrium megalocladon Fleisch___Macromitrium megalocladon Fleisch.
+https://fm-digital-assets.fieldmuseum.org/2303/649/C0268565F.jpg, gradedNoMatchValid = 0.03: Macromitrium megalocladon Fleisch___Macromitrium megalocladon Fleisch.
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0.03: Macromitrium incurvum (Lindb.) Par___Macromitrium incurvum (Lindb.) Par.
+https://fm-digital-assets.fieldmuseum.org/2303/668/C0268574F.jpg, gradedNoMatchValid = 0.03: Macromitrium gymnostomum S. & L.___Macromitrium gymnostomum S.& L.
+
+identifiedBy: 8
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.79: A. Noguchi | Z. Iwatsuki___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.73: A. Noguchi___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.46: Thériot___E. C. Thériot
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.46: Thériot___E. C. Thériot
+https://fm-digital-assets.fieldmuseum.org/2303/641/C0268561F.jpg, gradedNoMatchValid = 0.2: D H Vitt___D. H. Vitt
+https://fm-digital-assets.fieldmuseum.org/2303/643/C0268562F.jpg, gradedNoMatchValid = 0.1: D.H. Vitt___D. H. Vitt
+https://fm-digital-assets.fieldmuseum.org/2303/649/C0268565F.jpg, gradedNoMatchValid = 0.2: D H Vitt___D. H. Vitt
+https://fm-digital-assets.fieldmuseum.org/2303/668/C0268574F.jpg, gradedNoMatchValid = 0: Theriot___N/A
+
+verbatimDateIdentified: 3
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 1: N/A___Mar. 27, 1971
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 1: N/A___May 4, 1958
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.14: March 28, 1967___March 28, 1958
+
+verbatimElevation: 18
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.5: 330 m alt.___330 m
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.62: ca. 1200 m. alt.___1200 m
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.64: ca. 100 m alt.___100 m
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.11: ca 500 m___ca. 500 m
+https://fm-digital-assets.fieldmuseum.org/2303/629/C0268554F.jpg, gradedNoMatchValid = 0.5: Alt. c 20 m.___c. 20 m
+https://fm-digital-assets.fieldmuseum.org/2303/633/C0268557F.jpg, gradedNoMatchValid = 0.27: Alt. c. 1500 - 1550 m.___c. 1500 - 1550 m
+https://fm-digital-assets.fieldmuseum.org/2303/635/C0268558F.jpg, gradedNoMatchValid = 0.42: Alt c 3900 m___c. 3900 m
+https://fm-digital-assets.fieldmuseum.org/2303/637/C0268559F.jpg, gradedNoMatchValid = 0.4: Alt. c. 3600 m.___c. 3600 m
+https://fm-digital-assets.fieldmuseum.org/2303/639/C0268560F.jpg, gradedNoMatchValid = 0.4: Alt. c. 3650 m.___c. 3650 m
+https://fm-digital-assets.fieldmuseum.org/2303/641/C0268561F.jpg, gradedNoMatchValid = 0.5: Alt c 3300 m___c. 3900 m
+https://fm-digital-assets.fieldmuseum.org/2303/643/C0268562F.jpg, gradedNoMatchValid = 0.4: Alt. c. 3450 m.___c. 3450 m
+https://fm-digital-assets.fieldmuseum.org/2303/645/C0268563F.jpg, gradedNoMatchValid = 0.19: 2500 - 2600 m___c. 2500 - 2600 m
+https://fm-digital-assets.fieldmuseum.org/2303/647/C0268564F.jpg, gradedNoMatchValid = 0.4: Alt. c. 3400 m.___c. 3400 m
+https://fm-digital-assets.fieldmuseum.org/2303/649/C0268565F.jpg, gradedNoMatchValid = 0.42: Alt c 3350 m___c. 3350 m
+https://fm-digital-assets.fieldmuseum.org/2303/658/C0268569F.jpg, gradedNoMatchValid = 0.07: 60 m. above sea___60 m above sea
+https://fm-digital-assets.fieldmuseum.org/2303/661/C0268571F.jpg, gradedNoMatchValid = 0.05: ca. 100m. above sea___ca. 100 m. above sea
+https://fm-digital-assets.fieldmuseum.org/2303/663/C0268572F.jpg, gradedNoMatchValid = 0.43: ca. 1000m alt.___ca. 100m
+https://fm-digital-assets.fieldmuseum.org/2303/668/C0268574F.jpg, gradedNoMatchValid = 0.64: altitude 500 m___500 m
+
+associatedTaxa: 1
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0: Fagus crenata___N/A
+
+secondaryCollectors: 2
+
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 1: N/A___B. J. Ferrié
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 1: N/A___B. J. Ferrié
+
+secondPoliticalUnit: 11
+
+https://fm-digital-assets.fieldmuseum.org/2303/629/C0268554F.jpg, gradedNoMatchValid = 0: Lae___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/633/C0268557F.jpg, gradedNoMatchValid = 0: Star Mountains___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/635/C0268558F.jpg, gradedNoMatchValid = 0: Star Mts___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/637/C0268559F.jpg, gradedNoMatchValid = 0: Star Mts.___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/639/C0268560F.jpg, gradedNoMatchValid = 0: Star Mountains___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/641/C0268561F.jpg, gradedNoMatchValid = 0: Star Mountains___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/643/C0268562F.jpg, gradedNoMatchValid = 0: Star Mts.___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/645/C0268563F.jpg, gradedNoMatchValid = 0: Star Mts___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/647/C0268564F.jpg, gradedNoMatchValid = 0: Star Mountains___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/649/C0268565F.jpg, gradedNoMatchValid = 0: Star Mts___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0: Miyazaki___N/A
+
+verbatimCoordinates: 9
+
+https://fm-digital-assets.fieldmuseum.org/2303/633/C0268557F.jpg, gradedNoMatchValid = 0.25: 5°S 141°05'E___c. 5° S 141°05'E
+https://fm-digital-assets.fieldmuseum.org/2303/635/C0268558F.jpg, gradedNoMatchValid = 0.25: c 5°S141°05E___c. 5° S 141°05'E
+https://fm-digital-assets.fieldmuseum.org/2303/637/C0268559F.jpg, gradedNoMatchValid = 0.12: c. 5°S141°05'E___c. 5° S 141°05'E
+https://fm-digital-assets.fieldmuseum.org/2303/639/C0268560F.jpg, gradedNoMatchValid = 0.06: c. 5°S 141°05'E___c. 5° S 141°05'E
+https://fm-digital-assets.fieldmuseum.org/2303/641/C0268561F.jpg, gradedNoMatchValid = 0.12: c 5°S 141°05'E___c. 5° S 141°05'E
+https://fm-digital-assets.fieldmuseum.org/2303/643/C0268562F.jpg, gradedNoMatchValid = 0.06: c. 5°S 141°05'E___c. 5° S 141°05'E
+https://fm-digital-assets.fieldmuseum.org/2303/645/C0268563F.jpg, gradedNoMatchValid = 0.44: c 5°14'05E___c. 5° S 141°05'E
+https://fm-digital-assets.fieldmuseum.org/2303/647/C0268564F.jpg, gradedNoMatchValid = 0.56: c. 5°(40'S)___c. 5° S 141°05'E
+https://fm-digital-assets.fieldmuseum.org/2303/649/C0268565F.jpg, gradedNoMatchValid = 0.19: c 5°S141°05'E___c. 5° S 141°05'E
+
+firstPoliticalUnit: 2
+
+https://fm-digital-assets.fieldmuseum.org/2303/645/C0268563F.jpg, gradedNoMatchValid = 0.47: West Sepik District___West Sepik
+https://fm-digital-assets.fieldmuseum.org/2303/651/C0268566F.jpg, gradedNoMatchValid = 0.88: Kyushu___Miyazaki
+
+--------------------------------------------------
+

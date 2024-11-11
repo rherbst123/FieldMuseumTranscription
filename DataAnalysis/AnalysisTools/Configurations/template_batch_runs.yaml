@@ -1,20 +1,32 @@
+# this template was created on 2024-11-09
+
 # enter the name of this file into `comparison_and_accuracy.py`, `llm_agreement_and_accuracy.py` or `postprocessor.py`
 # the only modifications needed to run those scripts are in the COMPARISON_CONFIG
 # the other configurations are optional
 
-CONFIGURATION_NAME: ""    # give your configuration a name and copy that name into either:
 
 COMPARISON_CONFIG:
-   RECORD_REF_FIELDNAME: "accessURI"   # this is the fieldname used for reference in the errors file, here a URL
-   SKIP_LIST: ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"] 
-   SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
-   USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
-   LLM_SPREAD_SOURCES: []    # ["Spread_6_11_1050.csv", "Spread_6_11_1110.csv"]
-   GROUND_TRUTH_FILENAME: ""    # "First100BryophytesTyped.csv"
-   RESULT_FILENAME: ""   #  "demo.csv"
-   ERRORS_FILENAME: ""   #  "demo_errors.txt"
-   SOURCE_PATH: "AutomaticAnalysis/Sources/"
-   RESULTS_PATH: "AutomaticAnalysis/Results/"
+    COMPARISON_TYPE: "batch_run"
+    RUN_NAMES: ["gpt-4o-2024-06-11-1050"]  # see DataAnalsis/README.md for run naming conventions
+    BATCH_NAME: "delete_me" # this name is NOT optional; 
+                                # BATCH_NAME will be used instead of RUN_NAMES for the comparison filename.
+                                    # individual run names will be listed in the comparison file: e.g., "gpt-4o-2024-06-11-1050"
+
+    COMPARISON_NAME: "dont_forget_now"  # this name is optional
+                                        # the comparison name will be appended to BATCH_NAME for comparison files.
+                                        # for example: BATCH_NAME: "gpt-4o-2024-repeats"
+                                        #              COMPARISON_NAME: "skeleton_fields"
+                                        # will produce the file: "gpt-4o-repeats-skeleton_fields-comparsions.csv" 
+                                                    
+                                
+                            
+    RECORD_REF_FIELDNAME: "accessURI"   # this is the fieldname used for reference in the errors file, here a URL
+    SKIP_LIST: ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"] 
+    SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
+    USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
+    GROUND_TRUTH_FILENAME: "100-bryophytes-typed.csv"    # "100-bryophytes-typed.csv"
+    TRANSCRIPTIONS_PATH: "DataAnalysis/Transcriptions/"
+    COMPARISONS_PATH: "DataAnalysis/Comparisons/"
 
 # THE FOLLOWING CONFIGURATIONS ARE OPTIONAL
 
@@ -46,10 +58,10 @@ TOLERANCES_CONFIG:
     TOLERANCES_ALLOWED: False  # enter True to enable tolerances for comparisons
     TOLS: 
         RANDO_FIELDNAME1:  # verbatimLocality:
-            - double_space
-            - missing_abbreviation_point 
+            -                   # - double_space
+            -                   #  - missing_abbreviation_point 
         RANDO_FIELDNAME2:  #  verbatimCoordinates:
-            - misaligned_spacing
+            -                   #  - misaligned_spacing
         ENABLE_EDIT_DISTANCE_THRESHOLD: False   # enter True to allow using Levenshtein distance among the tolerances     
         EDIT_DISTANCE_THRESHOLDS:  # fieldnames take precedence over default
             RANDO_FIELDNAME1: # verbatimCollectors

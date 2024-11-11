@@ -15,59 +15,34 @@
 
 
 import logging
-from Utilities import utility
+import utility
 import string_distance
 import re
 from tolerances import FieldTolerances
 from string_distance import WeightedLevenshtein
 
 class Comparison:
-    def __init__(self, config_path, config_filename):
-        config = utility.load_yaml(config_path+config_filename)
-        self.config_source = config_filename
+    def __init__(self, config_filename):
+        config = utility.load_yaml(config_filename)
+        self.config_name = config["CONFIGURATION_NAME"]
         self.config = config["COMPARISON_CONFIG"]
-        self.setup_paths()
+        self.POST_PROCESSING_CONFIG = config["POST_PROCESSING_CONFIG"]
+        self.SOURCE_PATH = self.config["SOURCE_PATH"]
+        self.GROUND_TRUTH_FILENAME = self.config["GROUND_TRUTH_FILENAME"]
+        self.GROUND_TRUTH_PATH = "DataAnalysis/GroundTruths/"
+        self.RUN_SPREADNAMES = self.config["LLM_SPREAD_SOURCES"] 
+        self.RESULTS_PATH = self.config["RESULTS_PATH"]
+        self.RESULT_FILENAME = self.config["RESULT_FILENAME"]
+        self.ERRORS_FILENAME = self.config["ERRORS_FILENAME"]
         self.RECORD_REF_FIELDNAME = self.config["RECORD_REF_FIELDNAME"]
         self.RECORD_REFS = []
         self.SKIP_LIST = self.config["SKIP_LIST"]
         self.SELECTED_FIELDS_LIST = self.config["SELECTED_FIELDS_LIST"]
         self.USE_SELECTED_FIELDS_ONLY = self.config["USE_SELECTED_FIELDS_ONLY"]
-        self.setup_other_configs(config)
+        self.setup(config)
+        
 
-
-    def setup_paths(self):
-        self.TRANSCRIPTIONS_PATH = self.config["TRANSCRIPTIONS_PATH"]
-        self.GROUND_TRUTH_FILENAME = self.config["GROUND_TRUTH_FILENAME"]
-        self.GROUND_TRUTH_PATH = "DataAnalysis/GroundTruths/"
-        if self.config["COMPARISON_TYPE"] == "single_run":
-            self.setup_single_run()
-        elif self.config["COMPARISON_TYPE"] == "batch_run":
-            self.setup_batch_run() 
-        else:
-            print('CONFIGURATION ERROR !!! COMPARISON_TYPE must be "single_run" or "batch_run"!!')      
-
-    def setup_single_run(self):
-        run_name = self.config["RUN_NAME"]
-        comparison_name = self.config["COMPARISON_NAME"]
-        results_name = f"{run_name}-{comparison_name}" if comparison_name else run_name 
-        self.RUN_SPREADNAMES = [f"{run_name}-transcriptions.csv"] 
-        self.COMPARISONS_PATH = self.config["COMPARISONS_PATH"] + "SingleComparisons/"
-        self.COMPARISONS_FILENAME = f"{results_name}-comparisons.csv"
-        self.ERRORS_PATH = self.config["COMPARISONS_PATH"] + "Errors/"
-        self.ERRORS_FILENAME = f"{results_name}-errors.csv"
-
-    def setup_batch_run(self):
-        batch_name = self.config["BATCH_NAME"]
-        comparison_name = self.config["COMPARISON_NAME"]
-        results_name = f"{batch_name}-{comparison_name}" if comparison_name else batch_name 
-        self.RUN_SPREADNAMES = [f"{run_name}-transcriptions.csv" for run_name in self.config["RUN_NAMES"]] 
-        self.COMPARISONS_PATH = self.config["COMPARISONS_PATH"] + "BatchComparisons/"
-        self.COMPARISONS_FILENAME = f"{results_name}-comparisons.csv"
-        self.ERRORS_PATH = self.config["COMPARISONS_PATH"] + "Errors/"
-        self.ERRORS_FILENAME = f"{results_name}-errors.csv"    
-
-
-    def setup_other_configs(self, config):
+    def setup(self, config):
         self.logger = utility.get_logger()
         self.edit_distance_config = config["EDIT_DISTANCE_CONFIG"]
         self.USE_FIELDNAMES_EXCLUSIVELY = self.edit_distance_config["USE_FIELDNAMES_EXCLUSIVELY"]
@@ -75,7 +50,6 @@ class Comparison:
         self.TOLERANCES_ALLOWED = self.tolerances_config["TOLERANCES_ALLOWED"]
         self.TOLS = self.tolerances_config["TOLS"] if self.TOLERANCES_ALLOWED else {}
         self.field_tolerances = FieldTolerances(self.tolerances_config, self.edit_distance_config)
-        self.POST_PROCESSING_CONFIG = config["POST_PROCESSING_CONFIG"]
 
     def get_edit_distance_interface(self, fieldname):
         return WeightedLevenshtein(self.edit_distance_config, fieldname)
@@ -176,14 +150,14 @@ class Comparison:
         return master_comparison_dict, tallies, run_errors 
 
     def process(self, run_spreadname, target_values_dicts, blank_results_dict):
-        saved_results: list[dict] = utility.get_contents_from_csv(self.TRANSCRIPTIONS_PATH+run_spreadname)
+        saved_results: list[dict] = utility.get_contents_from_csv(self.SOURCE_PATH+run_spreadname)
         #blank_results_dict["model"] = saved_results[0]["model"]
         transcription_values_dicts = [self.get_fields_to_be_compared(d) for d in saved_results]
         results_dict, tallies, run_errors = self.compare_and_tally(transcription_values_dicts, target_values_dicts, blank_results_dict)  
         return run_errors, self.calculate_accuracy(results_dict, tallies) 
 
     def get_blank_results_dict(self, spreadname, sample_dict):
-        return   {"run": spreadname, "ground truth source": self.GROUND_TRUTH_FILENAME, "configuration source": self.config_source}  |   \
+        return   {"run": spreadname, "ground truth filename": self.GROUND_TRUTH_FILENAME, "configuration name": self.config_name}  |   \
                  {fieldname: [0,0,0] for fieldname in sample_dict}        
     
     # remove fields before comparison
@@ -210,17 +184,17 @@ class Comparison:
             blank_results_dict = self.get_blank_results_dict(spreadname, target_values_dicts[0])
             run_errors, results = self.process(spreadname, target_values_dicts, blank_results_dict)  
             master_results += [results]
-            utility.save_errors(self.ERRORS_PATH+self.ERRORS_FILENAME, run_errors, spreadname, self.RECORD_REF_FIELDNAME, self.config, self.edit_distance_config, self.tolerances_config)
-            print(f"Errors saved to {self.ERRORS_PATH+self.ERRORS_FILENAME}!!!!")  
+            utility.save_errors(self.RESULTS_PATH+self.ERRORS_FILENAME, run_errors, spreadname, self.RECORD_REF_FIELDNAME, self.config, self.edit_distance_config, self.tolerances_config)
+            print(f"Errors saved to {self.RESULTS_PATH+self.ERRORS_FILENAME}!!!!")  
         formatted_results = [utility.format_values(d) for d in master_results]    
-        utility.save_to_csv(self.COMPARISONS_PATH+self.COMPARISONS_FILENAME, formatted_results)
-        print(f"Comparisons saved to {self.COMPARISONS_PATH+self.COMPARISONS_FILENAME}!!!!")   
+        utility.save_to_csv(self.RESULTS_PATH+self.RESULT_FILENAME, formatted_results)
+        print(f"Comparisons saved to {self.RESULTS_PATH+self.RESULT_FILENAME}!!!!")   
     
 if __name__ == "__main__":
     CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
 
     # copy in the name of the configuration file to be used below
-    config_filename = "template_batch_runs.yaml" 
+    config_filename = "basic_single_run.yaml" 
 
-    accuracy_run = Comparison(CONFIG_PATH, config_filename)
+    accuracy_run = Comparison(CONFIG_PATH+config_filename)
     accuracy_run.run()

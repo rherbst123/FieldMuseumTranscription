@@ -1,5 +1,5 @@
 import logging
-import utility
+from Utilities import utility
 import string_distance
 import re
 from comparison_and_accuracy import Comparison
@@ -83,11 +83,11 @@ class PostProcessor(Comparison):
        
     
 if __name__ == "__main__":
-    CONFIG_PATH = "AutomaticAnalysis/Configurations/"
+    CONFIG_PATH = "DataAnalysis/Configurations/"
     # copy in the name of the configuration file to be used below
     config_filename = "" 
 
-    post_process_run = PostProcessor(CONFIG_PATH+config_filename)
+    post_process_run = PostProcessor(CONFIG_PATH, config_filename)
     post_process_run.post()
     #s = "Matt Matt Heart Attack Von Konrat-Schiller"
     #s = "M Fleischer"

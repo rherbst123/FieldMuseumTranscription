@@ -1,5 +1,5 @@
 
-import utility
+from Utilities import utility
 
 SOURCE_PATH = "AutomaticAnalysis/SourcesForPaper/"
 RESULTS_PATH = "AutomaticAnalysis/ResultsForPaper/"

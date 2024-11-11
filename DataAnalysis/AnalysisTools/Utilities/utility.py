@@ -18,6 +18,14 @@ def save_to_csv(csv_file_path, data):
         writer.writeheader()
         writer.writerows(data)
 
+def get_contents_from_txt(txt_file_path):
+    with open(txt_file_path, 'r', encoding='utf-8') as f:
+        return f.read() 
+
+def save_to_txt(text_file_path, data):
+    with open(text_file_path, 'w', encoding='utf-8') as f:
+        f.write(data)       
+
 def load_json(filename):
     with open(filename, 'r', encoding='utf-8') as f:
             return json.load(f)
