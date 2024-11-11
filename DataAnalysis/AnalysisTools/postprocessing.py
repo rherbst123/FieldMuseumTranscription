@@ -89,7 +89,3 @@ if __name__ == "__main__":
 
     post_process_run = PostProcessor(CONFIG_PATH, config_filename)
     post_process_run.post()
-    #s = "Matt Matt Heart Attack Von Konrat-Schiller"
-    #s = "M Fleischer"
-    #abr = post_process_run.format_names(s)
-    #print(abr)

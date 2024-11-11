@@ -1,6 +1,9 @@
+# this script takes an LLM .txt file output and first converts it a .csv file, 
+# and then performs a comparison run
+
 from comparison_and_accuracy import Comparison
 import logging
-import utility
+from Utilities import utility
 import string_distance
 import re
 from tolerances import FieldTolerances

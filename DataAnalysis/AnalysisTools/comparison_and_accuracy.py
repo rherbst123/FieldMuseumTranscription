@@ -1,14 +1,13 @@
 # This script iterates through a list of .csv files
    # and compares each run to Ground Truth data.
-# The configuration file template.json can be copied and saved to configure how run data is compared to
-   # Ground Truth data (see the README in this folder for details)   
-# Each field of each image is categorized as A or NA (applicable or non-applicable) 
-   # according to whether or not "N\A" is recorded for that field and image in the Ground Truth,
-     # and is compared to the llm data (observed value)
+# A configuration file template can be copied and saved to configure how run data is compared to
+   # Ground Truth data (see the Configurations/README.md for details)   
+# Each field of each image is categorized as valid or nonValid 
+   # according to whether string data or "N\A" is recorded for that field and image in the Ground Truth,
+     # and is compared for a match against the llm data for that field and image (transcription value)
 # This yields a True value for one of the following:
-   #  TA, TNA, FA, FNA (true applicable, true non-applicable, false applicable or false non-applicable)
-# In the spreadsheet, the breakdown of the three numbers in each field is: 
-   # 1) number true (TA+TNA), 2) sum graded matches and number true negative (grdTA+TNA) , 3) sum of all values (TA+TNA+FA+FNA) 
+   #  matchValid, matchNonValid, noMatchValid or noMatchNonValid (MV, MNV, NMV, NMNV)
+# The breakdown of the three numbers in each field is explained in Comparisons/README.md  
 # Accuracy breakdowns are explained in the calculate_accuracy method
 # Errors are appended to the error file designated in the configuration file, if it already exists.
    # Results .csv s are NOT appended. They will be overwritten if they already exist.
@@ -220,7 +219,7 @@ if __name__ == "__main__":
     CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
 
     # copy in the name of the configuration file to be used below
-    config_filename = "template_batch_runs.yaml" 
+    config_filename = "" 
 
     accuracy_run = Comparison(CONFIG_PATH, config_filename)
     accuracy_run.run()

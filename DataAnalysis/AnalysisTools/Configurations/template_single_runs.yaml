@@ -1,13 +1,14 @@
 # this template was created on 2024-11-09
 
-# enter the name of this file into `comparison_and_accuracy.py`, `llm_agreement_and_accuracy.py` or `postprocessor.py`
+# enter the name of this file into `comparison_and_accuracy.py`, 'end_to_end_comparison_and_accuracy.py', `llm_agreement_and_accuracy.py` or `postprocessor.py`
 # the only modifications needed to run those scripts are in the COMPARISON_CONFIG
 # the other configurations are optional
 
 
 COMPARISON_CONFIG:
     COMPARISON_TYPE: "single_run"
-    RUN_NAME: "claude-3.5-sonnet-2024-08-02-1600-prompt1.5.2"  # see DataAnalsis/README.md for run naming conventions
+    RUN_NAME: ""  # e.g., "claude-3.5-sonnet-2024-08-02-1600-prompt1.5.2",
+                  #see DataAnalsis/README.md for run naming conventions
     COMPARISON_NAME: ""    # this name is optional; 
                                 # the comparison name will be appended to RUN_NAME for comparison files.
                                 # for example: RUN_NAME: "gpt-4o-2024-06-11-1050"
@@ -57,16 +58,16 @@ TOLERANCES_CONFIG:
             -                   #  - misaligned_spacing
         ENABLE_EDIT_DISTANCE_THRESHOLD: False   # enter True to allow using Levenshtein distance among the tolerances     
         EDIT_DISTANCE_THRESHOLDS:  # fieldnames take precedence over default
-            RANDO_FIELDNAME1: # verbatimCollectors
-                SCALED: False  # this uses the raw Levenshtein distance, which can be any value greater than zero
-                VALUE: 2.5       #  this is the sum of the costs, perhaps customized costs, which can be floats of any size
-                                   # an unscaled value less than VALUE will be within tolerances
-            RANDO_FIELDNAME2:  # verbatimCoordinates
-                SCALED: True
-                VALUE: 0.10                                                     
+            RANDO_FIELDNAME1:    # verbatimCollectors
+                SCALED:          # Boolean, False would use the raw Levenshtein distance, which can be any value greater than zero
+                VALUE:           # float or int, this is the sum of the costs, perhaps customized costs, which can be floats of any size
+                                     # an unscaled value less than VALUE will be within tolerances
+            RANDO_FIELDNAME2:    # verbatimCoordinates
+                SCALED:          # Boolean
+                VALUE:           # float or int                                                
             DEFAULT:
-                SCALED: True  # this scales Levenshtein distance to a value in the range of 0.0 and 1.00
-                VALUE: 0.0     #  a scaled value less than VALUE will be within tolerances
+                SCALED:          # Boolean, True would scale Levenshtein distance to a value in the range of 0.0 and 1.00
+                VALUE:               # a scaled value less than VALUE will be within tolerances
 
 POST_PROCESSING_CONFIG:    # this is a list of fieldnames, the data for which can be post-processed in `post_processor.py`
     - RANDO_FIELDNAME1   #  - verbatimCollectors
