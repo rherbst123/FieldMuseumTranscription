@@ -1,0 +1,149 @@
+Image Name: 0000_C0268502F_p.jpg
+
+
+verbatimCollectors: leg. A. Fleischer nr. B 2794
+collectedBy: A. Fleischer
+secondaryCollectors: N/A
+recordNumber: B 2794
+verbatimEventDate: 25.2.1907
+minimumEventDate: 1907-02-25
+maximumEventDate: N/A
+verbatimIdentification: Macromitrium
+latestScientificName: Macromitrium queenslandii
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Australia
+firstPoliticalUnit: Queensland
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: bei Mt. Bellenden Ker, Urwald
+locality: [precise locality unknown]
+habitat: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1044981
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg
+
+==================================================
+Image Name: 0001_C0268508F_p.jpg
+
+
+verbatimCollectors: leg. W. Fleischer nr. B 2642
+collectedBy: W. Fleischer
+secondaryCollectors: N/A
+recordNumber: B 2642
+verbatimEventDate: 25.3.1943
+minimumEventDate: 1943-03-25
+maximumEventDate: N/A
+verbatimIdentification: Macromitrium
+latestScientificName: Macromitrium
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Australia
+firstPoliticalUnit: Queensland
+secondPoliticalUnit: Eumundi
+municipality: N/A
+verbatimLocality: (Chr. 750 km nördlich Brisbane), Urwald.
+locality: [precise locality unknown]
+habitat: Urwald
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1076659
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg
+
+==================================================
+Image Name: 0002_C0268514F_p.jpg
+
+
+verbatimCollectors: N/A
+collectedBy: H. Fleischer
+secondaryCollectors: N/A
+recordNumber: B 2552
+verbatimEventDate: 6.4.1903
+minimumEventDate: 1903-04-06
+maximumEventDate: N/A
+verbatimIdentification: Macromitrium
+latestScientificName: Macromitrium
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Australia
+firstPoliticalUnit: New South Wales
+secondPoliticalUnit: N/A
+municipality: Blue Mountains bei Sydney
+verbatimLocality: Wentworth Falls
+locality: [precise locality unknown]
+habitat: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1076824
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg
+
+==================================================
+Image Name: 0003_C0268520F_p.jpg
+
+
+verbatimCollectors: N/A
+collectedBy: N/A
+secondaryCollectors: N/A
+recordNumber: N/A
+verbatimEventDate: N/A
+minimumEventDate: 1969-04-20
+maximumEventDate: N/A
+verbatimIdentification: Macromitrium
+latestScientificName: Macromitrium
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Australia
+firstPoliticalUnit: Queensland
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Mt. Brisbane
+locality: Mt. Brisbane
+habitat: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1076705
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg
+
+==================================================
+Image Name: 0004_C0268544F.jpg
+
+
+verbatimCollectors: Edited by A. Noguchi and Z. Iwatsuki
+collectedBy: N/A
+secondaryCollectors: N/A
+recordNumber: N/A
+verbatimEventDate: s.d.
+minimumEventDate: N/A
+maximumEventDate: N/A
+verbatimIdentification: MUSCI JAPONICI
+latestScientificName: Macromitrium gymnostomum Sull. et Lesq.
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Japan
+firstPoliticalUnit: Ohara
+secondPoliticalUnit: Yoro
+municipality: Ono-mura
+verbatimLocality: On vertical face of rock, 370 m alt., Ohara, Yoro, Ono-mura, Nishikamo Prefecture
+locality: On vertical face of rock, 370 meters altitude
+habitat: N/A
+verbatimElevation: 370 m alt.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1043494
+originalMethod: Typed
+typeStatus: no type status
+URL: https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg
+==================================================

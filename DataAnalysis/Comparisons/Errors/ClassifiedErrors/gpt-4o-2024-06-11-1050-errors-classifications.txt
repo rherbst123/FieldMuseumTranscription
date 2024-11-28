@@ -1,0 +1,174 @@
+associatedTaxa
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 6
+collectedBy
+    percentage mismatches accounted for: 6.451612903225806
+    total mismatches: 31
+    period: 1
+    spacing, dash: 1
+    M Dillon: M. Dillon___M Dillon  (period)
+    J.P.Frahm: J.-P. Frahm___J. P. Frahm  (spacing, dash)
+country
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+firstPoliticalUnit
+    percentage mismatches accounted for: 17.647058823529413
+    total mismatches: 17
+    spacing: 1
+    vowel diacritic: 2
+    Veracruz: Veracruz___Vera Cruz  (spacing)
+    Bolivar: Bolivar___Bolívar  (vowel diacritic)
+habitat
+    percentage mismatches accounted for: 1.36986301369863
+    total mismatches: 73
+    spacing, comma, dash: 1
+    OpensubalpinescrubAtbaseoflimestonerockfaces: Open subalpine scrub At base of limestone rock faces___Open sub-alpine scrub, at base of limestone rock faces  (spacing, comma, dash)
+identifiedBy
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 47
+latestScientificName
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 23
+locality
+    percentage mismatches accounted for: 12.087912087912088
+    total mismatches: 91
+    vowel diacritic: 2
+    spacing, comma: 8
+    spacing, vowel diacritic, comma: 1
+    LakeWamba5kilometerssouthofTeptepairstrip1kilometersouthoflake: Lake Wamba 5 kilometers south of Teptep airstrip 1 kilometer south of lake___Lake Wamba, 5 kilometers south of Teptep airstrip, 1 kilometer south of lake  (spacing, comma)
+    SlopeofCerroKhachiNorthofCorani: Slope of Cerro Khachi North of Corani___Slope of Cerro Khachi, north of Corani  (spacing, comma)
+    SierradeLaguna15mileseastofTodosSantos: Sierra de Laguna 15 miles east of Todos Santos___Sierra de Laguna, 15 miles east of Todos Santos  (spacing, comma)
+    RoadsidenearSanPabloAyutlaabout70kilometerseastofOaxaca: Roadside near San Pablo Ayutla about 70 kilometers east of Oaxaca___Roadside near San Pablo Ayutla, about 70 kilometers east of Oaxaca  (spacing, comma)
+    Slopes of La Ferreria, above Manantlan: Slopes of La Ferreria, above Manantlan___Slopes of La Ferrería, above Manantlán  (vowel diacritic)
+    Near large red outcrop 2 miles from Sorata down Rio Consata: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata  (vowel diacritic)
+    ParqueNacionaldelaSierraNevadadeSantaMartaVertienteorientaldelRioBuritaca: Parque Nacional de la Sierra Nevada de Santa Marta Vertiente oriental del Río Buritaca___Parque Nacional de la Sierra Nevada de Santa Marta, vertiente oriental del Rio Buritaca  (spacing, vowel diacritic, comma)
+    CerroSanMiguelSouthofSanMiguel: Cerro San Miguel South of San Miguel___Cerro San Miguel, south of San Miguel  (spacing, comma)
+    SlopesandsummitofSerraCuricuriarifromIgarapéArabúoftheRioCuricuriaritothesummit: Slopes and summit of Serra Curicuriari from Igarapé Arabú of the Rio Curicuriari to the summit___Slopes and summit of Serra Curicuriari, from Igarapé Arabú of the Rio Curicuriari to the summit  (spacing, comma)
+    SlopesabovePillahuatanearkilometer126onCosñipataHighway: Slopes above Pillahuata near kilometer 126 on Cosñipata Highway___Slopes above Pillahuata, near Kilometer 126 on Cosñipata Highway  (spacing, comma)
+    roadtoPuebloNuevoVentanas: road to Pueblo Nuevo Ventanas___Road to Pueblo Nuevo, Ventanas  (spacing, comma)
+maximumEventDate
+    percentage mismatches accounted for: No mismatches to account for
+minimumEventDate
+    percentage mismatches accounted for: 10.0
+    total mismatches: 20
+    period, dash: 2
+    19751218: 1975-12-18___1975.12.18  (period, dash)
+    19840926: 1984-09-26___1984.09.26  (period, dash)
+municipality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 25
+originalMethod
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 4
+otherCatalogNumbers
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 18
+recordNumber
+    percentage mismatches accounted for: 10.714285714285714
+    total mismatches: 28
+    period: 2
+    dash: 1
+    B4: B.4.___B.4  (period)
+    5281a: 5281a___5281-a  (dash)
+    50186: 50.186___50186  (period)
+secondPoliticalUnit
+    percentage mismatches accounted for: 13.333333333333334
+    total mismatches: 15
+    vowel diacritic: 2
+    Chapare: Chapare___Chaparé  (vowel diacritic)
+secondaryCollectors
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 17
+typeStatus
+    percentage mismatches accounted for: No mismatches to account for
+verbatimCollectors
+    percentage mismatches accounted for: 5.454545454545454
+    total mismatches: 55
+    spacing: 1
+    vowel diacritic: 1
+    spacing, comma: 1
+    S.R.Gradstein&M.Lewis: S.R. Gradstein & M. Lewis___S.R.Gradstein & M.Lewis  (spacing)
+    DanaGriffinIIIOrlandoRangelyGuidovanReenen: Dana Griffin III Orlando Rangel y Guido van Reenen___Dana Griffin, III, Orlando Rangel y Guido van Reenen  (spacing, comma)
+    Dana Griffin, III, Maria Isabel Morales y Dora Emilia de Retana: Dana Griffin, III, María Isabel Morales y Dora Emilia de Retana___Dana Griffin, III, María Isabel Morales y Dora Emília de Retana  (vowel diacritic)
+verbatimCoordinates
+    percentage mismatches accounted for: 50.0
+    total mismatches: 32
+    spacing: 4
+    period: 2
+    spacing, comma: 5
+    spacing, period, comma: 5
+    c.5°S141°05'E: c. 5°S 141°05'E___c. 5° S 141°05'E  (spacing)
+    6°01'S146°33'E: 6°01'S 146°33'E___6°01'S, 146°33'E  (spacing, comma)
+    15°36'S68°39'W: 15°36'S 68°39'W___15°36'S, 68°39'W  (spacing, comma)
+    15° 45' S, 68° 42' W: 15° 45' S, 68° 42' W___15° 45' S., 68° 42' W  (period)
+    17°11'S65°54'W: 17° 11' S 65° 54' W___17° 11' S., 65° 54' W  (spacing, period, comma)
+    15° 48' S, 68° 36' W: 15° 48' S, 68° 36' W___15° 48' S., 68° 36' W  (period)
+    15°41'S68°43'W: 15° 41' S. 68° 43' W.___15° 41' S., 68° 43' W  (spacing, period, comma)
+    15°11'S69°04'W: 15° 11' S 69° 04' W___15° 11' S., 69° 04' W  (spacing, period, comma)
+    5°55'N75°17'W: 5°55'N, 75°17'W___5°55'N 75°17'W  (spacing, comma)
+    10°30'S75°30'W: 10°30'S 75°30'W___10°30'S, 75°30'W  (spacing, comma)
+    7°5'N75°25'W: 7°5' N 75°25' W___7°5'N 75°25'W  (spacing)
+verbatimDateIdentified
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 26
+verbatimElevation
+    percentage mismatches accounted for: 30.18867924528302
+    total mismatches: 53
+    spacing: 1
+    period: 10
+    positive polarity sign: 3
+    period, comma: 2
+    ca 500 m: ca 500 m___ca. 500 m  (period)
+    c 20 m: c. 20 m.___c. 20 m  (period)
+    c 3450 m: c. 3450 m.___c. 3450 m  (period)
+    c 2500 - 2600 m: c. 2500 - 2600 m.___c. 2500 - 2600 m  (period)
+    60 m above sea: 60 m. above sea___60 m above sea  (period)
+    500 m: 500 m.___500 m  (period)
+    ca 3550 m: ca 3550 m___ca. 3550 m  (period)
+    2740 m: 2740 m.___2740 m  (period)
+    10000 ft: 10000 ft.___10,000 ft  (period, comma)
+    3000 m: 3000 m___±3000 m  (positive polarity sign)
+    1625 m: 1625 m___±1625 m  (positive polarity sign)
+    1750 m: 1750 m___±1750 m  (positive polarity sign)
+    5000 ft: 5000 ft.___5,000 ft  (period, comma)
+    ±3380m: ± 3380 m___±3380 m  (spacing)
+verbatimEventDate
+    percentage mismatches accounted for: 34.48275862068966
+    total mismatches: 29
+    spacing: 6
+    period: 1
+    vowel diacritic: 2
+    spacing, dash: 1
+    oct.nov.1898: oct. - nov. 1898___oct.nov.1898  (spacing, dash)
+    VIII.1946: VIII. 1946___VIII.1946  (spacing)
+    Jan.23,1975: Jan. 23, 1975___Jan. 23,1975  (spacing)
+    X.1932: X. 1932___X.1932  (spacing)
+    13Oct.1950: 13 Oct. 1950___13 Oct.1950  (spacing)
+    Feb.9,1975: Feb.9,1975___Feb.9, 1975  (spacing)
+    4 feb 1979: 4. feb. 1979___4 Feb. 1979  (period)
+    Julio-Agosto 1977: Julio-Agosto 1977___Júlio-Agosto 1977  (vowel diacritic)
+    Julio 3-4, 1977: Julio 3-4, 1977___Júlio 3-4, 1977  (vowel diacritic)
+verbatimIdentification
+    percentage mismatches accounted for: 16.666666666666664
+    total mismatches: 36
+    spacing: 4
+    period: 1
+    spacing, comma: 1
+    MacromitriumgymnostomumS.&L.: Macromitrium gymnostomum S. & L.___Macromitrium gymnostomum S.& L.  (spacing)
+    Braunia Andrieuxii, Lorentz: Braunia Andrieuxii, Lorentz.___Braunia Andrieuxii, Lorentz  (period)
+    Brauniasecunda(Hook.)B.S.G.: Braunia secunda (Hook.) B.S.G.___Braunia secunda (Hook.)B.S.G.  (spacing)
+    Brauniasquarrulosa(Hpe.)Broth.: Braunia squarrulosa (Hpe.) Broth.___Braunia squarrulosa, (Hpe.) Broth.  (spacing, comma)
+    Rhacopilumtomentosum(Hedw.)Brid.: Rhacopilum tomentosum (Hedw.) Brid.___Rhacopilum tomentosum (Hedw.)Brid.  (spacing)
+    Racopilumtomentosum(Hedw.)Brid.: Racopilum tomentosum (Hedw.) Brid.___Racopilum tomentosum (Hedw.)Brid.  (spacing)
+verbatimLocality
+    percentage mismatches accounted for: 6.521739130434782
+    total mismatches: 92
+    period: 1
+    vowel diacritic: 2
+    spacing, comma: 3
+    KIUSHIUMiyazakiMinaminakaObi: KIUSHIU Miyazaki Minaminaka Obi___Kiushiu, Miyazaki, Minaminaka, Obi  (spacing, comma)
+    15mi.S.E.ofSanCristobaldelasCasasChiapasMexico: 15 mi. S.E. of San Cristobal de las Casas Chiapas Mexico___15 mi. S.E. of San Cristobal de las Casas, Chiapas, Mexico  (spacing, comma)
+    Roadside near San Pablo Ayutla (about 70 km east of Oaxaca) Oaxaca: Roadside near San Pablo Ayutla (about 70 km. east of Oaxaca) Oaxaca___Roadside near San Pablo Ayutla (about 70 km. east of Oaxaca.) Oaxaca  (period)
+    Slopes of La Ferreria, above Manantlan: Slopes of La Ferreria, above Manantlan___Slopes of La Ferrería, above Manantlán  (vowel diacritic)
+    Rio Miritiparana: Caño Guacaya: Rio Miritiparaná: Caño Guacayá___Río Miritiparaná: Caño Guacayá  (vowel diacritic)
+    SlopesandsummitofSerraCuricuriarifromIgarapéArabúoftheRioCuricuriaritothesummit: Slopes and summit of Serra Curicuriari from Igarapé Arabú of the Rio Curicuriari to the summit___Slopes and summit of Serra Curicuriari, from Igarapé Arabú of the Rio Curicuriari to the summit  (spacing, comma)

@@ -1,5 +1,5 @@
 import re
-import utility
+from Utilities import utility
 
 GROUND_TRUTH_FILENAME = "First100BryophytesTyped.csv"
 ACCURACY_RESULTS_FILENAME = "multi_agreement_gpt_sonnet_gemini.csv"
