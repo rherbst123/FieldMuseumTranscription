@@ -1,12 +1,16 @@
 # This script iterates through a list of .csv files
    # and compares each run to Ground Truth data.
+
 # A configuration file template can be copied and saved to configure how run data is compared to
-   # Ground Truth data (see the Configurations/README.md for details)   
+   # Ground Truth data.   (see the Configurations/README.md for details) 
+     
 # Each field of each image is categorized as valid or nonValid 
-   # according to whether string data or "N\A" is recorded for that field and image in the Ground Truth,
-     # and is compared for a match against the llm data for that field and image (transcription value)
+   # according to whether there is string data or "N\A" recorded for that field of that image in the Ground Truth,
+     # and is compared for a match against the llm data for that field of that image.
+
 # This yields a True value for one of the following:
    #  matchValid, matchNonValid, noMatchValid or noMatchNonValid (MV, MNV, NMV, NMNV)
+
 # The breakdown of the three numbers in each field is explained in Comparisons/README.md  
 # Accuracy breakdowns are explained in the calculate_accuracy method
 # Errors are appended to the error file designated in the configuration file, if it already exists.
@@ -14,16 +18,15 @@
 
 
 import logging
-from Utilities import utility
-import string_distance
 import re
-from tolerances import FieldTolerances
-from string_distance import WeightedLevenshtein
+from DataAnalysis.AnalysisTools.Utilities import utility
+import DataAnalysis.AnalysisTools.string_distance
+from DataAnalysis.AnalysisTools.tolerances import FieldTolerances
+from DataAnalysis.AnalysisTools.string_distance import WeightedLevenshtein
 
 class Comparison:
-    def __init__(self, config_path, config_filename):
-        config = utility.load_yaml(config_path+config_filename)
-        self.config_source = config_filename
+    def __init__(self, config, config_source=None):
+        self.config_source = config_source
         self.config = config["COMPARISON_CONFIG"]
         self.setup_paths()
         self.RECORD_REF_FIELDNAME = self.config["RECORD_REF_FIELDNAME"]
@@ -32,6 +35,11 @@ class Comparison:
         self.SELECTED_FIELDS_LIST = self.config["SELECTED_FIELDS_LIST"]
         self.USE_SELECTED_FIELDS_ONLY = self.config["USE_SELECTED_FIELDS_ONLY"]
         self.setup_other_configs(config)
+
+    @staticmethod
+    def read_configuration_from_yaml(config_path, config_filename):
+        return utility.load_yaml(config_path+config_filename)
+
 
 
     def setup_paths(self):
@@ -86,11 +94,11 @@ class Comparison:
         master_results_dict["Correct:matchValid+matchNonValid"] = matchValid + matchNonValid
         master_results_dict["Errors:noMatchValid+noMatchNonValid"] = noMatchValid + noMatchNonValid
 
-        # the sum of all matches divided by the sum of all targets, valid or nonValid
+        # accuracy = the sum of all matches divided by the sum of all targets, valid or nonValid
         master_results_dict["MV+MNV/MV+MNV+NMV+NMNV"] = f"{matchValid}+{matchNonValid}/{matchValid}+{matchNonValid}+{noMatchValid}+{noMatchNonValid}"
         master_results_dict["all targets:accuracy"] = (matchValid+matchNonValid)/(matchValid+matchNonValid+noMatchValid+noMatchNonValid)
 
-        # the sum of matches on valid targets divided by the sum of matches on valid targets plus all noMatches, valid or nonValid
+        # accuracy = the sum of matches on valid targets divided by the sum of matches on valid targets plus all noMatches, valid or nonValid
         master_results_dict["MV/MV+NMV+NMNV"] = f"{matchValid}/{matchValid}+{noMatchValid}+{noMatchNonValid}"
         master_results_dict["valid targets:accuracy"] = matchValid/(matchValid+noMatchValid+noMatchNonValid)
 
@@ -216,10 +224,12 @@ class Comparison:
         print(f"Comparisons saved to {self.COMPARISONS_PATH+self.COMPARISONS_FILENAME}!!!!")   
     
 if __name__ == "__main__":
-    CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
-
+    
+    ###########################################################
     # copy in the name of the configuration file to be used below
-    config_filename = "" 
-
-    accuracy_run = Comparison(CONFIG_PATH, config_filename)
+    config_filename = "template_single_runs.yaml" 
+    ###########################################################
+    CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
+    configuration = Comparison.read_configuration_from_yaml(CONFIG_PATH, config_filename)
+    accuracy_run = Comparison(configuration, config_source=config_filename)
     accuracy_run.run()

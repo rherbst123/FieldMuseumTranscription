@@ -1,0 +1,251 @@
+grand total mismatches: 1105
+grand total mismatches accounted for: 75
+overall percentage mismatches accounted for: 6.8
+associatedTaxa
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+collectedBy
+    percentage mismatches accounted for: 1.4
+    total mismatches: 69
+    spacing, dash: 1
+    1. spacing, dash: J.-P. Frahm___J. P. Frahm
+                      J.P.Frahm___J.P.Frahm
+country
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 8
+firstPoliticalUnit
+    percentage mismatches accounted for: 4.3
+    total mismatches: 46
+    vowel diacritic: 2
+    1. vowel diacritic: Bolivar___Bolívar
+                        Bolivar___Bolivar
+    2. vowel diacritic: Bolivar___Bolívar
+                        Bolivar___Bolivar
+habitat
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 75
+identifiedBy
+    percentage mismatches accounted for: 8.8
+    total mismatches: 57
+    spacing: 3
+    extraneous preface: 1
+    spacing, extraneous preface: 1
+    1. spacing: D.H. Vitt___D. H. Vitt
+                D.H.Vitt___D.H.Vitt
+    2. spacing, extraneous preface: Det. D.H. Vitt___D. H. Vitt
+                                    D.H.Vitt___D.H.Vitt
+    3. spacing: D.H. Vitt___D. H. Vitt
+                D.H.Vitt___D.H.Vitt
+    4. spacing: H.A. Crum___H. A. Crum
+                H.A.Crum___H.A.Crum
+    5. extraneous preface: det. Schäfer-Verwimp___Schäfer-Verwimp
+                            Schäfer-Verwimp___Schäfer-Verwimp
+latestScientificName
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 35
+locality
+    percentage mismatches accounted for: 1.1
+    total mismatches: 94
+    vowel diacritic: 1
+    1. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+                        Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+maximumEventDate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+minimumEventDate
+    percentage mismatches accounted for: 3.8
+    total mismatches: 53
+    period, dash: 2
+    1. period, dash: 1975-12-18___1975.12.18
+                     19751218___19751218
+    2. period, dash: 1984-09-26___1984.09.26
+                     19840926___19840926
+municipality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 36
+originalMethod
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 6
+otherCatalogNumbers
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 27
+recordNumber
+    percentage mismatches accounted for: 1.6
+    total mismatches: 63
+    period: 1
+    1. period: B.4.___B.4
+               B4___B4
+secondPoliticalUnit
+    percentage mismatches accounted for: 7.5
+    total mismatches: 40
+    vowel diacritic: 3
+    1. vowel diacritic: Chapare___Chaparé
+                        Chapare___Chapare
+    2. vowel diacritic: Chapare___Chaparé
+                        Chapare___Chapare
+    3. vowel diacritic: Chapare___Chaparé
+                        Chapare___Chapare
+secondaryCollectors
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 22
+typeStatus
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+verbatimCollectors
+    percentage mismatches accounted for: 4.3
+    total mismatches: 93
+    extraneous preface: 3
+    spacing, period, positive polarity sign, extraneous preface: 1
+    1. extraneous preface: Leg. S. Hattori___S. Hattori
+                            S. Hattori___S. Hattori
+    2. spacing, period, positive polarity sign, extraneous preface: Leg. P. E. Hegewald___P+E. Hegewald
+                                                                    PEHegewald___PEHegewald
+    3. extraneous preface: leg. J. & P. A. Florschütz___J. & P. A. Florschütz
+                            J. & P. A. Florschütz___J. & P. A. Florschütz
+    4. extraneous preface: leg. Schäfer-Verwimp___Schäfer-Verwimp
+                            Schäfer-Verwimp___Schäfer-Verwimp
+verbatimCoordinates
+    percentage mismatches accounted for: 40.0
+    total mismatches: 30
+    spacing: 1
+    period: 7
+    spacing, comma: 3
+    spacing, period, comma: 1
+    1. spacing: c. 5°S141°05'E___c. 5° S 141°05'E
+                c.5°S141°05'E___c.5°S141°05'E
+    2. spacing, period, comma: 15° 45' S 68° 42' W___15° 45' S., 68° 42' W
+                               15°45'S68°42'W___15°45'S68°42'W
+    3. period: 17° 11' S., 65° 54' W.___17° 11' S., 65° 54' W
+               17° 11' S, 65° 54' W___17° 11' S, 65° 54' W
+    4. period: 15° 48' S., 68° 36' W.___15° 48' S., 68° 36' W
+               15° 48' S, 68° 36' W___15° 48' S, 68° 36' W
+    5. period: 15° 41' S., 68° 43' W.___15° 41' S., 68° 43' W
+               15° 41' S, 68° 43' W___15° 41' S, 68° 43' W
+    6. period: 15° 11' S., 69° 04' W.___15° 11' S., 69° 04' W
+               15° 11' S, 69° 04' W___15° 11' S, 69° 04' W
+    7. period: 15° 11' S., 69° 04' W.___15° 11' S., 69° 04' W
+               15° 11' S, 69° 04' W___15° 11' S, 69° 04' W
+    8. period: 15° 11' S, 69° 04' W___15° 11' S., 69° 04' W
+               15° 11' S, 69° 04' W___15° 11' S, 69° 04' W
+    9. period: 21° 28' S, 64° 12' W___21° 28' S., 64° 12' W
+               21° 28' S, 64° 12' W___21° 28' S, 64° 12' W
+    10. spacing, comma: 5°55' N, 75°17' W___5°55'N 75°17'W
+                        5°55'N75°17'W___5°55'N75°17'W
+    11. spacing, comma: 7°5'N, 75°25'W___7°5'N 75°25'W
+                        7°5'N75°25'W___7°5'N75°25'W
+    12. spacing, comma: 10°30'S 75°30'W___10°30'S, 75°30'W
+                        10°30'S75°30'W___10°30'S75°30'W
+verbatimDateIdentified
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 48
+verbatimElevation
+    percentage mismatches accounted for: 43.2
+    total mismatches: 81
+    spacing: 1
+    period: 15
+    positive polarity sign: 2
+    extraneous preface: 5
+    period, positive polarity sign: 1
+    period, extraneous preface: 9
+    spacing, period, extraneous preface: 1
+    period, comma, extraneous preface: 1
+    1. period, extraneous preface: ca. 1200 m. alt.___1200 m
+                                    1200 m ___1200 m
+    2. extraneous preface: ca. 100 m alt.___100 m
+                            100 m ___100 m
+    3. period: ca 500 m___ca. 500 m
+               ca 500 m___ca 500 m
+    4. period, extraneous preface: Alt. c. 20 m.___c. 20 m
+                                    c 20 m___c 20 m
+    5. period, extraneous preface: Alt.c. 3450 m.___c. 3450 m
+                                   c 3450 m___c 3450 m
+    6. period, extraneous preface: Alt. c. 3400 m.___c. 3400 m
+                                    c 3400 m___c 3400 m
+    7. period, extraneous preface: Alt. c. 3350 m.___c. 3350 m
+                                    c 3350 m___c 3350 m
+    8. period: 60 m. above sea___60 m above sea
+               60 m above sea___60 m above sea
+    9. spacing: ca. 100m. above sea___ca. 100 m. above sea
+                ca.100m.abovesea___ca.100m.abovesea
+    10. extraneous preface: alt. 2400 m___2400 m
+                             2400 m___2400 m
+    11. extraneous preface: 1-10 m alt.___1-10 m
+                            1-10 m ___1-10 m
+    12. period: ca. 3550 m.___ca. 3550 m
+                ca 3550 m___ca 3550 m
+    13. period: 10000 ft.___10000 ft
+                10000 ft___10000 ft
+    14. positive polarity sign: 3000 m___±3000 m
+                                3000 m___3000 m
+    15. period, positive polarity sign: 1750 m.___±1750 m
+                                        1750 m___1750 m
+    16. period, comma, extraneous preface: Alt. 2,000 m.___2.000 m
+                                            2000 m___2000 m
+    17. period: 3250 m.___3250 m
+                3250 m___3250 m
+    18. period: ca. 2450 m.___ca. 2450 m
+                ca 2450 m___ca 2450 m
+    19. period: 2600 m.___2600 m
+                2600 m___2600 m
+    20. period: 3200-3240 m.___3200-3240 m
+                3200-3240 m___3200-3240 m
+    21. period: 3200 m.___3200 m
+                3200 m___3200 m
+    22. period: 3200 m.___3200 m
+                3200 m___3200 m
+    23. period: 3350 m.___3350 m
+                3350 m___3350 m
+    24. positive polarity sign: + 3380 m___±3380 m
+                                 3380 m___3380 m
+    25. period: 1750 m.___1750 m
+                1750 m___1750 m
+    26. period: ca. 1650 m.___ca. 1650 m
+                ca 1650 m___ca 1650 m
+    27. extraneous preface: ca. 250-350 m___250-350 m
+                             250-350 m___250-350 m
+    28. period, extraneous preface: alt. 600 m.___600 m
+                                     600 m___600 m
+    29. period: ca. 1650 m.___ca. 1650 m
+                ca 1650 m___ca 1650 m
+    30. period, extraneous preface: alt. 1100 m.___1100 m
+                                     1100 m___1100 m
+    31. period, extraneous preface: alt. 1100 m.___1100 m
+                                     1100 m___1100 m
+    32. period, extraneous preface: alt. 2460-2620 m.___2460-2620 m
+                                     2460-2620 m___2460-2620 m
+    33. spacing, period, extraneous preface: Alt 1 600 m___1.600 m
+                                             1600m___1600m
+    34. extraneous preface: alt. 1950 m___1950 m
+                             1950 m___1950 m
+    35. period: 1200-1250 m.___1200-1250 m
+                1200-1250 m___1200-1250 m
+verbatimEventDate
+    percentage mismatches accounted for: 12.7
+    total mismatches: 63
+    spacing: 6
+    vowel diacritic: 2
+    1. spacing: 8.5. 1975___8.5.1975
+                8.5.1975___8.5.1975
+    2. spacing: 5.5. 1975___5.5.1975
+                5.5.1975___5.5.1975
+    3. spacing: 7.4. 1975___7.4.1975
+                7.4.1975___7.4.1975
+    4. spacing: 13 Oct. 1950___13 Oct.1950
+                13Oct.1950___13Oct.1950
+    5. spacing: Sept. 15,1936___Sept. 15, 1936
+                Sept.15,1936___Sept.15,1936
+    6. spacing: Sept. 9,1936___Sept. 9, 1936
+                Sept.9,1936___Sept.9,1936
+    7. vowel diacritic: Julio-Agosto 1977___Júlio-Agosto 1977
+                        Julio-Agosto 1977___Julio-Agosto 1977
+    8. vowel diacritic: Julio 3-4, 1977___Júlio 3-4, 1977
+                        Julio 3-4, 1977___Julio 3-4, 1977
+verbatimIdentification
+    percentage mismatches accounted for: 1.7
+    total mismatches: 59
+    period: 1
+    1. period: Braunia cirrhifolia (Mitt.) Jaeg___Braunia cirrhifolia (Mitt.) Jaeg.
+               Braunia cirrhifolia (Mitt) Jaeg___Braunia cirrhifolia (Mitt) Jaeg
+verbatimLocality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 97

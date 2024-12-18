@@ -1,0 +1,545 @@
+grand total mismatches: 1134
+grand total mismatches accounted for: 211
+overall percentage mismatches accounted for: 18.6
+associatedTaxa
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 5
+collectedBy
+    percentage mismatches accounted for: 57.5
+    total mismatches: 87
+    spacing: 1
+    period: 48
+    spacing, period, dash: 1
+    1. period: M Fleischer___M. Fleischer
+               M Fleischer___M Fleischer
+    2. period: M Fleischer___M. Fleischer
+               M Fleischer___M Fleischer
+    3. period: M Fleischer___M. Fleischer
+               M Fleischer___M Fleischer
+    4. period: T Nakajima___T. Nakajima
+               T Nakajima___T Nakajima
+    5. period: T Nakajima___T. Nakajima
+               T Nakajima___T Nakajima
+    6. period: A Touw___A. Touw
+               A Touw___A Touw
+    7. period: A Touw ___A. Touw
+               A Touw ___A Touw
+    8. period: A Touw___A. Touw
+               A Touw___A Touw
+    9. period: A Touw ___A. Touw
+               A Touw ___A Touw
+    10. period: A Touw___A. Touw
+                A Touw___A Touw
+    11. period: S Hattori ___S. Hattori
+                S Hattori ___S Hattori
+    12. period: K Mayebara___K. Mayebara
+                K Mayebara___K Mayebara
+    13. period: K Mayebara___K. Mayebara
+                K Mayebara___K Mayebara
+    14. period: K Mayebara___K. Mayebara
+                K Mayebara___K Mayebara
+    15. period: H H Chung___H. H. Chung
+                H H Chung___H H Chung
+    16. period: T Koponen___T. Koponen
+                T Koponen___T Koponen
+    17. period: T Koponen___T. Koponen
+                T Koponen___T Koponen
+    18. period: V Allorge___V. Allorge
+                V Allorge___V Allorge
+    19. period: M Lewis___M. Lewis
+                M Lewis___M Lewis
+    20. period: W. M. A Brooke___W. M. A. Brooke
+                W M A Brooke___W M A Brooke
+    21. period: W M A Brooke___W. M. A. Brooke
+                W M A Brooke___W M A Brooke
+    22. period: C G Pringle___C. G. Pringle
+                C G Pringle___C G Pringle
+    23. period: F D Bowers___F. D. Bowers
+                F D Bowers___F D Bowers
+    24. period: A J Sharp___A. J. Sharp
+                A J Sharp___A J Sharp
+    25. period: F J Hermann___F. J. Hermann
+                F J Hermann___F J Hermann
+    26. period: H A Crum___H. A. Crum
+                H A Crum___H A Crum
+    27. period: F J Hermann___F. J. Hermann
+                F J Hermann___F J Hermann
+    28. period: B Sparre___B. Sparre
+                B Sparre___B Sparre
+    29. period: M Lewis___M. Lewis
+                M Lewis___M Lewis
+    30. period: M Lewis ___M. Lewis
+                M Lewis ___M Lewis
+    31. period: M Lewis ___M. Lewis
+                M Lewis ___M Lewis
+    32. period: M Lewis ___M. Lewis
+                M Lewis ___M Lewis
+    33. period: M Lewis___M. Lewis
+                M Lewis___M Lewis
+    34. period: M Lewis ___M. Lewis
+                M Lewis ___M Lewis
+    35. period: M Lewis___M. Lewis
+                M Lewis___M Lewis
+    36. period: M Lewis___M. Lewis
+                M Lewis___M Lewis
+    37. period: M Lewis___M. Lewis
+                M Lewis___M Lewis
+    38. period: Y Mexia___Y. Mexia
+                Y Mexia___Y Mexia
+    39. period: P Hegewald___P. Hegewald
+                P Hegewald___P Hegewald
+    40. period: M Lewis ___M. Lewis
+                M Lewis ___M Lewis
+    41. period: Y Mexia___Y. Mexia
+                Y Mexia___Y Mexia
+    42. period: Y Mexia___Y. Mexia
+                Y Mexia___Y Mexia
+    43. period: J J Wurdack___J. J. Wurdack
+                J J Wurdack___J J Wurdack
+    44. period: W R Buck___W. R. Buck
+                W R Buck___W R Buck
+    45. period: J W Fitzpatrick___J. W. Fitzpatrick
+                J W Fitzpatrick___J W Fitzpatrick
+    46. period: S P Churchill___S. P. Churchill
+                S P Churchill___S P Churchill
+    47. period: R B Foster___R. B. Foster
+                R B Foster___R B Foster
+    48. spacing: T.  Husnot___T. Husnot
+                 T.Husnot___T.Husnot
+    49. period: H Inoue___H. Inoue
+                H Inoue___H Inoue
+    50. spacing, period, dash: J.-P Frahm___J. P. Frahm
+                               JPFrahm___JPFrahm
+country
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+firstPoliticalUnit
+    percentage mismatches accounted for: 5.7
+    total mismatches: 35
+    spacing: 1
+    vowel diacritic: 1
+    1. spacing: Veracruz ___Vera Cruz
+                Veracruz___VeraCruz
+    2. vowel diacritic: Huánuco___Huanuco
+                        Huanuco___Huanuco
+habitat
+    percentage mismatches accounted for: 4.2
+    total mismatches: 72
+    period: 1
+    spacing, comma: 2
+    1. spacing, comma: On stones and banks of seepy creek in cloud forest ravine, with tree ferns___On stones and banks of seepy creek in cloud forest ravine with tree ferns
+                       Onstonesandbanksofseepycreekincloudforestravinewithtreeferns___Onstonesandbanksofseepycreekincloudforestravinewithtreeferns
+    2. spacing, comma: On stones and banks of seepy creek in cloud forest ravine, with tree ferns___On stones and banks of seepy creek in cloud forest ravine with tree ferns
+                       Onstonesandbanksofseepycreekincloudforestravinewithtreeferns___Onstonesandbanksofseepycreekincloudforestravinewithtreeferns
+    3. period: Partial shade, moist, vert. surface of boulder.___Partial shade, moist, vert. surface of boulder
+               Partial shade, moist, vert surface of boulder___Partial shade, moist, vert surface of boulder
+identifiedBy
+    percentage mismatches accounted for: 31.2
+    total mismatches: 77
+    spacing: 1
+    period: 23
+    1. period: T Nakajima___T. Nakajima
+               T Nakajima___T Nakajima
+    2. period: A Noguchi___A. Noguchi
+               A Noguchi___A Noguchi
+    3. period: D H Vitt___D. H. Vitt
+               D H Vitt___D H Vitt
+    4. period: D H Vitt___D. H. Vitt
+               D H Vitt___D H Vitt
+    5. period: D H Vitt___D. H. Vitt
+               D H Vitt___D H Vitt
+    6. period: D H Vitt___D. H. Vitt
+               D H Vitt___D H Vitt
+    7. period: D H Vitt___D. H. Vitt
+               D H Vitt___D H Vitt
+    8. period: D H Vitt___D. H. Vitt
+               D H Vitt___D H Vitt
+    9. period: A Noguchi___A. Noguchi
+               A Noguchi___A Noguchi
+    10. period: A Noguchi___A. Noguchi
+                A Noguchi___A Noguchi
+    11. period: A Noguchi___A. Noguchi
+                A Noguchi___A Noguchi
+    12. period: A Noguchi___A. Noguchi
+                A Noguchi___A Noguchi
+    13. period: D H Vitt___D. H. Vitt
+                D H Vitt___D H Vitt
+    14. period: A J Sharp___A. J. Sharp
+                A J Sharp___A J Sharp
+    15. period: H A Crum___H. A. Crum
+                H A Crum___H A Crum
+    16. period: S Churchill___S. Churchill
+                S Churchill___S Churchill
+    17. period: W R Buck___W. R. Buck
+                W R Buck___W R Buck
+    18. period: B O van Zanten___B. O. van Zanten
+                B O van Zanten___B O van Zanten
+    19. period: E Hegewald___E. Hegewald
+                E Hegewald___E Hegewald
+    20. spacing: S.P. Churchill___S. P. Churchill
+                 S.P.Churchill___S.P.Churchill
+    21. period: E B Bartram___E. B. Bartram
+                E B Bartram___E B Bartram
+    22. period: S P Churchill___S. P. Churchill
+                S P Churchill___S P Churchill
+    23. period: E B Bartram___E. B. Bartram
+                E B Bartram___E B Bartram
+    24. period: Z Iwatsuki___Z. Iwatsuki
+                Z Iwatsuki___Z Iwatsuki
+latestScientificName
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 24
+locality
+    percentage mismatches accounted for: 2.2
+    total mismatches: 92
+    vowel diacritic: 1
+    spacing, comma: 1
+    1. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+                        Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+    2. spacing, comma: Cerro San Miguel South of San Miguel___Cerro San Miguel, south of San Miguel
+                       CerroSanMiguelSouthofSanMiguel___CerroSanMiguelsouthofSanMiguel
+maximumEventDate
+    percentage mismatches accounted for: No mismatches to account for
+minimumEventDate
+    percentage mismatches accounted for: 28.6
+    total mismatches: 7
+    period, dash: 2
+    1. period, dash: 1975-12-18___1975.12.18
+                     19751218___19751218
+    2. period, dash: 1984-09-26___1984.09.26
+                     19840926___19840926
+municipality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 40
+originalMethod
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 59
+otherCatalogNumbers
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 55
+recordNumber
+    percentage mismatches accounted for: 2.3
+    total mismatches: 44
+    period: 1
+    1. period: B.4.___B.4
+               B4___B4
+secondPoliticalUnit
+    percentage mismatches accounted for: 3.7
+    total mismatches: 27
+    vowel diacritic: 1
+    1. vowel diacritic: Mendez___Méndez
+                        Mendez___Mendez
+secondaryCollectors
+    percentage mismatches accounted for: 19.4
+    total mismatches: 31
+    period: 6
+    1. period: P Allorge___P. Allorge
+               P Allorge___P Allorge
+    2. period: U Molau | P Matekaitis___U. Molau | P. Matekaitis
+               U Molau | P Matekaitis___U Molau | P Matekaitis
+    3. period: M Lewis___M. Lewis
+               M Lewis___M Lewis
+    4. period: E Hegewald___E. Hegewald
+               E Hegewald___E Hegewald
+    5. period: S R. Gradstein | B O. van Zanten___S. R. Gradstein | B. O. van Zanten
+               S R Gradstein | B O van Zanten___S R Gradstein | B O van Zanten
+    6. period: O Rangel | G van Reenen___O. Rangel | G. van Reenen
+               O Rangel | G van Reenen___O Rangel | G van Reenen
+substrate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 100
+typeStatus
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+verbatimCollectors
+    percentage mismatches accounted for: 32.9
+    total mismatches: 76
+    spacing: 2
+    period: 4
+    vowel diacritic: 1
+    comma: 2
+    extraneous preface: 10
+    spacing, period: 1
+    period, extraneous preface: 4
+    comma, extraneous preface: 1
+    1. extraneous preface: leg. M. Fleischer___M. Fleischer
+                            M. Fleischer___M. Fleischer
+    2. period, extraneous preface: leg M Fleischer___M. Fleischer
+                                    M Fleischer___M Fleischer
+    3. period, extraneous preface: leg M Fleischer___M. Fleischer
+                                    M Fleischer___M Fleischer
+    4. extraneous preface: leg. S. Hattori___S. Hattori
+                            S. Hattori___S. Hattori
+    5. comma, extraneous preface: Coll. K. Mayebara,___K. Mayebara
+                                   K. Mayebara___K. Mayebara
+    6. extraneous preface: Coll. K. Mayebara___K. Mayebara
+                            K. Mayebara___K. Mayebara
+    7. extraneous preface: Coll. K. Saito___K. Saito
+                            K. Saito___K. Saito
+    8. period: V et P Allorge___V. et P. Allorge
+               V et P Allorge___V et P Allorge
+    9. period: C G PRINGLE___C. G. Pringle
+               C G PRINGLE___C G Pringle
+    10. period: C G PRINGLE___C. G. Pringle
+                C G PRINGLE___C G Pringle
+    11. spacing, period: A. J. Sharp, F. D. Bowers, D. K. Smith, R. A.  Hattaway, Paul Somers, Jr___A.J. Sharp, F.D. Bowers, D.K. Smith, R.A. Hattaway, Paul Somers, Jr.
+                         AJSharp,FDBowers,DKSmith,RAHattaway,PaulSomers,Jr___AJSharp,FDBowers,DKSmith,RAHattaway,PaulSomers,Jr
+    12. spacing: A.J. Sharp, F.D. Bowers, D.K. Smith, R.A.  Hattaway, Paul Somers, Jr.___A.J. Sharp, F.D. Bowers, D.K. Smith, R.A. Hattaway, Paul Somers, Jr.
+                 A.J.Sharp,F.D.Bowers,D.K.Smith,R.A.Hattaway,PaulSomers,Jr.___A.J.Sharp,F.D.Bowers,D.K.Smith,R.A.Hattaway,PaulSomers,Jr.
+    13. period: C G PRINGLE___C. G. Pringle
+                C G PRINGLE___C G Pringle
+    14. extraneous preface: LEG.EGGERS & FRAHM___Eggers & Frahm
+                            EGGERS & FRAHM___Eggers & Frahm
+    15. extraneous preface: LEG.EGGERS & FRAHM___Eggers & Frahm
+                            EGGERS & FRAHM___Eggers & Frahm
+    16. vowel diacritic: Dana Griffin, III y Maria Isabel Morales___Dana Griffin, III y María Isabel Morales
+                         Dana Griffin, III y Maria Isabel Morales___Dana Griffin, III y Maria Isabel Morales
+    17. spacing: S.R. Gradstein & M. Lewis___S.R.Gradstein & M.Lewis
+                 S.R.Gradstein&M.Lewis___S.R.Gradstein&M.Lewis
+    18. extraneous preface: Leg. P+E. Hegewald___P+E. Hegewald
+                             P+E. Hegewald___P+E. Hegewald
+    19. period, extraneous preface: Leg. J & P. A. Florschütz___J. & P. A. Florschütz
+                                     J & P A Florschütz___J & P A Florschütz
+    20. comma: Dana Griffin, III, Orlando Rangel y Guido van Reenen, ___Dana Griffin, III, Orlando Rangel y Guido van Reenen
+               Dana GriffinIIIOrlando Rangel y Guido van Reenen___Dana GriffinIIIOrlando Rangel y Guido van Reenen
+    21. comma: T. Husnot,___T. Husnot
+               T. Husnot___T. Husnot
+    22. extraneous preface: Coll. H. INOUE___H. Inoue
+                             H. INOUE___H. Inoue
+    23. extraneous preface: leg. Frahm ___Frahm
+                             Frahm ___Frahm
+    24. extraneous preface: leg. Schäfer-Verwimp___Schäfer-Verwimp
+                             Schäfer-Verwimp___Schäfer-Verwimp
+    25. period, extraneous preface: leg J.-P Frahm ___J.-P. Frahm
+                                     J-P Frahm ___J-P Frahm
+verbatimCoordinates
+    percentage mismatches accounted for: 48.0
+    total mismatches: 25
+    spacing: 3
+    period: 5
+    spacing, comma: 3
+    spacing, period, comma: 1
+    1. spacing: c. 5°S141°05'E___c. 5° S 141°05'E
+                c.5°S141°05'E___c.5°S141°05'E
+    2. spacing: c. 5°S 141°05'E___c. 5° S 141°05'E
+                c.5°S141°05'E___c.5°S141°05'E
+    3. spacing: c. 5°S141°05'E___c. 5° S 141°05'E
+                c.5°S141°05'E___c.5°S141°05'E
+    4. spacing, period, comma: 15° 45' S. 68° 42' W.___15° 45' S., 68° 42' W
+                               15°45'S68°42'W___15°45'S68°42'W
+    5. period: 15° 48' S, 68° 36' W___15° 48' S., 68° 36' W
+               15° 48' S, 68° 36' W___15° 48' S, 68° 36' W
+    6. period: 15° 41' S, 68° 43' W___15° 41' S., 68° 43' W
+               15° 41' S, 68° 43' W___15° 41' S, 68° 43' W
+    7. period: 15° 11' S, 69° 04' W___15° 11' S., 69° 04' W
+               15° 11' S, 69° 04' W___15° 11' S, 69° 04' W
+    8. period: 15° 11' S, 69° 04' W___15° 11' S., 69° 04' W
+               15° 11' S, 69° 04' W___15° 11' S, 69° 04' W
+    9. period: 15° 11' S, 69° 04' W___15° 11' S., 69° 04' W
+               15° 11' S, 69° 04' W___15° 11' S, 69° 04' W
+    10. spacing, comma: 5°55' N, 75°17' W___5°55'N 75°17'W
+                        5°55'N75°17'W___5°55'N75°17'W
+    11. spacing, comma: 00°20'S, 66°50'W___00°20'S 66°50'W
+                        00°20'S66°50'W___00°20'S66°50'W
+    12. spacing, comma: 7°5' N, 75°25' W___7°5'N 75°25'W
+                        7°5'N75°25'W___7°5'N75°25'W
+verbatimDateIdentified
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 16
+verbatimElevation
+    percentage mismatches accounted for: 61.7
+    total mismatches: 60
+    period: 14
+    positive polarity sign: 3
+    extraneous preface: 13
+    period, positive polarity sign: 1
+    period, extraneous preface: 4
+    period, comma, extraneous preface: 2
+    1. extraneous preface: 330 m alt___330 m
+                           330 m ___330 m
+    2. period, extraneous preface: ca. 1200 m. alt.___1200 m
+                                    1200 m ___1200 m
+    3. extraneous preface: ca. 100 m alt___100 m
+                            100 m ___100 m
+    4. period: ca 500 m___ca. 500 m
+               ca 500 m___ca 500 m
+    5. period: c. 3450 m.___c. 3450 m
+               c 3450 m___c 3450 m
+    6. period, extraneous preface: Alt. c. 2500 - 2600 m.___c. 2500 - 2600 m
+                                    c 2500 - 2600 m___c 2500 - 2600 m
+    7. period: ca. 50 m___ca 50 m
+               ca 50 m___ca 50 m
+    8. period: 60 m. above sea___60 m above sea
+               60 m above sea___60 m above sea
+    9. extraneous preface: alt 2400 m___2400 m
+                            2400 m___2400 m
+    10. extraneous preface: alt 3550 m___3550 m
+                             3550 m___3550 m
+    11. extraneous preface: 1-10 m alt___1-10 m
+                            1-10 m ___1-10 m
+    12. period: ca 3550 m___ca. 3550 m
+                ca 3550 m___ca 3550 m
+    13. period: 2740 m.___2740 m
+                2740 m___2740 m
+    14. positive polarity sign: 1625 m___±1625 m
+                                1625 m___1625 m
+    15. extraneous preface: Alt. 8650 ft___8650 ft
+                             8650 ft___8650 ft
+    16. positive polarity sign: + 6800 ft___± 6800 ft
+                                 6800 ft___ 6800 ft
+    17. period: 6800 ft.___6800 ft
+                6800 ft___6800 ft
+    18. period, positive polarity sign: +6000 ft.___± 6000 ft
+                                        6000 ft___ 6000 ft
+    19. period: 2250 M.S.M.___2250 msm
+                2250 MSM___2250 msm
+    20. extraneous preface: alt 6800 ft___6800 ft
+                             6800 ft___6800 ft
+    21. period, comma, extraneous preface: Alt 2,000 m___2.000 m
+                                            2000 m___2000 m
+    22. extraneous preface: ca 2300 m___2300 m
+                             2300 m___2300 m
+    23. period: ca. 2450 m.___ca. 2450 m
+                ca 2450 m___ca 2450 m
+    24. positive polarity sign: + 3380 m ___±3380 m
+                                 3380 m ___3380 m
+    25. period, comma, extraneous preface: Alt. 3,100-3,200 m___3.100-3.200 m
+                                            3100-3200 m___3100-3200 m
+    26. period: ca 9500 ft___ca. 9500 ft
+                ca 9500 ft___ca 9500 ft
+    27. extraneous preface: alt. 2300 m___2300 m
+                             2300 m___2300 m
+    28. period: ca. 1650 m.___ca. 1650 m
+                ca 1650 m___ca 1650 m
+    29. extraneous preface: Alt. 720 m___720 m
+                             720 m___720 m
+    30. extraneous preface: alt. 600 m___600 m
+                             600 m___600 m
+    31. period: ca 1650 m___ca. 1650 m
+                ca 1650 m___ca 1650 m
+    32. period, extraneous preface: Alt. 1950 m.___1950 m
+                                     1950 m___1950 m
+    33. period, extraneous preface: Alt. 1100 m.___1100 m
+                                     1100 m___1100 m
+    34. extraneous preface: Alt 1100 m___1100 m
+                             1100 m___1100 m
+    35. period: 2850 m.___2850 m
+                2850 m___2850 m
+    36. extraneous preface: alt 1950 m___1950 m
+                             1950 m___1950 m
+    37. period: 1400 msm.___1400 msm
+                1400 msm___1400 msm
+verbatimEventDate
+    percentage mismatches accounted for: 56.8
+    total mismatches: 37
+    spacing: 7
+    period: 6
+    vowel diacritic: 2
+    spacing, period: 3
+    spacing, comma: 1
+    period, dash: 1
+    spacing, period, comma: 1
+    1. spacing, period: 20 3 1903___20.3.1903
+                        2031903___2031903
+    2. spacing: X. 1946___X.1946
+                X.1946___X.1946
+    3. spacing: 19. 4. 1975___19.4.1975
+                19.4.1975___19.4.1975
+    4. spacing: 5. 5. 1975___5.5.1975
+                5.5.1975___5.5.1975
+    5. spacing, period: VIII. 1946. ___VIII.1946
+                        VIII1946___VIII1946
+    6. spacing: Jan. 23, 1975___Jan. 23,1975
+                Jan.23,1975___Jan.23,1975
+    7. spacing, period: X. 1932.___X.1932
+                        X1932___X1932
+    8. period: 14VI1937___14.VI.1937
+               14VI1937___14VI1937
+    9. spacing: 13 Oct. 1950___13 Oct.1950
+                13Oct.1950___13Oct.1950
+    10. spacing: 13 Oct. 1950___13 Oct.1950
+                 13Oct.1950___13Oct.1950
+    11. period: 30, Sept, 1908___30, Sept., 1908
+                30, Sept, 1908___30, Sept, 1908
+    12. spacing, period, comma: 17 Sept, 1908___17, Sept., 1908
+                                17Sept1908___17Sept1908
+    13. period: 4 Feb 1979___4 Feb. 1979
+                4 Feb 1979___4 Feb 1979
+    14. period: 28 Jan 1983___28 Jan. 1983
+                28 Jan 1983___28 Jan 1983
+    15. spacing: 7Feb 1983___7 Feb 1983
+                 7Feb1983___7Feb1983
+    16. spacing, comma: Nov. 11 1930___Nov. 11, 1930
+                        Nov.111930___Nov.111930
+    17. vowel diacritic: Julio-Agosto 1977___Júlio-Agosto 1977
+                         Julio-Agosto 1977___Julio-Agosto 1977
+    18. vowel diacritic: Julio 3-4, 1977___Júlio 3-4, 1977
+                         Julio 3-4, 1977___Julio 3-4, 1977
+    19. period: 4 Dec 1981___4 Dec. 1981
+                4 Dec 1981___4 Dec 1981
+    20. period: Jan. 11, 1973.___Jan. 11, 1973
+                Jan 11, 1973___Jan 11, 1973
+    21. period, dash: 17-12-1948___17.12.1948
+                      17121948___17121948
+verbatimIdentification
+    percentage mismatches accounted for: 32.4
+    total mismatches: 68
+    spacing: 2
+    period: 17
+    spacing, period: 3
+    1. spacing: Macromitrium gymnostomum  S. L.___Macromitrium gymnostomum S. L.
+                MacromitriumgymnostomumS.L.___MacromitriumgymnostomumS.L.
+    2. period: Macromitrium macrosporum Broth___Macromitrium macrosporum Broth.
+               Macromitrium macrosporum Broth___Macromitrium macrosporum Broth
+    3. period: Macromitrium megalocladon Fleisch___Macromitrium megalocladon Fleisch.
+               Macromitrium megalocladon Fleisch___Macromitrium megalocladon Fleisch
+    4. period: Macromitrium megalocladon Fleisch___Macromitrium megalocladon Fleisch.
+               Macromitrium megalocladon Fleisch___Macromitrium megalocladon Fleisch
+    5. period: Macromitrium longicaule C Müll___Macromitrium longicaule C. Müll.
+               Macromitrium longicaule C Müll___Macromitrium longicaule C Müll
+    6. period: Macromitrium macrosporum Broth___Macromitrium macrosporum Broth.
+               Macromitrium macrosporum Broth___Macromitrium macrosporum Broth
+    7. spacing, period: Pogonatum urnigerum (Hedw) P.B___Pogonatum urnigerum(Hedw.)P.B.
+                        Pogonatumurnigerum(Hedw)PB___Pogonatumurnigerum(Hedw)PB
+    8. period: Braunia plicata, Mitt, var. canescens, Card. n. var.___Braunia plicata, Mitt., var. canescens, Card. n. var.
+               Braunia plicata, Mitt, var canescens, Card n var___Braunia plicata, Mitt, var canescens, Card n var
+    9. spacing, period: Braunia secunda (Hook) B.S.G.___Braunia secunda (Hook.)B.S.G.
+                        Brauniasecunda(Hook)BSG___Brauniasecunda(Hook)BSG
+    10. period: Braunia secunda (Hook.) B.S.G___Braunia secunda (Hook.) B.S.G.
+                Braunia secunda (Hook) BSG___Braunia secunda (Hook) BSG
+    11. period: Braunia squarrulosa (Hampe) Broth___Braunia squarrulosa (Hampe) Broth.
+                Braunia squarrulosa (Hampe) Broth___Braunia squarrulosa (Hampe) Broth
+    12. period: Braunia plicata (Mitt) Jaeg___Braunia plicata (Mitt.) Jaeg.
+                Braunia plicata (Mitt) Jaeg___Braunia plicata (Mitt) Jaeg
+    13. period: Braunia plicata (Mitt.) Jaeg___Braunia plicata (Mitt.) Jaeg.
+                Braunia plicata (Mitt) Jaeg___Braunia plicata (Mitt) Jaeg
+    14. period: Braunia plicata (Mitt) Jaeg___Braunia plicata (Mitt.) Jaeg.
+                Braunia plicata (Mitt) Jaeg___Braunia plicata (Mitt) Jaeg
+    15. period: Hedwigidium integrifolium (P. Beauv.) Dix___Hedwigidium integrifolium (P. Beauv.) Dix.
+                Hedwigidium integrifolium (P Beauv) Dix___Hedwigidium integrifolium (P Beauv) Dix
+    16. period: Racopilum tomentosum (Hedw.) Brid___Racopilum tomentosum (Hedw.) Brid.
+                Racopilum tomentosum (Hedw) Brid___Racopilum tomentosum (Hedw) Brid
+    17. spacing, period: Rhacopilum tomentosum (Hedw.) Brid___Rhacopilum tomentosum (Hedw.)Brid.
+                         Rhacopilumtomentosum(Hedw)Brid___Rhacopilumtomentosum(Hedw)Brid
+    18. spacing: Racopilum tomentosum (Hedw.) Brid.___Racopilum tomentosum (Hedw.)Brid.
+                 Racopilumtomentosum(Hedw.)Brid.___Racopilumtomentosum(Hedw.)Brid.
+    19. period: RACOPILUM TOMENTOSUM (Hedw.) Brid___Racopilum tomentosum (Hedw.) Brid.
+                RACOPILUM TOMENTOSUM (Hedw) Brid___Racopilum tomentosum (Hedw) Brid
+    20. period: Leucomium lignicola Spr. ex Mitt___Leucomium lignicola Spr. ex Mitt.
+                Leucomium lignicola Spr ex Mitt___Leucomium lignicola Spr ex Mitt
+    21. period: Hypnella pilifera (Hook. et Wils.) Jaeg___Hypnella pilifera (Hook. et Wils.) Jaeg.
+                Hypnella pilifera (Hook et Wils) Jaeg___Hypnella pilifera (Hook et Wils) Jaeg
+    22. period: Campylopus arctocarpus (Hornsch) Mitt___Campylopus arctocarpus (Hornsch.) Mitt.
+                Campylopus arctocarpus (Hornsch) Mitt___Campylopus arctocarpus (Hornsch) Mitt
+verbatimLocality
+    percentage mismatches accounted for: 3.2
+    total mismatches: 95
+    period: 1
+    dash: 1
+    spacing, period, vowel diacritic, dash: 1
+    1. dash: Japon : Yaku-Sima - ___Japon : Yaku-Sima
+             Japon : YakuSima  ___Japon : YakuSima
+    2. period: Cuyamaloya.___Cuyamaloya
+               Cuyamaloya___Cuyamaloya
+    3. spacing, period, vowel diacritic, dash: DEPTO LA PAZ, PROV L ARECAJA: Near large red outcrop 2 mi from Sorata down Rio Consata___Depto. La Paz, Prov. Larecaja: Near large red out-crop 2 mi. from Sorata down Río Consata
+                                               DEPTOLAPAZ,PROVLARECAJA:Nearlargeredoutcrop2mifromSoratadownRioConsata___DeptoLaPaz,ProvLarecaja:Nearlargeredoutcrop2mifromSoratadownRioConsata

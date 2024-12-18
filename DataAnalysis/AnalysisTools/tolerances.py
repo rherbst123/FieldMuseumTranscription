@@ -1,6 +1,6 @@
 import logging
 import re
-from string_distance import WeightedLevenshtein
+from DataAnalysis.AnalysisTools.string_distance import WeightedLevenshtein
 
 class FieldTolerances:
     def __init__(self, config, edit_distance_config):

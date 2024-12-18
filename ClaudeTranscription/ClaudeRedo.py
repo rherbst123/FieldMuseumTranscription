@@ -4,14 +4,30 @@ import os
 import time
 import json
 import requests
+import name_run
 
 # Business as usual
-api_key = "api_key_here"
+api_key = ""
 
-prompt_file_path = "prompt.txt"
-url_text = "url.txt"
-image_folder = "imagefolder"
-output_file = "output.txt"
+
+#FilePath for textfile containing prompt
+prompt_file_path = "Prompts/Prompt 1.5.2.txt"
+
+#Filepath for Textfile containing url's
+url_text = "DataAnalysis/DataSets/5-bryophytes-typed-testing-urls.txt"
+
+#Filepath for folder holding images
+image_folder = "Images/"
+
+#Folder for textfile 
+output_folder = "DataAnalysis/Transcriptions/TextTranscriptions/"
+
+def get_transcription_filename(model):
+    run_name = name_run.get_run_name(model)
+    return f"{run_name}-transcriptions.txt"
+
+model_name = "claude-3.5-sonnet"
+output_file = output_folder + get_transcription_filename(model_name)
 
 prompt_file_path = os.path.normpath(prompt_file_path)
 url_text = os.path.normpath(url_text)

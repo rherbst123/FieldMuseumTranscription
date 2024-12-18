@@ -4,9 +4,9 @@ opencv-python
 pytesseract
 openai
 anthropic
-tkinter
 pillow
 requests
 nltk
 weighted-levenshtein
 google-generativeai
+python-dotenv

@@ -1,0 +1,145 @@
+fieldname,prompt,accuracy,gradedMatch,diff accuracy,diff gradedMatch,description
+associatedTaxa,Prompt 1.1.1.txt,0.0,0.0,      N/A,      N/A,"(This is a taxonomic name that may be directly associated with the acceptedScientificName. i.e., it is growing directly with the acceptedScientificName. This is not a scientific name that is associated with the general forest or vegetation that describes the habitat), "
+associatedTaxa,Prompt 1.2.txt,0.0,0.0,0.0,0.0, <--same as Prompt 1.1.1.txt--> 
+associatedTaxa,Prompt 1.3.txt,      NaN,      NaN,      N/A,      N/A, <--same as Prompt 1.2.txt--> 
+associatedTaxa,Prompt 1.4.txt,0.0,0.0,      N/A,      N/A, <--same as Prompt 1.3.txt--> 
+associatedTaxa,Prompt 1.5.2.txt,0.0,0.0,0.0,0.0,"(This is a taxonomic name that may be directly associated with the acceptedScientificName. i.e., it is growing directly with the acceptedScientificName. This is not a scientific name that is associated with the general forest or vegetation that describes the habitat). Can you strip the taxonomic authority (appears as a persons name and not a Latin name, the persons name might be abbreviated with initials at the end of the name and just provide the Latin binomial."
+,,,,,,
+collectedBy,Prompt 1.1.1.txt,0.0,72.0,      N/A,      N/A,"(The First Collector, only capitalize names)"
+collectedBy,Prompt 1.2.txt,8.0,68.0,8.0,-4.0, <--same as Prompt 1.1.1.txt--> 
+collectedBy,Prompt 1.3.txt,12.0,68.0,4.0,0.0, <--same as Prompt 1.2.txt-->  Collected by or collectors maybe prefixed by leg. or sometimes legit
+collectedBy,Prompt 1.4.txt,0.0,84.0,-12.0,16.0, <--same as Prompt 1.3.txt--> . Use this format: Initials followed by full last name
+collectedBy,Prompt 1.5.2.txt,68.0,84.0,68.0,0.0,"(The First Collector, only capitalize names) Collected by or collectors may be prefixed by leg. or sometimes legit. The collector’s name should be formatted with the first and/or middle names abbreviated and the last name spelled out, eg. R. M. Schuster. Spacing is required between the first, middle, and last names."
+,,,,,,
+country,Prompt 1.1.1.txt,76.0,80.0,      N/A,      N/A,"(The name of the country or major administrative unit in which the event occurred), "
+country,Prompt 1.2.txt,72.0,76.0,-4.0,-4.0, <--same as Prompt 1.1.1.txt--> 
+country,Prompt 1.3.txt,68.0,76.0,-4.0,0.0, <--same as Prompt 1.2.txt--> 
+country,Prompt 1.4.txt,100.0,100.0,32.0,24.0," <--same as Prompt 1.3.txt--> Please find and enter the current name of the country,"
+country,Prompt 1.5.2.txt,100.0,100.0,0.0,0.0, <--same as Prompt 1.4.txt-->  convert abbreviations to full country name
+,,,,,,
+firstPoliticalUnit,Prompt 1.1.1.txt,21.7,52.2,      N/A,      N/A,"(The name of the first-order administrative division in which the event occurred (e.g., state or province)), "
+firstPoliticalUnit,Prompt 1.2.txt,21.7,56.5,0.0,4.299999999999997, <--same as Prompt 1.1.1.txt--> 
+firstPoliticalUnit,Prompt 1.3.txt,21.7,56.5,0.0,0.0, <--same as Prompt 1.2.txt--> 
+firstPoliticalUnit,Prompt 1.4.txt,34.8,60.9,13.099999999999998,4.399999999999999, <--same as Prompt 1.3.txt--> 
+firstPoliticalUnit,Prompt 1.5.2.txt,91.3,91.3,56.5,30.4, <--same as Prompt 1.4.txt--> Use the name only and omit the political division tier. This would be immediately after country in terms of hierarchy. 
+,,,,,,
+habitat,Prompt 1.1.1.txt,15.8,36.8,      N/A,      N/A,"(The description of the habitat in which the specimen was collected as described on the original label, this might be a description or summarization of all of the existing biotic and abiotic factors in the current area that may assist in the survival and reproduction of the collected specimen, for example, the description of the forest, geography etc.)"
+habitat,Prompt 1.2.txt,10.5,36.8,-5.300000000000001,0.0, <--same as Prompt 1.1.1.txt--> 
+habitat,Prompt 1.3.txt,11.1,33.3,0.5999999999999996,-3.5, <--same as Prompt 1.2.txt--> 
+habitat,Prompt 1.4.txt,9.5,28.6,-1.5999999999999996,-4.699999999999996, <--same as Prompt 1.3.txt--> 
+habitat,Prompt 1.5.2.txt,0.0,23.8,-9.5,-4.800000000000001, <--same as Prompt 1.4.txt--> 
+,,,,,,
+identifiedBy,Prompt 1.1.1.txt,0.0,66.7,      N/A,      N/A,"(this is the person who identified the specimen, sometimes represented by Det. or det. Or determined by. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A."
+identifiedBy,Prompt 1.2.txt,9.5,66.7,9.5,0.0, <--same as Prompt 1.1.1.txt--> 
+identifiedBy,Prompt 1.3.txt,9.5,66.7,0.0,0.0, <--same as Prompt 1.2.txt--> 
+identifiedBy,Prompt 1.4.txt,0.0,66.7,-9.5,0.0,"(this is the person who identified the specimen, sometimes represented by Det. or det. Or determined by. Use this format: Initials followed by full last name. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A."
+identifiedBy,Prompt 1.5.2.txt,61.9,81.0,61.9,14.299999999999997,"(this is the person who identified the specimen, sometimes represented by Det. or det. Or determined by. The name should be formatted with the first and/or middle names abbreviated and the last name spelled out, eg. R. M. Schuster. Spacing is required between the first, middle, and last names. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A."
+,,,,,,
+latestScientificName,Prompt 1.1.1.txt,20.0,76.0,      N/A,      N/A,If there are multiple scientific names select the one with the latest determination date.This might be on an extra label.
+latestScientificName,Prompt 1.2.txt,32.0,80.0,12.0,4.0, <--same as Prompt 1.1.1.txt--> 
+latestScientificName,Prompt 1.3.txt,32.0,80.0,0.0,0.0, <--same as Prompt 1.2.txt--> 
+latestScientificName,Prompt 1.4.txt,16.0,72.0,-16.0,-8.0, <--same as Prompt 1.3.txt--> 
+latestScientificName,Prompt 1.5.2.txt,100.0,100.0,84.0,28.0," <--same as Prompt 1.4.txt-->  A scientific name is typically a binomial with a genus name and species name. Sometimes there might be a variety or subspecies identified by var. or subsp.. Can you strip the taxonomic authority (appears as a persons name and not a Latin name, the persons name might be abbreviated with initials at the end of the name and just provide the Latin binomial."
+,,,,,,
+locality,Prompt 1.1.1.txt,8.0,44.0,      N/A,      N/A,"(The specific description of the place. For all entries do not shorten units of measurement and always print out full units (mi to miles, m to meters, ft to feet). Exclude the coordinates or information on latitude and longitude and exclude any information about the elevation, exclude any reference to vegetation, habitat and just retain where the plant was collected. Include any place names, names of parks, etc. If the first and second political units have been parsed out, do not repeat them here.) If no Locality is found put the following [No Locality Found]"
+locality,Prompt 1.2.txt,4.0,28.0,-4.0,-16.0, <--same as Prompt 1.1.1.txt--> 
+locality,Prompt 1.3.txt,8.0,32.0,4.0,4.0,"(The specific description of the place. For all entries do not shorten units of measurement and always print out full units (mi to miles, m to meters, ft to feet). Exclude the coordinates or information on latitude and longitude and exclude any information about the elevation, exclude any reference to vegetation, habitat and just retain where the plant was collected. Include any place names, names of parks, etc. If the first and second political units have been parsed out, do not repeat them here.) If no Precise Locality is found put the following [precise locality unknown]"
+locality,Prompt 1.4.txt,4.0,32.0,-4.0,0.0,"(The specific description of the place. For all entries do not shorten units of measurement and always print out full units (mi to miles, m to meters, ft to feet). Exclude the coordinates or information on latitude and longitude and exclude any information about the elevation, exclude any reference to vegetation, habitat and just retain where the plant was collected. Include any place names, names of parks, etc. If the first and second political units have been parsed out, do not repeat them here.)(Do not abbreviate or shorten the response) If no Precise Locality is found put the following [precise locality unknown]"
+locality,Prompt 1.5.2.txt,0.0,28.0,-4.0,-4.0,"(The specific description of the place. For all entries do not shorten units of measurement and always print out full units (mi to miles, m to meters, ft to feet). Exclude the coordinates or information on latitude and longitude and exclude any information about the elevation, exclude any reference to vegetation, habitat and just retain where the plant was collected. Include any place names, names of parks, etc. If the first and second political units have been parsed out, do not repeat them here.) (Do not abbreviate or shorten the response) If no Precise Locality is found put the following [precise locality unknown]"
+,,,,,,
+maximumEventDate,Prompt 1.1.1.txt,25.0,25.0,      N/A,      N/A,"Used for the last date in a range. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as ""00"". For example, a collection with a date of ""March 1956"" can be entered as ""1956-03-00"".)"
+maximumEventDate,Prompt 1.2.txt,100.0,100.0,75.0,75.0, <--same as Prompt 1.1.1.txt--> 
+maximumEventDate,Prompt 1.3.txt,100.0,100.0,0.0,0.0, <--same as Prompt 1.2.txt--> 
+maximumEventDate,Prompt 1.4.txt,4.8,4.8,-95.2,-95.2, <--same as Prompt 1.3.txt--> 
+maximumEventDate,Prompt 1.5.2.txt,100.0,100.0,95.2,95.2,"Used for the last date in a range. If there is no range, insert N/A. Do not repeat the minimumEventDate.  Convert the date as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as ""00"". For example, a collection with a date of ""March 1956"" can be entered as ""1956-03-00"".)"
+,,,,,,
+minimumEventDate,Prompt 1.1.1.txt,84.0,96.0,      N/A,      N/A,"(The date the specimen was collected. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as ""00"". For example, a collection with a date of ""March 1956"" can be entered as ""1956-03-00"".), Used if date is singular or start of date if a range,"
+minimumEventDate,Prompt 1.2.txt,80.0,92.0,-4.0,-4.0, <--same as Prompt 1.1.1.txt--> 
+minimumEventDate,Prompt 1.3.txt,80.0,92.0,0.0,0.0, <--same as Prompt 1.2.txt--> 
+minimumEventDate,Prompt 1.4.txt,76.0,96.0,-4.0,4.0, <--same as Prompt 1.3.txt-->  
+minimumEventDate,Prompt 1.5.2.txt,83.3,95.8,7.299999999999997,-0.20000000000000284,"(The date the specimen was collected. Convert the date as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as ""00"". For example, a collection with a date of ""March 1956"" can be entered as ""1956-03-00"".), Used if date is singular or start of date if a range, "
+,,,,,,
+municipality,Prompt 1.1.1.txt,25.0,25.0,      N/A,      N/A,"(The city, town, village in which the event occurred), "
+municipality,Prompt 1.2.txt,25.0,25.0,0.0,0.0, <--same as Prompt 1.1.1.txt--> 
+municipality,Prompt 1.3.txt,28.6,28.6,3.6000000000000014,3.6000000000000014, <--same as Prompt 1.2.txt--> 
+municipality,Prompt 1.4.txt,25.0,25.0,-3.6000000000000014,-3.6000000000000014, <--same as Prompt 1.3.txt--> 
+municipality,Prompt 1.5.2.txt,12.5,12.5,-12.5,-12.5, <--same as Prompt 1.4.txt--> 
+,,,,,,
+originalMethod,Prompt 1.1.1.txt,100.0,100.0,      N/A,      N/A,"The method by which the original data was recorded, select from this list (Handwritten, Typed, Mix of Handwritten and Typed, Unsure)"
+originalMethod,Prompt 1.2.txt,96.0,96.0,-4.0,-4.0, <--same as Prompt 1.1.1.txt--> 
+originalMethod,Prompt 1.3.txt,92.0,92.0,-4.0,-4.0, <--same as Prompt 1.2.txt--> 
+originalMethod,Prompt 1.4.txt,96.0,96.0,4.0,4.0, <--same as Prompt 1.3.txt--> 
+originalMethod,Prompt 1.5.2.txt,80.0,80.0,-16.0,-16.0, <--same as Prompt 1.4.txt--> 
+,,,,,,
+otherCatalogNumbers,Prompt 1.1.1.txt,72.0,88.0,      N/A,      N/A,"(An identifier for the record within the dataset - this is not to be confused with the recordNumber - the otherCatalogNumbers maybe a stamped number on the herbarium sheet), "
+otherCatalogNumbers,Prompt 1.2.txt,68.0,88.0,-4.0,0.0, <--same as Prompt 1.1.1.txt--> 
+otherCatalogNumbers,Prompt 1.3.txt,68.0,88.0,0.0,0.0, <--same as Prompt 1.2.txt--> 
+otherCatalogNumbers,Prompt 1.4.txt,72.0,88.0,4.0,0.0, <--same as Prompt 1.3.txt--> 
+otherCatalogNumbers,Prompt 1.5.2.txt,68.0,88.0,-4.0,0.0, <--same as Prompt 1.4.txt--> 
+,,,,,,
+recordNumber,Prompt 1.1.1.txt,48.0,52.0,      N/A,      N/A,"(An identifier given to the occurrence at the time it was recorded - this is the collection number by the person who collected the specimen), "
+recordNumber,Prompt 1.2.txt,48.0,52.0,0.0,0.0, <--same as Prompt 1.1.1.txt--> 
+recordNumber,Prompt 1.3.txt,48.0,52.0,0.0,0.0, <--same as Prompt 1.2.txt--> 
+recordNumber,Prompt 1.4.txt,56.0,64.0,8.0,12.0, <--same as Prompt 1.3.txt--> If not present put “s.n.”
+recordNumber,Prompt 1.5.2.txt,60.0,64.0,4.0,0.0,"(An identifier given to the specimen at the time it was recorded - this is the collection number by the person who collected the specimen), If not present put “s.n.”"
+,,,,,,
+secondPoliticalUnit,Prompt 1.1.1.txt,0.0,0.0,      N/A,      N/A," The name of the second-order administrative division in which the event occurred (e.g., county)), "
+secondPoliticalUnit,Prompt 1.2.txt,0.0,0.0,0.0,0.0, <--same as Prompt 1.1.1.txt--> 
+secondPoliticalUnit,Prompt 1.3.txt,0.0,0.0,0.0,0.0, <--same as Prompt 1.2.txt--> 
+secondPoliticalUnit,Prompt 1.4.txt,0.0,0.0,0.0,0.0, <--same as Prompt 1.3.txt--> 
+secondPoliticalUnit,Prompt 1.5.2.txt,0.0,0.0,0.0,0.0,There may or may  <--same as Prompt 1.4.txt--> Use the name only and omit the political division tier. 
+,,,,,,
+secondaryCollectors,Prompt 1.1.1.txt,0.0,0.0,      N/A,      N/A,"(These are collectors listed after the first, only capitalize names)"
+secondaryCollectors,Prompt 1.2.txt,0.0,0.0,0.0,0.0, <--same as Prompt 1.1.1.txt--> 
+secondaryCollectors,Prompt 1.3.txt,0.0,0.0,0.0,0.0, <--same as Prompt 1.2.txt--> 
+secondaryCollectors,Prompt 1.4.txt,0.0,0.0,0.0,0.0, <--same as Prompt 1.3.txt-->  Use this format: Initials followed by full last name
+secondaryCollectors,Prompt 1.5.2.txt,0.0,0.0,0.0,0.0,"(These are collectors listed after the first, only capitalize names) The names should be formatted with the first and/or middle names abbreviated and the last name spelled out, eg. R. M. Schuster. Spacing is required between the first, middle, and last names. Also separate multiple collectors by a pipe (ie |)."
+,,,,,,
+typeStatus,Prompt 1.1.1.txt,100.0,100.0,      N/A,      N/A,"If the specimen has “type” written or typed on the label and can take the form holotype, isotype etc state as such, otherwise so “no type status”"
+typeStatus,Prompt 1.2.txt,100.0,100.0,0.0,0.0, <--same as Prompt 1.1.1.txt--> 
+typeStatus,Prompt 1.3.txt,100.0,100.0,0.0,0.0, <--same as Prompt 1.2.txt--> 
+typeStatus,Prompt 1.4.txt,100.0,100.0,0.0,0.0, <--same as Prompt 1.3.txt--> 
+typeStatus,Prompt 1.5.2.txt,100.0,100.0,0.0,0.0, <--same as Prompt 1.4.txt--> 
+,,,,,,
+verbatimCollectors,Prompt 1.1.1.txt,4.0,44.0,      N/A,      N/A,"(The collectors as you see it on the label, this might be one collector, a string of collectors, that collected the sample)"
+verbatimCollectors,Prompt 1.2.txt,8.0,40.0,4.0,-4.0, <--same as Prompt 1.1.1.txt--> 
+verbatimCollectors,Prompt 1.3.txt,8.0,44.0,0.0,4.0, <--same as Prompt 1.2.txt-->  Collected by or collectors maybe prefixed by leg. or sometimes legit
+verbatimCollectors,Prompt 1.4.txt,0.0,40.0,-8.0,-4.0, <--same as Prompt 1.3.txt--> 
+verbatimCollectors,Prompt 1.5.2.txt,8.0,40.0,8.0,0.0, <--same as Prompt 1.4.txt--> 
+,,,,,,
+verbatimCoordinates,Prompt 1.1.1.txt,0.0,66.7,      N/A,      N/A,"(The original verbatim text of the coordinates, if they exist on the label), "
+verbatimCoordinates,Prompt 1.2.txt,0.0,66.7,0.0,0.0, <--same as Prompt 1.1.1.txt--> 
+verbatimCoordinates,Prompt 1.3.txt,0.0,66.7,0.0,0.0, <--same as Prompt 1.2.txt--> 
+verbatimCoordinates,Prompt 1.4.txt,0.0,66.7,0.0,0.0, <--same as Prompt 1.3.txt--> 
+verbatimCoordinates,Prompt 1.5.2.txt,0.0,66.7,0.0,0.0, <--same as Prompt 1.4.txt--> Precisely as appearing on label.
+,,,,,,
+verbatimDateIdentified,Prompt 1.1.1.txt,0.0,0.0,      N/A,      N/A,"(The date on which the subject was identified as representing the Taxon. This is not eventDate so make sure to differentiate), "
+verbatimDateIdentified,Prompt 1.2.txt,0.0,0.0,0.0,0.0, <--same as Prompt 1.1.1.txt--> 
+verbatimDateIdentified,Prompt 1.3.txt,0.0,0.0,0.0,0.0, <--same as Prompt 1.2.txt--> 
+verbatimDateIdentified,Prompt 1.4.txt,0.0,0.0,0.0,0.0, <--same as Prompt 1.3.txt--> 
+verbatimDateIdentified,Prompt 1.5.2.txt,0.0,0.0,0.0,0.0, <--same as Prompt 1.4.txt--> Precisely as appearing on label.
+,,,,,,
+verbatimElevation,Prompt 1.1.1.txt,10.5,63.2,      N/A,      N/A,"(The original verbatim text of the elevation (altitude) of the occurrence), "
+verbatimElevation,Prompt 1.2.txt,5.3,63.2,-5.2,0.0, <--same as Prompt 1.1.1.txt--> 
+verbatimElevation,Prompt 1.3.txt,5.3,63.2,0.0,0.0, <--same as Prompt 1.2.txt--> 
+verbatimElevation,Prompt 1.4.txt,5.3,63.2,0.0,0.0, <--same as Prompt 1.3.txt--> 
+verbatimElevation,Prompt 1.5.2.txt,5.3,63.2,0.0,0.0, <--same as Prompt 1.4.txt--> Precisely as appearing on label.
+,,,,,,
+verbatimEventDate,Prompt 1.1.1.txt,44.0,84.0,      N/A,      N/A,"(The original verbatim text of the date and time information for the original occurrence), "
+verbatimEventDate,Prompt 1.2.txt,48.0,88.0,4.0,4.0, <--same as Prompt 1.1.1.txt--> 
+verbatimEventDate,Prompt 1.3.txt,48.0,88.0,0.0,0.0, <--same as Prompt 1.2.txt--> 
+verbatimEventDate,Prompt 1.4.txt,52.0,88.0,4.0,0.0, <--same as Prompt 1.3.txt--> if not present put “s.d.”. 
+verbatimEventDate,Prompt 1.5.2.txt,56.0,88.0,4.0,0.0,"(The Verbatim Date field is used to record the collection date exactly as shown on the label - with no correction of spacing, or anything else. Precisely as appearing on label.), If not present put “s.d.”. "
+,,,,,,
+verbatimIdentification,Prompt 1.1.1.txt,16.0,88.0,      N/A,      N/A,"A string representing the taxonomic identification as it appeared in the original label. This term is meant to allow the capture of an unaltered original identification/determination, including identification qualifiers, hybrid formulas, uncertainties, etc. "
+verbatimIdentification,Prompt 1.2.txt,36.0,92.0,20.0,4.0, <--same as Prompt 1.1.1.txt--> 
+verbatimIdentification,Prompt 1.3.txt,36.0,92.0,0.0,0.0, <--same as Prompt 1.2.txt--> 
+verbatimIdentification,Prompt 1.4.txt,24.0,88.0,-12.0,-4.0, <--same as Prompt 1.3.txt--> 
+verbatimIdentification,Prompt 1.5.2.txt,64.0,92.0,40.0,4.0, <--same as Prompt 1.4.txt--> Precisely as appearing on label.
+,,,,,,
+verbatimLocality,Prompt 1.1.1.txt,4.0,44.0,      N/A,      N/A,"(The original textual description of the place where the occurrence was recorded, do not convert any abbreviated text at all, do not convert acronyms, exclude however the coordinates or information on latitude and longitude, exclude elevation, this should otherwise read precisely as it is on the label), If the first and second political units have been parsed out, do not repeat them here. "
+verbatimLocality,Prompt 1.2.txt,4.0,40.0,0.0,-4.0, <--same as Prompt 1.1.1.txt--> 
+verbatimLocality,Prompt 1.3.txt,4.0,40.0,0.0,0.0, <--same as Prompt 1.2.txt--> 
+verbatimLocality,Prompt 1.4.txt,8.0,48.0,4.0,8.0, <--same as Prompt 1.3.txt--> 
+verbatimLocality,Prompt 1.5.2.txt,4.0,48.0,-4.0,0.0, <--same as Prompt 1.4.txt--> 
+,,,,,,

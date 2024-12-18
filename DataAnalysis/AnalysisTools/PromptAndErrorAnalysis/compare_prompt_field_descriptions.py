@@ -47,8 +47,7 @@ def compare_prompts(prompt_nameA, path_promptA, prompt_nameB, path_promptB):
     return pairings    
 
 def compare_all_prompts():
-    all_prompts: list(tuple) = [("prompt1.0", "Prompts/Prompt 1.0.txt"),
-                                ("prompt1.1", "Prompts/Prompt 1.1.txt"),
+    all_prompts: list(tuple) = [("prompt1.1.1", "Prompts/Prompt 1.1.1.txt"),
                                 ("prompt1.2", "Prompts/Prompt 1.2.txt"),
                                 ("prompt1.3", "Prompts/Prompt 1.3.txt"),
                                 ("prompt1.4", "Prompts/Prompt 1.4.txt"),

@@ -1,0 +1,257 @@
+grand total mismatches: 668
+grand total mismatches accounted for: 79
+overall percentage mismatches accounted for: 11.8
+associatedTaxa
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 7
+collectedBy
+    percentage mismatches accounted for: 5.9
+    total mismatches: 17
+    spacing, dash: 1
+    1. spacing, dash: J. P. Frahm___J.-P. Frahm
+                      J.P.Frahm___J.P.Frahm
+country
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 7
+firstPoliticalUnit
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 20
+habitat
+    percentage mismatches accounted for: 16.3
+    total mismatches: 49
+    spacing: 2
+    period: 5
+    dash: 1
+    1. period: Dense forest on log.___Dense forest on log
+               Dense forest on log___Dense forest on log
+    2. period: On rocks wet by spray.___On rocks wet by spray
+               On rocks wet by spray___On rocks wet by spray
+    3. period: on rotten log.___On rotten log
+               on rotten log___On rotten log
+    4. dash: sexponierter Hang, hochandiner Regenwald auf Kalkstein___S-exponierter Hang, hochandiner Regenwald auf Kalkstein
+             sexponierter Hang, hochandiner Regenwald auf Kalkstein___Sexponierter Hang, hochandiner Regenwald auf Kalkstein
+    5. period: Very shady ground along creek in humid shrubs.___Very shady ground along creek in humid shrubs
+               Very shady ground along creek in humid shrubs___Very shady ground along creek in humid shrubs
+    6. period: Waterfall ravine, highest extension of shrubs.___Waterfall ravine, highest extension of shrubs
+               Waterfall ravine, highest extension of shrubs___Waterfall ravine, highest extension of shrubs
+    7. spacing: Shady streambank, on rotten log___Shady stream bank, on rotten log
+                Shadystreambank,onrottenlog___Shadystreambank,onrottenlog
+    8. spacing: Shady streambank, on rotten log___Shady stream bank, on rotten log
+                Shadystreambank,onrottenlog___Shadystreambank,onrottenlog
+identifiedBy
+    percentage mismatches accounted for: 2.6
+    total mismatches: 38
+    spacing: 1
+    1. spacing: R. R. Ireland___R .R. Ireland
+                R.R.Ireland___R.R.Ireland
+latestScientificName
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 46
+locality
+    percentage mismatches accounted for: 3.0
+    total mismatches: 67
+    period: 1
+    vowel diacritic: 1
+    1. period: Above Pongo de Manseriche, streamlet on right bank of Rio Santiago.___Above Pongo de Manseriche, streamlet on right bank of Rio Santiago
+               Above Pongo de Manseriche, streamlet on right bank of Rio Santiago___Above Pongo de Manseriche, streamlet on right bank of Rio Santiago
+    2. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+                        Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+maximumEventDate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+minimumEventDate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 18
+municipality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 29
+originalMethod
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 4
+otherCatalogNumbers
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 30
+recordNumber
+    percentage mismatches accounted for: 6.2
+    total mismatches: 32
+    spacing: 1
+    dash: 1
+    1. spacing: 243 A___243A
+                243A___243A
+    2. dash: 6217-a___6217a
+             6217a___6217a
+secondPoliticalUnit
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 12
+secondaryCollectors
+    percentage mismatches accounted for: 16.7
+    total mismatches: 6
+    spacing: 1
+    1. spacing: P.A. Florschütz___P. A. Florschütz
+                P.A.Florschütz___P.A.Florschütz
+typeStatus
+    percentage mismatches accounted for: No mismatches to account for
+verbatimCollectors
+    percentage mismatches accounted for: 14.3
+    total mismatches: 28
+    spacing: 2
+    spacing, extraneous preface: 2
+    1. spacing: H. Cornelissen & S. R. Gradstein___H.Cornelissen & S.R.Gradstein
+                H.Cornelissen&S.R.Gradstein___H.Cornelissen&S.R.Gradstein
+    2. spacing: D.C. Geijskes___D.C.Geijskes
+                D.C.Geijskes___D.C.Geijskes
+    3. spacing, extraneous preface: leg. Zd. Pilous___Zd.Pilous
+                                    Zd.Pilous___Zd.Pilous
+    4. spacing, extraneous preface: leg. Zd. Pilous___Zd.Pilous
+                                    Zd.Pilous___Zd.Pilous
+verbatimCoordinates
+    percentage mismatches accounted for: 45.8
+    total mismatches: 24
+    spacing: 1
+    period: 6
+    spacing, period: 4
+    1. period: 60°00'N lat., 44°40'W. long.___60°00'N lat., 44°40'W long.
+               60°00'N lat, 44°40'W long___60°00'N lat, 44°40'W long
+    2. period: 38° 24.5' S, 174° 49.8' E___38° 24.5' S., 174° 49.8' E
+               38° 245' S, 174° 498' E___38° 245' S, 174° 498' E
+    3. period: 15° 08' S., 69° 03' W.___15° 08' S., 69° 03' W
+               15° 08' S, 69° 03' W___15° 08' S, 69° 03' W
+    4. spacing, period: 18°07' S, 69°00' W___18° 07' S., 69° 00' W
+                        18°07'S,69°00'W___18°07'S,69°00'W
+    5. spacing, period: 18°07' S, 69°00' W___18° 07' S., 69° 00' W
+                        18°07'S,69°00'W___18°07'S,69°00'W
+    6. spacing, period: 18°07' S, 69°00' W___18° 07' S., 69° 00' W
+                        18°07'S,69°00'W___18°07'S,69°00'W
+    7. spacing, period: 18°07' S, 69°00' W___18° 07' S., 69° 00' W
+                        18°07'S,69°00'W___18°07'S,69°00'W
+    8. period: 18° 07' S, 69° 00' W___18° 07' S., 69° 00' W
+               18° 07' S, 69° 00' W___18° 07' S, 69° 00' W
+    9. period: 18° 07' S, 69° 00' W___18° 07' S., 69° 00' W
+               18° 07' S, 69° 00' W___18° 07' S, 69° 00' W
+    10. period: 15° 41' S., 68° 43' W.___15° 41' S, 68° 43' W
+                15° 41' S, 68° 43' W___15° 41' S, 68° 43' W
+    11. spacing: 54°46'S, 68°20'W___54°46'S,68°20'W
+                 54°46'S,68°20'W___54°46'S,68°20'W
+verbatimDateIdentified
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 14
+verbatimElevation
+    percentage mismatches accounted for: 67.9
+    total mismatches: 56
+    period: 12
+    extraneous preface: 4
+    spacing, extraneous preface: 2
+    period, extraneous preface: 20
+    1. period: 2630 m.___2630 m
+               2630 m___2630 m
+    2. period: 2630 m.___2630 m
+               2630 m___2630 m
+    3. period, extraneous preface: Alt. 400 m.___400 m
+                                    400 m___400 m
+    4. period, extraneous preface: Alt. 400 m.___400 m
+                                    400 m___400 m
+    5. spacing, extraneous preface: ALT. 0-50 m___0 - 50 m
+                                    0-50m___0-50m
+    6. period: 0 - 50 m.___0 - 50 m
+               0 - 50 m___0 - 50 m
+    7. period, extraneous preface: alt. 0-50 m.___0-50 m
+                                    0-50 m___0-50 m
+    8. period: ca. 500 m.___ca. 500 m
+               ca 500 m___ca 500 m
+    9. extraneous preface: alt. 0-50 m___0-50 m
+                            0-50 m___0-50 m
+    10. extraneous preface: Alt. about 30 m___about 30 m
+                             about 30 m___about 30 m
+    11. period, extraneous preface: Alt. 25 m.___25 m
+                                     25 m___25 m
+    12. period: 4350 m.___4350 m
+                4350 m___4350 m
+    13. period: 4350 m.___4350 m
+                4350 m___4350 m
+    14. period: 4350 m.___4350 m
+                4350 m___4350 m
+    15. period, extraneous preface: Alt. 200 m.___200 m
+                                     200 m___200 m
+    16. period, extraneous preface: Alt. 200 m.___200 m
+                                     200 m___200 m
+    17. period, extraneous preface: Alt. 250 m.___250 m
+                                     250 m___250 m
+    18. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    19. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    20. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    21. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    22. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    23. period, extraneous preface: Alt. 1800 m.___1800 m
+                                     1800 m___1800 m
+    24. period, extraneous preface: Alt 500 m.___500 m
+                                     500 m___500 m
+    25. period: 2160 m.___2160 m
+                2160 m___2160 m
+    26. period: 2600 m.___2600 m
+                2600 m___2600 m
+    27. period: 3780 m.___3780 m
+                3780 m___3780 m
+    28. period, extraneous preface: Alt. 500 m.___500 m
+                                     500 m___500 m
+    29. extraneous preface: Alt. 675 m___675 m
+                             675 m___675 m
+    30. spacing, extraneous preface: Alt. 710m___710 m
+                                     710m___710m
+    31. period, extraneous preface: Alt. 670 m.___670 m
+                                     670 m___670 m
+    32. period, extraneous preface: Alt 675 m.___675 m
+                                     675 m___675 m
+    33. period, extraneous preface: Alt. 700 m.___700 m
+                                     700 m___700 m
+    34. extraneous preface: Alt. 675 m___675 m
+                             675 m___675 m
+    35. period, extraneous preface: Alt. 710 m.___710 m
+                                     710 m___710 m
+    36. period, extraneous preface: alt. 670 m.___670 m
+                                     670 m___670 m
+    37. period: ca 580 m___ca. 580 m
+                ca 580 m___ca 580 m
+    38. period: ca. 1840 m___ca 1840 m
+                ca 1840 m___ca 1840 m
+verbatimEventDate
+    percentage mismatches accounted for: 14.8
+    total mismatches: 27
+    spacing: 3
+    period: 1
+    1. spacing: June 30 19 51___June 30 1951
+                June301951___June301951
+    2. period: Dec 4, 1931___Dec. 4, 1931
+               Dec 4, 1931___Dec 4, 1931
+    3. spacing: May 14, 1936___May 14,1936
+                May14,1936___May14,1936
+    4. spacing: 29-9-1952___29 - 9 - 1952
+                29-9-1952___29-9-1952
+verbatimIdentification
+    percentage mismatches accounted for: 3.2
+    total mismatches: 63
+    spacing: 1
+    period: 1
+    1. spacing: Isopterygium tenerum (Sw.) Mitt.___Isopterygium tenerum(Sw.)Mitt.
+                Isopterygiumtenerum(Sw.)Mitt.___Isopterygiumtenerum(Sw.)Mitt.
+    2. period: Pogonatum urnigerum (Hedw.) P.B.___Pogonatum urnigerum (Hedw.) PB.
+               Pogonatum urnigerum (Hedw) PB___Pogonatum urnigerum (Hedw) PB
+verbatimLocality
+    percentage mismatches accounted for: 6.8
+    total mismatches: 73
+    period: 3
+    spacing, period, comma: 2
+    1. spacing, period, comma: NORTH ISLAND, AUCKLAND PROV.: Whareorino Forest, start of track to Leitch's Hut___North Island. Auckland Prov.: Whareorino Forest, start of track to Leitch's Hut
+                               NORTHISLANDAUCKLANDPROV:WhareorinoForeststartoftracktoLeitch'sHut___NorthIslandAucklandProv:WhareorinoForeststartoftracktoLeitch'sHut
+    2. period: Above Pongo de Manseriche. Streamlet near mouth of Rio Santiago.___Above Pongo de Manseriche. Streamlet near mouth of Rio Santiago
+               Above Pongo de Manseriche Streamlet near mouth of Rio Santiago___Above Pongo de Manseriche Streamlet near mouth of Rio Santiago
+    3. period: Above Pongo de Manseriche. Left bank of Rio Santiago.___Above Pongo de Manseriche. Left bank of Rio Santiago
+               Above Pongo de Manseriche Left bank of Rio Santiago___Above Pongo de Manseriche Left bank of Rio Santiago
+    4. spacing, period, comma: Above Pongo de Manseriche, Right bank of Rio Santiago.___Above Pongo de Manseriche. Right bank of Rio Santiago
+                               AbovePongodeMansericheRightbankofRioSantiago___AbovePongodeMansericheRightbankofRioSantiago
+    5. period: Above Pongo de Manseriche. Streamlet on right bank of Rio Santiago.___Above Pongo de Manseriche. Streamlet on right bank of Rio Santiago
+               Above Pongo de Manseriche Streamlet on right bank of Rio Santiago___Above Pongo de Manseriche Streamlet on right bank of Rio Santiago

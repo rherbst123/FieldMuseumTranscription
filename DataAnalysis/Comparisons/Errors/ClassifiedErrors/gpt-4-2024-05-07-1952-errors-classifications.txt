@@ -1,0 +1,282 @@
+grand total mismatches: 709
+grand total mismatches accounted for: 88
+overall percentage mismatches accounted for: 12.4
+associatedTaxa
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 7
+collectedBy
+    percentage mismatches accounted for: 9.1
+    total mismatches: 22
+    vowel diacritic: 1
+    spacing, dash: 1
+    1. vowel diacritic: Y. Mexía___Y. Mexia
+                        Y. Mexia___Y. Mexia
+    2. spacing, dash: J. P. Frahm___J.-P. Frahm
+                      J.P.Frahm___J.P.Frahm
+country
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 7
+firstPoliticalUnit
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 21
+habitat
+    percentage mismatches accounted for: 18.9
+    total mismatches: 53
+    spacing: 1
+    period: 8
+    spacing, period, comma: 1
+    1. period: On fallen log.___On fallen log
+               On fallen log___On fallen log
+    2. period: In warmish creek.___In warmish creek
+               In warmish creek___In warmish creek
+    3. period: In warmish creek.___In warmish creek
+               In warmish creek___In warmish creek
+    4. period: On stone in overflow forest.___On stone in overflow forest
+               On stone in overflow forest___On stone in overflow forest
+    5. period: Dense forest on log.___Dense forest on log
+               Dense forest on log___Dense forest on log
+    6. period: On rocks wet by spray.___On rocks wet by spray
+               On rocks wet by spray___On rocks wet by spray
+    7. period: On rotten log.___On rotten log
+               On rotten log___On rotten log
+    8. period: Dense forest on rotten log___Dense forest. On rotten log
+               Dense forest on rotten log___Dense forest On rotten log
+    9. spacing, period, comma: Wood on slope, on rotten log___Wood on slope. On rotten log
+                               Woodonslopeonrottenlog___WoodonslopeOnrottenlog
+    10. spacing: Shady streambank, on rotten log___Shady stream bank, on rotten log
+                 Shadystreambank,onrottenlog___Shadystreambank,onrottenlog
+identifiedBy
+    percentage mismatches accounted for: 5.1
+    total mismatches: 39
+    spacing: 1
+    extraneous preface: 1
+    1. extraneous preface: Det. Bartram___Bartram
+                            Bartram___Bartram
+    2. spacing: R. R. Ireland___R .R. Ireland
+                R.R.Ireland___R.R.Ireland
+latestScientificName
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 49
+locality
+    percentage mismatches accounted for: 5.6
+    total mismatches: 72
+    vowel diacritic: 3
+    spacing, period, comma: 1
+    1. vowel diacritic: Rio Kuduyarí (affluent of Rio Vaupés), Yapobodá___Río Kuduyarí (affluent of Río Vaupés), Yapobodá
+                        Rio Kuduyari (affluent of Rio Vaupes), Yapoboda___Rio Kuduyari (affluent of Rio Vaupes), Yapoboda
+    2. vowel diacritic: Above Pongo de Manseriche, left bank of Río Santiago___Above Pongo de Manseriche, left bank of Rio Santiago
+                        Above Pongo de Manseriche, left bank of Rio Santiago___Above Pongo de Manseriche, left bank of Rio Santiago
+    3. spacing, period, comma: Above Pongo de Manseriche. Creek Inche.___Above Pongo de Manseriche, Creek Inche
+                               AbovePongodeMansericheCreekInche___AbovePongodeMansericheCreekInche
+    4. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+                        Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+maximumEventDate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 3
+minimumEventDate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 20
+municipality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 22
+originalMethod
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 4
+otherCatalogNumbers
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 36
+recordNumber
+    percentage mismatches accounted for: 6.9
+    total mismatches: 29
+    spacing: 1
+    dash: 1
+    1. spacing: 243 A___243A
+                243A___243A
+    2. dash: 6217-a___6217a
+             6217a___6217a
+secondPoliticalUnit
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 13
+secondaryCollectors
+    percentage mismatches accounted for: 9.1
+    total mismatches: 11
+    spacing: 1
+    1. spacing: P.A. Florschütz___P. A. Florschütz
+                P.A.Florschütz___P.A.Florschütz
+typeStatus
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+verbatimCollectors
+    percentage mismatches accounted for: 16.7
+    total mismatches: 30
+    spacing: 3
+    vowel diacritic: 1
+    comma, extraneous preface: 1
+    1. vowel diacritic: Ynes Mexía___Ynes Mexia
+                        Ynes Mexia___Ynes Mexia
+    2. spacing: H. Cornelissen & S. R. Gradstein___H.Cornelissen & S.R.Gradstein
+                H.Cornelissen&S.R.Gradstein___H.Cornelissen&S.R.Gradstein
+    3. comma, extraneous preface: Marko Lewis, leg.___Marko Lewis
+                                  Marko Lewis___Marko Lewis
+    4. spacing: D. C. Geijskes___D.C.Geijskes
+                D.C.Geijskes___D.C.Geijskes
+    5. spacing: Zd. Pilous___Zd.Pilous
+                Zd.Pilous___Zd.Pilous
+verbatimCoordinates
+    percentage mismatches accounted for: 44.0
+    total mismatches: 25
+    spacing: 1
+    period: 6
+    spacing, period: 4
+    1. period: 60°00'N lat., 44°40'W. long.___60°00'N lat., 44°40'W long.
+               60°00'N lat, 44°40'W long___60°00'N lat, 44°40'W long
+    2. period: 38° 24.5' S, 174° 49.8' E___38° 24.5' S., 174° 49.8' E
+               38° 245' S, 174° 498' E___38° 245' S, 174° 498' E
+    3. period: 15° 08' S., 69° 03' W.___15° 08' S., 69° 03' W
+               15° 08' S, 69° 03' W___15° 08' S, 69° 03' W
+    4. spacing, period: 18°07' S, 69°00' W___18° 07' S., 69° 00' W
+                        18°07'S,69°00'W___18°07'S,69°00'W
+    5. spacing, period: 18°07' S, 69°00' W___18° 07' S., 69° 00' W
+                        18°07'S,69°00'W___18°07'S,69°00'W
+    6. period: 18° 07' S, 69° 00' W___18° 07' S., 69° 00' W
+               18° 07' S, 69° 00' W___18° 07' S, 69° 00' W
+    7. spacing, period: 18°07' S, 69°00' W.___18° 07' S., 69° 00' W
+                        18°07'S,69°00'W___18°07'S,69°00'W
+    8. spacing, period: 18°07' S, 69°00' W___18° 07' S., 69° 00' W
+                        18°07'S,69°00'W___18°07'S,69°00'W
+    9. period: 18° 07' S, 69° 00' W.___18° 07' S., 69° 00' W
+               18° 07' S, 69° 00' W___18° 07' S, 69° 00' W
+    10. period: 18° 07' S, 69° 00' W___18° 07' S., 69° 00' W
+                18° 07' S, 69° 00' W___18° 07' S, 69° 00' W
+    11. spacing: 54°46'S, 68°20'W___54°46'S,68°20'W
+                 54°46'S,68°20'W___54°46'S,68°20'W
+verbatimDateIdentified
+    percentage mismatches accounted for: 5.3
+    total mismatches: 19
+    spacing: 1
+    1. spacing: 19 88___1988
+                1988___1988
+verbatimElevation
+    percentage mismatches accounted for: 65.5
+    total mismatches: 58
+    period: 13
+    extraneous preface: 1
+    spacing, extraneous preface: 1
+    period, comma: 1
+    period, extraneous preface: 22
+    1. period: 2630 m.___2630 m
+               2630 m___2630 m
+    2. period, extraneous preface: Alt. 400 m.___400 m
+                                    400 m___400 m
+    3. period, extraneous preface: Alt. 400 m.___400 m
+                                    400 m___400 m
+    4. spacing, extraneous preface: ALT. 0-50 m___0 - 50 m
+                                    0-50m___0-50m
+    5. period: 0 - 50 m.___0 - 50 m
+               0 - 50 m___0 - 50 m
+    6. period, extraneous preface: alt. 0-50 m.___0-50 m
+                                    0-50 m___0-50 m
+    7. period, extraneous preface: alt. 0-50 m.___0-50 m
+                                    0-50 m___0-50 m
+    8. period, extraneous preface: Alt. about 30 m.___about 30 m
+                                    about 30 m___about 30 m
+    9. period, extraneous preface: Alt. 25 m.___25 m
+                                    25 m___25 m
+    10. period: 4350 m.___4350 m
+                4350 m___4350 m
+    11. period: 4350 m.___4350 m
+                4350 m___4350 m
+    12. period: 4350 m.___4350 m
+                4350 m___4350 m
+    13. period: 4350 m.___4350 m
+                4350 m___4350 m
+    14. period: 4350 m.___4350 m
+                4350 m___4350 m
+    15. period, extraneous preface: Alt. 200 m.___200 m
+                                     200 m___200 m
+    16. period, extraneous preface: Alt. 200 m.___200 m
+                                     200 m___200 m
+    17. period, extraneous preface: Alt. 250 m.___250 m
+                                     250 m___250 m
+    18. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    19. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    20. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    21. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    22. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    23. extraneous preface: alt. 1800 m___1800 m
+                             1800 m___1800 m
+    24. period, comma: 3,000-3,100 m___3.000-3.100 m
+                       3000-3100 m___3000-3100 m
+    25. period: 2160 m.___2160 m
+                2160 m___2160 m
+    26. period: 2600 m.___2600 m
+                2600 m___2600 m
+    27. period: 3780 m.___3780 m
+                3780 m___3780 m
+    28. period, extraneous preface: Alt. 500 m.___500 m
+                                     500 m___500 m
+    29. period, extraneous preface: Alt. 675 m.___675 m
+                                     675 m___675 m
+    30. period, extraneous preface: Alt. 710 m.___710 m
+                                     710 m___710 m
+    31. period, extraneous preface: Alt. 670 m.___670 m
+                                     670 m___670 m
+    32. period: ca. 500m.___ca. 500m
+                ca 500m___ca 500m
+    33. period, extraneous preface: Alt. 700 m.___700 m
+                                     700 m___700 m
+    34. period, extraneous preface: Alt. 675 m.___675 m
+                                     675 m___675 m
+    35. period, extraneous preface: Alt. 710 m.___710 m
+                                     710 m___710 m
+    36. period, extraneous preface: alt. 670 m.___670 m
+                                     670 m___670 m
+    37. period: ca 580 m___ca. 580 m
+                ca 580 m___ca 580 m
+    38. period: ca. 1840 m___ca 1840 m
+                ca 1840 m___ca 1840 m
+verbatimEventDate
+    percentage mismatches accounted for: 18.8
+    total mismatches: 32
+    spacing: 3
+    period: 2
+    spacing, comma: 1
+    1. spacing: June 30 19 51___June 30 1951
+                June301951___June301951
+    2. spacing: April 14 19 79___April 14 1979
+                April141979___April141979
+    3. period: Dec. 4, 1931.___Dec. 4, 1931
+               Dec 4, 1931___Dec 4, 1931
+    4. period: Jan. 3, 1932.___Jan. 3, 1932
+               Jan 3, 1932___Jan 3, 1932
+    5. spacing: 29-9-1952___29 - 9 - 1952
+                29-9-1952___29-9-1952
+    6. spacing, comma: July 21 1930___July 21, 1930
+                       July211930___July211930
+verbatimIdentification
+    percentage mismatches accounted for: 3.2
+    total mismatches: 62
+    spacing: 2
+    1. spacing: Isopterygium tenerum (Sw.) Mitt.___Isopterygium tenerum(Sw.)Mitt.
+                Isopterygiumtenerum(Sw.)Mitt.___Isopterygiumtenerum(Sw.)Mitt.
+    2. spacing: Pogonatum urnigerum Pal. var. humile Brid.___Pogonatum urnigerum Pal. var.humile Brid.
+                PogonatumurnigerumPal.var.humileBrid.___PogonatumurnigerumPal.var.humileBrid.
+verbatimLocality
+    percentage mismatches accounted for: 5.4
+    total mismatches: 74
+    period: 2
+    period, vowel diacritic: 1
+    spacing, period, comma: 1
+    1. period: Above Pongo de Manseriche. Streamlet near mouth of Rio Santiago.___Above Pongo de Manseriche. Streamlet near mouth of Rio Santiago
+               Above Pongo de Manseriche Streamlet near mouth of Rio Santiago___Above Pongo de Manseriche Streamlet near mouth of Rio Santiago
+    2. period, vowel diacritic: Above Pongo de Manseriche. Left bank of Río Santiago.___Above Pongo de Manseriche. Left bank of Rio Santiago
+                                Above Pongo de Manseriche Left bank of Rio Santiago___Above Pongo de Manseriche Left bank of Rio Santiago
+    3. spacing, period, comma: Above Pongo de Manseriche, Right bank of Rio Santiago.___Above Pongo de Manseriche. Right bank of Rio Santiago
+                               AbovePongodeMansericheRightbankofRioSantiago___AbovePongodeMansericheRightbankofRioSantiago
+    4. period: Above Pongo de Manseriche. Creek Inche.___Above Pongo de Manseriche. Creek Inche
+               Above Pongo de Manseriche Creek Inche___Above Pongo de Manseriche Creek Inche

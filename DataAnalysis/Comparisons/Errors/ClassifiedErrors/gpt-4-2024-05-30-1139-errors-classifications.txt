@@ -1,0 +1,307 @@
+grand total mismatches: 916
+grand total mismatches accounted for: 99
+overall percentage mismatches accounted for: 10.8
+associatedTaxa
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 3
+collectedBy
+    percentage mismatches accounted for: 11.1
+    total mismatches: 36
+    spacing: 2
+    period: 1
+    spacing, dash: 1
+    1. spacing: F.J. Hermann___F. J. Hermann
+                F.J.Hermann___F.J.Hermann
+    2. period: M. Dillon___M Dillon
+               M Dillon___M Dillon
+    3. spacing: S.P. Churchill___S. P. Churchill
+                S.P.Churchill___S.P.Churchill
+    4. spacing, dash: J.-P. Frahm___J. P. Frahm
+                      J.P.Frahm___J.P.Frahm
+country
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 2
+firstPoliticalUnit
+    percentage mismatches accounted for: 17.4
+    total mismatches: 23
+    spacing: 1
+    vowel diacritic: 3
+    1. spacing: Veracruz___Vera Cruz
+                Veracruz___VeraCruz
+    2. vowel diacritic: Mérida___Merida
+                        Merida___Merida
+    3. vowel diacritic: Bolivar___Bolívar
+                        Bolivar___Bolivar
+    4. vowel diacritic: Bolivar___Bolívar
+                        Bolivar___Bolivar
+habitat
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 80
+identifiedBy
+    percentage mismatches accounted for: 4.9
+    total mismatches: 41
+    spacing: 2
+    1. spacing: D.H. Vitt___D. H. Vitt
+                D.H.Vitt___D.H.Vitt
+    2. spacing: S.P. Churchill___S. P. Churchill
+                S.P.Churchill___S.P.Churchill
+latestScientificName
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 50
+locality
+    percentage mismatches accounted for: 4.3
+    total mismatches: 92
+    vowel diacritic: 2
+    spacing, comma: 1
+    vowel diacritic, dash: 1
+    1. vowel diacritic: Slopes of La Ferreria, above Manantlán___Slopes of La Ferrería, above Manantlán
+                        Slopes of La Ferreria, above Manantlan___Slopes of La Ferreria, above Manantlan
+    2. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+                        Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+    3. spacing, comma: Cerro San Miguel south of San Miguel___Cerro San Miguel, south of San Miguel
+                       CerroSanMiguelsouthofSanMiguel___CerroSanMiguelsouthofSanMiguel
+    4. vowel diacritic, dash: Slopes and summit of Serra Curicuriari, from Igarape Arabu of the Rio Curi-curiari to the summit___Slopes and summit of Serra Curicuriari, from Igarapé Arabú of the Rio Curicuriari to the summit
+                              Slopes and summit of Serra Curicuriari, from Igarape Arabu of the Rio Curicuriari to the summit___Slopes and summit of Serra Curicuriari, from Igarape Arabu of the Rio Curicuriari to the summit
+maximumEventDate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 2
+minimumEventDate
+    percentage mismatches accounted for: 3.3
+    total mismatches: 30
+    period, dash: 1
+    1. period, dash: 1984-09-26___1984.09.26
+                     19840926___19840926
+municipality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 39
+originalMethod
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+otherCatalogNumbers
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 36
+recordNumber
+    percentage mismatches accounted for: 6.4
+    total mismatches: 47
+    period: 2
+    period, dash: 1
+    1. period: B. 2692___B 2692
+               B 2692___B 2692
+    2. period, dash: B-4___B.4
+                     B4___B4
+    3. period: 50.186___50186
+               50186___50186
+secondPoliticalUnit
+    percentage mismatches accounted for: 11.8
+    total mismatches: 17
+    vowel diacritic: 2
+    1. vowel diacritic: Chapare___Chaparé
+                        Chapare___Chapare
+    2. vowel diacritic: Chapare___Chaparé
+                        Chapare___Chapare
+secondaryCollectors
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 24
+typeStatus
+    percentage mismatches accounted for: No mismatches to account for
+verbatimCollectors
+    percentage mismatches accounted for: 15.4
+    total mismatches: 52
+    spacing: 2
+    extraneous preface: 2
+    spacing, comma: 1
+    spacing, period, positive polarity sign: 1
+    spacing, vowel diacritic, comma: 2
+    1. extraneous preface: Leg. M. Fleischer___M. Fleischer
+                            M. Fleischer___M. Fleischer
+    2. extraneous preface: Leg. M. Fleischer___M. Fleischer
+                            M. Fleischer___M. Fleischer
+    3. spacing, period, positive polarity sign: P. E. Hegewald___P+E. Hegewald
+                                                PEHegewald___PEHegewald
+    4. spacing, vowel diacritic, comma: Dana Griffin III y Maria Isabel Morales___Dana Griffin, III y María Isabel Morales
+                                        DanaGriffinIIIyMariaIsabelMorales___DanaGriffinIIIyMariaIsabelMorales
+    5. spacing: J. & P.A. Florschütz___J. & P. A. Florschütz
+                J.&P.A.Florschütz___J.&P.A.Florschütz
+    6. spacing: E. Linares, S. R. Gradstein and B. O. van Zanten___E. Linares, S.R. Gradstein and B.O. van Zanten
+                E.Linares,S.R.GradsteinandB.O.vanZanten___E.Linares,S.R.GradsteinandB.O.vanZanten
+    7. spacing, comma: Dana Griffin III, Orlando Rangel y Guido van Reenen___Dana Griffin, III, Orlando Rangel y Guido van Reenen
+                       DanaGriffinIIIOrlandoRangelyGuidovanReenen___DanaGriffinIIIOrlandoRangelyGuidovanReenen
+    8. spacing, vowel diacritic, comma: Dana Griffin III, María Isabel Morales y Dora Emilia de Retana___Dana Griffin, III, María Isabel Morales y Dora Emília de Retana
+                                        DanaGriffinIIIMariaIsabelMoralesyDoraEmiliadeRetana___DanaGriffinIIIMariaIsabelMoralesyDoraEmiliadeRetana
+verbatimCoordinates
+    percentage mismatches accounted for: 35.5
+    total mismatches: 31
+    period: 8
+    spacing, period: 1
+    spacing, comma: 2
+    1. period: 15° 45' S, 68° 42' W.___15° 45' S., 68° 42' W
+               15° 45' S, 68° 42' W___15° 45' S, 68° 42' W
+    2. period: 17° 11' S, 65° 54' W___17° 11' S., 65° 54' W
+               17° 11' S, 65° 54' W___17° 11' S, 65° 54' W
+    3. period: 17° 11' S, 65° 54' W___17° 11' S., 65° 54' W
+               17° 11' S, 65° 54' W___17° 11' S, 65° 54' W
+    4. period: 15° 48' S, 68° 36' W___15° 48' S., 68° 36' W
+               15° 48' S, 68° 36' W___15° 48' S, 68° 36' W
+    5. period: 15° 41' S, 68° 43' W ___15° 41' S., 68° 43' W
+               15° 41' S, 68° 43' W ___15° 41' S, 68° 43' W
+    6. period: 15° 11' S., 69° 04' W.___15° 11' S., 69° 04' W
+               15° 11' S, 69° 04' W___15° 11' S, 69° 04' W
+    7. spacing, period: 15°11' S., 69°04' W.___15° 11' S., 69° 04' W
+                        15°11'S,69°04'W___15°11'S,69°04'W
+    8. period: 15° 11' S, 69° 04' W___15° 11' S., 69° 04' W
+               15° 11' S, 69° 04' W___15° 11' S, 69° 04' W
+    9. period: 21° 28' S, 64° 12' W___21° 28' S., 64° 12' W
+               21° 28' S, 64° 12' W___21° 28' S, 64° 12' W
+    10. spacing, comma: 5°55'N, 75°17'W___5°55'N 75°17'W
+                        5°55'N75°17'W___5°55'N75°17'W
+    11. spacing, comma: 7°5' N, 75°25' W___7°5'N 75°25'W
+                        7°5'N75°25'W___7°5'N75°25'W
+verbatimDateIdentified
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 30
+verbatimElevation
+    percentage mismatches accounted for: 61.1
+    total mismatches: 72
+    spacing: 1
+    period: 20
+    positive polarity sign: 2
+    extraneous preface: 5
+    period, positive polarity sign: 2
+    period, comma: 1
+    period, extraneous preface: 13
+    1. extraneous preface: 330 m alt.___330 m
+                           330 m ___330 m
+    2. period, extraneous preface: ca. 1200 m. alt.___1200 m
+                                    1200 m ___1200 m
+    3. extraneous preface: ca. 100 m alt.___100 m
+                            100 m ___100 m
+    4. period: ca 500 m.___ca. 500 m
+               ca 500 m___ca 500 m
+    5. period, extraneous preface: Alt. c. 20 m.___c. 20 m
+                                    c 20 m___c 20 m
+    6. period, extraneous preface: Alt. c. 3600 m.___c. 3600 m
+                                    c 3600 m___c 3600 m
+    7. period: c. 3900 m.___c. 3900 m
+               c 3900 m___c 3900 m
+    8. period: ca. 50 m___ca 50 m
+               ca 50 m___ca 50 m
+    9. period: 60 m. above sea___60 m above sea
+               60 m above sea___60 m above sea
+    10. extraneous preface: 1-10 m alt.___1-10 m
+                            1-10 m ___1-10 m
+    11. period: vers 700 m.___vers 700 m
+                vers 700 m___vers 700 m
+    12. period: 2740 m.___2740 m
+                2740 m___2740 m
+    13. period: 10000 ft.___10000 ft
+                10000 ft___10000 ft
+    14. period: ca. 6300 ft.___ca. 6300 ft
+                ca 6300 ft___ca 6300 ft
+    15. positive polarity sign: +1625 m___±1625 m
+                                1625 m___1625 m
+    16. positive polarity sign: 1750 m___±1750 m
+                                1750 m___1750 m
+    17. spacing: 2300m___2300 m
+                 2300m___2300m
+    18. period, positive polarity sign: 6800 ft.___± 6800 ft
+                                        6800 ft___ 6800 ft
+    19. period, extraneous preface: alt. 6800 ft.___6800 ft
+                                     6800 ft___6800 ft
+    20. period: 10,000 ft.___10,000 ft
+                10,000 ft___10,000 ft
+    21. period, extraneous preface: Alt. 2000 m.___2.000 m
+                                     2000 m___2000 m
+    22. period: 3250 m.___3250 m
+                3250 m___3250 m
+    23. extraneous preface: ca. 2600 m___2600 m
+                             2600 m___2600 m
+    24. period: 3200-3240 m.___3200-3240 m
+                3200-3240 m___3200-3240 m
+    25. period: 3200 m.___3200 m
+                3200 m___3200 m
+    26. period: 3200 m.___3200 m
+                3200 m___3200 m
+    27. period: 3350 m.___3350 m
+                3350 m___3350 m
+    28. period, positive polarity sign: 3380 m.___±3380 m
+                                        3380 m___3380 m
+    29. period: 1750 m.___1750 m
+                1750 m___1750 m
+    30. period, extraneous preface: alt. 2300 m.___2300 m
+                                     2300 m___2300 m
+    31. period: ca. 1650 m.___ca. 1650 m
+                ca 1650 m___ca 1650 m
+    32. period, extraneous preface: Alt. 720 m.___720 m
+                                     720 m___720 m
+    33. period, extraneous preface: alt. 600 m.___600 m
+                                     600 m___600 m
+    34. period: ca. 1650 m.___ca. 1650 m
+                ca 1650 m___ca 1650 m
+    35. extraneous preface: Alt. 1950 m___1950 m
+                             1950 m___1950 m
+    36. period, extraneous preface: Alt. 1100 m.___1100 m
+                                     1100 m___1100 m
+    37. period, extraneous preface: Alt. 1100 m.___1100 m
+                                     1100 m___1100 m
+    38. period: About 700 feet.___about 700 feet
+                About 700 feet___about 700 feet
+    39. period, extraneous preface: alt. 1600-1700 m.___1600-1700 m
+                                     1600-1700 m___1600-1700 m
+    40. period, extraneous preface: alt. 2460-2620 m.___2460-2620 m
+                                     2460-2620 m___2460-2620 m
+    41. period, comma: 1,600 m.___1.600 m
+                       1600 m___1600 m
+    42. period: 2850 m.___2850 m
+                2850 m___2850 m
+    43. period, extraneous preface: alt. 1950 m.___1950 m
+                                     1950 m___1950 m
+    44. period: 1200-1250 m.___1200-1250 m
+                1200-1250 m___1200-1250 m
+verbatimEventDate
+    percentage mismatches accounted for: 26.7
+    total mismatches: 45
+    spacing: 8
+    vowel diacritic: 1
+    period, dash: 3
+    1. period, dash: 20-4-1898___20.4.1898
+                     2041898___2041898
+    2. period, dash: oct-nov.1898___oct.nov.1898
+                     octnov1898___octnov1898
+    3. period, dash: 7-4-1975___7.4.1975
+                     741975___741975
+    4. spacing: VIII. 1946___VIII.1946
+                VIII.1946___VIII.1946
+    5. spacing: Jan. 23, 1975___Jan. 23,1975
+                Jan.23,1975___Jan.23,1975
+    6. spacing: 13 Oct. 1950___13 Oct.1950
+                13Oct.1950___13Oct.1950
+    7. spacing: Feb. 9, 1975___Feb.9, 1975
+                Feb.9,1975___Feb.9,1975
+    8. spacing: 31.8. 1973___31.8.1973
+                31.8.1973___31.8.1973
+    9. spacing: Sept. 15,1936___Sept. 15, 1936
+                Sept.15,1936___Sept.15,1936
+    10. spacing: Sept. 9,1936___Sept. 9, 1936
+                 Sept.9,1936___Sept.9,1936
+    11. spacing: Sept. 9,1936___Sept. 9, 1936
+                 Sept.9,1936___Sept.9,1936
+    12. vowel diacritic: Julio-Agosto 1977___Júlio-Agosto 1977
+                         Julio-Agosto 1977___Julio-Agosto 1977
+verbatimIdentification
+    percentage mismatches accounted for: 2.9
+    total mismatches: 68
+    spacing: 1
+    spacing, comma: 1
+    1. spacing, comma: Braunia andrieuxii Lorentz___Braunia Andrieuxii, Lorentz
+                       BrauniaandrieuxiiLorentz___BrauniaAndrieuxiiLorentz
+    2. spacing: Racopilum tomentosum (Hedw.) Brid.___Racopilum tomentosum (Hedw.)Brid.
+                Racopilumtomentosum(Hedw.)Brid.___Racopilumtomentosum(Hedw.)Brid.
+verbatimLocality
+    percentage mismatches accounted for: 2.1
+    total mismatches: 95
+    vowel diacritic: 1
+    vowel diacritic, dash: 1
+    1. vowel diacritic: Slopes of La Ferreria, above Manantlán___Slopes of La Ferrería, above Manantlán
+                        Slopes of La Ferreria, above Manantlan___Slopes of La Ferreria, above Manantlan
+    2. vowel diacritic, dash: DEPTO. LA PAZ, PROV. LARECAJA: Near large red outcrop 2 mi. From Sorata down Rio Consata ___Depto. La Paz, Prov. Larecaja: Near large red out-crop 2 mi. from Sorata down Río Consata
+                              DEPTO. LA PAZ, PROV. LARECAJA: Near large red outcrop 2 mi. From Sorata down Rio Consata ___Depto. La Paz, Prov. Larecaja: Near large red outcrop 2 mi. from Sorata down Rio Consata

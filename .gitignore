@@ -1,0 +1,5 @@
+.env
+*.log
+*/credentials.json
+token.json
+Images/

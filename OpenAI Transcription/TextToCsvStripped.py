@@ -79,9 +79,9 @@ def export_to_csv(data, csv_file_path):
 
 if __name__ == "__main__":
     #CHANGE INPUT TO DESIRED .TXT FILE
-    input_file_path = "/Users/jeff/ChatGPT/Output_4_23_1306.txt"
+    input_file_path = ""
     #CHANGE OUTPUT TO DESIRED LOCATION TO .CSV FILE
-    output_csv_file_path = "/Users/jeff/ChatGPT/Spread_4_23_1306.csv"
+    output_csv_file_path = ""
 
     extracted_data = process_file(input_file_path)
     if extracted_data:

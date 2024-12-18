@@ -2,11 +2,28 @@ import google.generativeai as genai
 import os
 import requests
 import time
+import name_run
 
-prompt_file_path = "C:\\Users\\riley\\OneDrive\\Desktop\\CodeForMe\\python\\Input\\1.5Stripped.txt"
-url_text = "C:\\Users\\riley\\OneDrive\\Desktop\\CodeForMe\\python\\Input\\100Test.txt"
-image_folder = "C:\\Users\\riley\\OneDrive\\Desktop\\CodeForMe\\python\\Input\\Images"
-output_file_path = "C:\\Users\\riley\\OneDrive\\Desktop\\CodeForMe\\python\\Output\\OutputJun.20.24.0153.txt"
+
+
+#FilePath for textfile containing prompt
+prompt_file_path = "Prompts/Prompt 1.5.2.txt"
+
+#Filepath for Textfile containing url's
+url_text = "DataAnalysis/DataSets/5-bryophytes-typed-testing-urls.txt"
+
+#Filepath for folder holding images
+image_folder = "Images/"
+
+#Folder for textfile 
+output_folder = "DataAnalysis/Transcriptions/TextTranscriptions/"
+
+def get_transcription_filename(model):
+    run_name = name_run.get_run_name(model)
+    return f"{run_name}-transcriptions.txt"
+
+model_name = "gemini-1.5-pro"
+output_file_path = output_folder + get_transcription_filename(model_name)
 
 prompt_file_path = os.path.normpath(prompt_file_path)
 url_text = os.path.normpath(url_text)
@@ -58,7 +75,7 @@ def read_prompt_from_file(prompt_file_path):
 
 prompt_text = read_prompt_from_file(prompt_file_path)
 
-GOOGLE_API_KEY = 'APIKEY'  # Replace with your actual API key
+GOOGLE_API_KEY = ''  # Replace with your actual API key
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Ensure the output directory exists

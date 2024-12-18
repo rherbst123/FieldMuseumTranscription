@@ -1,0 +1,360 @@
+grand total mismatches: 778
+grand total mismatches accounted for: 125
+overall percentage mismatches accounted for: 16.1
+associatedTaxa
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 13
+collectedBy
+    percentage mismatches accounted for: 5.6
+    total mismatches: 18
+    spacing, dash: 1
+    1. spacing, dash: J. P. Frahm___J.-P. Frahm
+                      J.P.Frahm___J.P.Frahm
+country
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 4
+firstPoliticalUnit
+    percentage mismatches accounted for: 3.8
+    total mismatches: 26
+    vowel diacritic: 1
+    1. vowel diacritic: Para___Pará
+                        Para___Para
+habitat
+    percentage mismatches accounted for: 10.2
+    total mismatches: 59
+    period: 3
+    spacing, period: 1
+    spacing, comma: 2
+    1. spacing, comma: Savanna forest on rotting log___Savanna forest, on rotting log
+                       Savannaforestonrottinglog___Savannaforestonrottinglog
+    2. spacing, comma: Waterfall ravine highest extension of shrubs___Waterfall ravine, highest extension of shrubs
+                       Waterfallravinehighestextensionofshrubs___Waterfallravinehighestextensionofshrubs
+    3. spacing, period: Shady streambank On rotten wood___Shady stream bank. On rotten wood
+                        ShadystreambankOnrottenwood___ShadystreambankOnrottenwood
+    4. period: Dense forest On rotten log___Dense forest. On rotten log
+               Dense forest On rotten log___Dense forest On rotten log
+    5. period: Wood on slope On rotten log___Wood on slope. On rotten log
+               Wood on slope On rotten log___Wood on slope On rotten log
+    6. period: Cut over woods on slope On rotting tree trunk___Cut over woods on slope. On rotting tree trunk
+               Cut over woods on slope On rotting tree trunk___Cut over woods on slope On rotting tree trunk
+identifiedBy
+    percentage mismatches accounted for: 2.5
+    total mismatches: 40
+    spacing: 1
+    1. spacing: R. R. Ireland___R .R. Ireland
+                R.R.Ireland___R.R.Ireland
+latestScientificName
+    percentage mismatches accounted for: 2.0
+    total mismatches: 50
+    dash: 1
+    1. dash: Brachythecium austro-glareosum___Brachythecium austroglareosum
+             Brachythecium austroglareosum___Brachythecium austroglareosum
+locality
+    percentage mismatches accounted for: 12.4
+    total mismatches: 89
+    vowel diacritic: 3
+    spacing, comma: 8
+    1. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+                        Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+    2. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+                        Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+    3. spacing, comma: Above Pongo de Manseriche Streamlet near mouth of Rio Santiago___Above Pongo de Manseriche, streamlet near mouth of Rio Santiago
+                       AbovePongodeMansericheStreamletnearmouthofRioSantiago___AbovePongodeManserichestreamletnearmouthofRioSantiago
+    4. spacing, comma: Above Pongo de Manseriche Streamlet near mouth of Rio Santiago___Above Pongo de Manseriche, streamlet near mouth of Rio Santiago
+                       AbovePongodeMansericheStreamletnearmouthofRioSantiago___AbovePongodeManserichestreamletnearmouthofRioSantiago
+    5. spacing, comma: Mabura Hill 180 kilometers south of Georgetown___Mabura Hill, 180 kilometers south of Georgetown
+                       MaburaHill180kilometerssouthofGeorgetown___MaburaHill180kilometerssouthofGeorgetown
+    6. spacing, comma: Above Pongo de Manseriche Left bank of Rio Santiago___Above Pongo de Manseriche, left bank of Rio Santiago
+                       AbovePongodeMansericheLeftbankofRioSantiago___AbovePongodeMansericheleftbankofRioSantiago
+    7. spacing, comma: Above Pongo de Manseriche Right bank of Rio Santiago___Above Pongo de Manseriche, right bank of Rio Santiago
+                       AbovePongodeMansericheRightbankofRioSantiago___AbovePongodeMansericherightbankofRioSantiago
+    8. spacing, comma: Above Pongo de Manseriche Streamlet on right bank of Rio Santiago___Above Pongo de Manseriche, streamlet on right bank of Rio Santiago
+                       AbovePongodeMansericheStreamletonrightbankofRioSantiago___AbovePongodeManserichestreamletonrightbankofRioSantiago
+    9. spacing, comma: Above Pongo de Manseriche Creek Inche___Above Pongo de Manseriche, Creek Inche
+                       AbovePongodeMansericheCreekInche___AbovePongodeMansericheCreekInche
+    10. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+                         Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+    11. spacing, comma: Slopes and summit of Serra Curicuriari from Igarapé Arabú of the Rio Curicuriari to the summit___Slopes and summit of Serra Curicuriari, from Igarapé Arabú of the Rio Curicuriari to the summit
+                        SlopesandsummitofSerraCuricuriarifromIgarapéArabúoftheRioCuricuriaritothesummit___SlopesandsummitofSerraCuricuriarifromIgarapéArabúoftheRioCuricuriaritothesummit
+maximumEventDate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+minimumEventDate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 15
+municipality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 26
+originalMethod
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 11
+otherCatalogNumbers
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 39
+recordNumber
+    percentage mismatches accounted for: 10.8
+    total mismatches: 37
+    spacing: 1
+    comma: 1
+    dash: 2
+    1. spacing: 243 A___243A
+                243A___243A
+    2. dash: 6217-a___6217a
+             6217a___6217a
+    3. dash: 6354-a___6354a
+             6354a___6354a
+    4. comma: 2,222___2222
+              2222___2222
+secondPoliticalUnit
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 11
+secondaryCollectors
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 11
+typeStatus
+    percentage mismatches accounted for: No mismatches to account for
+verbatimCollectors
+    percentage mismatches accounted for: 28.9
+    total mismatches: 45
+    spacing: 2
+    extraneous preface: 9
+    spacing, extraneous preface: 1
+    spacing, comma, extraneous preface: 1
+    1. spacing: J. Florschütz-de Waard & R. Zielman___J.Florschütz-de Waard & R.Zielman
+                J.Florschütz-deWaard&R.Zielman___J.Florschütz-deWaard&R.Zielman
+    2. spacing: H. Cornelissen & S. R. Gradstein___H.Cornelissen & S.R.Gradstein
+                H.Cornelissen&S.R.Gradstein___H.Cornelissen&S.R.Gradstein
+    3. spacing, comma, extraneous preface: leg. Dana Griffin III, Manuel López F.___Dana Griffin, III, Manuel López F.
+                                           DanaGriffinIIIManuelLópezF.___DanaGriffinIIIManuelLópezF.
+    4. extraneous preface: leg. Dana Griffin III___Dana Griffin III
+                            Dana Griffin III___Dana Griffin III
+    5. extraneous preface: Leg. Richard Evans Schultes___Richard Evans Schultes
+                            Richard Evans Schultes___Richard Evans Schultes
+    6. extraneous preface: leg. V. Schiffner___V. Schiffner
+                            V. Schiffner___V. Schiffner
+    7. spacing, extraneous preface: leg. Zd. Pilous___Zd.Pilous
+                                    Zd.Pilous___Zd.Pilous
+    8. extraneous preface: leg. J.-P. Frahm___J.-P. Frahm
+                            J.-P. Frahm___J.-P. Frahm
+    9. extraneous preface: leg. J.-P. Frahm___J.-P. Frahm
+                            J.-P. Frahm___J.-P. Frahm
+    10. extraneous preface: leg. Frahm___Frahm
+                             Frahm___Frahm
+    11. extraneous preface: leg. Frahm___Frahm
+                             Frahm___Frahm
+    12. extraneous preface: leg. Frahm___Frahm
+                             Frahm___Frahm
+    13. extraneous preface: leg. Schäfer-Verwimp___Schäfer-Verwimp
+                             Schäfer-Verwimp___Schäfer-Verwimp
+verbatimCoordinates
+    percentage mismatches accounted for: 56.0
+    total mismatches: 25
+    period: 7
+    spacing, period, comma: 7
+    1. period: 60°00'N lat., 44°40'W. long.___60°00'N lat., 44°40'W long.
+               60°00'N lat, 44°40'W long___60°00'N lat, 44°40'W long
+    2. period: 38° 24.5' S., 174° 49.8' E.___38° 24.5' S., 174° 49.8' E
+               38° 245' S, 174° 498' E___38° 245' S, 174° 498' E
+    3. period: 15° 41' S., 68° 43' W.___15° 41' S., 68° 43' W
+               15° 41' S, 68° 43' W___15° 41' S, 68° 43' W
+    4. spacing, period, comma: 15° 08' S 69° 03' W___15° 08' S., 69° 03' W
+                               15°08'S69°03'W___15°08'S69°03'W
+    5. period: 5°N, 58°W___5°N., 58°W
+               5°N, 58°W___5°N, 58°W
+    6. spacing, period, comma: 18°07' S. 69°00' W.___18° 07' S., 69° 00' W
+                               18°07'S69°00'W___18°07'S69°00'W
+    7. period: 18° 07' S., 69° 00' W.___18° 07' S., 69° 00' W
+               18° 07' S, 69° 00' W___18° 07' S, 69° 00' W
+    8. period: 18° 07' S, 69° 00' W___18° 07' S., 69° 00' W
+               18° 07' S, 69° 00' W___18° 07' S, 69° 00' W
+    9. spacing, period, comma: 18° 07' S 69° 00' W___18° 07' S., 69° 00' W
+                               18°07'S69°00'W___18°07'S69°00'W
+    10. spacing, period, comma: 18° 07' S 69° 00' W___18° 07' S., 69° 00' W
+                                18°07'S69°00'W___18°07'S69°00'W
+    11. spacing, period, comma: 18° 07' S 69° 00' W___18° 07' S., 69° 00' W
+                                18°07'S69°00'W___18°07'S69°00'W
+    12. spacing, period, comma: 18° 07' S. 69° 00' W.___18° 07' S., 69° 00' W
+                                18°07'S69°00'W___18°07'S69°00'W
+    13. spacing, period, comma: 18° 07' S. 69° 00' W.___18° 07' S., 69° 00' W
+                                18°07'S69°00'W___18°07'S69°00'W
+    14. period: 15° 41' S., 68° 43' W.___15° 41' S, 68° 43' W
+                15° 41' S, 68° 43' W___15° 41' S, 68° 43' W
+verbatimDateIdentified
+    percentage mismatches accounted for: 5.6
+    total mismatches: 18
+    period: 1
+    1. period: Sept. 1987___Sept 1987
+               Sept 1987___Sept 1987
+verbatimElevation
+    percentage mismatches accounted for: 71.9
+    total mismatches: 57
+    period: 8
+    positive polarity sign: 1
+    extraneous preface: 17
+    spacing, extraneous preface: 1
+    period, comma: 1
+    period, extraneous preface: 13
+    1. period: 280 m.___280 m
+               280 m___280 m
+    2. extraneous preface: Alt. 400 m___400 m
+                            400 m___400 m
+    3. extraneous preface: Alt. 400 m___400 m
+                            400 m___400 m
+    4. spacing, extraneous preface: ALT. 0-50 m___0 - 50 m
+                                    0-50m___0-50m
+    5. extraneous preface: Alt. 0 - 50 m___0 - 50 m
+                            0 - 50 m___0 - 50 m
+    6. period, extraneous preface: Alt. 30 - 130 m.___30 - 130 m
+                                    30 - 130 m___30 - 130 m
+    7. extraneous preface: alt. 0-50 m___0-50 m
+                            0-50 m___0-50 m
+    8. extraneous preface: alt. 0-50 m___0-50 m
+                            0-50 m___0-50 m
+    9. period, extraneous preface: Alt. 35 m.___35 m
+                                    35 m___35 m
+    10. period, extraneous preface: Alt. about 30 m.___about 30 m
+                                     about 30 m___about 30 m
+    11. extraneous preface: Alt. 25 m___25 m
+                             25 m___25 m
+    12. period: 4350 m.___4350 m
+                4350 m___4350 m
+    13. period: 4350 m.___4350 m
+                4350 m___4350 m
+    14. period: 4350 m.___4350 m
+                4350 m___4350 m
+    15. period, extraneous preface: Alt. 200 m.___200 m
+                                     200 m___200 m
+    16. period, extraneous preface: alt. 200 m.___200 m
+                                     200 m___200 m
+    17. period, extraneous preface: Alt. 250 m.___250 m
+                                     250 m___250 m
+    18. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    19. extraneous preface: Alt. 215 m___215 m
+                             215 m___215 m
+    20. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    21. period, extraneous preface: alt. 215 m.___215 m
+                                     215 m___215 m
+    22. extraneous preface: Alt. 215 m___215 m
+                             215 m___215 m
+    23. extraneous preface: Alt. 1800 m___1800 m
+                             1800 m___1800 m
+    24. extraneous preface: Alt. 1800 m___1800 m
+                             1800 m___1800 m
+    25. extraneous preface: Alt 500 m___500 m
+                             500 m___500 m
+    26. period: 3000-3100 m___3.000-3.100 m
+                3000-3100 m___3000-3100 m
+    27. period: 2600 m.___2600 m
+                2600 m___2600 m
+    28. period: 3780 m.___3780 m
+                3780 m___3780 m
+    29. extraneous preface: alt. 110-115 m___110-115 m
+                             110-115 m___110-115 m
+    30. period, extraneous preface: Alt. 500 m.___500 m
+                                     500 m___500 m
+    31. extraneous preface: Alt. 675 m___675 m
+                             675 m___675 m
+    32. extraneous preface: Alt. 710 m___710 m
+                             710 m___710 m
+    33. extraneous preface: Alt. 670 m___670 m
+                             670 m___670 m
+    34. period, extraneous preface: Alt. 675 m.___675 m
+                                     675 m___675 m
+    35. extraneous preface: Alt. 700 m___700 m
+                             700 m___700 m
+    36. period, extraneous preface: Alt. 675 m.___675 m
+                                     675 m___675 m
+    37. period, extraneous preface: Alt. 710 m.___710 m
+                                     710 m___710 m
+    38. extraneous preface: Alt. 670 m___670 m
+                             670 m___670 m
+    39. period: ca 580 m___ca. 580 m
+                ca 580 m___ca 580 m
+    40. period, comma: ca 1,050 m___ca. 1.050 m
+                       ca 1050 m___ca 1050 m
+    41. positive polarity sign: 3000 m___±3000 m
+                                3000 m___3000 m
+verbatimEventDate
+    percentage mismatches accounted for: 24.0
+    total mismatches: 25
+    spacing: 4
+    period: 2
+    1. spacing: April 14 19 79___April 14 1979
+                April141979___April141979
+    2. spacing: May 14, 1936___May 14,1936
+                May14,1936___May14,1936
+    3. spacing: May 14, 1936___May 14,1936
+                May14,1936___May14,1936
+    4. spacing: 29-9-1952___29 - 9 - 1952
+                29-9-1952___29-9-1952
+    5. period: 17 October 1862___17. October 1862
+               17 October 1862___17 October 1862
+    6. period: 18 Juli 1900___18. Juli 1900
+               18 Juli 1900___18 Juli 1900
+verbatimIdentification
+    percentage mismatches accounted for: 9.0
+    total mismatches: 67
+    spacing: 4
+    period: 1
+    spacing, period: 1
+    1. spacing: Anastrophyllum minutum (SCHREB.) SCHUST. v. grandis (GOTT.) SCHUST.___Anastrophyllum minutum (Schreb.) Schust. v.grandis (Gott.)Schust.
+                Anastrophyllumminutum(SCHREB.)SCHUST.v.grandis(GOTT.)SCHUST.___Anastrophyllumminutum(Schreb.)Schust.v.grandis(Gott.)Schust.
+    2. spacing: Isopterygium tenerum (Sw.) Mitt.___Isopterygium tenerum(Sw.)Mitt.
+                Isopterygiumtenerum(Sw.)Mitt.___Isopterygiumtenerum(Sw.)Mitt.
+    3. spacing, period: Pogonatum urnigerum P. B.___Pogonatum urnigerum PB.
+                        PogonatumurnigerumPB___PogonatumurnigerumPB
+    4. spacing: Pogonatum urnigerum Pal. var. humile Brid.___Pogonatum urnigerum Pal. var.humile Brid.
+                PogonatumurnigerumPal.var.humileBrid.___PogonatumurnigerumPal.var.humileBrid.
+    5. spacing: AMBLYSTEGIUM COMMUTATUM (Hedw.) De Not.___Amblystegium commutatum (Hedw.) DeNot.
+                AMBLYSTEGIUMCOMMUTATUM(Hedw.)DeNot.___Amblystegiumcommutatum(Hedw.)DeNot.
+    6. period: Campylopus pilifer Brid. (=C. polytrichoides De Not.)___Campylopus pilifer Brid (=C. polytrichoides De Not.)
+               Campylopus pilifer Brid (=C polytrichoides De Not)___Campylopus pilifer Brid (=C polytrichoides De Not)
+verbatimLocality
+    percentage mismatches accounted for: 20.9
+    total mismatches: 91
+    period: 6
+    vowel diacritic: 4
+    spacing, comma: 3
+    spacing, period, comma: 1
+    spacing, vowel diacritic, comma: 4
+    spacing, period, vowel diacritic, comma: 1
+    1. vowel diacritic: Near large red outcrop 2 mi. from Sorata down Rio Consata___Near large red outcrop 2 mi. from Sorata down Río Consata
+                        Near large red outcrop 2 mi. from Sorata down Rio Consata___Near large red outcrop 2 mi. from Sorata down Rio Consata
+    2. vowel diacritic: Near large red outcrop 2 mi. from Sorata down Rio Consata___Near large red outcrop 2 mi. from Sorata down Río Consata
+                        Near large red outcrop 2 mi. from Sorata down Rio Consata___Near large red outcrop 2 mi. from Sorata down Rio Consata
+    3. period: Above Pongo de Manseriche Streamlet near mouth of Rio Santiago___Above Pongo de Manseriche. Streamlet near mouth of Rio Santiago
+               Above Pongo de Manseriche Streamlet near mouth of Rio Santiago___Above Pongo de Manseriche Streamlet near mouth of Rio Santiago
+    4. period: Districto Acará. Thomé Assú. Japanese Colony.___Districto Acará. Thomé Assú. Japanese Colony
+               Districto Acará Thomé Assú Japanese Colony___Districto Acará Thomé Assú Japanese Colony
+    5. spacing, vowel diacritic, comma: Rio Junthuma Khuchu 2 mi. down river from Aguas termales de Rio Junthuma Khuchu___Río Junthuma Khuchu, 2 mi. down river from Aguas termales de Río Junthuma Khuchu
+                                        RioJunthumaKhuchu2mi.downriverfromAguastermalesdeRioJunthumaKhuchu___RioJunthumaKhuchu2mi.downriverfromAguastermalesdeRioJunthumaKhuchu
+    6. spacing, vowel diacritic, comma: Rio Junthuma Khuchu 2 mi. down river from Aguas termales de Rio Junthuma Khuchu___Río Junthuma Khuchu, 2 mi. down river from Aguas termales de Río Junthuma Khuchu
+                                        RioJunthumaKhuchu2mi.downriverfromAguastermalesdeRioJunthumaKhuchu___RioJunthumaKhuchu2mi.downriverfromAguastermalesdeRioJunthumaKhuchu
+    7. spacing, period, vowel diacritic, comma: Rio Junthuma Khuchu 2 mi down river from Aguas termales de Rio Junthuma Khuchu___Río Junthuma Khuchu, 2 mi. down river from Aguas termales de Río Junthuma Khuchu
+                                                RioJunthumaKhuchu2midownriverfromAguastermalesdeRioJunthumaKhuchu___RioJunthumaKhuchu2midownriverfromAguastermalesdeRioJunthumaKhuchu
+    8. spacing, vowel diacritic, comma: Rio Junthuma Khuchu 2 mi. down river from Aguas termales de Rio Junthuma Khuchu___Río Junthuma Khuchu, 2 mi. down river from Aguas termales de Río Junthuma Khuchu
+                                        RioJunthumaKhuchu2mi.downriverfromAguastermalesdeRioJunthumaKhuchu___RioJunthumaKhuchu2mi.downriverfromAguastermalesdeRioJunthumaKhuchu
+    9. spacing, vowel diacritic, comma: Rio Junthuma Khuchu 2 mi. down river from Aguas termales de Rio Junthuma Khuchu___Río Junthuma Khuchu, 2 mi. down river from Aguas termales de Río Junthuma Khuchu
+                                        RioJunthumaKhuchu2mi.downriverfromAguastermalesdeRioJunthumaKhuchu___RioJunthumaKhuchu2mi.downriverfromAguastermalesdeRioJunthumaKhuchu
+    10. spacing, comma: Río Junthuma Khuchu 2 mi. down river from Aguas termales de Río Junthuma Khuchu___Río Junthuma Khuchu, 2 mi. down river from Aguas termales de Río Junthuma Khuchu
+                        RíoJunthumaKhuchu2mi.downriverfromAguastermalesdeRíoJunthumaKhuchu___RíoJunthumaKhuchu2mi.downriverfromAguastermalesdeRíoJunthumaKhuchu
+    11. period: Above Pongo de Manseriche Left bank of Rio Santiago___Above Pongo de Manseriche. Left bank of Rio Santiago
+                Above Pongo de Manseriche Left bank of Rio Santiago___Above Pongo de Manseriche Left bank of Rio Santiago
+    12. period: Above Pongo de Manseriche Right bank of Rio Santiago___Above Pongo de Manseriche. Right bank of Rio Santiago
+                Above Pongo de Manseriche Right bank of Rio Santiago___Above Pongo de Manseriche Right bank of Rio Santiago
+    13. period: Above Pongo de Manseriche Streamlet on right bank of Rio Santiago___Above Pongo de Manseriche. Streamlet on right bank of Rio Santiago
+                Above Pongo de Manseriche Streamlet on right bank of Rio Santiago___Above Pongo de Manseriche Streamlet on right bank of Rio Santiago
+    14. spacing, period, comma: Cerros Calla Calla east side 5 km above Leimebamba on the road to Balsas at San Miguel (no buildings at this locality)___Cerros Calla Calla, east side, 5 km. above Leimebamba on the road to Balsas, at San Miguel (no buildings at this locality)
+                                CerrosCallaCallaeastside5kmaboveLeimebambaontheroadtoBalsasatSanMiguel(nobuildingsatthislocality)___CerrosCallaCallaeastside5kmaboveLeimebambaontheroadtoBalsasatSanMiguel(nobuildingsatthislocality)
+    15. vowel diacritic: Near large red outcrop 2 mi. from Sorata down Rio Consata___Near large red outcrop 2 mi. from Sorata down Río Consata
+                         Near large red outcrop 2 mi. from Sorata down Rio Consata___Near large red outcrop 2 mi. from Sorata down Rio Consata
+    16. period: Viçosa Agricultural College lands Base of Horticultural Hill___Viçosa. Agricultural College lands. Base of Horticultural Hill
+                Viçosa Agricultural College lands Base of Horticultural Hill___Viçosa Agricultural College lands Base of Horticultural Hill
+    17. vowel diacritic: Rio Miritiparaná: Caño Guacayá___Río Miritiparaná: Caño Guacayá
+                         Rio Miritiparana: Caño Guacaya___Rio Miritiparana: Caño Guacaya
+    18. spacing, comma: Slopes and summit of Serra Curicuriari from Igarapé Arabú of the Rio Curicuriari to the summit___Slopes and summit of Serra Curicuriari, from Igarapé Arabú of the Rio Curicuriari to the summit
+                        SlopesandsummitofSerraCuricuriarifromIgarapéArabúoftheRioCuricuriaritothesummit___SlopesandsummitofSerraCuricuriarifromIgarapéArabúoftheRioCuricuriaritothesummit
+    19. spacing, comma: Pilões Palhoça___Pilões, Palhoça
+                        PilõesPalhoça___PilõesPalhoça

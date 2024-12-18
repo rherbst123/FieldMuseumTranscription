@@ -5,6 +5,7 @@ import json
 import re
 import csv
 import time
+import name_run
 
 
 
@@ -20,10 +21,15 @@ prompt_file_path = ""
 url_text = ""
 
 #Filepath for folder holding images
-image_folder = ""
+image_folder = "Images/"
 
-#Filepath for textfile 
-output_file = ""
+#Folder for textfile 
+output_folder = "DataAnalysis/Transcriptions/TextTranscriptions/"
+
+def get_transcription_filename(model):
+    run_name = name_run.get_run_name(model)
+    return f"{run_name}-transcriptions.txt"
+
 
 
 
@@ -101,7 +107,8 @@ def read_prompt_file(prompt_file_path):
     
 
 # Open the file for writing
-
+modelname = "gpt-4o"
+output_file = output_folder + get_transcription_filename(modelname)
 prompt_text = read_prompt_file(prompt_file_path)
 with open(output_file, "w", encoding="utf-8") as file:
     counter = 0

@@ -9,7 +9,7 @@
 # As such, source filenames are stored as lists of lists (see example below)
 #  and saved to a single results file
 
-import utility
+from Utilities import utility
 
 SOURCE_PATH = "AutomaticAnalysis/SourcesForPaper/"
 RESULTS_PATH = "AutomaticAnalysis/ResultsForPaper/"

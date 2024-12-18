@@ -1,0 +1,340 @@
+grand total mismatches: 739
+grand total mismatches accounted for: 115
+overall percentage mismatches accounted for: 15.6
+associatedTaxa
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 6
+collectedBy
+    percentage mismatches accounted for: 6.5
+    total mismatches: 31
+    period: 1
+    spacing, dash: 1
+    1. period: M. Dillon___M Dillon
+               M Dillon___M Dillon
+    2. spacing, dash: J.-P. Frahm___J. P. Frahm
+                      J.P.Frahm___J.P.Frahm
+country
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+firstPoliticalUnit
+    percentage mismatches accounted for: 17.6
+    total mismatches: 17
+    spacing: 1
+    vowel diacritic: 2
+    1. spacing: Veracruz___Vera Cruz
+                Veracruz___VeraCruz
+    2. vowel diacritic: Bolivar___Bolívar
+                        Bolivar___Bolivar
+    3. vowel diacritic: Bolivar___Bolívar
+                        Bolivar___Bolivar
+habitat
+    percentage mismatches accounted for: 1.4
+    total mismatches: 73
+    spacing, comma, dash: 1
+    1. spacing, comma, dash: Open subalpine scrub At base of limestone rock faces___Open sub-alpine scrub, at base of limestone rock faces
+                             OpensubalpinescrubAtbaseoflimestonerockfaces___Opensubalpinescrubatbaseoflimestonerockfaces
+identifiedBy
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 47
+latestScientificName
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 23
+locality
+    percentage mismatches accounted for: 12.1
+    total mismatches: 91
+    vowel diacritic: 2
+    spacing, comma: 8
+    spacing, vowel diacritic, comma: 1
+    1. spacing, comma: Lake Wamba 5 kilometers south of Teptep airstrip 1 kilometer south of lake___Lake Wamba, 5 kilometers south of Teptep airstrip, 1 kilometer south of lake
+                       LakeWamba5kilometerssouthofTeptepairstrip1kilometersouthoflake___LakeWamba5kilometerssouthofTeptepairstrip1kilometersouthoflake
+    2. spacing, comma: Slope of Cerro Khachi North of Corani___Slope of Cerro Khachi, north of Corani
+                       SlopeofCerroKhachiNorthofCorani___SlopeofCerroKhachinorthofCorani
+    3. spacing, comma: Sierra de Laguna 15 miles east of Todos Santos___Sierra de Laguna, 15 miles east of Todos Santos
+                       SierradeLaguna15mileseastofTodosSantos___SierradeLaguna15mileseastofTodosSantos
+    4. spacing, comma: Roadside near San Pablo Ayutla about 70 kilometers east of Oaxaca___Roadside near San Pablo Ayutla, about 70 kilometers east of Oaxaca
+                       RoadsidenearSanPabloAyutlaabout70kilometerseastofOaxaca___RoadsidenearSanPabloAyutlaabout70kilometerseastofOaxaca
+    5. vowel diacritic: Slopes of La Ferreria, above Manantlan___Slopes of La Ferrería, above Manantlán
+                        Slopes of La Ferreria, above Manantlan___Slopes of La Ferreria, above Manantlan
+    6. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+                        Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+    7. spacing, vowel diacritic, comma: Parque Nacional de la Sierra Nevada de Santa Marta Vertiente oriental del Río Buritaca___Parque Nacional de la Sierra Nevada de Santa Marta, vertiente oriental del Rio Buritaca
+                                        ParqueNacionaldelaSierraNevadadeSantaMartaVertienteorientaldelRioBuritaca___ParqueNacionaldelaSierraNevadadeSantaMartavertienteorientaldelRioBuritaca
+    8. spacing, comma: Cerro San Miguel South of San Miguel___Cerro San Miguel, south of San Miguel
+                       CerroSanMiguelSouthofSanMiguel___CerroSanMiguelsouthofSanMiguel
+    9. spacing, comma: Slopes and summit of Serra Curicuriari from Igarapé Arabú of the Rio Curicuriari to the summit___Slopes and summit of Serra Curicuriari, from Igarapé Arabú of the Rio Curicuriari to the summit
+                       SlopesandsummitofSerraCuricuriarifromIgarapéArabúoftheRioCuricuriaritothesummit___SlopesandsummitofSerraCuricuriarifromIgarapéArabúoftheRioCuricuriaritothesummit
+    10. spacing, comma: Slopes above Pillahuata near kilometer 126 on Cosñipata Highway___Slopes above Pillahuata, near Kilometer 126 on Cosñipata Highway
+                        SlopesabovePillahuatanearkilometer126onCosñipataHighway___SlopesabovePillahuatanearKilometer126onCosñipataHighway
+    11. spacing, comma: road to Pueblo Nuevo Ventanas___Road to Pueblo Nuevo, Ventanas
+                        roadtoPuebloNuevoVentanas___RoadtoPuebloNuevoVentanas
+maximumEventDate
+    percentage mismatches accounted for: No mismatches to account for
+minimumEventDate
+    percentage mismatches accounted for: 10.0
+    total mismatches: 20
+    period, dash: 2
+    1. period, dash: 1975-12-18___1975.12.18
+                     19751218___19751218
+    2. period, dash: 1984-09-26___1984.09.26
+                     19840926___19840926
+municipality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 25
+originalMethod
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 4
+otherCatalogNumbers
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 18
+recordNumber
+    percentage mismatches accounted for: 10.7
+    total mismatches: 28
+    period: 2
+    dash: 1
+    1. period: B.4.___B.4
+               B4___B4
+    2. dash: 5281a___5281-a
+             5281a___5281a
+    3. period: 50.186___50186
+               50186___50186
+secondPoliticalUnit
+    percentage mismatches accounted for: 13.3
+    total mismatches: 15
+    vowel diacritic: 2
+    1. vowel diacritic: Chapare___Chaparé
+                        Chapare___Chapare
+    2. vowel diacritic: Chapare___Chaparé
+                        Chapare___Chapare
+secondaryCollectors
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 17
+typeStatus
+    percentage mismatches accounted for: No mismatches to account for
+verbatimCollectors
+    percentage mismatches accounted for: 36.4
+    total mismatches: 55
+    spacing: 1
+    vowel diacritic: 1
+    extraneous preface: 15
+    spacing, comma: 1
+    spacing, extraneous preface: 2
+    1. extraneous preface: leg. M. Fleischer___M. Fleischer
+                            M. Fleischer___M. Fleischer
+    2. extraneous preface: leg. M. Fleischer___M. Fleischer
+                            M. Fleischer___M. Fleischer
+    3. extraneous preface: leg. M. Fleischer___M. Fleischer
+                            M. Fleischer___M. Fleischer
+    4. extraneous preface: leg. M. Fleischer___M. Fleischer
+                            M. Fleischer___M. Fleischer
+    5. extraneous preface: leg. S. Hattori___S. Hattori
+                            S. Hattori___S. Hattori
+    6. spacing, extraneous preface: Leg. R. P. J. B. Ferrié___R.P. J.B. Ferrié
+                                    R.P.J.B.Ferrié___R.P.J.B.Ferrié
+    7. extraneous preface: leg. S. Hattori___S. Hattori
+                            S. Hattori___S. Hattori
+    8. extraneous preface: Coll. K. Mayebara___K. Mayebara
+                            K. Mayebara___K. Mayebara
+    9. spacing, extraneous preface: Coll. M. Mizutani and I. Yoshimura___M.Mizutani and I.Yoshimura
+                                    M.MizutaniandI.Yoshimura___M.MizutaniandI.Yoshimura
+    10. extraneous preface: leg. Eggers & Frahm___Eggers & Frahm
+                             Eggers & Frahm___Eggers & Frahm
+    11. extraneous preface: LEG.EGGERS & FRAHM___Eggers & Frahm
+                            EGGERS & FRAHM___Eggers & Frahm
+    12. extraneous preface: leg. Dana Griffin, III y María Isabel Morales___Dana Griffin, III y María Isabel Morales
+                             Dana Griffin, III y María Isabel Morales___Dana Griffin, III y María Isabel Morales
+    13. spacing: S.R. Gradstein & M. Lewis___S.R.Gradstein & M.Lewis
+                 S.R.Gradstein&M.Lewis___S.R.Gradstein&M.Lewis
+    14. extraneous preface: Leg. J. & P. A. Florschütz___J. & P. A. Florschütz
+                             J. & P. A. Florschütz___J. & P. A. Florschütz
+    15. spacing, comma: Dana Griffin III Orlando Rangel y Guido van Reenen___Dana Griffin, III, Orlando Rangel y Guido van Reenen
+                        DanaGriffinIIIOrlandoRangelyGuidovanReenen___DanaGriffinIIIOrlandoRangelyGuidovanReenen
+    16. vowel diacritic: Dana Griffin, III, María Isabel Morales y Dora Emilia de Retana___Dana Griffin, III, María Isabel Morales y Dora Emília de Retana
+                         Dana Griffin, III, Maria Isabel Morales y Dora Emilia de Retana___Dana Griffin, III, Maria Isabel Morales y Dora Emilia de Retana
+    17. extraneous preface: Coll. H. Inoue___H. Inoue
+                             H. Inoue___H. Inoue
+    18. extraneous preface: leg. Frahm___Frahm
+                             Frahm___Frahm
+    19. extraneous preface: leg. Schäfer-Verwimp___Schäfer-Verwimp
+                             Schäfer-Verwimp___Schäfer-Verwimp
+    20. extraneous preface: leg. J.-P. Frahm___J.-P. Frahm
+                             J.-P. Frahm___J.-P. Frahm
+verbatimCoordinates
+    percentage mismatches accounted for: 50.0
+    total mismatches: 32
+    spacing: 4
+    period: 2
+    spacing, comma: 5
+    spacing, period, comma: 5
+    1. spacing: c. 5° S 141° 05' E___c. 5° S 141°05'E
+                c.5°S141°05'E___c.5°S141°05'E
+    2. spacing: c. 5°S 141°05'E___c. 5° S 141°05'E
+                c.5°S141°05'E___c.5°S141°05'E
+    3. spacing: c. 5°S 141°05'E___c. 5° S 141°05'E
+                c.5°S141°05'E___c.5°S141°05'E
+    4. spacing, comma: 6°01'S 146°33'E___6°01'S, 146°33'E
+                       6°01'S146°33'E___6°01'S146°33'E
+    5. spacing, comma: 15°36'S 68°39'W___15°36'S, 68°39'W
+                       15°36'S68°39'W___15°36'S68°39'W
+    6. period: 15° 45' S, 68° 42' W___15° 45' S., 68° 42' W
+               15° 45' S, 68° 42' W___15° 45' S, 68° 42' W
+    7. spacing, period, comma: 17° 11' S 65° 54' W___17° 11' S., 65° 54' W
+                               17°11'S65°54'W___17°11'S65°54'W
+    8. period: 15° 48' S, 68° 36' W___15° 48' S., 68° 36' W
+               15° 48' S, 68° 36' W___15° 48' S, 68° 36' W
+    9. spacing, period, comma: 15° 41' S. 68° 43' W.___15° 41' S., 68° 43' W
+                               15°41'S68°43'W___15°41'S68°43'W
+    10. spacing, period, comma: 15° 11' S 69° 04' W___15° 11' S., 69° 04' W
+                                15°11'S69°04'W___15°11'S69°04'W
+    11. spacing, period, comma: 15° 11' S 69° 04' W___15° 11' S., 69° 04' W
+                                15°11'S69°04'W___15°11'S69°04'W
+    12. spacing, period, comma: 15° 11' S 69° 04' W___15° 11' S., 69° 04' W
+                                15°11'S69°04'W___15°11'S69°04'W
+    13. spacing, comma: 5°55'N, 75°17'W___5°55'N 75°17'W
+                        5°55'N75°17'W___5°55'N75°17'W
+    14. spacing, comma: 10°30'S 75°30'W___10°30'S, 75°30'W
+                        10°30'S75°30'W___10°30'S75°30'W
+    15. spacing: 7°5' N 75°25' W___7°5'N 75°25'W
+                 7°5'N75°25'W___7°5'N75°25'W
+    16. spacing, comma: 10°30'S 75°30'W___10°30'S, 75°30'W
+                        10°30'S75°30'W___10°30'S75°30'W
+verbatimDateIdentified
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 26
+verbatimElevation
+    percentage mismatches accounted for: 62.3
+    total mismatches: 53
+    spacing: 1
+    period: 10
+    positive polarity sign: 3
+    extraneous preface: 8
+    period, comma: 2
+    period, extraneous preface: 9
+    1. extraneous preface: 330 m alt.___330 m
+                           330 m ___330 m
+    2. extraneous preface: ca. 1200 m___1200 m
+                            1200 m___1200 m
+    3. extraneous preface: ca. 100 m alt.___100 m
+                            100 m ___100 m
+    4. period: ca 500 m___ca. 500 m
+               ca 500 m___ca 500 m
+    5. period: c. 20 m.___c. 20 m
+               c 20 m___c 20 m
+    6. period: c. 3450 m.___c. 3450 m
+               c 3450 m___c 3450 m
+    7. period: c. 2500 - 2600 m.___c. 2500 - 2600 m
+               c 2500 - 2600 m___c 2500 - 2600 m
+    8. period: 60 m. above sea___60 m above sea
+               60 m above sea___60 m above sea
+    9. period: 500 m.___500 m
+               500 m___500 m
+    10. extraneous preface: 1-10 m alt.___1-10 m
+                            1-10 m ___1-10 m
+    11. period: ca 3550 m___ca. 3550 m
+                ca 3550 m___ca 3550 m
+    12. period: 2740 m.___2740 m
+                2740 m___2740 m
+    13. period: 10000 ft.___10000 ft
+                10000 ft___10000 ft
+    14. period: 10000 ft.___10000 ft
+                10000 ft___10000 ft
+    15. positive polarity sign: 3000 m___±3000 m
+                                3000 m___3000 m
+    16. positive polarity sign: 1625 m___±1625 m
+                                1625 m___1625 m
+    17. positive polarity sign: 1750 m___±1750 m
+                                1750 m___1750 m
+    18. period, comma: 5000 ft.___5,000 ft
+                       5000 ft___5000 ft
+    19. period, extraneous preface: alt. 6800 ft.___6800 ft
+                                     6800 ft___6800 ft
+    20. period, comma: 10000 ft.___10,000 ft
+                       10000 ft___10000 ft
+    21. period, extraneous preface: alt. 6800 ft.___6800 ft
+                                     6800 ft___6800 ft
+    22. period, extraneous preface: Alt. 2000 m.___2.000 m
+                                     2000 m___2000 m
+    23. spacing: ± 3380 m___±3380 m
+                 ±3380m___±3380m
+    24. period, extraneous preface: Alt. 3100-3200 m___3.100-3.200 m
+                                     3100-3200 m___3100-3200 m
+    25. period, extraneous preface: alt. 2300 m.___2300 m
+                                     2300 m___2300 m
+    26. period, extraneous preface: Alt. 720 m.___720 m
+                                     720 m___720 m
+    27. extraneous preface: alt. 600 m___600 m
+                             600 m___600 m
+    28. period, extraneous preface: Alt. 1950 m.___1950 m
+                                     1950 m___1950 m
+    29. period, extraneous preface: Alt. 1100 m.___1100 m
+                                     1100 m___1100 m
+    30. period, extraneous preface: Alt. 1100 m.___1100 m
+                                     1100 m___1100 m
+    31. extraneous preface: alt. 1600-1700 m___1600-1700 m
+                             1600-1700 m___1600-1700 m
+    32. extraneous preface: Alt. 1.600 m___1.600 m
+                             1.600 m___1.600 m
+    33. extraneous preface: alt. 1950 m___1950 m
+                             1950 m___1950 m
+verbatimEventDate
+    percentage mismatches accounted for: 34.5
+    total mismatches: 29
+    spacing: 6
+    period: 1
+    vowel diacritic: 2
+    spacing, dash: 1
+    1. spacing, dash: oct. - nov. 1898___oct.nov.1898
+                      oct.nov.1898___oct.nov.1898
+    2. spacing: VIII. 1946___VIII.1946
+                VIII.1946___VIII.1946
+    3. spacing: Jan. 23, 1975___Jan. 23,1975
+                Jan.23,1975___Jan.23,1975
+    4. spacing: X. 1932___X.1932
+                X.1932___X.1932
+    5. spacing: 13 Oct. 1950___13 Oct.1950
+                13Oct.1950___13Oct.1950
+    6. spacing: 13 Oct. 1950___13 Oct.1950
+                13Oct.1950___13Oct.1950
+    7. spacing: Feb.9,1975___Feb.9, 1975
+                Feb.9,1975___Feb.9,1975
+    8. period: 4. feb. 1979___4 Feb. 1979
+               4 feb 1979___4 Feb 1979
+    9. vowel diacritic: Julio-Agosto 1977___Júlio-Agosto 1977
+                        Julio-Agosto 1977___Julio-Agosto 1977
+    10. vowel diacritic: Julio 3-4, 1977___Júlio 3-4, 1977
+                         Julio 3-4, 1977___Julio 3-4, 1977
+verbatimIdentification
+    percentage mismatches accounted for: 16.7
+    total mismatches: 36
+    spacing: 4
+    period: 1
+    spacing, comma: 1
+    1. spacing: Macromitrium gymnostomum S. & L.___Macromitrium gymnostomum S.& L.
+                MacromitriumgymnostomumS.&L.___MacromitriumgymnostomumS.&L.
+    2. period: Braunia Andrieuxii, Lorentz.___Braunia Andrieuxii, Lorentz
+               Braunia Andrieuxii, Lorentz___Braunia Andrieuxii, Lorentz
+    3. spacing: Braunia secunda (Hook.) B.S.G.___Braunia secunda (Hook.)B.S.G.
+                Brauniasecunda(Hook.)B.S.G.___Brauniasecunda(Hook.)B.S.G.
+    4. spacing, comma: Braunia squarrulosa (Hpe.) Broth.___Braunia squarrulosa, (Hpe.) Broth.
+                       Brauniasquarrulosa(Hpe.)Broth.___Brauniasquarrulosa(Hpe.)Broth.
+    5. spacing: Rhacopilum tomentosum (Hedw.) Brid.___Rhacopilum tomentosum (Hedw.)Brid.
+                Rhacopilumtomentosum(Hedw.)Brid.___Rhacopilumtomentosum(Hedw.)Brid.
+    6. spacing: Racopilum tomentosum (Hedw.) Brid.___Racopilum tomentosum (Hedw.)Brid.
+                Racopilumtomentosum(Hedw.)Brid.___Racopilumtomentosum(Hedw.)Brid.
+verbatimLocality
+    percentage mismatches accounted for: 6.5
+    total mismatches: 92
+    period: 1
+    vowel diacritic: 2
+    spacing, comma: 3
+    1. spacing, comma: KIUSHIU Miyazaki Minaminaka Obi___Kiushiu, Miyazaki, Minaminaka, Obi
+                       KIUSHIUMiyazakiMinaminakaObi___KiushiuMiyazakiMinaminakaObi
+    2. spacing, comma: 15 mi. S.E. of San Cristobal de las Casas Chiapas Mexico___15 mi. S.E. of San Cristobal de las Casas, Chiapas, Mexico
+                       15mi.S.E.ofSanCristobaldelasCasasChiapasMexico___15mi.S.E.ofSanCristobaldelasCasasChiapasMexico
+    3. period: Roadside near San Pablo Ayutla (about 70 km. east of Oaxaca) Oaxaca___Roadside near San Pablo Ayutla (about 70 km. east of Oaxaca.) Oaxaca
+               Roadside near San Pablo Ayutla (about 70 km east of Oaxaca) Oaxaca___Roadside near San Pablo Ayutla (about 70 km east of Oaxaca) Oaxaca
+    4. vowel diacritic: Slopes of La Ferreria, above Manantlan___Slopes of La Ferrería, above Manantlán
+                        Slopes of La Ferreria, above Manantlan___Slopes of La Ferreria, above Manantlan
+    5. vowel diacritic: Rio Miritiparaná: Caño Guacayá___Río Miritiparaná: Caño Guacayá
+                        Rio Miritiparana: Caño Guacaya___Rio Miritiparana: Caño Guacaya
+    6. spacing, comma: Slopes and summit of Serra Curicuriari from Igarapé Arabú of the Rio Curicuriari to the summit___Slopes and summit of Serra Curicuriari, from Igarapé Arabú of the Rio Curicuriari to the summit
+                       SlopesandsummitofSerraCuricuriarifromIgarapéArabúoftheRioCuricuriaritothesummit___SlopesandsummitofSerraCuricuriarifromIgarapéArabúoftheRioCuricuriaritothesummit
