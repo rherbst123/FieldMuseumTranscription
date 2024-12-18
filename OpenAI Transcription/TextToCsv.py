@@ -99,9 +99,9 @@ def export_to_csv(data, csv_file_path):
 
 if __name__ == "__main__":
     #CHANGE INPUT TO DESIRED .TXT FILE
-    input_file_path = "AccuracyTesting\SourcesForPaper\OutputMar12.0427.txt"
+    input_file_path = ""
     #CHANGE OUTPUT TO DESIRED LOCATION TO .CSV FILE
-    output_csv_file_path = "AccuracyTesting\SourcesForPaper\SpreadMar12.0427.csv"
+    output_csv_file_path = ""
 
     extracted_data = process_file(input_file_path)
     if extracted_data:

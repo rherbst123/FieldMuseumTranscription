@@ -1,7 +1,0 @@
-run name,prompt filename,dataset urls filename,modelname,model,reason for run,run by,run time,#images processed
-claude-3.5-sonnet-2024-11-12-2111,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,claude-3.5-sonnet,claude-3-5-sonnet-20240620,test script,DS,,
-claude-3.5-sonnet-2024-11-12-2139,Prompt 1.4.txt,5-bryophytes-typed-testing-urls.txt,claude-3.5-sonnet,claude-3-5-sonnet-20240620,test run logging,DS,35.80 seconds,
-gpt-4o-2024-11-13-2302,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,gpt-4o,gpt-4o-2024-08-06,test run logging,DS,6.67 seconds,5***
-gemini-1.5-pro-2024-11-13-2331,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,gemini-1.5-pro,gemini-1.5-pro-latest,test run logging,DS,147.17 seconds,5
-gpt-4o-2024-11-14-0921,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,gpt-4o,gpt-4o-2024-08-06,test run logging,DS,7.50 seconds,5
-gemini-1.5-pro-2024-11-14-1624,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,gemini-1.5-pro,gemini-1.5-pro-latest,test published logging,DS,109.16 seconds,5

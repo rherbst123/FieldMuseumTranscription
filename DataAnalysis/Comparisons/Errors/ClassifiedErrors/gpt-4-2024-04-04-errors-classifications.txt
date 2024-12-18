@@ -1,0 +1,763 @@
+grand total mismatches: 3099
+grand total mismatches accounted for: 313
+overall percentage mismatches accounted for: 10.1
+associatedTaxa
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 33
+collectedBy
+    percentage mismatches accounted for: 48.5
+    total mismatches: 171
+    spacing: 78
+    period: 2
+    vowel diacritic: 1
+    dash: 1
+    period, vowel diacritic: 1
+    1. spacing: J.M. Reitsma___J. M. Reitsma
+                J.M.Reitsma___J.M.Reitsma
+    2. spacing: C.J.P. Seegeler___C. J. P. Seegeler
+                C.J.P.Seegeler___C.J.P.Seegeler
+    3. spacing: J.M. Fay___J. M. Fay
+                J.M.Fay___J.M.Fay
+    4. spacing: P.C.M. Jansen___P. C. M. Jansen
+                P.C.M.Jansen___P.C.M.Jansen
+    5. spacing: J.M. Fay___J. M. Fay
+                J.M.Fay___J.M.Fay
+    6. vowel diacritic: A. Leonard___A. Léonard
+                        A. Leonard___A. Leonard
+    7. spacing: J.T. Allen___J. T. Allen
+                J.T.Allen___J.T.Allen
+    8. spacing: R.B. Faden___R. B. Faden
+                R.B.Faden___R.B.Faden
+    9. spacing: F.W.H. Migeod___F. W. H. Migeod
+                F.W.H.Migeod___F.W.H.Migeod
+    10. spacing: T.C. Wrigley___T. C. Wrigley
+                 T.C.Wrigley___T.C.Wrigley
+    11. spacing: J.D. Sauer___J. D. Sauer
+                 J.D.Sauer___J.D.Sauer
+    12. spacing: A.A. Enti___A. A. Enti
+                 A.A.Enti___A.A.Enti
+    13. spacing: D.W. Thomas___D. W. Thomas
+                 D.W.Thomas___D.W.Thomas
+    14. spacing: S.A. Thompson___S. A. Thompson
+                 S.A.Thompson___S.A.Thompson
+    15. spacing: S.A. Thompson___S. A. Thompson
+                 S.A.Thompson___S.A.Thompson
+    16. spacing: D.W. Thomas___D. W. Thomas
+                 D.W.Thomas___D.W.Thomas
+    17. spacing: E.A. Mearns___E. A. Mearns
+                 E.A.Mearns___E.A.Mearns
+    18. spacing: J.M. Fay___J. M. Fay
+                 J.M.Fay___J.M.Fay
+    19. spacing: D.D. Soejarto___D. D. Soejarto
+                 D.D.Soejarto___D.D.Soejarto
+    20. spacing: M.O. Dillon___M. O. Dillon
+                 M.O.Dillon___M.O.Dillon
+    21. spacing: R.B. Foster___R. B. Foster
+                 R.B.Foster___R.B.Foster
+    22. spacing: E.P. Killip___E. P. Killip
+                 E.P.Killip___E.P.Killip
+    23. spacing: T.R. Dudley___T. R. Dudley
+                 T.R.Dudley___T.R.Dudley
+    24. spacing: M.E. Mathias___M. E. Mathias
+                 M.E.Mathias___M.E.Mathias
+    25. period, vowel diacritic: M Rios___M. Ríos
+                                 M Rios___M Rios
+    26. spacing: D.R. Simpson___D. R. Simpson
+                 D.R.Simpson___D.R.Simpson
+    27. spacing: T.B. Croat___T. B. Croat
+                 T.B.Croat___T.B.Croat
+    28. spacing: J.I. Calzada___J. I. Calzada
+                 J.I.Calzada___J.I.Calzada
+    29. spacing: B. León___B.León
+                 B.León___B.León
+    30. spacing: L.O. Williams___L. O. Williams
+                 L.O.Williams___L.O.Williams
+    31. spacing: T.G. Lammers___T. G. Lammers
+                 T.G.Lammers___T.G.Lammers
+    32. spacing: M.O. Dillon___M. O. Dillon
+                 M.O.Dillon___M.O.Dillon
+    33. spacing: R.M. Tryon___R. M. Tryon
+                 R.M.Tryon___R.M.Tryon
+    34. spacing: E.P. Killip___E. P. Killip
+                 E.P.Killip___E.P.Killip
+    35. spacing: J.J. Wurdack___J. J. Wurdack
+                 J.J.Wurdack___J.J.Wurdack
+    36. spacing: L.O. Williams___L. O. Williams
+                 L.O.Williams___L.O.Williams
+    37. spacing: G.B. Hinton___G. B. Hinton
+                 G.B.Hinton___G.B.Hinton
+    38. spacing: T.G. Yuncker___T. G. Yuncker
+                 T.G.Yuncker___T.G.Yuncker
+    39. spacing: A.N. Steward___A. N. Steward
+                 A.N.Steward___A.N.Steward
+    40. spacing: J.F. Barcelona___J. F. Barcelona
+                 J.F.Barcelona___J.F.Barcelona
+    41. spacing: R.B. Faden___R. B. Faden
+                 R.B.Faden___R.B.Faden
+    42. spacing: R.W. Pohl___R. W. Pohl
+                 R.W.Pohl___R.W.Pohl
+    43. spacing: H.E. Parks___H. E. Parks
+                 H.E.Parks___H.E.Parks
+    44. spacing: H.E. Parks___H. E. Parks
+                 H.E.Parks___H.E.Parks
+    45. period: H.K.___HK.
+                HK___HK
+    46. spacing: P.C. Standley___P. C. Standley
+                 P.C.Standley___P.C.Standley
+    47. spacing: P.C. Standley___P. C. Standley
+                 P.C.Standley___P.C.Standley
+    48. spacing: E.W.D. Holway___E. W. D. Holway
+                 E.W.D.Holway___E.W.D.Holway
+    49. spacing: W.G. Bramley___W. G. Bramley
+                 W.G.Bramley___W.G.Bramley
+    50. spacing: W.L. Culberson___W. L. Culberson
+                 W.L.Culberson___W.L.Culberson
+    51. spacing: H.A. Imshaug___H. A. Imshaug
+                 H.A.Imshaug___H.A.Imshaug
+    52. spacing: E.M. Wheeler___E. M. Wheeler
+                 E.M.Wheeler___E.M.Wheeler
+    53. spacing: H.T. Lumbsch___H. T. Lumbsch
+                 H.T.Lumbsch___H.T.Lumbsch
+    54. spacing: H.T. Lumbsch___H. T. Lumbsch
+                 H.T.Lumbsch___H.T.Lumbsch
+    55. spacing: H.A. Imshaug___H. A. Imshaug
+                 H.A.Imshaug___H.A.Imshaug
+    56. spacing: W.L. Culberson___W. L. Culberson
+                 W.L.Culberson___W.L.Culberson
+    57. spacing: H.T. Lumbsch___H. T. Lumbsch
+                 H.T.Lumbsch___H.T.Lumbsch
+    58. spacing: H.T. Lumbsch___H. T. Lumbsch
+                 H.T.Lumbsch___H.T.Lumbsch
+    59. spacing: H.T. Lumbsch___H. T. Lumbsch
+                 H.T.Lumbsch___H.T.Lumbsch
+    60. spacing: H.T. Lumbsch___H. T. Lumbsch
+                 H.T.Lumbsch___H.T.Lumbsch
+    61. spacing: R.M. Schuster___R. M. Schuster
+                 R.M.Schuster___R.M.Schuster
+    62. spacing: J.J. Engel___J. J. Engel
+                 J.J.Engel___J.J.Engel
+    63. spacing: R. Benoist___R.Benoist
+                 R.Benoist___R.Benoist
+    64. spacing: R.S. Williams___R. S. Williams
+                 R.S.Williams___R.S.Williams
+    65. spacing: F.J. Hermann___F. J. Hermann
+                 F.J.Hermann___F.J.Hermann
+    66. spacing: A.C. Smith___A. C. Smith
+                 A.C.Smith___A.C.Smith
+    67. spacing: J.C. Lindeman___J. C. Lindeman
+                 J.C.Lindeman___J.C.Lindeman
+    68. spacing: R.E. Schultes___R. E. Schultes
+                 R.E.Schultes___R.E.Schultes
+    69. spacing: R.E. Schultes___R. E. Schultes
+                 R.E.Schultes___R.E.Schultes
+    70. spacing: R.E. Schultes___R. E. Schultes
+                 R.E.Schultes___R.E.Schultes
+    71. spacing: R.E. Schultes___R. E. Schultes
+                 R.E.Schultes___R.E.Schultes
+    72. period: M Lewis___M. Lewis
+                M Lewis___M Lewis
+    73. spacing: F.J. Hermann___F. J. Hermann
+                 F.J.Hermann___F.J.Hermann
+    74. spacing: R.E. Schultes___R. E. Schultes
+                 R.E.Schultes___R.E.Schultes
+    75. dash: J.P. Frahm___J.-P. Frahm
+              J.P. Frahm___J.P. Frahm
+    76. spacing: R.E. Schultes___R. E. Schultes
+                 R.E.Schultes___R.E.Schultes
+    77. spacing: D.C. Geijskes___D. C. Geijskes
+                 D.C.Geijskes___D.C.Geijskes
+    78. spacing: H.S. Irwin___H. S. Irwin
+                 H.S.Irwin___H.S.Irwin
+    79. spacing: R.S. Williams___R. S. Williams
+                 R.S.Williams___R.S.Williams
+    80. spacing: R.S. Williams___R. S. Williams
+                 R.S.Williams___R.S.Williams
+    81. spacing: J.J. de Wilde___J. J. de Wilde
+                 J.J.deWilde___J.J.deWilde
+    82. spacing: J.F. Macbride___J. F. Macbride
+                 J.F.Macbride___J.F.Macbride
+    83. spacing: P.J.M. Maas___P. J. M. Maas
+                 P.J.M.Maas___P.J.M.Maas
+country
+    percentage mismatches accounted for: 3.7
+    total mismatches: 54
+    period: 1
+    vowel diacritic: 1
+    1. vowel diacritic: México___Mexico
+                        Mexico___Mexico
+    2. period: USA___U.S.A.
+               USA___USA
+firstPoliticalUnit
+    percentage mismatches accounted for: 4.4
+    total mismatches: 113
+    vowel diacritic: 5
+    1. vowel diacritic: Ogooué-Ivindo___Ogooue-Ivindo
+                        Ogooue-Ivindo___Ogooue-Ivindo
+    2. vowel diacritic: San Martin___San Martín
+                        San Martin___San Martin
+    3. vowel diacritic: Solola___Sololá
+                        Solola___Solola
+    4. vowel diacritic: Vaupes___Vaupés
+                        Vaupes___Vaupes
+    5. vowel diacritic: Guantanamo___Guantánamo
+                        Guantanamo___Guantanamo
+habitat
+    percentage mismatches accounted for: 7.6
+    total mismatches: 184
+    period: 12
+    spacing, period: 1
+    spacing, dash: 1
+    1. period: En bosque secundario, con abundante luz solar.___En bosque secundario, con abundante luz solar
+               En bosque secundario, con abundante luz solar___En bosque secundario, con abundante luz solar
+    2. period: Rainforest.___Rainforest
+               Rainforest___Rainforest
+    3. period: Shady moist bank near stream.___Shady moist bank near stream
+               Shady moist bank near stream___Shady moist bank near stream
+    4. period: Auf Blättern von Holcus lanatus.___Auf Blättern von Holcus lanatus
+               Auf Blättern von Holcus lanatus___Auf Blättern von Holcus lanatus
+    5. period: On siliceous rocks.___On siliceous rocks
+               On siliceous rocks___On siliceous rocks
+    6. period: An Populus.___An Populus
+               An Populus___An Populus
+    7. period: In warmish creek.___In warmish creek
+               In warmish creek___In warmish creek
+    8. period: In warmish creek.___In warmish creek
+               In warmish creek___In warmish creek
+    9. period: On rocks wet by spray.___On rocks wet by spray
+               On rocks wet by spray___On rocks wet by spray
+    10. period: On earth collected on inclined tree trunk.___On earth collected on inclined tree trunk
+                On earth collected on inclined tree trunk___On earth collected on inclined tree trunk
+    11. period: On rotten log.___On rotten log
+                On rotten log___On rotten log
+    12. period: on rotten logs in virgin forest.___On rotten logs in virgin forest
+                on rotten logs in virgin forest___On rotten logs in virgin forest
+    13. spacing, period: Shady streambank, on rotten log.___Shady stream bank, on rotten log
+                         Shadystreambank,onrottenlog___Shadystreambank,onrottenlog
+    14. spacing, dash: High sandy river-bank___High sandy river bank
+                       Highsandyriverbank___Highsandyriverbank
+identifiedBy
+    percentage mismatches accounted for: 18.3
+    total mismatches: 142
+    spacing: 23
+    vowel diacritic: 1
+    extraneous preface: 1
+    spacing, period: 1
+    1. spacing: A. W. Exell___A.W.Exell
+                A.W.Exell___A.W.Exell
+    2. spacing: A. A. Enti___A.A.Enti
+                A.A.Enti___A.A.Enti
+    3. spacing: M.J. Huft___M. J. Huft
+                M.J.Huft___M.J.Huft
+    4. spacing: M. J. Huft___M.J. Huft
+                M.J.Huft___M.J.Huft
+    5. spacing: D.R. Simpson___D. R. Simpson
+                D.R.Simpson___D.R.Simpson
+    6. spacing: A.R. Smith___A. R. Smith
+                A.R.Smith___A.R.Smith
+    7. spacing, period: A. Molina R.___AmolinaR.
+                        AMolinaR___AmolinaR
+    8. spacing: M.R. McCarthy___M. R. McCarthy
+                M.R.McCarthy___M.R.McCarthy
+    9. vowel diacritic: J. Fernandez Casas___J. Fernández Casas
+                        J. Fernandez Casas___J. Fernandez Casas
+    10. spacing: E.B. Copeland___E.B.Copeland
+                 E.B.Copeland___E.B.Copeland
+    11. spacing: E.B. Mains___E.B.Mains
+                 E.B.Mains___E.B.Mains
+    12. spacing: W.L. Culberson___W. L. Culberson
+                 W.L.Culberson___W.L.Culberson
+    13. spacing: R.J. Salm___R. J. Salm
+                 R.J.Salm___R.J.Salm
+    14. spacing: R.J. Salm___R. J. Salm
+                 R.J.Salm___R.J.Salm
+    15. spacing: R.J. Salm___R. J. Salm
+                 R.J.Salm___R.J.Salm
+    16. spacing: R.J. Salm___R. J. Salm
+                 R.J.Salm___R.J.Salm
+    17. spacing: R.M. Schuster___R. M. Schuster
+                 R.M.Schuster___R.M.Schuster
+    18. spacing: E.B. Bartram___E. B. Bartram
+                 E.B.Bartram___E.B.Bartram
+    19. spacing: H.A. Crum___H. A. Crum
+                 H.A.Crum___H.A.Crum
+    20. extraneous preface: Det. Bartram___Bartram
+                             Bartram___Bartram
+    21. spacing: H. Robinson___H.Robinson
+                 H.Robinson___H.Robinson
+    22. spacing: R. R. Ireland___R.R. Ireland
+                 R.R.Ireland___R.R.Ireland
+    23. spacing: R. R. Ireland___R.R. Ireland
+                 R.R.Ireland___R.R.Ireland
+    24. spacing: G.P. Lewis___G. P. Lewis
+                 G.P.Lewis___G.P.Lewis
+    25. spacing: M. Kuhlmann___M.Kuhlmann
+                 M.Kuhlmann___M.Kuhlmann
+    26. spacing: P.J.M. Maas___P. J. M. Maas
+                 P.J.M.Maas___P.J.M.Maas
+latestScientificName
+    percentage mismatches accounted for: 2.1
+    total mismatches: 194
+    spacing: 2
+    period: 1
+    spacing, period: 1
+    1. spacing: Impatiens macroptera Hook. f.___Impatiens macroptera Hook.f.
+                ImpatiensmacropteraHook.f.___ImpatiensmacropteraHook.f.
+    2. spacing, period: Asplenium contiguum Kaulf.___Asplenium contiguum.Kaulf.
+                        AspleniumcontiguumKaulf___AspleniumcontiguumKaulf
+    3. spacing: Kindbergia praelonga (Hedw.) Ochyra___Kindbergia praelonga (Hedw.)Ochyra
+                Kindbergiapraelonga(Hedw.)Ochyra___Kindbergiapraelonga(Hedw.)Ochyra
+    4. period: Cystopteris bulbifera (L.) Bernh.___Cystopteris bulbifera (L) Bernh
+               Cystopteris bulbifera (L) Bernh___Cystopteris bulbifera (L) Bernh
+locality
+    percentage mismatches accounted for: 3.5
+    total mismatches: 260
+    spacing: 1
+    period: 1
+    vowel diacritic: 4
+    spacing, period, comma: 1
+    spacing, vowel diacritic, comma: 1
+    spacing, comma, dash: 1
+    1. spacing: Awutu - Winneba Road___Awutu-Winneba road
+                Awutu-WinnebaRoad___Awutu-Winnebaroad
+    2. period: Road from Huaras to Cusma, west valley.___Road from Huaras to Cusma, west valley
+               Road from Huaras to Cusma, west valley___Road from Huaras to Cusma, west valley
+    3. spacing, vowel diacritic, comma: San Antonio on Rio Itaya___San Antonio, on Río Itaya
+                                        SanAntonioonRioItaya___SanAntonioonRioItaya
+    4. spacing, comma, dash: Upper slopes of Puma-urcu east-southeast of Chachapoyas___Upper slopes of Puma-urcu, east southeast of Chachapoyas
+                             UpperslopesofPumaurcueastsoutheastofChachapoyas___UpperslopesofPumaurcueastsoutheastofChachapoyas
+    5. spacing, period, comma: Bontoc Subprovince, Luzon___Bontoc Subprovince. Luzon
+                               BontocSubprovinceLuzon___BontocSubprovinceLuzon
+    6. vowel diacritic: Near crossing of Río San Juan Ixtán, east of San Rafael Petzal___Near crossing of Río San Juan Ixtán, east of San Rafael Petzál
+                        Near crossing of Rio San Juan Ixtan, east of San Rafael Petzal___Near crossing of Rio San Juan Ixtan, east of San Rafael Petzal
+    7. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+                        Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+    8. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+                        Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+    9. vowel diacritic: Above Pongo de Manseriche, right bank of Río Santiago___Above Pongo de Manseriche, right bank of Rio Santiago
+                        Above Pongo de Manseriche, right bank of Rio Santiago___Above Pongo de Manseriche, right bank of Rio Santiago
+maximumEventDate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 156
+minimumEventDate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 97
+municipality
+    percentage mismatches accounted for: 1.0
+    total mismatches: 97
+    vowel diacritic: 1
+    1. vowel diacritic: San José del Guaviare___San Jose del Guaviare
+                        San Jose del Guaviare___San Jose del Guaviare
+originalMethod
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 101
+otherCatalogNumbers
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 144
+recordNumber
+    percentage mismatches accounted for: 2.5
+    total mismatches: 119
+    spacing: 1
+    comma: 2
+    1. comma: 17,429___17429
+              17429___17429
+    2. comma: 18,561___18561
+              18561___18561
+    3. spacing: 8890___889 0
+                8890___8890
+secondPoliticalUnit
+    percentage mismatches accounted for: 2.7
+    total mismatches: 73
+    vowel diacritic: 2
+    1. vowel diacritic: Caraveli___Caravelí
+                        Caraveli___Caraveli
+    2. vowel diacritic: La Convencion___La Convención
+                        La Convencion___La Convencion
+secondaryCollectors
+    percentage mismatches accounted for: 15.9
+    total mismatches: 69
+    spacing: 10
+    vowel diacritic: 1
+    1. spacing: D.W. Thomas___D. W. Thomas
+                D.W.Thomas___D.W.Thomas
+    2. spacing: A.J. Faden___A. J. Faden
+                A.J.Faden___A.J.Faden
+    3. spacing: J.E. Rawlins___J. E. Rawlins
+                J.E.Rawlins___J.E.Rawlins
+    4. spacing: A.C. Smith___A. C. Smith
+                A.C.Smith___A.C.Smith
+    5. vowel diacritic: I. Sanchez V.___I. Sánchez V.
+                        I. Sanchez V.___I. Sanchez V.
+    6. spacing: A.F. Tryon___A. F. Tryon
+                A.F.Tryon___A.F.Tryon
+    7. spacing: A.C. Smith___A. C. Smith
+                A.C.Smith___A.C.Smith
+    8. spacing: J.P. Tracy___J. P. Tracy
+                J.P.Tracy___J.P.Tracy
+    9. spacing: J.P. Tracy___J. P. Tracy
+                J.P.Tracy___J.P.Tracy
+    10. spacing: F.H. Imshaug___F. H. Imshaug
+                 F.H.Imshaug___F.H.Imshaug
+    11. spacing: P.A. Florschütz___P. A. Florschütz
+                 P.A.Florschütz___P.A.Florschütz
+typeStatus
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 10
+verbatimCollectors
+    percentage mismatches accounted for: 15.4
+    total mismatches: 149
+    spacing: 9
+    period: 1
+    vowel diacritic: 3
+    extraneous preface: 7
+    spacing, period: 1
+    spacing, extraneous preface: 2
+    1. extraneous preface: COLL. F. G. OVERLAET___F. G. Overlaet
+                            F. G. OVERLAET___F. G. Overlaet
+    2. vowel diacritic: A. Leonard___A. Léonard
+                        A. Leonard___A. Leonard
+    3. spacing: J. Deaw___J.Deaw
+                J.Deaw___J.Deaw
+    4. spacing: F.W.H. Migeod___F.W.H.Migeod
+                F.W.H.Migeod___F.W.H.Migeod
+    5. spacing: A. A. Enti___A.A.Enti
+                A.A.Enti___A.A.Enti
+    6. spacing: D. W. Thomas___D.W. Thomas
+                D.W.Thomas___D.W.Thomas
+    7. spacing: M.O. Dillon & D. Dillon___M. O. Dillon & D. Dillon
+                M.O.Dillon&D.Dillon___M.O.Dillon&D.Dillon
+    8. vowel diacritic: M. O. Dillon and I. Sanchez V.___M. O. Dillon and I. Sánchez V.
+                        M. O. Dillon and I. Sanchez V.___M. O. Dillon and I. Sanchez V.
+    9. spacing: J. I. Calzada___J.I. Calzada
+                J.I.Calzada___J.I.Calzada
+    10. extraneous preface: Coll. J. Ohwi___J. Ohwi
+                             J. Ohwi___J. Ohwi
+    11. extraneous preface: leg. F. Bubak___F. Bubak
+                             F. Bubak___F. Bubak
+    12. period: H.K.___HK.
+                HK___HK
+    13. extraneous preface: Coll. P. Ponce de Leon___P. Ponce de Leon
+                             P. Ponce de Leon___P. Ponce de Leon
+    14. spacing, period: N. Hladun, H.T. Lumbsch & A. Henssen.___N.Hladun, H.T.Lumbsch & A.Henssen
+                         NHladun,HTLumbsch&AHenssen___NHladun,HTLumbsch&AHenssen
+    15. extraneous preface: leg. Aino Henssen___Aino Henssen
+                             Aino Henssen___Aino Henssen
+    16. extraneous preface: Leg. William L. Culberson___William L. Culberson
+                             William L. Culberson___William L. Culberson
+    17. extraneous preface: leg. H.T. Lumbsch___H.T. Lumbsch
+                             H.T. Lumbsch___H.T. Lumbsch
+    18. spacing: A.C. Smith___A.C.Smith
+                 A.C.Smith___A.C.Smith
+    19. spacing: H. Cornelissen & S. R. Gradstein___H.Cornelissen & S.R.Gradstein
+                 H.Cornelissen&S.R.Gradstein___H.Cornelissen&S.R.Gradstein
+    20. vowel diacritic: Richard Evans Schultes et Isídoro Cabrera___Richard Evans Schultes et Isidoro Cabrera
+                         Richard Evans Schultes et Isidoro Cabrera___Richard Evans Schultes et Isidoro Cabrera
+    21. spacing: D.C. Geijskes___D.C.Geijskes
+                 D.C.Geijskes___D.C.Geijskes
+    22. spacing, extraneous preface: leg. Zd. Pilous___Zd.Pilous
+                                     Zd.Pilous___Zd.Pilous
+    23. spacing, extraneous preface: leg. Zd. Pilous___Zd.Pilous
+                                     Zd.Pilous___Zd.Pilous
+verbatimCoordinates
+    percentage mismatches accounted for: 18.8
+    total mismatches: 85
+    spacing: 3
+    period: 7
+    spacing, period: 4
+    spacing, comma: 2
+    1. spacing, comma: 08°29'N, 21°12'E___08°29'N 21°12'E
+                       08°29'N21°12'E___08°29'N21°12'E
+    2. spacing, comma: 19°29' N, 97°04' W___19° 29' N  97° 04' W
+                       19°29'N97°04'W___19°29'N97°04'W
+    3. period: 52° 27' S., 69° 36' W.___52° 27' S., 69° 36' W
+               52° 27' S, 69° 36' W___52° 27' S, 69° 36' W
+    4. spacing: 33°11'N, 110°32'W___33°11' N,  110°32' W
+                33°11'N,110°32'W___33°11'N,110°32'W
+    5. period: 60°00'N lat., 44°40'W. long.___60°00'N lat., 44°40'W long.
+               60°00'N lat, 44°40'W long___60°00'N lat, 44°40'W long
+    6. period: 38° 24.5' S, 174° 49.8' E___38° 24.5' S., 174° 49.8' E
+               38° 245' S, 174° 498' E___38° 245' S, 174° 498' E
+    7. period: 0°22'N, 78°20'W___0°22'N., 78°20'W
+               0°22'N, 78°20'W___0°22'N, 78°20'W
+    8. spacing, period: 18°07' S, 69°00' W___18° 07' S., 69° 00' W
+                        18°07'S,69°00'W___18°07'S,69°00'W
+    9. period: 18° 07' S, 69° 00' W___18° 07' S., 69° 00' W
+               18° 07' S, 69° 00' W___18° 07' S, 69° 00' W
+    10. spacing, period: 18°07' S, 69°00' W___18° 07' S., 69° 00' W
+                         18°07'S,69°00'W___18°07'S,69°00'W
+    11. spacing, period: 18°07' S, 69°00' W___18° 07' S., 69° 00' W
+                         18°07'S,69°00'W___18°07'S,69°00'W
+    12. spacing, period: 18°07' S, 69°00' W___18° 07' S., 69° 00' W
+                         18°07'S,69°00'W___18°07'S,69°00'W
+    13. period: 18° 07' S, 69° 00' W___18° 07' S., 69° 00' W
+                18° 07' S, 69° 00' W___18° 07' S, 69° 00' W
+    14. period: 15° 41' S., 68° 43' W.___15° 41' S, 68° 43' W
+                15° 41' S, 68° 43' W___15° 41' S, 68° 43' W
+    15. spacing: 54°46'S, 68°20'W___54°46'S,68°20'W
+                 54°46'S,68°20'W___54°46'S,68°20'W
+    16. spacing: 19°58'S 40°32'W___19° 58'S 40° 32'W
+                 19°58'S40°32'W___19°58'S40°32'W
+verbatimDateIdentified
+    percentage mismatches accounted for: 2.6
+    total mismatches: 78
+    spacing: 2
+    1. spacing: 18 Dec. 1984___18 Dec.1984
+                18Dec.1984___18Dec.1984
+    2. spacing: 19 88___1988
+                1988___1988
+verbatimElevation
+    percentage mismatches accounted for: 46.4
+    total mismatches: 153
+    spacing: 1
+    period: 20
+    comma: 2
+    extraneous preface: 15
+    spacing, period: 2
+    spacing, extraneous preface: 2
+    period, extraneous preface: 28
+    spacing, period, extraneous preface: 1
+    1. spacing, period: 2260 m.s.m.___2260 m s.m.
+                        2260msm___2260msm
+    2. comma: 1700 meters___1,700 meters
+              1700 meters___1700 meters
+    3. period, extraneous preface: Alt. 50-250 m.___50-250 m
+                                    50-250 m___50-250 m
+    4. extraneous preface: Alt. 0 m.___0 m.
+                            0 m.___0 m.
+    5. period: 150 m___150 m.
+               150 m___150 m
+    6. extraneous preface: alt. 250-300 m___250-300 m
+                            250-300 m___250-300 m
+    7. extraneous preface: 529 m alt.___529 m
+                           529 m ___529 m
+    8. period: 100 m.s.n.m.___100 m.s.n.m
+               100 msnm___100 msnm
+    9. extraneous preface: Alt. 1110 m___1110 m
+                            1110 m___1110 m
+    10. period, extraneous preface: Alt. 125 m.___125 m
+                                     125 m___125 m
+    11. extraneous preface: alt. 100 meters___100 meters
+                             100 meters___100 meters
+    12. period, extraneous preface: Alt. 700 m.___700 m
+                                     700 m___700 m
+    13. period: 805 m.___805 m
+                805 m___805 m
+    14. extraneous preface: alt. 1750 m___1750 m
+                             1750 m___1750 m
+    15. spacing: 1100-1250m___1100-1250 m
+                 1100-1250m___1100-1250m
+    16. period, extraneous preface: Alt. about 1800 m.___about 1800 m
+                                     about 1800 m___about 1800 m
+    17. period, extraneous preface: Alt. 1800 m.___1800 m
+                                     1800 m___1800 m
+    18. period, extraneous preface: Alt. 1300-1400 m.___1300-1400 m
+                                     1300-1400 m___1300-1400 m
+    19. period, extraneous preface: Alt. 2000 m.___2000 m
+                                     2000 m___2000 m
+    20. period: 2800 m.___2800 m
+                2800 m___2800 m
+    21. extraneous preface: alt. about 110 meters___about 110 meters
+                             about 110 meters___about 110 meters
+    22. period: 2700-3000 m___2700-3000 m.
+                2700-3000 m___2700-3000 m
+    23. spacing, period: 1920 m.s.m.___1920 m s.m
+                         1920msm___1920msm
+    24. extraneous preface: Alt. 3000-4000 ft.___3000-4000 ft.
+                             3000-4000 ft.___3000-4000 ft.
+    25. extraneous preface: alt. 980 m___980 m
+                             980 m___980 m
+    26. period, extraneous preface: Alt. 250 m.___250 m
+                                     250 m___250 m
+    27. period, extraneous preface: Alt. 1500-2500 ft.___1500-2500 ft
+                                     1500-2500 ft___1500-2500 ft
+    28. extraneous preface: alt. about 1730 m.___about 1730 m.
+                             about 1730 m.___about 1730 m.
+    29. period: 1220 m.___1220 m
+                1220 m___1220 m
+    30. extraneous preface: 2150-2300 m alt.___2150-2300 m
+                            2150-2300 m ___2150-2300 m
+    31. extraneous preface: 1600 m alt.___1600 m
+                            1600 m ___1600 m
+    32. period: 2000 m ü.M.___2000 m ü.M
+                2000 m üM___2000 m üM
+    33. spacing, extraneous preface: ca. 450m___450 m
+                                     450m___450m
+    34. extraneous preface: 1400 m alt.___1400 m
+                            1400 m ___1400 m
+    35. period: 3750 m.___3750 m
+                3750 m___3750 m
+    36. period: 3240 m.___3240 m
+                3240 m___3240 m
+    37. period: 2630 m.___2630 m
+                2630 m___2630 m
+    38. period: 2630 m.___2630 m
+                2630 m___2630 m
+    39. period: 3320 m.___3320 m
+                3320 m___3320 m
+    40. period, extraneous preface: Alt. 400 m.___400 m
+                                     400 m___400 m
+    41. spacing, extraneous preface: ALT. 0-50 m___0 - 50 m
+                                     0-50m___0-50m
+    42. period: 0 - 50 m.___0 - 50 m
+                0 - 50 m___0 - 50 m
+    43. comma: 0 - 50 m,___0 - 50 m
+               0 - 50 m___0 - 50 m
+    44. period: 0-50 m.___0-50 m
+                0-50 m___0-50 m
+    45. period, extraneous preface: alt. 0-50 m.___0-50 m
+                                     0-50 m___0-50 m
+    46. spacing, period, extraneous preface: Alt. 35m.___35 m
+                                             35m___35m
+    47. period, extraneous preface: Alt. 25 m.___25 m
+                                     25 m___25 m
+    48. period: 4350 m.___4350 m
+                4350 m___4350 m
+    49. period: 4350 m.___4350 m
+                4350 m___4350 m
+    50. period: 4350 m.___4350 m
+                4350 m___4350 m
+    51. period, extraneous preface: Alt. 200 m.___200 m
+                                     200 m___200 m
+    52. period, extraneous preface: Alt. 250 m.___250 m
+                                     250 m___250 m
+    53. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    54. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    55. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    56. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    57. period, extraneous preface: Alt. 215 m.___215 m
+                                     215 m___215 m
+    58. period, extraneous preface: Alt. 1800 m.___1800 m
+                                     1800 m___1800 m
+    59. period: 500 m.___500 m
+                500 m___500 m
+    60. period: 2160 m.___2160 m
+                2160 m___2160 m
+    61. period, extraneous preface: Alt. 500 m.___500 m
+                                     500 m___500 m
+    62. period, extraneous preface: Alt. 675 m.___675 m
+                                     675 m___675 m
+    63. period, extraneous preface: Alt. 710 m.___710 m
+                                     710 m___710 m
+    64. period, extraneous preface: Alt. 670 m.___670 m
+                                     670 m___670 m
+    65. period: ca. 500m.___ca. 500m
+                ca 500m___ca 500m
+    66. period, extraneous preface: Alt. 675 m.___675 m
+                                     675 m___675 m
+    67. period, extraneous preface: Alt. 700 m.___700 m
+                                     700 m___700 m
+    68. extraneous preface: Alt. 675 m___675 m
+                             675 m___675 m
+    69. period, extraneous preface: Alt. 710 m.___710 m
+                                     710 m___710 m
+    70. period, extraneous preface: alt. 670 m.___670 m
+                                     670 m___670 m
+    71. extraneous preface: alt. up to 200 m.___up to 200 m.
+                             up to 200 m.___up to 200 m.
+verbatimEventDate
+    percentage mismatches accounted for: 14.2
+    total mismatches: 127
+    spacing: 8
+    period: 5
+    spacing, period: 1
+    spacing, comma: 2
+    period, dash: 2
+    1. spacing: 25. 12. 1957___25.12.1957
+                25.12.1957___25.12.1957
+    2. period: March 1952___March 1952.
+               March 1952___March 1952
+    3. period: 18 July 1959___18 July 1959.
+               18 July 1959___18 July 1959
+    4. period, dash: 14-15-VIII-1902___14-15.VIII.1902
+                     1415VIII1902___1415VIII1902
+    5. period, dash: 10-4-86___10.4.86
+                     10486___10486
+    6. spacing, comma: Dec. 1929___Dec., 1929
+                       Dec.1929___Dec.1929
+    7. period: 17 Dec 1964___17 Dec. 1964
+               17 Dec 1964___17 Dec 1964
+    8. spacing: May 14,1936___May 14, 1936
+                May14,1936___May14,1936
+    9. period: July 28, 1956___July 28, 1956.
+               July 28, 1956___July 28, 1956
+    10. spacing, comma: Nov. 1989___Nov., 1989
+                        Nov.1989___Nov.1989
+    11. spacing, period: 14. 8. 1903.___14.8.1903
+                         1481903___1481903
+    12. period: Aug. 8, 1901___Aug. 8, 1901.
+                Aug 8, 1901___Aug 8, 1901
+    13. spacing: April 14 19 79___April 14 1979
+                 April141979___April141979
+    14. spacing: 5-11-1981___5 - 11 - 1981
+                 5-11-1981___5-11-1981
+    15. spacing: April 10,1936___April 10, 1936
+                 April10,1936___April10,1936
+    16. spacing: May 14, 1936___May 14,1936
+                 May14,1936___May14,1936
+    17. spacing: 29-9-1952___29 - 9 - 1952
+                 29-9-1952___29-9-1952
+    18. spacing: V. 1946___V.1946
+                 V.1946___V.1946
+verbatimIdentification
+    percentage mismatches accounted for: 3.8
+    total mismatches: 213
+    spacing: 5
+    period: 1
+    spacing, period: 2
+    1. spacing: Impatiens macroptera Hook. f.___Impatiens macroptera Hook.f.
+                ImpatiensmacropteraHook.f.___ImpatiensmacropteraHook.f.
+    2. period: Lithospermum cinerascens (A.D.C.) Johnst.___Lithospermum cinerascens (A.DC.) Johnst.
+               Lithospermum cinerascens (ADC) Johnst___Lithospermum cinerascens (ADC) Johnst
+    3. spacing, period: Lophosoria quadripinnata (J.F. Gmel.) C. Chr. var. quadripinnata___Lophosoria quadripinnata (J.F. Gmel)C. Chr. var quadripinnata
+                        Lophosoriaquadripinnata(JFGmel)CChrvarquadripinnata___Lophosoriaquadripinnata(JFGmel)CChrvarquadripinnata
+    4. spacing, period: Asplenium contiguum Kaulf.___Asplenium contiguum.Kaulf.
+                        AspleniumcontiguumKaulf___AspleniumcontiguumKaulf
+    5. spacing: Kindbergia praelonga (Hedw.) Ochyra___Kindbergia praelonga (Hedw.)Ochyra
+                Kindbergiapraelonga(Hedw.)Ochyra___Kindbergiapraelonga(Hedw.)Ochyra
+    6. spacing: Hedwigia albicans (Web.) Lindb.___Hedwigia albicans (Web.)Lindb.
+                Hedwigiaalbicans(Web.)Lindb.___Hedwigiaalbicans(Web.)Lindb.
+    7. spacing: Hedwigia albicans (Web.) Lindb.___Hedwigia albicans (Web.)Lindb.
+                Hedwigiaalbicans(Web.)Lindb.___Hedwigiaalbicans(Web.)Lindb.
+    8. spacing: Pogonatum urnigerum Pal. var. humile Brid.___Pogonatum urnigerum Pal. var.humile Brid.
+                PogonatumurnigerumPal.var.humileBrid.___PogonatumurnigerumPal.var.humileBrid.
+verbatimLocality
+    percentage mismatches accounted for: 5.4
+    total mismatches: 277
+    period: 6
+    vowel diacritic: 2
+    spacing, period, comma: 4
+    spacing, period, dash: 1
+    spacing, period, vowel diacritic, comma: 2
+    1. spacing, period, dash: Park Manovo-Gounda St. Floris. Vicinity of Camp Koumbala.___Park Manovo-Gounda-St. Floris. Vicinity of Camp Koumbala
+                              ParkManovoGoundaStFlorisVicinityofCampKoumbala___ParkManovoGoundaStFlorisVicinityofCampKoumbala
+    2. spacing, period, comma: Lomas of Atiquipa, ca. 105 km N of turn-off to Atiquipa, km 584 S of Lima___Lomas of Atiquipa, ca. 10.5 km N of turn-off to Atiquipa. Km 584 S of Lima
+                               LomasofAtiquipaca105kmNofturn-offtoAtiquipakm584SofLima___LomasofAtiquipaca105kmNofturn-offtoAtiquipaKm584SofLima
+    3. period: Road from Huaras to Cusma, west valley.___Road from Huaras to Cusma, west valley
+               Road from Huaras to Cusma, west valley___Road from Huaras to Cusma, west valley
+    4. period: Rio Itaya, 10 km. s. of Iquitos.___Rio Itaya, 10 km. s. of Iquitos
+               Rio Itaya, 10 km s of Iquitos___Rio Itaya, 10 km s of Iquitos
+    5. spacing, period, comma: Volcan Mombacho, Lower cloud forest near Finca Cutirre,___Volcan Mombacho. Lower cloud forest near finca Cutirre
+                               VolcanMombachoLowercloudforestnearFincaCutirre___VolcanMombachoLowercloudforestnearfincaCutirre
+    6. spacing, period, comma: Bontoc Subprovince, Luzon___Bontoc Subprovince. Luzon
+                               BontocSubprovinceLuzon___BontocSubprovinceLuzon
+    7. period: Trinidad.___Trinidad
+               Trinidad___Trinidad
+    8. vowel diacritic: Near crossing of Río San Juan Ixtán, east of San Rafael Petzal___Near crossing of Río San Juan Ixtán, east of San Rafael Petzál
+                        Near crossing of Rio San Juan Ixtan, east of San Rafael Petzal___Near crossing of Rio San Juan Ixtan, east of San Rafael Petzal
+    9. period: 15 km SE of Oudtshoorn, on the road above Blossoms.___15 km SE of Oudtshoorn, on the road above Blossoms
+               15 km SE of Oudtshoorn, on the road above Blossoms___15 km SE of Oudtshoorn, on the road above Blossoms
+    10. spacing, period, comma: Sogn og Fjordane, Jotunheimen, alpine Matten an der Straße 55 zwischen Turtegrö und Hervassbu___Sogn og Fjordane. Jotunheimen, alpine Matten an der Straße 55 zwischen Turtegrö und Hervassbu
+                                SognogFjordaneJotunheimenalpineMattenanderStraße55zwischenTurtegröundHervassbu___SognogFjordaneJotunheimenalpineMattenanderStraße55zwischenTurtegröundHervassbu
+    11. period: NORTH ISLAND. AUCKLAND PROV.: Whareorino Forest, start of track to Leitch's Hut.___North Island. Auckland Prov.: Whareorino Forest, start of track to Leitch's Hut
+                NORTH ISLAND AUCKLAND PROV: Whareorino Forest, start of track to Leitch's Hut___North Island Auckland Prov: Whareorino Forest, start of track to Leitch's Hut
+    12. spacing, period, vowel diacritic, comma: Rio Vaupes: Mitú and vicinity, Cerro Mitú___Río Vaupés: Mitú and vicinity. Cerro Mitú
+                                                 RioVaupes:MituandvicinityCerroMitu___RioVaupes:MituandvicinityCerroMitu
+    13. vowel diacritic: San José del Guaviare___San Jose del Guaviare
+                         San Jose del Guaviare___San Jose del Guaviare
+    14. spacing, period, vowel diacritic, comma: Above Pongo de Manseriche, Right bank of Río Santiago___Above Pongo de Manseriche. Right bank of Rio Santiago
+                                                 AbovePongodeMansericheRightbankofRioSantiago___AbovePongodeMansericheRightbankofRioSantiago
+    15. period: Viçosa Agricultural College lands. Base of Horticultural Hill.___Viçosa. Agricultural College lands. Base of Horticultural Hill
+                Viçosa Agricultural College lands Base of Horticultural Hill___Viçosa Agricultural College lands Base of Horticultural Hill

@@ -1,0 +1,28 @@
+Please transcribe and expand all details from this herbarium label. Do not Include any Full stops. If there is no information present for a field insert N/A. For Titles do not use All Capitals, only capitalize names and locations and do not abbreviate any names or locations. If unsure at all, state “unsure and check”. I require information on the following categories and to output in the following order(Make sure the fields are exactly as typed). 
+
+verbatimCollectors: (The collectors as you see it on the label, this might be one collector, a string of collectors, that collected the sample)
+collectedBy: (The First Collector, only capitalize names)
+secondaryCollectors: (These are collectors listed after the first, only capitalize names)
+recordNumber:(An identifier given to the occurrence at the time it was recorded - this is the collection number by the person who collected the specimen), 
+verbatimEventDate: (The original verbatim text of the date and time information for the original occurrence), 
+minimumEventDate: (The date the specimen was collected. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".), Used if date is singular or start of date if a range,
+maximumEventDate: Used for the last date in a range. While dates can be entered using your preferred format, the value will be converted and stored as an ISO-8601 numeric format (YYYY-MM-DD). Note that unknown month and days can be entered as "00". For example, a collection with a date of "March 1956" can be entered as "1956-03-00".)
+verbatimIdentification: A string representing the taxonomic identification as it appeared in the original label. This term is meant to allow the capture of an unaltered original identification/determination, including identification qualifiers, hybrid formulas, uncertainties, etc. 
+latestScientificName: If there are multiple scientific names select the one with the latest determination date.This might be on an extra label.
+identifiedBy: (this is the person who identified the specimen, sometimes represented by Det. or det. Or determined by. There might be multiple labels reflecting this. If unsure, insert that. Or if nothing - N/A.
+verbatimDateIdentified: (The date on which the subject was identified as representing the Taxon. This is not eventDate so make sure to differentiate), 
+associatedTaxa: (This is a taxonomic name that may be directly associated with the acceptedScientificName. i.e., it is growing directly with the acceptedScientificName. This is not a scientific name that is associated with the general forest or vegetation that describes the habitat), 
+country: (The name of the country or major administrative unit in which the event occurred), 
+firstPoliticalUnit: (The name of the first-order administrative division in which the event occurred (e.g., state or province)), 
+secondPoliticalUnit:  The name of the second-order administrative division in which the event occurred (e.g., county)), 
+municipality: (The city, town, village in which the event occurred), 
+verbatimLocality: (The original textual description of the place where the occurrence was recorded, do not convert any abbreviated text at all, do not convert acronyms, exclude however the coordinates or information on latitude and longitude, exclude elevation, this should otherwise read precisely as it is on the label), If the first and second political units have been parsed out, do not repeat them here. 
+locality: (The specific description of the place. For all entries do not shorten units of measurement and always print out full units (mi to miles, m to meters, ft to feet). Exclude the coordinates or information on latitude and longitude and exclude any information about the elevation, exclude any reference to vegetation, habitat and just retain where the plant was collected. Include any place names, names of parks, etc. If the first and second political units have been parsed out, do not repeat them here.) If no Locality is found put the following [No Locality Found]
+habitat: (The description of the habitat in which the specimen was collected as described on the original label, this might be a description or summarization of all of the existing biotic and abiotic factors in the current area that may assist in the survival and reproduction of the collected specimen, for example, the description of the forest, geography etc.)
+substrate: (The underlying material or surface on which an organism lives or grows, select only from this simple list: bark, twigs, leaves, soil, rock, boulder, stone, wall, log, wood),
+verbatimElevation: (The original verbatim text of the elevation (altitude) of the occurrence), 
+verbatimCoordinates: (The original verbatim text of the coordinates, if they exist on the label), 
+otherCatalogNumbers: (An identifier for the record within the dataset - this is not to be confused with the recordNumber - the otherCatalogNumbers maybe a stamped number on the herbarium sheet), 
+originalMethod: The method by which the original data was recorded, select from this list (Handwritten, Typed, Mix of Handwritten and Typed, Unsure)
+typeStatus: If the specimen has “type” written or typed on the label and can take the form holotype, isotype etc state as such, otherwise so “no type status”
+

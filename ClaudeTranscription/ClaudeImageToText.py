@@ -8,7 +8,7 @@ import csv
 import time
 
 #This iteration was made on 4-17-24 and is based on the chat gpt use but with claude#
-api_key = "API KEY"
+api_key = ""
 prompt_file_path = "Prompt.txt"
 output_file = "Output.txt"
 url_text = "c:\\Users\\Riley\\Desktop\\Portal\\Code\\Python\\Inputs\\Batch200.txt"

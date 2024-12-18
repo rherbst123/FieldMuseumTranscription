@@ -12,7 +12,7 @@ Fields: the result for each field is entered as a list of three elements. Field 
 
 `#matchValid`: the number of transcription matches to non-"N/A" ground truth targets
 
-`#gradedMatchValid`: the number of `#matchValid` plus the quantity of graded matches to valid ground truth targets, determined as `1 - Normalized Levenshtein distance`
+`#gradedMatchValid`: the number of `#matchValid` plus the quantity of graded matches to valid ground truth targets, determined as `1 - normalized Levenshtein distance`
 
 `#targets`: the number of valid ground truth targets plus the number of LLM transcriptions that had data, rather than "N/A" for non-valid ground truth targets. 
 
@@ -22,7 +22,11 @@ Fields: the result for each field is entered as a list of three elements. Field 
 
 `BatchComparisons/` contains comparisons of multiple LLM runs against the Ground Truth. As such, each CSV will have multiple rows of data. This is useful for comparing: LLM repeat runs, different LLMs, different prompts or testing the effect of a configuration. The catch is that the same ground truth and the same configuration has been used for each run.
 
-`Errors` contains text files structured for looking at errors on a field by field basis. `BatchComparisons` save to one errors file.
+`Errors/` contains text files structured for looking at errors on a field by field basis.
+
+`ClassifiedErrors/` contains text files structured for classifying mismatches according to error types on a field by field basis.
+
+ `BatchComparisons/` save to one errors file.
 
 The beginning section of each run contains LLM transcription sourcefile information and configuration data used for comparison. Configuration objects are copied in full into the file.
 

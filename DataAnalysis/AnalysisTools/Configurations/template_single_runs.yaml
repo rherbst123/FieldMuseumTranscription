@@ -7,7 +7,7 @@
 
 COMPARISON_CONFIG:
     COMPARISON_TYPE: "single_run"
-    RUN_NAME: ""  # e.g., "claude-3.5-sonnet-2024-08-02-1600-prompt1.5.2",
+    RUN_NAME: "claude-3.5-sonnet-2024-08-02-1600-prompt1.5.2"  # e.g., "claude-3.5-sonnet-2024-08-02-1600-prompt1.5.2",
                   #see DataAnalsis/README.md for run naming conventions
     COMPARISON_NAME: ""    # this name is optional; 
                                 # the comparison name will be appended to RUN_NAME for comparison files.

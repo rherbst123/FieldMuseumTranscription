@@ -1,0 +1,145 @@
+grand total mismatches: 138
+grand total mismatches accounted for: 29
+overall percentage mismatches accounted for: 21.0
+associatedTaxa
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 2
+collectedBy
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 3
+country
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+firstPoliticalUnit
+    percentage mismatches accounted for: 16.7
+    total mismatches: 6
+    spacing: 1
+    1. spacing: Veracruz___Vera Cruz
+                Veracruz___VeraCruz
+habitat
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 18
+identifiedBy
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 13
+latestScientificName
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 11
+locality
+    percentage mismatches accounted for: 50.0
+    total mismatches: 4
+    vowel diacritic: 1
+    spacing, comma: 1
+    1. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+                        Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+    2. spacing, comma: Cerro San Miguel South of San Miguel___Cerro San Miguel, south of San Miguel
+                       CerroSanMiguelSouthofSanMiguel___CerroSanMiguelsouthofSanMiguel
+maximumEventDate
+    percentage mismatches accounted for: No mismatches to account for
+minimumEventDate
+    percentage mismatches accounted for: 40.0
+    total mismatches: 5
+    period, dash: 2
+    1. period, dash: 1975-12-18___1975.12.18
+                     19751218___19751218
+    2. period, dash: 1984-09-26___1984.09.26
+                     19840926___19840926
+municipality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 10
+originalMethod
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 3
+otherCatalogNumbers
+    percentage mismatches accounted for: No mismatches to account for
+recordNumber
+    percentage mismatches accounted for: 12.5
+    total mismatches: 8
+    period: 1
+    1. period: B.4.___B.4
+               B4___B4
+secondPoliticalUnit
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 3
+secondaryCollectors
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 2
+typeStatus
+    percentage mismatches accounted for: No mismatches to account for
+verbatimCollectors
+    percentage mismatches accounted for: 77.8
+    total mismatches: 9
+    spacing: 1
+    extraneous preface: 6
+    1. extraneous preface: leg. M. Fleischer___M. Fleischer
+                            M. Fleischer___M. Fleischer
+    2. extraneous preface: leg. S. Hattori___S. Hattori
+                            S. Hattori___S. Hattori
+    3. extraneous preface: LEG.EGGERS & FRAHM___Eggers & Frahm
+                           EGGERS & FRAHM___Eggers & Frahm
+    4. spacing: S.R. Gradstein & M. Lewis___S.R.Gradstein & M.Lewis
+                S.R.Gradstein&M.Lewis___S.R.Gradstein&M.Lewis
+    5. extraneous preface: Coll. H. Inoue___H. Inoue
+                            H. Inoue___H. Inoue
+    6. extraneous preface: leg. Frahm___Frahm
+                            Frahm___Frahm
+    7. extraneous preface: leg. Schäfer-Verwimp___Schäfer-Verwimp
+                            Schäfer-Verwimp___Schäfer-Verwimp
+verbatimCoordinates
+    percentage mismatches accounted for: 25.0
+    total mismatches: 4
+    period: 1
+    1. period: 15° 48' S, 68° 36' W___15° 48' S., 68° 36' W
+               15° 48' S, 68° 36' W___15° 48' S, 68° 36' W
+verbatimDateIdentified
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 7
+verbatimElevation
+    percentage mismatches accounted for: 60.0
+    total mismatches: 15
+    period: 5
+    positive polarity sign: 1
+    extraneous preface: 1
+    period, extraneous preface: 2
+    1. period: ca 500 m___ca. 500 m
+               ca 500 m___ca 500 m
+    2. period: c. 3450 m.___c. 3450 m
+               c 3450 m___c 3450 m
+    3. period: 60 m. above sea___60 m above sea
+               60 m above sea___60 m above sea
+    4. period: ca 3550 m___ca. 3550 m
+               ca 3550 m___ca 3550 m
+    5. period: 2740 m.___2740 m
+               2740 m___2740 m
+    6. positive polarity sign: 1625 m___±1625 m
+                               1625 m___1625 m
+    7. extraneous preface: alt. 600 m___600 m
+                            600 m___600 m
+    8. period, extraneous preface: Alt. 1950 m.___1950 m
+                                    1950 m___1950 m
+    9. period, extraneous preface: Alt. 1100 m.___1100 m
+                                    1100 m___1100 m
+verbatimEventDate
+    percentage mismatches accounted for: 71.4
+    total mismatches: 7
+    spacing: 3
+    vowel diacritic: 2
+    1. spacing: Jan. 23, 1975___Jan. 23,1975
+                Jan.23,1975___Jan.23,1975
+    2. spacing: 13 Oct. 1950___13 Oct.1950
+                13Oct.1950___13Oct.1950
+    3. spacing: 13 Oct. 1950___13 Oct.1950
+                13Oct.1950___13Oct.1950
+    4. vowel diacritic: Julio-Agosto 1977___Júlio-Agosto 1977
+                        Julio-Agosto 1977___Julio-Agosto 1977
+    5. vowel diacritic: Julio 3-4, 1977___Júlio 3-4, 1977
+                        Julio 3-4, 1977___Julio 3-4, 1977
+verbatimIdentification
+    percentage mismatches accounted for: 25.0
+    total mismatches: 4
+    spacing: 1
+    1. spacing: Racopilum tomentosum (Hedw.) Brid.___Racopilum tomentosum (Hedw.)Brid.
+                Racopilumtomentosum(Hedw.)Brid.___Racopilumtomentosum(Hedw.)Brid.
+verbatimLocality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 3

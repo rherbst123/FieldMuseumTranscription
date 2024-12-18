@@ -16,10 +16,10 @@ import name_run
 api_key = ""
 
 #FilePath for textfile containing prompt
-prompt_file_path = "Prompts/Prompt 1.5.2.txt"
+prompt_file_path = ""
 
 #Filepath for Textfile containing url's
-url_text = "DataAnalysis/DataSets/5-bryophytes-typed-testing-urls.txt"
+url_text = ""
 
 #Filepath for folder holding images
 image_folder = "Images/"

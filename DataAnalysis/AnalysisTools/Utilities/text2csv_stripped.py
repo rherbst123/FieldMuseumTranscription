@@ -10,6 +10,7 @@ import re
 
 
 def extract_info_from_text(text):
+    print(text)
     
     #Seeing which categories we want. Looking at txt file
     regex_patterns = {
@@ -87,7 +88,7 @@ def main(input_file_path, output_csv_file_path):
 
 if __name__ == "__main__":
     #CHANGE INPUT TO DESIRED .TXT FILE
-    input_file_path = "/Users/jeff/ChatGPT/Output_4_23_1306.txt"
+    input_file_path = "DataAnalysis\Transcriptions\TextTranscriptions\claude-3.5-sonnet-2024-12-16-1857-transcriptions.txt"
     #CHANGE OUTPUT TO DESIRED LOCATION TO .CSV FILE
-    output_csv_file_path = "/Users/jeff/ChatGPT/Spread_4_23_1306.csv"
+    output_csv_file_path = "DataAnalysis\Transcriptions\claude-3.5-sonnet-2024-12-16-1857-transcriptions.csv"
     main(input_file_path, output_csv_file_path)
