@@ -22,7 +22,7 @@ COMPARISON_CONFIG:
                                 
                             
     RECORD_REF_FIELDNAME: "accessURI"   # this is the fieldname used for reference in the errors file, here a URL
-    SKIP_LIST: ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"] 
+    SKIP_LIST: []   # these are any fields you wish to exclude
     SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
     USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
     GROUND_TRUTH_FILENAME: "100-bryophytes-typed.csv"    # "100-bryophytes-typed.csv"

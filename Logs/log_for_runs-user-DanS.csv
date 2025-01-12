@@ -1,0 +1,5 @@
+run name,prompt filename,dataset urls filename,ground_truth_filename,modelname,model,reason for run,run by,#images processed,run time,input tokens,output tokens
+gpt-4o-2024-12-19-1423,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gpt-4o,gpt-4o-2024-08-06,demo,DanS,5,42.21 seconds,,
+gpt-4o-2024-12-19-2017,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gpt-4o,gpt-4o-2024-08-06,demo,DanS,5,50.97 seconds,13240,1026
+gemini-1.5-pro-2024-12-19-2056,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gemini-1.5-pro,gemini-1.5-pro-latest,test end-to-end processing,DanS,5,120.62 seconds,8865,1187
+claude-3.5-sonnet-2024-12-19-2111,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,claude-3.5-sonnet,claude-3-5-sonnet-20240620,test end-to-end processing,DanS,5,36.40 seconds,15880,1438

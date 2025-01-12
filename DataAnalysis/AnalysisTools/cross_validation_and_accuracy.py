@@ -14,14 +14,35 @@ class CrossValidation(Comparison):
     
     def get_image_agreement_dict(self, img_results1, img_results2):
         d = {}
-        for img1, img2 in zip(img_results1.items(), img_results2.items()):
-            fieldname1, observed_val1 = img1
-            fieldname2, observed_val2 = img2
-            if self.is_same(fieldname1, fieldname2) and self.is_same(observed_val1, observed_val2):
-                d[fieldname1] = observed_val1
+        for fieldname in self.fieldnames:
+            observed_val1 = img_results1[fieldname]
+            observed_val2 = img_results2[fieldname]
+            if self.is_same(observed_val1, observed_val2):
+                d[fieldname] = observed_val1
             else:
-                d[fieldname1] = "PASS"    
+                d[fieldname] = "PASS"    
         return d
+
+    def gather_data2(self):
+        self.load_data()
+        saved_filenames = []
+        print(f"{self.RUN_SPREADNAMES = }")
+        for idx, spreadname1 in enumerate(self.RUN_SPREADNAMES):
+            for spreadname2 in self.RUN_SPREADNAMES[idx+1:]:
+                print(f"{spreadname1 = }, {spreadname2 = }")
+                observed_values_dicts1 = self.master_transcription_values_dicts[spreadname1]  
+                observed_values_dicts2 = self.master_transcription_values_dicts[spreadname2]
+                self.set_fields_to_be_compared(self.target_values_dicts[0], observed_values_dicts1[0]) 
+                agreement_values = [self.get_image_agreement_dict(d1, d2) for d1, d2 in zip(observed_values_dicts1, observed_values_dicts2)] 
+                #bare_spreadname1 = utility.remove_csv_extension(spreadname1)
+                bare_spreadname1 = re.sub(r"-transcriptions.csv", "", spreadname1)
+                #bare_spreadname2 = utility.remove_csv_extension(spreadname2)
+                bare_spreadname2 = re.sub(r"-transcriptions.csv", "", spreadname2 )
+                fname = f"{bare_spreadname1}-{bare_spreadname2}-cross-validated_values-transcriptions.csv"
+                utility.save_to_csv(self.TRANSCRIPTIONS_PATH+fname, agreement_values)
+                print(f"prelimary results saved to {fname}")
+                saved_filenames += [fname]
+        return saved_filenames           
     
     
         
@@ -51,11 +72,12 @@ class CrossValidation(Comparison):
         return saved_filenames       
     
 if __name__ == "__main__":
-    CONFIG_PATH = "DataAnalysis/Configurations/"
+    CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
     # copy in the name of the configuration file to be used below
-    config_filename = "" 
+    config_filename = "agreement_with_post.yaml" 
      
-    cv = CrossValidation(CONFIG_PATH, config_filename)
-    saved_filenames = cv.gather_data()
+    config = CrossValidation.read_configuration_from_yaml(CONFIG_PATH, config_filename)
+    cv = CrossValidation(config, config_filename)
+    saved_filenames = cv.gather_data2()
     cv.RUN_SPREADNAMES = saved_filenames
     cv.run()

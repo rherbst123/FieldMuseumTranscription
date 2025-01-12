@@ -1,6 +1,6 @@
 grand total mismatches: 1020
-grand total mismatches accounted for: 217
-overall percentage mismatches accounted for: 21.3
+grand total mismatches accounted for: 218
+overall percentage mismatches accounted for: 21.4
 associatedTaxa
     percentage mismatches accounted for: No error combinations can account for mismatches!
     total mismatches: 5
@@ -191,13 +191,16 @@ latestScientificName
     percentage mismatches accounted for: No error combinations can account for mismatches!
     total mismatches: 21
 locality
-    percentage mismatches accounted for: 2.2
+    percentage mismatches accounted for: 3.3
     total mismatches: 91
     vowel diacritic: 1
     spacing, comma: 1
-    1. spacing, comma: Roadside near San Pablo Ayutla about 70 kilometers east of Oaxaca___Roadside near San Pablo Ayutla, about 70 kilometers east of Oaxaca
+    comma, bracketed comment: 1
+    1. comma, bracketed comment: Near El Punto on Highway 175,  [precise locality unknown]___Near El Punto on Highway 175
+                                 Near El Punto on Highway 175___Near El Punto on Highway 175
+    2. spacing, comma: Roadside near San Pablo Ayutla about 70 kilometers east of Oaxaca___Roadside near San Pablo Ayutla, about 70 kilometers east of Oaxaca
                        RoadsidenearSanPabloAyutlaabout70kilometerseastofOaxaca___RoadsidenearSanPabloAyutlaabout70kilometerseastofOaxaca
-    2. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+    3. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
                         Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
 maximumEventDate
     percentage mismatches accounted for: No mismatches to account for

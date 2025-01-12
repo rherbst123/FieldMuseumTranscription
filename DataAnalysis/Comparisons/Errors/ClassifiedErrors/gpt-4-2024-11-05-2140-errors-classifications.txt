@@ -1,6 +1,6 @@
-grand total mismatches: 3176
+grand total mismatches: 3063
 grand total mismatches accounted for: 277
-overall percentage mismatches accounted for: 8.7
+overall percentage mismatches accounted for: 9.0
 associatedTaxa
     percentage mismatches accounted for: No error combinations can account for mismatches!
     total mismatches: 28
@@ -283,9 +283,6 @@ secondaryCollectors
                 P.A.Florschütz___P.A.Florschütz
     6. spacing: S.R. Gradstein___S. R. Gradstein
                 S.R.Gradstein___S.R.Gradstein
-substrate
-    percentage mismatches accounted for: No error combinations can account for mismatches!
-    total mismatches: 113
 typeStatus
     percentage mismatches accounted for: No error combinations can account for mismatches!
     total mismatches: 7

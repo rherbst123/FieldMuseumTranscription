@@ -10,10 +10,17 @@ class ClaudeInterface:
         api_key = os.getenv("ANTHROPIC_API_KEY")
         self.model = model
         self.client = anthropic.Anthropic(api_key=api_key)
+        self.input_tokens = 0
+        self.output_tokens = 0
 
     def encode_image_to_base64(self, image_path):
         with open(image_path, "rb") as image_file:
-            return base64.b64encode(image_file.read()).decode('utf-8')               
+            return base64.b64encode(image_file.read()).decode('utf-8') 
+
+    def update_usage(self, message):
+        usage = message.usage
+        self.input_tokens += usage.input_tokens
+        self.output_tokens += usage.output_tokens
 
     def format_response(self, image_name, response_data):
         # Extract the text from the response data
@@ -51,6 +58,8 @@ class ClaudeInterface:
             ]
         )
         response_data = message.content
+        print(f"{message = }")
         print("This is response_data: ", response_data)
         formatted_result = self.format_response(image_name, response_data)
+        self.update_usage(message)
         return formatted_result

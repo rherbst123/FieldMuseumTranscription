@@ -1,6 +1,6 @@
-grand total mismatches: 1134
+grand total mismatches: 1034
 grand total mismatches accounted for: 211
-overall percentage mismatches accounted for: 18.6
+overall percentage mismatches accounted for: 20.4
 associatedTaxa
     percentage mismatches accounted for: No error combinations can account for mismatches!
     total mismatches: 5
@@ -245,9 +245,6 @@ secondaryCollectors
                S R Gradstein | B O van Zanten___S R Gradstein | B O van Zanten
     6. period: O Rangel | G van Reenen___O. Rangel | G. van Reenen
                O Rangel | G van Reenen___O Rangel | G van Reenen
-substrate
-    percentage mismatches accounted for: No error combinations can account for mismatches!
-    total mismatches: 100
 typeStatus
     percentage mismatches accounted for: No error combinations can account for mismatches!
     total mismatches: 1

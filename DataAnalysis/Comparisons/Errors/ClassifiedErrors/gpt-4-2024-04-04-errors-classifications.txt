@@ -1,5 +1,5 @@
 grand total mismatches: 3099
-grand total mismatches accounted for: 313
+grand total mismatches accounted for: 314
 overall percentage mismatches accounted for: 10.1
 associatedTaxa
     percentage mismatches accounted for: No error combinations can account for mismatches!
@@ -309,11 +309,12 @@ latestScientificName
     4. period: Cystopteris bulbifera (L.) Bernh.___Cystopteris bulbifera (L) Bernh
                Cystopteris bulbifera (L) Bernh___Cystopteris bulbifera (L) Bernh
 locality
-    percentage mismatches accounted for: 3.5
+    percentage mismatches accounted for: 3.8
     total mismatches: 260
     spacing: 1
     period: 1
     vowel diacritic: 4
+    period, bracketed comment: 1
     spacing, period, comma: 1
     spacing, vowel diacritic, comma: 1
     spacing, comma, dash: 1
@@ -329,12 +330,14 @@ locality
                                BontocSubprovinceLuzon___BontocSubprovinceLuzon
     6. vowel diacritic: Near crossing of Río San Juan Ixtán, east of San Rafael Petzal___Near crossing of Río San Juan Ixtán, east of San Rafael Petzál
                         Near crossing of Rio San Juan Ixtan, east of San Rafael Petzal___Near crossing of Rio San Juan Ixtan, east of San Rafael Petzal
-    7. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
-                        Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+    7. period, bracketed comment: 15 kilometers southeast of Oudtshoorn, on the road above Blossoms. [precise locality unknown]___15 kilometers southeast of Oudtshoorn, on the road above Blossoms
+                                  15 kilometers southeast of Oudtshoorn, on the road above Blossoms___15 kilometers southeast of Oudtshoorn, on the road above Blossoms
     8. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
                         Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
-    9. vowel diacritic: Above Pongo de Manseriche, right bank of Río Santiago___Above Pongo de Manseriche, right bank of Rio Santiago
-                        Above Pongo de Manseriche, right bank of Rio Santiago___Above Pongo de Manseriche, right bank of Rio Santiago
+    9. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+                        Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+    10. vowel diacritic: Above Pongo de Manseriche, right bank of Río Santiago___Above Pongo de Manseriche, right bank of Rio Santiago
+                         Above Pongo de Manseriche, right bank of Rio Santiago___Above Pongo de Manseriche, right bank of Rio Santiago
 maximumEventDate
     percentage mismatches accounted for: No error combinations can account for mismatches!
     total mismatches: 156

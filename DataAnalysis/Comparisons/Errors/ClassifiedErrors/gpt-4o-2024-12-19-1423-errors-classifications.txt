@@ -1,0 +1,75 @@
+grand total mismatches: 31
+grand total mismatches accounted for: 5
+overall percentage mismatches accounted for: 16.1
+associatedTaxa
+    percentage mismatches accounted for: No mismatches to account for
+collectedBy
+    percentage mismatches accounted for: No mismatches to account for
+country
+    percentage mismatches accounted for: No mismatches to account for
+firstPoliticalUnit
+    percentage mismatches accounted for: No mismatches to account for
+habitat
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+identifiedBy
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 4
+latestScientificName
+    percentage mismatches accounted for: No mismatches to account for
+locality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 4
+maximumEventDate
+    percentage mismatches accounted for: No mismatches to account for
+minimumEventDate
+    percentage mismatches accounted for: No mismatches to account for
+municipality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 4
+originalMethod
+    percentage mismatches accounted for: No mismatches to account for
+otherCatalogNumbers
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 2
+recordNumber
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 2
+secondPoliticalUnit
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+secondaryCollectors
+    percentage mismatches accounted for: No mismatches to account for
+typeStatus
+    percentage mismatches accounted for: No mismatches to account for
+verbatimCollectors
+    percentage mismatches accounted for: 80.0
+    total mismatches: 5
+    extraneous preface: 4
+    1. extraneous preface: leg. M. Fleischer___M. Fleischer
+                            M. Fleischer___M. Fleischer
+    2. extraneous preface: leg. M. Fleischer___M. Fleischer
+                            M. Fleischer___M. Fleischer
+    3. extraneous preface: leg. M. Fleischer___M. Fleischer
+                            M. Fleischer___M. Fleischer
+    4. extraneous preface: leg. M. Fleischer___M. Fleischer
+                            M. Fleischer___M. Fleischer
+verbatimCoordinates
+    percentage mismatches accounted for: No mismatches to account for
+verbatimDateIdentified
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+verbatimElevation
+    percentage mismatches accounted for: 100.0
+    total mismatches: 1
+    extraneous preface: 1
+    1. extraneous preface: 330 m alt.___330 m
+                           330 m ___330 m
+verbatimEventDate
+    percentage mismatches accounted for: No mismatches to account for
+verbatimIdentification
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 1
+verbatimLocality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 5

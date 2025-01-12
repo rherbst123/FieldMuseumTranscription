@@ -10,10 +10,11 @@ class ErrorClassifier:
     def __init__(self, run_name, fieldnames):
         self.run_name = run_name
         self.fieldnames = fieldnames
-        self.errors = ["spacing", "period", "positive polarity sign", "vowel diacritic", "comma", "dash", "extraneous preface"]
+        self.errors = ["spacing", "period", "positive polarity sign", "vowel diacritic", "comma", "dash", "extraneous preface", "bracketed comment"]
         error_combos: list[list[tuple]] = [list(combinations(self.errors, k)) for k in range(1,len(self.errors)+1)]
         self.error_combos: list[tuple] = self.flatten(error_combos)
-        self.error_func_pairs = {"spacing": self.remove_whitespace, "period": self.remove_periods, "positive polarity sign": self.remove_polarity_signs, "vowel diacritic": self.to_english_alpha_vowels, "comma": self.remove_commas, "dash": self.remove_dashes, "extraneous preface": self.remove_prefaces_from_transcription}
+        self.error_combos_used = []
+        self.error_func_pairs = {"spacing": self.remove_whitespace, "period": self.remove_periods, "positive polarity sign": self.remove_polarity_signs, "vowel diacritic": self.to_english_alpha_vowels, "comma": self.remove_commas, "dash": self.remove_dashes, "extraneous preface": self.remove_prefaces_from_transcription, "bracketed comment": self.remove_bracketed_info_from_transcription}
         self.setup_tallies_dict()
         self.numbering = {fieldname: iter(range(1,1000)) for fieldname in fieldnames}
 
@@ -35,13 +36,20 @@ class ErrorClassifier:
     def flatten(self, lists):
         return [elem for inner_list in lists for elem in inner_list]
 
+    def update_error_combos_used(self, error_combo):
+        if error_combo not in self.error_combos_used:
+            self.error_combos_used += [error_combo]       
+
     def extract_run_name_from_filepath(self, filepath):
         timestamp_pattern = r"\d\d\d\d-\d\d-\d\d-\d\d\d\d"
         mtch = re.search(fr".*/(.+-{timestamp_pattern})-.+", filepath)
         return mtch.group(1)
 
+    def remove_bracketed_info_from_transcription(self, tran_val, gt_val):
+        return re.sub(r" ?\[.+\]", "", tran_val), gt_val     
+
     def get_prefaces(self):
-        return ["coll", "leg", "det", "collected by", "alt", "ca"]   
+        return ["coll", "leg", "det", "collected by", "alt", "ca"]     
 
     def remove_prefaces_from_transcription(self, tran_val, gt_val):
         temp_tran_val = tran_val
@@ -92,6 +100,7 @@ class ErrorClassifier:
                 if self.is_match(temp_tran_val, temp_gt_val):
                     self.grand_totals["grand total mismatches accounted for"] += 1
                     self.tallies_dict[fieldname][tuple(iterated_errors)] += 1
+                    self.update_error_combos_used(tuple(iterated_errors))
                     mismatch_accounted_for_number = f"{next(self.numbering[fieldname])}. "
                     str_error_set = ', '.join(iterated_errors)
                     spaces = (6+len(mismatch_accounted_for_number)+len(str_error_set)) * " "
@@ -147,7 +156,7 @@ class ErrorClassifier:
 
     @staticmethod
     def get_fieldnames_from_saved_data(filepath):
-        skip_list = ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image"]
+        skip_list = ["Image Name", "catalogNumber", "Dataset Source", "accessURI", "Label only?", "modifiedBy", "verifiedBy" , "substrate", "URL", "Image", "PROV LARECAJA"]
         saved_dicts = ErrorClassifier.get_contents_from_csv(filepath)
         return  [key for key in saved_dicts[0].keys() if key not in skip_list] 
 
@@ -155,12 +164,12 @@ class ErrorClassifier:
 if __name__ == "__main__":
     # Enter the names of the files to be compared below.
     # No other modifications are necessary to run this script.
-    run_name = "claude-3.5-sonnet-v2-2024-10-28-1111" #"claude-3.5-sonnet-2024-06-21-1043" "gpt-4o-2024-06-11-1110"
+    run_name = "claude-3.5-sonnet-2024-06-21-1043" #"claude-3.5-sonnet-v2-2024-10-28-1111" # "gpt-4o-2024-06-11-1110"
     ground_truth_filename = "100-bryophytes-typed.csv"
                ##########################
     
-    
+    transcriptions_filepath = f"DataAnalysis/Transcriptions/{run_name}-transcriptions.csv"
     fieldnames = ErrorClassifier.get_fieldnames_from_saved_data(transcriptions_filepath) 
-    ec = ErrorClassifier(fieldnames)
+    ec = ErrorClassifier(run_name, fieldnames)
     ec.run(run_name, ground_truth_filename)
     

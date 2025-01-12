@@ -49,7 +49,7 @@ This script takes a file or list of files and compares them all against the Grou
 
 Field matches can be done by equality or can be done within tolerances (see `Configurations/README.md`, `tolerances.py` and `string_distance.py`).
 
-For each file, ground truth target values are classified as `valid` (non-"N/A") or `nonValid` and LLM transcription values are rated for each target value as `match` or `noMatch` (through string equality, ignoring case differences and ignoring leading and trailing whitespace differences).
+For each file, ground truth target values are classified as `valid` (i.e., there is a transcribed value rather than "N/A") or `nonValid` and LLM transcription values are rated for each target value as `match` or `noMatch` (through string equality, but ignoring case differences and ignoring leading and trailing whitespace differences, or within tolerances, if those have been enabled).
 
 `#matchValid`, `#matchNonValid`, `#noMatchValid` and `#noMatchNonValid` are processed into one or more accuracy formulas. See `comparison_and_accuracy.py` for implementation details.
 
@@ -104,7 +104,7 @@ The same as `cross_validation_and_accuracy.py`, but looking for agreed upon valu
 
 This script takes a list of files and performs post-processing operations to those fields indicated in the configuration file.
 
-For example, if the fieldname `verbatimCollectors` is listed, `coll.`, `Coll.`, `leg.` and  `Leg.` are removed from the field transcription and saved with the filename `post_` + original_filename.
+For example, if the fieldname `verbatimCollectors` is listed under `POST_PROCESSING_CONFIG` in the configuration file, then names prefaces like `coll.`, `Coll.`, `leg.` and  `Leg.` are removed from the field transcription. Results are to the filename `post_` + original_filename.
 
 Then `comparison_and_accuracy.py` is run to compare both original values and post-processed values to the Ground Truth and saved.
 
