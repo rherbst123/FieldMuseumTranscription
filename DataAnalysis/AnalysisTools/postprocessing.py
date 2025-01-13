@@ -101,8 +101,11 @@ class PostProcessor(Comparison):
     
 if __name__ == "__main__":
     CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
+
+    #############################################################
     # copy in the name of the configuration file to be used below
     config_filename = "latest_prompt_runs.yaml"
+    ##############################################################
     
     config = PostProcessor.read_configuration_from_yaml(CONFIG_PATH, config_filename)
     post_process_run = PostProcessor(config, config_filename)

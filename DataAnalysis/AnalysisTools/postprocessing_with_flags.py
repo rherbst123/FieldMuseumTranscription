@@ -1,3 +1,7 @@
+# This script is like postprocessing.py, 
+### but it also flags when post-processing "undoes" or "miscorrects" 
+##### matches between transcriptions and ground truth
+
 import logging
 from Utilities import utility
 import string_distance
@@ -23,32 +27,25 @@ class PostProcessor(Comparison):
         elif post_val == target_val and original_val != target_val:
             pass
             #print("YAY!!!") 
-            #return
             #print(f"corrected!!! {field_method = }, {target_val = }, {original_val = }, {post_val = }")  
-
 
     def abbreviation_point_compliance(self, val, target_val):
         temp_val = re.sub(r"([A-Z]?\.)([A-Z])", r"\1 \2", val)
         temp_val = re.sub(r"([A-Z])( )", r"\1. ",temp_val)
-        #print(f"1.{temp_val = }")
-        
-        #print(f"2.{temp_val = }")
         self.check_for_correction(val, temp_val, target_val)
         return temp_val
 
     def name_compliance(self, val, target_val):
-        val = self.remove_name_identifiers(val, target_val)
-        val = self.abbreviation_point_compliance(val, target_val)
-        #self.check_for_correction(val, temp_val, target_val) 
-        return val   
+        temp_val = self.remove_name_identifiers(val, target_val)
+        temp_val = self.abbreviation_point_compliance(temp_val, target_val)
+        self.check_for_correction(val, temp_val, target_val) 
+        return temp_val   
     
     def remove_additional_comments(self, val, target_val):
         temp_val =  re.sub(r"(.+) ?\[.+\]", r"\1", val)  
         self.check_for_correction(val, temp_val, target_val)
         return temp_val
                   
-
-    
     def remove_name_identifiers(self, val, target_val):
         words = val.split()
         temp_val =  " ".join([w.strip() for w in words if w.strip() not in ["coll.", "coll", "Coll.", "Coll", "leg.", "leg", "Leg.", "Leg", "det.", "det", "Det.", "Det"]]) 
@@ -68,11 +65,9 @@ class PostProcessor(Comparison):
             val = self.field_method(val, target_val)  
         return val
 
-
     def post_process(self, results):
         self.set_fields_to_be_compared(self.target_values_dicts[0], results[0])
         post_results = []
-        print("woo hoo")
         for image, target_values_dict in zip(results, self.target_values_dicts):
             d = {}
             for fieldname in self.fieldnames:
@@ -86,30 +81,25 @@ class PostProcessor(Comparison):
 
     def post(self):
         self.load_data()
-        #self.master_transcription_values_dicts[self.GROUND_TRUTH_FILENAME] = self.target_values_dicts
-        master_runs = [] 
-        print(f"{self.master_transcription_values_dicts.keys() = }")                   
+        master_runs = []                   
         for spreadname, transcription_values_dicts in self.master_transcription_values_dicts.items():
             post_processed_results = self.post_process(transcription_values_dicts)
             post_name = f"post_{spreadname}"
             utility.save_to_csv(self.TRANSCRIPTIONS_PATH+post_name, post_processed_results)
             master_runs += [spreadname, post_name]
         self.RUN_SPREADNAMES = master_runs
-        print(f"{self.RUN_SPREADNAMES = }")
         self.run()
        
     
 if __name__ == "__main__":
     CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
+
+    ##############################################################
     # copy in the name of the configuration file to be used below
     config_filename = "latest_prompt_runs.yaml"
+    ##############################################################
     
     config = PostProcessor.read_configuration_from_yaml(CONFIG_PATH, config_filename)
     post_process_run = PostProcessor(config, config_filename)
-    #post_process_run.post()
+    post_process_run.post()
     
-    post_process_run.field_method = post_process_run.get_field_methods()["identifiedBy"]
-    s1 = "W H J H Macy"
-    s2 = "W. H. H. Macy"
-    s3 = post_process_run.abbreviation_point_compliance(s1, s2)
-    print(s3)

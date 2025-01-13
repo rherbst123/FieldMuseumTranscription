@@ -69,7 +69,7 @@ class Comparison:
         self.COMPARISONS_PATH = self.config["COMPARISONS_PATH"] + "BatchComparisons/"
         self.COMPARISONS_FILENAME = f"{results_name}-comparisons.csv"
         self.ERRORS_PATH = self.config["COMPARISONS_PATH"] + "Errors/"
-        self.ERRORS_FILENAME = f"{results_name}-errors.csv"    
+        self.ERRORS_FILENAME = f"{results_name}-errors.txt"    
 
 
     def setup_other_configs(self, config):
@@ -215,15 +215,10 @@ class Comparison:
         
     def run(self):
         self.load_data()
-        master_results = []
-        idx = 0                    
+        master_results = []                   
         for spreadname, transcription_values_dicts in self.master_transcription_values_dicts.items():
             run_errors, results = self.process(spreadname, transcription_values_dicts)  
             master_results += [results]
-            if idx % 2 == 1:
-                print("True")
-                master_results += [{key: "" for key in results.keys()}]
-            idx += 1
             utility.save_errors(self.ERRORS_PATH+self.ERRORS_FILENAME, run_errors, spreadname, self.RECORD_REF_FIELDNAME, self.config, self.edit_distance_config, self.tolerances_config)
             print(f"Errors saved to {self.ERRORS_PATH+self.ERRORS_FILENAME}!!!!")  
         formatted_results = [utility.format_values(d) for d in master_results]
