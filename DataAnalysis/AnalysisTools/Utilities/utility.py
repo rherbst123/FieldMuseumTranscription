@@ -50,6 +50,8 @@ def get_logger():
 
 # currently just rounds floats in lists so all numeric values can be seen in spreadsheet column
 def format_values(d: dict):
+    if not d:
+        return {}
     return {key: [round(v, 1) if type(v)==float else v for v in val]  if type(val)==list else val for key, val in d.items()}
     #return {key: "|".join(val)  if type(val)==list else val for key, val in d.items()}         
 

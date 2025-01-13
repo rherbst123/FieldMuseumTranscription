@@ -37,11 +37,17 @@ https://support.anthropic.com/en/articles/8114521-how-can-i-access-the-anthropic
 
 gemini_config = {
                     "prompt filename": "Prompt 1.5.2.txt",   `<--the filename of the prompt to be used in the Prompts folder`
+
                     "dataset urls filename": "5-bryophytes-typed-testing-urls.txt",   `<--the name of the file in the DataAnalysis/DataSets folder containing the urls to be downloaded`
+
                     "ground_truth_filename": "5-bryophytes-typed-testing.csv",  `<--the ground truth filename in the DataAnalysis/GroundTruths folder` 
+
                     "modelname": "gemini-1.5-pro", `<--the name of model which will be used for naming files`
+
                     "model": "gemini-1.5-pro-latest", `<--the specific model which should be used by the API`
+
                     "reason for run": "test script functionality", `<--the reason for the run which will be added to the runs log`
+
                     "run by": "DS" `<--the name of the user conducting the run`
                     }
 
@@ -49,11 +55,16 @@ gemini_config = {
 
 Near the end of the file, assign the name of the configuration to be used to the variable `llm_configuration`, as shown below.
 
-############################################                
+############################################  
+
     # Complete and/or modify one of the above configurations and
+
     # enter the name of the configuration to be run below.
+
     llm_configuration = gemini_config  `<--the name of the configuration to be run`
+
     # This is all that is needed to run this script
+
 #############################################
 
 The script is ready to run!!!

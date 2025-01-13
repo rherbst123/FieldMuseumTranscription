@@ -1,6 +1,6 @@
 grand total mismatches: 1102
-grand total mismatches accounted for: 78
-overall percentage mismatches accounted for: 7.1
+grand total mismatches accounted for: 80
+overall percentage mismatches accounted for: 7.3
 associatedTaxa
     percentage mismatches accounted for: No error combinations can account for mismatches!
     total mismatches: 1
@@ -46,10 +46,15 @@ latestScientificName
     percentage mismatches accounted for: No error combinations can account for mismatches!
     total mismatches: 34
 locality
-    percentage mismatches accounted for: 1.1
+    percentage mismatches accounted for: 3.2
     total mismatches: 95
     vowel diacritic: 1
-    1. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+    bracketed comment: 2
+    1. bracketed comment: Near El Punto on Highway 175 [precise locality unknown]___Near El Punto on Highway 175
+                          Near El Punto on Highway 175___Near El Punto on Highway 175
+    2. bracketed comment: El Mirador on highway 80, 9 miles above San Martín Hidalgo [precise locality unknown]___El Mirador on Highway 80, 9 miles above San Martín Hidalgo
+                          El Mirador on highway 80, 9 miles above San Martín Hidalgo___El Mirador on Highway 80, 9 miles above San Martín Hidalgo
+    3. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
                         Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
 maximumEventDate
     percentage mismatches accounted for: No error combinations can account for mismatches!

@@ -13,16 +13,25 @@ class OpenAI_Interface:
         self.headers = {
                         "Content-Type": "application/json",
                         "Authorization": f"Bearer {self.api_key}"
-                       }
+        }
+        self.input_tokens = 0
+        self.output_tokens = 0
 
     def encode_image_to_base64(self, image_path):
         with open(image_path, "rb") as image_file:
-            return base64.b64encode(image_file.read()).decode('utf-8')               
+            return base64.b64encode(image_file.read()).decode('utf-8')
+
+    def update_usage(self, response_data):
+        if "usage" in response_data:
+            usage = response_data["usage"]
+            self.input_tokens += int(usage.get("prompt_tokens", 0))
+            self.output_tokens += int(usage.get("completion_tokens", 0))                       
 
     def format_response(self, image_name, response_data):
         # Check if 'choices' is present and not empty in the response
         if "choices" in response_data and response_data["choices"]:
             content = response_data["choices"][0].get("message", {}).get("content", "")
+            usage = response_data["usage"]
             formatted_output = f"Image: {image_name}\n\n{content}\n"
         else:
             # If 'choices' is empty or not present, set a default message
@@ -57,6 +66,7 @@ class OpenAI_Interface:
         response = requests.post("https://api.openai.com/v1/chat/completions", headers=self.headers, json=payload)
         response_data = response.json()
         print("Here is the raw Data Generated",response_data)
+        self.update_usage(response_data)
         formatted_result = self.format_response(image_name, response_data)
         return formatted_result
 

@@ -1,6 +1,6 @@
 grand total mismatches: 1105
-grand total mismatches accounted for: 75
-overall percentage mismatches accounted for: 6.8
+grand total mismatches accounted for: 76
+overall percentage mismatches accounted for: 6.9
 associatedTaxa
     percentage mismatches accounted for: No error combinations can account for mismatches!
     total mismatches: 1
@@ -44,10 +44,13 @@ latestScientificName
     percentage mismatches accounted for: No error combinations can account for mismatches!
     total mismatches: 35
 locality
-    percentage mismatches accounted for: 1.1
+    percentage mismatches accounted for: 2.1
     total mismatches: 94
     vowel diacritic: 1
-    1. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
+    bracketed comment: 1
+    1. bracketed comment: Near El Punto on Highway 175 [precise locality unknown]___Near El Punto on Highway 175
+                          Near El Punto on Highway 175___Near El Punto on Highway 175
+    2. vowel diacritic: Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Río Consata
                         Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
 maximumEventDate
     percentage mismatches accounted for: No error combinations can account for mismatches!

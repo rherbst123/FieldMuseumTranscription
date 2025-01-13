@@ -11,24 +11,36 @@ Mismatch data is aggregated for fieldnames, along with the number of mismatches 
 Individual mismatches are recorded in the below form:
 
 `{mismatch number}. {error set}: {original transcription value}____{original ground truth value}`
-                                `{ edited transcription value }____{edited ground truth value}`
+
+`                                { edited transcription value }____{edited ground truth value}`
 
 For example:
 
 `1. spacing, comma: KIUSHIU Miyazaki Minaminaka Obi___Kiushiu, Miyazaki, Minaminaka, Obi`
-                   `KIUSHIUMiyazakiMinaminakaObi___KiushiuMiyazakiMinaminakaObi`
+
+`                   KIUSHIUMiyazakiMinaminakaObi___KiushiuMiyazakiMinaminakaObi`
   
 
 The below is an example of all the mismatches accounted for in a field:
 
 firstPoliticalUnit
+
     percentage mismatches accounted for: 18.8
+
     total mismatches: 16
+
     spacing: 1
+
     vowel diacritic: 2
+
     1. spacing: Veracruz___Vera Cruz
+
                 Veracruz___VeraCruz
+
     2. vowel diacritic: Bolivar___Bolívar
+
                         Bolivar___Bolivar
+
     3. vowel diacritic: Bolivar___Bolívar
+    
                         Bolivar___Bolivar

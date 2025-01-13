@@ -117,6 +117,7 @@ class Transcriber:
         self.ask_to_proceed_or_cancel(msg="Proceed with transcribing the images?")
         prompt_text = self.read_prompt_from_file()
         self.transcribe(image_urls, prompt_text)
+        self.log_info = self.log_info | {"input tokens": self.llm_interface.input_tokens, "output tokens": self.llm_interface.output_tokens}
         self.log_run_to_csv()         
 
     def offer_to_process_and_compare(self):
@@ -141,7 +142,7 @@ if __name__ == "__main__":
                     "modelname": "gemini-1.5-pro",
                     "model": "gemini-1.5-pro-latest",
                     "reason for run": "test end-to-end processing",
-                    "run by": "DS"
+                    "run by": "DanS"
                     }
 
     sonnet_config = {
@@ -151,7 +152,7 @@ if __name__ == "__main__":
                     "modelname": "claude-3.5-sonnet",
                     "model": "claude-3-5-sonnet-20240620",
                     "reason for run": "test end-to-end processing",
-                    "run by": "DS"
+                    "run by": "DanS"
                     }
 
     gpt_config = {
@@ -160,14 +161,14 @@ if __name__ == "__main__":
                     "ground_truth_filename": "5-bryophytes-typed-testing.csv",
                     "modelname": "gpt-4o",
                     "model": "gpt-4o-2024-08-06",
-                    "reason for run": "test end-to-end processing",
-                    "run by": "DS"
+                    "reason for run": "demo",
+                    "run by": "DanS"
                     }
 
     ############################################                
     # Complete and/or modify one of the above configurations and
     # enter the name of the configuration to be run below.
-    llm_configuration = None   # replace None
+    llm_configuration = sonnet_config   # replace None
     # This is all that is needed to run this script
     #############################################
     transcriber = Transcriber(llm_configuration)

@@ -1,0 +1,145 @@
+Image: 0000_C0268502F_p.jpg
+
+verbatimCollectors: leg. M. Fleischer
+collectedBy: M. Fleischer
+secondaryCollectors: N/A
+recordNumber: B 2754
+verbatimEventDate: 25.3.1903
+minimumEventDate: 1903-03-25
+maximumEventDate: N/A
+verbatimIdentification: Macromitrium
+latestScientificName: Macromitrium
+identifiedBy: N/A
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Australia
+firstPoliticalUnit: Queensland
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Bumundi (ca. 100 km nördlich Brisbane) Urwald
+locality: Bumundi approximately 100 kilometers north of Brisbane
+habitat: Urwald
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 107784
+originalMethod: Typed
+typeStatus: N/A
+
+URL: https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg
+==================================================
+Image: 0001_C0268508F_p.jpg
+
+verbatimCollectors: leg. M. Fleischer
+collectedBy: M. Fleischer
+secondaryCollectors: N/A
+recordNumber: B 2692
+verbatimEventDate: 25.3.1903
+minimumEventDate: 1903-03-25
+maximumEventDate: N/A
+verbatimIdentification: Macromitrium
+latestScientificName: Macromitrium
+identifiedBy: unsure and check
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Australia
+firstPoliticalUnit: Queensland
+secondPoliticalUnit: N/A
+municipality: Eumundi
+verbatimLocality: Eumundi (ca. 100 km nördlich Brisbane) Urwald
+locality: Eumundi approximately 100 kilometers north of Brisbane
+habitat: Urwald
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1076699 | 1011022
+originalMethod: Typed
+typeStatus: no type status
+
+URL: https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg
+==================================================
+Image: 0002_C0268514F_p.jpg
+
+verbatimCollectors: leg. M. Fleischer
+collectedBy: M. Fleischer
+secondaryCollectors: N/A
+recordNumber: B 2552
+verbatimEventDate: 6.4.1903
+minimumEventDate: 1903-04-06
+maximumEventDate: N/A
+verbatimIdentification: Macromitrium
+latestScientificName: Macromitrium
+identifiedBy: unsure and check
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Australia
+firstPoliticalUnit: New South Wales
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: Blue Mountains bei Sydney Wentworth Falls
+locality: Blue Mountains near Sydney Wentworth Falls
+habitat: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1076824
+originalMethod: Typed
+typeStatus: no type status
+
+URL: https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg
+==================================================
+Image: 0003_C0268520F_p.jpg
+
+verbatimCollectors: leg. M. Fleischer
+collectedBy: M. Fleischer
+secondaryCollectors: N/A
+recordNumber: B 2697
+verbatimEventDate: 20.3.1903
+minimumEventDate: 1903-03-20
+maximumEventDate: N/A
+verbatimIdentification: Macromitrium
+latestScientificName: Macromitrium
+identifiedBy: unsure and check
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Australia
+firstPoliticalUnit: Queensland
+secondPoliticalUnit: N/A
+municipality: N/A
+verbatimLocality: bei Brisbane
+locality: [precise locality unknown]
+habitat: N/A
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1076705
+originalMethod: Typed
+typeStatus: no type status
+
+URL: https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg
+==================================================
+Image: 0004_C0268544F.jpg
+
+verbatimCollectors: Coll. & det. T. Nakajima
+collectedBy: T. Nakajima
+secondaryCollectors: N/A
+recordNumber: 1229
+verbatimEventDate: Mar. 27, 1971
+minimumEventDate: 1971-03-27
+maximumEventDate: N/A
+verbatimIdentification: Macromitrium gymnostomum Sull. et Lesq. e. fr.
+latestScientificName: Macromitrium gymnostomum
+identifiedBy: T. Nakajima
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Japan
+firstPoliticalUnit: Wakayama
+secondPoliticalUnit: Nishimuro-gun
+municipality: Oto-mura
+verbatimLocality: Ohara Yuya
+locality: Ohara Yuya
+habitat: On vertical face of rock
+verbatimElevation: 330 m alt.
+verbatimCoordinates: N/A
+otherCatalogNumbers: 1043494
+originalMethod: Typed
+typeStatus: no type status
+
+URL: https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg
+==================================================

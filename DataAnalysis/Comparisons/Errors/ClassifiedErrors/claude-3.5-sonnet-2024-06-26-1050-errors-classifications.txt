@@ -1,6 +1,6 @@
-grand total mismatches: 967
-grand total mismatches accounted for: 153
-overall percentage mismatches accounted for: 15.8
+grand total mismatches: 867
+grand total mismatches accounted for: 168
+overall percentage mismatches accounted for: 19.4
 associatedTaxa
     percentage mismatches accounted for: No error combinations can account for mismatches!
     total mismatches: 4
@@ -63,14 +63,47 @@ latestScientificName
     percentage mismatches accounted for: No error combinations can account for mismatches!
     total mismatches: 18
 locality
-    percentage mismatches accounted for: 2.0
+    percentage mismatches accounted for: 17.0
     total mismatches: 100
     vowel diacritic: 1
+    bracketed comment: 12
     spacing, comma: 1
-    1. spacing, comma: Lake Wamba 5 kilometers South of Teptep airstrip, 1 kilometer South of lake___Lake Wamba, 5 kilometers south of Teptep airstrip, 1 kilometer south of lake
+    vowel diacritic, bracketed comment: 1
+    spacing, comma, bracketed comment: 2
+    1. bracketed comment: Kushan near Foochow [precise locality unknown]___Kushan near Foochow
+                          Kushan near Foochow___Kushan near Foochow
+    2. spacing, comma: Lake Wamba 5 kilometers South of Teptep airstrip, 1 kilometer South of lake___Lake Wamba, 5 kilometers south of Teptep airstrip, 1 kilometer south of lake
                        LakeWamba5kilometersSouthofTeptepairstrip1kilometerSouthoflake___LakeWamba5kilometerssouthofTeptepairstrip1kilometersouthoflake
-    2. vowel diacritic: Slopes and summit of Serra Curicuriari, from Igarapé Arabu of the Rio Curicuriari to the summit___Slopes and summit of Serra Curicuriari, from Igarapé Arabú of the Rio Curicuriari to the summit
-                        Slopes and summit of Serra Curicuriari, from Igarape Arabu of the Rio Curicuriari to the summit___Slopes and summit of Serra Curicuriari, from Igarape Arabu of the Rio Curicuriari to the summit
+    3. bracketed comment: Between 5-6 kilometers south of Tacacoma along road to Quiabaya, 16-17 kilometers north of Sorata [precise locality unknown]___Between 5-6 kilometers south of Tacacoma along road to Quiabaya, 16-17 kilometers north of Sorata
+                          Between 5-6 kilometers south of Tacacoma along road to Quiabaya, 16-17 kilometers north of Sorata___Between 5-6 kilometers south of Tacacoma along road to Quiabaya, 16-17 kilometers north of Sorata
+    4. bracketed comment: Along road 1 mile from Sorata towards Achacachi [precise locality unknown]___Along road 1 mile from Sorata towards Achacachi
+                          Along road 1 mile from Sorata towards Achacachi___Along road 1 mile from Sorata towards Achacachi
+    5. bracketed comment: Unduavi [precise locality unknown]___Unduavi
+                          Unduavi___Unduavi
+    6. bracketed comment: Unduavi [precise locality unknown]___Unduavi
+                          Unduavi___Unduavi
+    7. bracketed comment: Slope of Cerro Khachi, north of Corani [precise locality unknown]___Slope of Cerro Khachi, north of Corani
+                          Slope of Cerro Khachi, north of Corani___Slope of Cerro Khachi, north of Corani
+    8. bracketed comment: Near El Punto on Highway 175 [precise locality unknown]___Near El Punto on Highway 175
+                          Near El Punto on Highway 175___Near El Punto on Highway 175
+    9. bracketed comment: 15 miles southeast of San Cristobal de las Casas [precise locality unknown]___15 miles southeast of San Cristobal de las Casas
+                          15 miles southeast of San Cristobal de las Casas___15 miles southeast of San Cristobal de las Casas
+    10. bracketed comment: Roadside near San Pablo Ayutla, about 70 kilometers east of Oaxaca [precise locality unknown]___Roadside near San Pablo Ayutla, about 70 kilometers east of Oaxaca
+                           Roadside near San Pablo Ayutla, about 70 kilometers east of Oaxaca___Roadside near San Pablo Ayutla, about 70 kilometers east of Oaxaca
+    11. vowel diacritic, bracketed comment: Near large red outcrop 2 miles from Sorata down Rio Consata [precise locality unknown]___Near large red outcrop 2 miles from Sorata down Río Consata
+                                            Near large red outcrop 2 miles from Sorata down Rio Consata___Near large red outcrop 2 miles from Sorata down Rio Consata
+    12. spacing, comma, bracketed comment: Parque Nacional de la Sierra Nevada de Santa Marta Vertiente oriental del Rio Buritaca [precise locality unknown]___Parque Nacional de la Sierra Nevada de Santa Marta, vertiente oriental del Rio Buritaca
+                                           ParqueNacionaldelaSierraNevadadeSantaMartaVertienteorientaldelRioBuritaca___ParqueNacionaldelaSierraNevadadeSantaMartavertienteorientaldelRioBuritaca
+    13. spacing, comma, bracketed comment: Cerro San Miguel south of San Miguel [precise locality unknown]___Cerro San Miguel, south of San Miguel
+                                           CerroSanMiguelsouthofSanMiguel___CerroSanMiguelsouthofSanMiguel
+    14. vowel diacritic: Slopes and summit of Serra Curicuriari, from Igarapé Arabu of the Rio Curicuriari to the summit___Slopes and summit of Serra Curicuriari, from Igarapé Arabú of the Rio Curicuriari to the summit
+                         Slopes and summit of Serra Curicuriari, from Igarape Arabu of the Rio Curicuriari to the summit___Slopes and summit of Serra Curicuriari, from Igarape Arabu of the Rio Curicuriari to the summit
+    15. bracketed comment: Road to Pueblo Nuevo, Ventanas [precise locality unknown]___Road to Pueblo Nuevo, Ventanas
+                           Road to Pueblo Nuevo, Ventanas___Road to Pueblo Nuevo, Ventanas
+    16. bracketed comment: Campo dos Padres [precise locality unknown]___Campo dos Padres
+                           Campo dos Padres___Campo dos Padres
+    17. bracketed comment: Morro do Bau [precise locality unknown]___Morro do Bau
+                           Morro do Bau___Morro do Bau
 maximumEventDate
     percentage mismatches accounted for: No mismatches to account for
 minimumEventDate
@@ -117,9 +150,6 @@ secondaryCollectors
     period: 1
     1. period: P Allorge___P. Allorge
                P Allorge___P Allorge
-substrate
-    percentage mismatches accounted for: No error combinations can account for mismatches!
-    total mismatches: 100
 typeStatus
     percentage mismatches accounted for: No mismatches to account for
 verbatimCollectors

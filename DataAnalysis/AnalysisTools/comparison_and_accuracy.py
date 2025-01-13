@@ -5,7 +5,7 @@
    # Ground Truth data.   (see the Configurations/README.md for details) 
      
 # Each field of each image is categorized as valid or nonValid 
-   # according to whether there is string data or "N\A" recorded for that field of that image in the Ground Truth,
+   # according to whether there is transcribed string data or "N\A" recorded for that field of that image in the Ground Truth,
      # and is compared for a match against the llm data for that field of that image.
 
 # This yields a True value for one of the following:
@@ -19,10 +19,9 @@
 
 import logging
 import re
-from DataAnalysis.AnalysisTools.Utilities import utility
-import DataAnalysis.AnalysisTools.string_distance
-from DataAnalysis.AnalysisTools.tolerances import FieldTolerances
-from DataAnalysis.AnalysisTools.string_distance import WeightedLevenshtein
+from Utilities import utility
+from tolerances import FieldTolerances
+from string_distance import WeightedLevenshtein
 
 class Comparison:
     def __init__(self, config, config_source=None):
@@ -37,10 +36,8 @@ class Comparison:
         self.setup_other_configs(config)
 
     @staticmethod
-    def read_configuration_from_yaml(config_path, config_filename):
-        return utility.load_yaml(config_path+config_filename)
-
-
+    def read_configuration_from_yaml(config_folder, config_filename):
+        return utility.load_yaml(config_folder+config_filename)
 
     def setup_paths(self):
         self.TRANSCRIPTIONS_PATH = self.config["TRANSCRIPTIONS_PATH"]
@@ -66,12 +63,13 @@ class Comparison:
     def setup_batch_run(self):
         batch_name = self.config["BATCH_NAME"]
         comparison_name = self.config["COMPARISON_NAME"]
-        results_name = f"{batch_name}-{comparison_name}" if comparison_name else batch_name 
+        results_name = f"{batch_name}-{comparison_name}" if comparison_name else batch_name
+        self.RUN_NAMES = self.config["RUN_NAMES"]
         self.RUN_SPREADNAMES = [f"{run_name}-transcriptions.csv" for run_name in self.config["RUN_NAMES"]] 
         self.COMPARISONS_PATH = self.config["COMPARISONS_PATH"] + "BatchComparisons/"
         self.COMPARISONS_FILENAME = f"{results_name}-comparisons.csv"
         self.ERRORS_PATH = self.config["COMPARISONS_PATH"] + "Errors/"
-        self.ERRORS_FILENAME = f"{results_name}-errors.csv"    
+        self.ERRORS_FILENAME = f"{results_name}-errors.txt"    
 
 
     def setup_other_configs(self, config):
@@ -101,7 +99,7 @@ class Comparison:
         # accuracy = the sum of matches on valid targets divided by the sum of matches on valid targets plus all noMatches, valid or nonValid
         master_results_dict["MV/MV+NMV+NMNV"] = f"{matchValid}/{matchValid}+{noMatchValid}+{noMatchNonValid}"
         master_results_dict["valid targets:accuracy"] = matchValid/(matchValid+noMatchValid+noMatchNonValid)
-
+        print(master_results_dict["valid targets:accuracy"])
         return master_results_dict  
 
     def update_comparison_fields(self, d, master_comparison_dict):
@@ -165,11 +163,12 @@ class Comparison:
         gradedMatchValid, gradedNoMatchValid = self.grade(matchValid, noMatchValid, transcription_val, target_val, fieldname)
         return {"fieldname": fieldname, "transcription_val": transcription_val, "target_val": target_val, "matchValid": matchValid, "matchNonValid": matchNonValid, "noMatchValid": noMatchValid, "noMatchNonValid": noMatchNonValid, "gradedMatchValid": gradedMatchValid, "gradedNoMatchValid": gradedNoMatchValid, "record_ref": record_ref}    
     
-    def compare_and_tally(self, transcription_values_dicts, target_values_dicts, master_comparison_dict):
+    def compare_and_tally(self, transcription_values_dicts, master_comparison_dict):
         tallies = {"matchValid": 0, "matchNonValid": 0, "noMatchValid": 0, "noMatchNonValid": 0, "gradedMatchValid": 0, "gradedNoMatchValid": 0}
         run_errors = []
-        for record_ref, transcription_values_dict, target_values_dict in zip(self.RECORD_REFS, transcription_values_dicts, target_values_dicts):
-            for fieldname, target_val in target_values_dict.items():
+        for record_ref, transcription_values_dict, target_values_dict in zip(self.RECORD_REFS, transcription_values_dicts, self.target_values_dicts):
+            for fieldname in self.fieldnames:
+                target_val = target_values_dict[fieldname]
                 transcription_val = transcription_values_dict[fieldname]
                 if transcription_val == "PASS" or transcription_val.lower().strip() == "unsure and check":
                     continue  # Just in case the LLM doesn't hazard a guess,
@@ -182,44 +181,48 @@ class Comparison:
                 run_errors += [self.get_errors(field_comparison_dict)]
         return master_comparison_dict, tallies, run_errors 
 
-    def process(self, run_spreadname, target_values_dicts, blank_results_dict):
-        saved_results: list[dict] = utility.get_contents_from_csv(self.TRANSCRIPTIONS_PATH+run_spreadname)
-        #blank_results_dict["model"] = saved_results[0]["model"]
-        transcription_values_dicts = [self.get_fields_to_be_compared(d) for d in saved_results]
-        results_dict, tallies, run_errors = self.compare_and_tally(transcription_values_dicts, target_values_dicts, blank_results_dict)  
-        return run_errors, self.calculate_accuracy(results_dict, tallies) 
-
-    def get_blank_results_dict(self, spreadname, sample_dict):
+    def get_blank_results_dict(self, spreadname):
         return   {"run": spreadname, "ground truth source": self.GROUND_TRUTH_FILENAME, "configuration source": self.config_source}  |   \
-                 {fieldname: [0,0,0] for fieldname in sample_dict}        
+                 {fieldname: [0,0,0] for fieldname in self.fieldnames}        
+
+    def get_fieldnames_intersection(self, sample_reference_dict, sample_saved_results_dict):
+        return [fieldname for fieldname, val in sample_reference_dict.items() if val and fieldname in sample_saved_results_dict and sample_saved_results_dict[fieldname]]
+
+    def get_fieldnames(self, sample_reference_dict, sample_saved_results_dict):
+        return [fieldname for fieldname in self.get_fieldnames_intersection(sample_reference_dict, sample_saved_results_dict) if fieldname not in self.SKIP_LIST]       
+
+    def set_fields_to_be_compared(self, sample_reference_dict, sample_saved_results_dict):
+        self.fieldnames = self.SELECTED_FIELDS_LIST if self.USE_SELECTED_FIELDS_ONLY else self.get_fieldnames(sample_reference_dict, sample_saved_results_dict)
+        self.fieldnames.sort()
+
+    def process(self, run_spreadname, transcription_values_dicts):
+        self.set_fields_to_be_compared(self.target_values_dicts[0], transcription_values_dicts[0])
+        blank_results_dict = self.get_blank_results_dict(run_spreadname)
+        results_dict, tallies, run_errors = self.compare_and_tally(transcription_values_dicts, blank_results_dict)  
+        return run_errors, self.calculate_accuracy(results_dict, tallies) 
     
-    # remove fields before comparison
-    def remove_skipped_fields(self, d: dict):
-        return {key: val for key, val in d.items() if key not in self.SKIP_LIST} 
-
-    # use only selected fields for comparison
-    def get_selected_fields_only(self, d: dict):
-        return {key: val for key, val in d.items() if key in self.SELECTED_FIELDS_LIST}
-
-    # this method determines whether to use core fields or just skip select fields
-    def get_fields_to_be_compared(self, d: dict):
-        return self.remove_skipped_fields(d) if not self.USE_SELECTED_FIELDS_ONLY else  self.get_selected_fields_only(d)
 
     def set_record_refs(self, reference_dicts):
-        self.RECORD_REFS = [ref_dict[self.RECORD_REF_FIELDNAME] for ref_dict in reference_dicts]     
+        if self.RECORD_REF_FIELDNAME in reference_dicts[0]:
+            self.RECORD_REFS = [ref_dict[self.RECORD_REF_FIELDNAME] for ref_dict in reference_dicts] 
+        else:
+            self.RECORD_REFS = [ref_dict["catalogNumber"] for ref_dict in reference_dicts]         
 
+    def load_data(self):
+        self.target_values_dicts: list[dict] = utility.get_contents_from_csv(self.GROUND_TRUTH_PATH+self.GROUND_TRUTH_FILENAME)
+        self.set_record_refs(self.target_values_dicts)
+        self.master_transcription_values_dicts = {run_spreadname: utility.get_contents_from_csv(self.TRANSCRIPTIONS_PATH+run_spreadname) for run_spreadname in self.RUN_SPREADNAMES}    
+        
     def run(self):
-        reference_dicts: list[dict] = utility.get_contents_from_csv(self.GROUND_TRUTH_PATH+self.GROUND_TRUTH_FILENAME)
-        self.set_record_refs(reference_dicts) 
-        target_values_dicts: list[dict] = [self.get_fields_to_be_compared(d) for d in reference_dicts]
-        master_results = []                    
-        for spreadname in self.RUN_SPREADNAMES:
-            blank_results_dict = self.get_blank_results_dict(spreadname, target_values_dicts[0])
-            run_errors, results = self.process(spreadname, target_values_dicts, blank_results_dict)  
+        self.load_data()
+        master_results = []                   
+        for spreadname, transcription_values_dicts in self.master_transcription_values_dicts.items():
+            run_errors, results = self.process(spreadname, transcription_values_dicts)  
             master_results += [results]
             utility.save_errors(self.ERRORS_PATH+self.ERRORS_FILENAME, run_errors, spreadname, self.RECORD_REF_FIELDNAME, self.config, self.edit_distance_config, self.tolerances_config)
             print(f"Errors saved to {self.ERRORS_PATH+self.ERRORS_FILENAME}!!!!")  
-        formatted_results = [utility.format_values(d) for d in master_results]    
+        formatted_results = [utility.format_values(d) for d in master_results]
+        print(f"{len(formatted_results) = }")    
         utility.save_to_csv(self.COMPARISONS_PATH+self.COMPARISONS_FILENAME, formatted_results)
         print(f"Comparisons saved to {self.COMPARISONS_PATH+self.COMPARISONS_FILENAME}!!!!")   
     
