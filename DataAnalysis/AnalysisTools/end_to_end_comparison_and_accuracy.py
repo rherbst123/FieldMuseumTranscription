@@ -54,10 +54,10 @@ BLANK_CONFIG =                 \
 
 import logging
 import re
-from DataAnalysis.AnalysisTools.comparison_and_accuracy import Comparison
-from DataAnalysis.AnalysisTools.Utilities import utility
-from DataAnalysis.AnalysisTools.Utilities import text2csv_stripped
-from DataAnalysis.AnalysisTools.PromptAndErrorAnalysis.error_classification import ErrorClassifier
+from comparison_and_accuracy import Comparison
+from Utilities import utility
+from Utilities import text2csv_stripped
+from PromptAndErrorAnalysis.error_classification import ErrorClassifier
 
 class CompareFromText(Comparison):
     
@@ -88,7 +88,7 @@ if __name__ == "__main__":
     
     ###########################################################
     # copy in the name of the configuration file to be used below
-    config_filename = "" 
+    config_filename = "template_single_runs.yaml" 
     ###########################################################
     CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
     configuration = Comparison.read_configuration_from_yaml(CONFIG_PATH, config_filename)

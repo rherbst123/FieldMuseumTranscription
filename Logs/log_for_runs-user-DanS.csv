@@ -3,3 +3,8 @@ gpt-4o-2024-12-19-1423,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-br
 gpt-4o-2024-12-19-2017,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gpt-4o,gpt-4o-2024-08-06,demo,DanS,5,50.97 seconds,13240,1026
 gemini-1.5-pro-2024-12-19-2056,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gemini-1.5-pro,gemini-1.5-pro-latest,test end-to-end processing,DanS,5,120.62 seconds,8865,1187
 claude-3.5-sonnet-2024-12-19-2111,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,claude-3.5-sonnet,claude-3-5-sonnet-20240620,test end-to-end processing,DanS,5,36.40 seconds,15880,1438
+gemini-1.5-pro-2025-01-21-0910,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gemini-1.5-pro,gemini-1.5-pro-latest,test transcript object,DanS,,,,
+gemini-1.5-pro-2025-01-23-1314,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gemini-1.5-pro,gemini-1.5-pro-latest,test transcript object,DanS,,,,
+claude-3.5-sonnet-2025-01-26-1800,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,claude-3.5-sonnet,claude-3-5-sonnet-20240620,test transcript object,DanS,,,,
+gpt-4o-2025-01-26-1838,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gpt-4o,gpt-4o-2024-08-06,test transcript object,DanS,,,,
+gpt-4o-2025-03-19-1415,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gpt-4o,gpt-4o-2024-08-06,test transcript object,DanS,,,,

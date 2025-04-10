@@ -11,6 +11,21 @@ class GeminiInterface:
         self.client = genai.GenerativeModel(model_name=self.model)
         self.input_tokens = 0
         self.output_tokens = 0
+        self.set_token_costs_per_mil()
+
+    def set_token_costs_per_mil(self):
+        if "gemini-1.5-pro" in self.model:
+            self.input_cost_per_mil = 0.00
+            self.output_cost_per_mil = 0.00
+
+    def get_token_costs(self):
+        return {
+            "input tokens": self.input_tokens,
+            "output tokens": self.output_tokens,
+            "input cost $": round((self.input_tokens / 1_000_000) * self.input_cost_per_mil, 2),
+            "output cost $": round((self.output_tokens / 1_000_000) * self.output_cost_per_mil, 2)
+        }         
+
 
     def update_usage(self, response):
         usage = response.usage_metadata

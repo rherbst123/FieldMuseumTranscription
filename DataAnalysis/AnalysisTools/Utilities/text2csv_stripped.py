@@ -14,7 +14,7 @@ def extract_info_from_text(text):
     
     #Seeing which categories we want. Looking at txt file
     regex_patterns = {
-    'Image': r"Image: (.+?)\n",
+    'Image': r"(http.+?)\n",
     'verbatimCollectors': r"verbatimCollectors: (.+?)\n",
     'collectedBy': r"collectedBy: (.+?)\n",
     'secondaryCollectors': r"secondaryCollectors: (.+?)\n",
@@ -48,12 +48,17 @@ def extract_info_from_text(text):
     #For each of the Categories. Match the ones in the txt file to the ones created in the csv
     for key, pattern in regex_patterns.items():
         match = re.search(pattern, text)
-        result[key] = match.group(1) if match else ''
+        result[key] = clean(match.group(1)) if match else ''
 
     return result
 
+def clean(s):
+    s = s.strip()
+    return s[:-1] if s[-1]=="," else s  
+
 #Open file
 def process_file(file_path):
+    print(f"Processing file: {file_path}")
     try:
         with open(file_path, 'r', encoding="utf-8") as file:
             contents = file.read()
@@ -61,7 +66,7 @@ def process_file(file_path):
         print(f"Error: File '{file_path}' not found.")
         return []
 
-    entries = re.split(r'Image: ', contents)[1:]  # Split entries based on the image marker
+    entries = re.split(r'Processing', contents)[1:]  # Split entries based on the image marker
 
     data = []
     for entry in entries:
@@ -88,7 +93,7 @@ def main(input_file_path, output_csv_file_path):
 
 if __name__ == "__main__":
     #CHANGE INPUT TO DESIRED .TXT FILE
-    input_file_path = "DataAnalysis\Transcriptions\TextTranscriptions\claude-3.5-sonnet-2024-12-16-1857-transcriptions.txt"
+    input_file_path = "DataAnalysis/Transcriptions/TextTranscriptions/aws-nova-2025-01-30-1816-transcriptions.txt"
     #CHANGE OUTPUT TO DESIRED LOCATION TO .CSV FILE
-    output_csv_file_path = "DataAnalysis\Transcriptions\claude-3.5-sonnet-2024-12-16-1857-transcriptions.csv"
+    output_csv_file_path = "DataAnalysis/Transcriptions/aws-nova-2025-01-30-1816-transcriptions.csv"
     main(input_file_path, output_csv_file_path)

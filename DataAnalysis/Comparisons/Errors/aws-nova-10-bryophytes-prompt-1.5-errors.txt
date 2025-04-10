@@ -1,0 +1,302 @@
+
+comparison_config = {'COMPARISON_TYPE': 'batch_run', 'RUN_NAMES': ['aws-nova-2025-01-21-1335', 'aws-nova-2025-01-30-1816'], 'BATCH_NAME': 'aws-nova-10-bryophytes-prompt-1.5', 'COMPARISON_NAME': '', 'RECORD_REF_FIELDNAME': 'accessURI', 'SKIP_LIST': [], 'SELECTED_FIELDS_LIST': [], 'USE_SELECTED_FIELDS_ONLY': False, 'GROUND_TRUTH_FILENAME': '10-bryophytes-typed.csv', 'TRANSCRIPTIONS_PATH': 'DataAnalysis/Transcriptions/', 'COMPARISONS_PATH': 'DataAnalysis/Comparisons/'}
+edit_distance_config = {'USE_FIELDNAMES_EXCLUSIVELY': False, 'FIELDNAMES_COSTS': {'RANDO_FIELDNAME1': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}, 'RANDO_FIELDNAME2': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}, 'DEFAULT_FIELDS_CUSTOM_COSTS': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}
+tolerances_config = {'TOLERANCES_ALLOWED': False, 'TOLS': {'RANDO_FIELDNAME1': [None, None], 'RANDO_FIELDNAME2': [None], 'ENABLE_EDIT_DISTANCE_THRESHOLD': False, 'EDIT_DISTANCE_THRESHOLDS': {'RANDO_FIELDNAME1': {'SCALED': None, 'VALUE': None}, 'RANDO_FIELDNAME2': {'SCALED': None, 'VALUE': None}, 'DEFAULT': {'SCALED': None, 'VALUE': None}}}}
+
+
+spreadsource = 'aws-nova-2025-01-21-1335-transcriptions.csv'
+
+habitat: 2
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 1: N/A___Urwald
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 1: N/A___Urwald
+
+locality: 6
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 1: N/A___Circa 100 kilometers nördlich Brisbane
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0.26: Blue Mountains bei Sydney, Wentworth Falls___Blue Mountains, Wentworth Falls
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.77: On vertical face of rock, 330 m alt., Ohara, Yuya, Oto-mura, Nishimuro-gun, Wakayama Prefecture___Nishimuro District, Otomura, Yuya, Ohara
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.88: On trunks of Fagus crenata, ca. 1200 m. alt., Mt. Obake, Nara Prefecture___Mount Obako
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.86: On rocks, ca. 100 m alt., Syōgawa, Shirahama-chō, Nishimuro-gun, Wakayama Prefecture___Nishimuro District, Syōgawa
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.91: ad arborum truncos, ca 500 m, leg. S. Hattori___Kyushu Island | Mimaninaka District, Sakatani
+
+municipality: 5
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.86: Urwald___Eumundi
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 1: N/A___Eumundi
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 1.0: Wentworth Falls___Sydney
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 1: N/A___Shirahama
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0: Sakatani___N/A
+
+originalMethod: 10
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+
+otherCatalogNumbers: 5
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 1: N/A___1076713
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.14: 1026705___1076705
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.78: C0285544F___1043494
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.86: 714___1043492
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 1: N/A___1043491
+
+recordNumber: 8
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 1.0: s.n.___B 2734
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.86: 1044122___B 2692
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0.33: 2552___B 2552
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 1.0: 1044116___B 2697
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.71: 1043494___1229
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.86: 1043492___714
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.71: 1043491___1129
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1.0: s.n.___33
+
+secondPoliticalUnit: 4
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0: Eumungdi___N/A
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0: Emuindi___N/A
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0: Blue Mountains bei Sydney___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0: Minaminaka___N/A
+
+secondaryCollectors: 5
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0: Ex Museo botanico Berolinensi___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0: Ver. A. Noguchi___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0: A. N.___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 1: N/A___B. J. Ferrié
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.71: Det. : Thériot___B. J. Ferrié
+
+verbatimCollectors: 10
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.84: leg. M. Fleischer, s.n. | Ex Museo botanico Berolinensi, 1076713 | 1044084___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.57: leg. M. Fleischer nr. B 2692___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0.57: leg. M. Fleischer nr. B 2552___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.57: leg. M. Fleischer nr. B 2697___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.59: T. Nakaijima, Mar. 27, 1971___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.73: T. Nakajima, May 4, 1958, Ver. A. Noguchi___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.72: T. Nakajima, March 28, 1967, Ver. A. N.___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1: N/A___S. Hattori
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.46: R.P.J.B. Ferrié, 20.4.1898___R.P. J.B. Ferrié
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.55: R.P.J.B. Ferrié, Det. : Thériot___R.P. J.B. Ferrié
+
+verbatimLocality: 10
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 1: N/A___Australien: Queensland, Eumundi (ca. 100 km nördlich Brisbane)
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.68: ca. 100 km nördlich Brisbane, Urwald.___Australien: Queensland, Eumundi (ca. 100 km nördlich Brisbane)
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 1: N/A___Australien: New South Wales, Blue Mountains bei Sydney, Wentworth Falls
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 1: N/A___Australien: Queensland, bei Brisbane
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.4: On vertical face of rock, 330 m alt., Ohara, Yuya, Oto-mura, Nishimuro-gun, Wakayama Prefecture___Ohara, Yuya, Oto-mura, Nishimuro-gun, Wakayama Prefecture
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.65: On trunks of Fagus crenata, ca. 1200 m. alt., Mt. Obake, Nara Prefecture___Mt. Obaki, Nara Prefecture
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.31: On rocks, ca. 100 m alt., Syōgawa, Shirahama-chō, Nishimuro-gun, Wakayama Prefecture___Syōgawa, Shirahama-chō, Nishimuro-gun, Wakayama Prefecture
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1: N/A___Kiushiu, Miyazaki, Minaminaka, Sakatani
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.25: Ile Liou-Kiou - Centre de l'île___Japon : Iles Liou-Kiou - Centre de l'ile
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 1: N/A___Japon : Yaku-Sima
+
+collectedBy: 4
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.08: T. Nakaijima___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1: N/A___S. Hattori
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.33: R.P.J.B. Ferrié___R. P. Ferrié
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.33: R.P.J.B. Ferrié___R. P. Ferrié
+
+firstPoliticalUnit: 5
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 1.0: Honshu___Wakayama
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.73: Nara Prefecture___Nara
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 1.0: Honshu___Wakayama
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0: Ile Liou-Kiou - Centre de l'île___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0: Yakushima___N/A
+
+identifiedBy: 5
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.08: T. Nakaijima___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.73: A. Noguchi___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.73: A. Noguchi___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.54: Théoriot___E. C. Thériot
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.46: Thériot___E. C. Thériot
+
+verbatimDateIdentified: 4
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.69: 1971___Mar. 27, 1971
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.73: 1959___May 4, 1958
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.86: 1981___March 28, 1958
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0: 1946___N/A
+
+verbatimIdentification: 3
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.15: Macromitrium gymnostomum Sull. et Lesq. c. fr.___Macromitrium gymnostomum Sull. et Lesq.
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.05: Macromitrium gymnostomum Sull. & Lesq.___Macromitrium gymnostomum Sull. et Lesq.
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.52: Macromitrium gymnostomum S. L. = m. rupestre Mitt. Sull. Card.___Macromitrium gymnostomum S. L.
+
+verbatimElevation: 2
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.5: 1200 m. alt.___1200 m
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1: N/A___ca. 500 m
+
+minimumEventDate: 2
+
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.1: 1968-03-28___1967-03-28
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.4: 1947-01-01___1946-10-00
+
+verbatimEventDate: 2
+
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.93: 1968-03-28___March 28, 1967
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.83: s.d.___X.1946
+
+--------------------------------------------------
+
+
+comparison_config = {'COMPARISON_TYPE': 'batch_run', 'RUN_NAMES': ['aws-nova-2025-01-21-1335', 'aws-nova-2025-01-30-1816'], 'BATCH_NAME': 'aws-nova-10-bryophytes-prompt-1.5', 'COMPARISON_NAME': '', 'RECORD_REF_FIELDNAME': 'accessURI', 'SKIP_LIST': [], 'SELECTED_FIELDS_LIST': [], 'USE_SELECTED_FIELDS_ONLY': False, 'GROUND_TRUTH_FILENAME': '10-bryophytes-typed.csv', 'TRANSCRIPTIONS_PATH': 'DataAnalysis/Transcriptions/', 'COMPARISONS_PATH': 'DataAnalysis/Comparisons/'}
+edit_distance_config = {'USE_FIELDNAMES_EXCLUSIVELY': False, 'FIELDNAMES_COSTS': {'RANDO_FIELDNAME1': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}, 'RANDO_FIELDNAME2': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}, 'DEFAULT_FIELDS_CUSTOM_COSTS': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}
+tolerances_config = {'TOLERANCES_ALLOWED': False, 'TOLS': {'RANDO_FIELDNAME1': [None, None], 'RANDO_FIELDNAME2': [None], 'ENABLE_EDIT_DISTANCE_THRESHOLD': False, 'EDIT_DISTANCE_THRESHOLDS': {'RANDO_FIELDNAME1': {'SCALED': None, 'VALUE': None}, 'RANDO_FIELDNAME2': {'SCALED': None, 'VALUE': None}, 'DEFAULT': {'SCALED': None, 'VALUE': None}}}}
+
+
+spreadsource = 'aws-nova-2025-01-30-1816-transcriptions.csv'
+
+habitat: 2
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 1: N/A___Urwald
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 1: N/A___Urwald
+
+municipality: 5
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 1: N/A___Eumundi
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 1: N/A___Eumundi
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 1.0: Wentworth Falls___Sydney
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 1: N/A___Shirahama
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0: Sakatani___N/A
+
+secondPoliticalUnit: 4
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0: Eumungdi___N/A
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0: Emuindi___N/A
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0: Blue Mountains bei Sydney___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0: Minaminaka___N/A
+
+verbatimCollectors: 10
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.57: leg. M. Fleischer nr. B 2734___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.57: leg. M. Fleischer nr. B 2692___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0.57: leg. M. Fleischer nr. B 2552___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.57: leg. M. Fleischer nr. B 2697___M. Fleischer
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.59: T. Nakaijima, Mar. 27, 1971___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.73: T. Nakajima, May 4, 1958, Ver. A. Noguchi___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.72: T. Nakajima, March 28, 1967, Ver. A. N.___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1: N/A___S. Hattori
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.42: R.P.J.B. Ferrié, Thériot___R.P. J.B. Ferrié
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.42: R.P.J.B. Ferrié, Thériot___R.P. J.B. Ferrié
+
+verbatimLocality: 10
+
+https://fm-digital-assets.fieldmuseum.org/2491/485/C0268502F_p.jpg, gradedNoMatchValid = 0.66: (ca. 100 km nördlich Brisbane), Urwald.___Australien: Queensland, Eumundi (ca. 100 km nördlich Brisbane)
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.68: ca. 100 km nördlich Brisbane, Urwald.___Australien: Queensland, Eumundi (ca. 100 km nördlich Brisbane)
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 1: N/A___Australien: New South Wales, Blue Mountains bei Sydney, Wentworth Falls
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 1: N/A___Australien: Queensland, bei Brisbane
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.4: On vertical face of rock, 330 m alt., Ohara, Yuya, Oto-mura, Nishimuro-gun, Wakayama Prefecture___Ohara, Yuya, Oto-mura, Nishimuro-gun, Wakayama Prefecture
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.65: On trunks of Fagus crenata, ca. 1200 m. alt., Mt. Obake, Nara Prefecture___Mt. Obaki, Nara Prefecture
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.31: On rocks, ca. 100 m alt., Syōgawa, Shirahama-chō, Nishimuro-gun, Wakayama Prefecture___Syōgawa, Shirahama-chō, Nishimuro-gun, Wakayama Prefecture
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.85: ad arborum truncos, ca 500 m___Kiushiu, Miyazaki, Minaminaka, Sakatani
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.23: Ile Liou-Kiou - Centre de l'ile___Japon : Iles Liou-Kiou - Centre de l'ile
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 1: N/A___Japon : Yaku-Sima
+
+originalMethod: 8
+
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.91: Handwritten___Typed
+
+recordNumber: 7
+
+https://fm-digital-assets.fieldmuseum.org/2491/486/C0268508F_p.jpg, gradedNoMatchValid = 0.86: 1044122___B 2692
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0.33: 2552___B 2552
+https://fm-digital-assets.fieldmuseum.org/2491/491/C0268520F_p.jpg, gradedNoMatchValid = 1.0: 1044116___B 2697
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.71: 1043494___1229
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.86: 1043492___714
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.71: 1043491___1129
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1.0: s.n.___33
+
+locality: 4
+
+https://fm-digital-assets.fieldmuseum.org/2491/488/C0268514F_p.jpg, gradedNoMatchValid = 0.26: Blue Mountains bei Sydney, Wentworth Falls___Blue Mountains, Wentworth Falls
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.77: On vertical face of rock, 330 m alt., Ohara, Yuya, Oto-mura, Nishimuro-gun, Wakayama Prefecture___Nishimuro District, Otomura, Yuya, Ohara
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.88: On trunks of Fagus crenata, ca. 1200 m. alt., Mt. Obake, Nara Prefecture___Mount Obako
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.86: On rocks, ca. 100 m alt., Syōgawa, Shirahama-chō, Nishimuro-gun, Wakayama Prefecture___Nishimuro District, Syōgawa
+
+collectedBy: 4
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.08: T. Nakaijima___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1: N/A___S. Hattori
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.33: R.P.J.B. Ferrié___R. P. Ferrié
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.33: R.P.J.B. Ferrié___R. P. Ferrié
+
+firstPoliticalUnit: 5
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 1.0: Honshu___Wakayama
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.73: Nara Prefecture___Nara
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 1.0: Honshu___Wakayama
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0: Ile Liou-Kiou - Centre de l'ile___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0: Yakushima___N/A
+
+identifiedBy: 5
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.08: T. Nakaijima___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.73: A. Noguchi___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.73: A. Noguchi___T. Nakajima
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.46: Thériot___E. C. Thériot
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.46: Thériot___E. C. Thériot
+
+otherCatalogNumbers: 4
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.78: C0288544F___1043494
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.86: 714___1043492
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.75: C028846F___1043491
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.89: C0288550F___1000416
+
+verbatimIdentification: 3
+
+https://fm-digital-assets.fieldmuseum.org/2303/612/C0268544F.jpg, gradedNoMatchValid = 0.15: Macromitrium gymnostomum Sull. et Lesq. c. fr.___Macromitrium gymnostomum Sull. et Lesq.
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.05: Macromitrium gymnostomum Sull. & Lesq.___Macromitrium gymnostomum Sull. et Lesq.
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.52: Macromitrium gymnostomum S. L. = m. rupestre Mitt. Sull. Card.___Macromitrium gymnostomum S. L.
+
+secondaryCollectors: 4
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0: Ver. A. Noguchi___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0: A. Noguchi___N/A
+https://fm-digital-assets.fieldmuseum.org/2303/619/C0268549F.jpg, gradedNoMatchValid = 0.92: Thériot___B. J. Ferrié
+https://fm-digital-assets.fieldmuseum.org/2303/621/C0268550F.jpg, gradedNoMatchValid = 0.92: Thériot___B. J. Ferrié
+
+verbatimDateIdentified: 3
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.73: 1959___May 4, 1958
+https://fm-digital-assets.fieldmuseum.org/2303/614/C0268546F.jpg, gradedNoMatchValid = 0.79: 1968___March 28, 1958
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0: 1946___N/A
+
+verbatimElevation: 2
+
+https://fm-digital-assets.fieldmuseum.org/2303/613/C0268545F.jpg, gradedNoMatchValid = 0.5: 1200 m. alt.___1200 m
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 1: N/A___ca. 500 m
+
+minimumEventDate: 1
+
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.4: 1947-01-01___1946-10-00
+
+verbatimEventDate: 1
+
+https://fm-digital-assets.fieldmuseum.org/2303/617/C0268548F.jpg, gradedNoMatchValid = 0.83: s.d.___X.1946
+
+--------------------------------------------------
+

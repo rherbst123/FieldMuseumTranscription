@@ -7,9 +7,9 @@
 
 COMPARISON_CONFIG:
     COMPARISON_TYPE: "batch_run"
-    RUN_NAMES: []  # e,g,. ["gpt-4o-2024-06-11-1050", "gpt-4o-2024-06-11-1110"]
+    RUN_NAMES: ["aws-nova-2025-01-21-1335", "aws-nova-2025-01-30-1816"]  # e,g,. ["gpt-4o-2024-06-11-1050", "gpt-4o-2024-06-11-1110"]
                    # see DataAnalsis/README.md for run naming conventions
-    BATCH_NAME: "" # this name is NOT optional; 
+    BATCH_NAME: "aws-nova-10-bryophytes-prompt-1.5" # this name is NOT optional; 
                                 # BATCH_NAME will be used instead of RUN_NAMES for the comparison filename.
                                     # individual run names will be listed in the comparison file: e.g., "gpt-4o-2024-06-11-1050"
 
@@ -25,7 +25,7 @@ COMPARISON_CONFIG:
     SKIP_LIST: []   # these are any fields you wish to exclude
     SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
     USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
-    GROUND_TRUTH_FILENAME: "100-bryophytes-typed.csv"    # "100-bryophytes-typed.csv"
+    GROUND_TRUTH_FILENAME: "10-bryophytes-typed.csv"    # "100-bryophytes-typed.csv"
     TRANSCRIPTIONS_PATH: "DataAnalysis/Transcriptions/"
     COMPARISONS_PATH: "DataAnalysis/Comparisons/"
 

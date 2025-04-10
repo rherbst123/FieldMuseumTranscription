@@ -16,6 +16,21 @@ class OpenAI_Interface:
         }
         self.input_tokens = 0
         self.output_tokens = 0
+        self.set_token_costs_per_mil()
+
+    def set_token_costs_per_mil(self):
+        if "gpt-4o" in self.model:
+            self.input_cost_per_mil = 2.50
+            self.output_cost_per_mil = 10.00
+
+    def get_token_costs(self):
+        return {
+            "input tokens": self.input_tokens,
+            "output tokens": self.output_tokens,
+            "input cost $": round((self.input_tokens / 1_000_000) * self.input_cost_per_mil, 2),
+            "output cost $": round((self.output_tokens / 1_000_000) * self.output_cost_per_mil, 2)
+        }         
+
 
     def encode_image_to_base64(self, image_path):
         with open(image_path, "rb") as image_file:
@@ -65,7 +80,6 @@ class OpenAI_Interface:
                 }
         response = requests.post("https://api.openai.com/v1/chat/completions", headers=self.headers, json=payload)
         response_data = response.json()
-        print("Here is the raw Data Generated",response_data)
         self.update_usage(response_data)
         formatted_result = self.format_response(image_name, response_data)
         return formatted_result

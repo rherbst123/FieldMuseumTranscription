@@ -12,6 +12,20 @@ class ClaudeInterface:
         self.client = anthropic.Anthropic(api_key=api_key)
         self.input_tokens = 0
         self.output_tokens = 0
+        self.set_token_costs_per_mil()
+
+    def set_token_costs_per_mil(self):
+        if "3-5-sonnet" in self.model:
+            self.input_cost_per_mil = 3.00
+            self.output_cost_per_mil = 15.00
+
+    def get_token_costs(self):
+        return {
+            "input tokens": self.input_tokens,
+            "output tokens": self.output_tokens,
+            "input cost $": round((self.input_tokens / 1_000_000) * self.input_cost_per_mil, 2),
+            "output cost $": round((self.output_tokens / 1_000_000) * self.output_cost_per_mil, 2)
+        }         
 
     def encode_image_to_base64(self, image_path):
         with open(image_path, "rb") as image_file:
@@ -58,8 +72,6 @@ class ClaudeInterface:
             ]
         )
         response_data = message.content
-        print(f"{message = }")
-        print("This is response_data: ", response_data)
         formatted_result = self.format_response(image_name, response_data)
         self.update_usage(message)
         return formatted_result

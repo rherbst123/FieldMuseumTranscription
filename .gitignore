@@ -1,5 +1,6 @@
 .env
 *.log
+DataAnalysis\AnalysisTools\Logs\analysis.log
 */credentials.json
 token.json
 Images/

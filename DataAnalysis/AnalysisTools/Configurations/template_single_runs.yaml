@@ -7,7 +7,7 @@
 
 COMPARISON_CONFIG:
     COMPARISON_TYPE: "single_run"
-    RUN_NAME: "claude-3.5-sonnet-2024-08-02-1600-prompt1.5.2"  # e.g., "claude-3.5-sonnet-2024-08-02-1600-prompt1.5.2",
+    RUN_NAME: "260FullImagestranscribed"  # e.g., "claude-3.5-sonnet-2024-08-02-1600-prompt1.5.2",
                   #see DataAnalsis/README.md for run naming conventions
     COMPARISON_NAME: ""    # this name is optional; 
                                 # the comparison name will be appended to RUN_NAME for comparison files.
@@ -18,7 +18,7 @@ COMPARISON_CONFIG:
     SKIP_LIST: [] # these are any fields you wish to exclude
     SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
     USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
-    GROUND_TRUTH_FILENAME: "100-bryophytes-typed.csv"    # "100-bryophytes-typed.csv"
+    GROUND_TRUTH_FILENAME: "260ImagesGroundTruth.csv"    # "100-bryophytes-typed.csv"
     TRANSCRIPTIONS_PATH: "DataAnalysis/Transcriptions/"
     COMPARISONS_PATH: "DataAnalysis/Comparisons/"
 

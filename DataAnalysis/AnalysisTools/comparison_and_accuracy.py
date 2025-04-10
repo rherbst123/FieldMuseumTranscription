@@ -170,7 +170,7 @@ class Comparison:
             for fieldname in self.fieldnames:
                 target_val = target_values_dict[fieldname]
                 transcription_val = transcription_values_dict[fieldname]
-                if transcription_val == "PASS" or transcription_val.lower().strip() == "unsure and check":
+                if transcription_val.strip() in ["PASS", "unsure and check", "[precise locality unknown]"]:
                     continue  # Just in case the LLM doesn't hazard a guess,
                                  # or there are gaps in some of the fields of observed values.
                                    # This is used when runs are compared for agreement

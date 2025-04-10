@@ -1,0 +1,122 @@
+from ChatGPT
+
+Here's a summary of the API pricing for the specified large language models (LLMs), detailing costs per million input and output tokens. Where available, batch pricing information is also included.
+
+| Model               | Input Tokens ($/M) | Output Tokens ($/M) | Batch Pricing Details |
+|---------------------|--------------------|---------------------|-----------------------|
+| **GPT-4o**          | $2.50              | $10.00              | Not specified         |
+| **Sonnet-3-5**      | $3.00              | $15.00              | Not specified         |
+| **Gemini-1-5-Pro**  | Data not available | Data not available  | Not specified         |
+| **Llama-3**         | $0.12              | $0.12               | Region-specific       |
+| **DeepSeek**        | $0.14              | $0.28               | Not specified         |
+| **AWS Models**      | Varies             | Varies              | Varies                |
+
+**Notes:**
+
+- **GPT-4o**: According to DocsBot AI, GPT-4o's API pricing is $2.50 per million input tokens and $10.00 per million output tokens. ([docsbot.ai](https://docsbot.ai/models/compare/gpt-4o/deepseek-v3?utm_source=chatgpt.com))
+
+- **Sonnet-3-5**: As per PromptHub, the API cost for Claude 3.5 Sonnet is $3.00 per million input tokens and $15.00 per million output tokens. ([prompthub.us](https://www.prompthub.us/models/claude-3-5-sonnet?utm_source=chatgpt.com))
+
+- **Gemini-1-5-Pro**: Specific pricing details for Gemini-1-5-Pro are not available in the provided sources.
+
+- **Llama-3**: According to a Medium article by Amdadul Haque Milon, Llama-3's API pricing is $0.12 per million tokens for both input and output tokens, with region-specific variations. ([amdadulhaquemilon.medium.com](https://amdadulhaquemilon.medium.com/llama-3-2-api-pricing-all-you-need-to-know-19885f6064f0?utm_source=chatgpt.com))
+
+- **DeepSeek**: DocsBot AI reports that DeepSeek-V3's API pricing is $0.14 per million input tokens and $0.28 per million output tokens. ([docsbot.ai](https://docsbot.ai/models/compare/gpt-4o/deepseek-v3?utm_source=chatgpt.com))
+
+- **AWS Models**: Pricing varies depending on the specific model and usage. For example, Amazon Bedrock offers different pricing plans for model inference and customization. ([aws.amazon.com](https://aws.amazon.com/bedrock/pricing/?utm_source=chatgpt.com))
+
+Please note that pricing can vary based on factors such as region, usage volume, and specific service agreements. For the most accurate and up-to-date information, it's recommended to consult the official documentation or contact the service providers directly. 
+
+#################################################################################
+from deepseek
+
+Here’s a pricing list for the LLMs you requested, including input/output token costs and batch pricing where available. Note that pricing may vary depending on the provider and region, so always check the official documentation for the most accurate and up-to-date information.
+
+---
+
+### **1. GPT-4 (OpenAI)**
+- **Model**: `gpt-4` (OpenAI's GPT-4)
+- **Input Tokens**: $30.00 per million tokens
+- **Output Tokens**: $60.00 per million tokens
+- **Batch Pricing**: Not explicitly mentioned, but discounts may apply for enterprise contracts.
+
+---
+
+### **2. Claude 3 Sonnet (Anthropic)**
+- **Model**: `claude-3-sonnet-20240229` (Sonnet 3.5)
+- **Input Tokens**: $3.00 per million tokens
+- **Output Tokens**: $15.00 per million tokens
+- **Batch Pricing**: No specific batch pricing, but volume discounts may be available for enterprise customers.
+
+---
+
+### **3. Gemini 1.5 Pro (Google)**
+- **Model**: `gemini-1.5-pro` (Google's Gemini)
+- **Input Tokens**: $7.00 per million tokens
+- **Output Tokens**: $21.00 per million tokens
+- **Batch Pricing**: No specific batch pricing, but Google Cloud may offer custom pricing for high-volume usage.
+
+---
+
+### **4. LLaMA 3 (Meta)**
+- **Model**: `llama-3` (Meta's LLaMA 3)
+- **Input Tokens**: $0.50 per million tokens (via providers like Hugging Face or Replicate)
+- **Output Tokens**: $0.50 per million tokens
+- **Batch Pricing**: Depends on the provider (e.g., Replicate or Hugging Face may offer volume discounts).
+
+---
+
+### **5. DeepSeek (DeepSeek AI)**
+- **Model**: `deepseek-v3` (DeepSeek's latest model)
+- **Input Tokens**: $1.00 per million tokens
+- **Output Tokens**: $2.00 per million tokens
+- **Batch Pricing**: Not explicitly mentioned, but discounts may apply for enterprise usage.
+
+---
+
+### **6. AWS Bedrock Models (Amazon)**
+AWS Bedrock offers multiple models with pay-as-you-go pricing. Here are some popular ones:
+
+#### **6.1. Anthropic Claude (via AWS Bedrock)**
+- **Model**: `claude-3-sonnet`
+- **Input Tokens**: $3.00 per million tokens
+- **Output Tokens**: $15.00 per million tokens
+
+#### **6.2. Cohere Command (via AWS Bedrock)**
+- **Model**: `cohere.command-text-v14`
+- **Input Tokens**: $1.50 per million tokens
+- **Output Tokens**: $2.00 per million tokens
+
+#### **6.3. Meta LLaMA 2 (via AWS Bedrock)**
+- **Model**: `meta.llama2-13b-chat-v1`
+- **Input Tokens**: $0.75 per million tokens
+- **Output Tokens**: $1.00 per million tokens
+
+#### **6.4. Amazon Titan (via AWS Bedrock)**
+- **Model**: `amazon.titan-text-express-v1`
+- **Input Tokens**: $0.80 per million tokens
+- **Output Tokens**: $1.60 per million tokens
+
+- **Batch Pricing**: AWS may offer custom pricing for high-volume usage or enterprise contracts.
+
+---
+
+### **Summary Table**
+
+| Model               | Input Tokens (per million) | Output Tokens (per million) | Batch Pricing |
+|---------------------|----------------------------|-----------------------------|---------------|
+| GPT-4 (OpenAI)      | $30.00                    | $60.00                     | Enterprise    |
+| Claude 3 Sonnet     | $3.00                     | $15.00                     | Enterprise    |
+| Gemini 1.5 Pro      | $7.00                     | $21.00                     | Custom        |
+| LLaMA 3             | $0.50                     | $0.50                      | Depends       |
+| DeepSeek            | $1.00                     | $2.00                      | Enterprise    |
+| AWS Bedrock Models  | Varies                    | Varies                     | Custom        |
+
+---
+
+### Notes:
+- **Enterprise Pricing**: Many providers offer custom pricing for high-volume or enterprise usage.
+- **Batch Pricing**: Not all providers explicitly advertise batch pricing, but discounts are often available for large-scale usage.
+- **Region-Specific Pricing**: AWS and Google Cloud pricing may vary by region.
+
+For the most accurate and up-to-date pricing, always refer to the official documentation of the respective providers.
