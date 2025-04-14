@@ -43,6 +43,9 @@ class Comparison:
         self.TRANSCRIPTIONS_PATH = self.config["TRANSCRIPTIONS_PATH"]
         self.GROUND_TRUTH_FILENAME = self.config["GROUND_TRUTH_FILENAME"]
         self.GROUND_TRUTH_PATH = "DataAnalysis/GroundTruths/"
+        self.PROMPTS_PATH = self.config["PROMPTS_PATH"]
+        self.PROMPT_FILENAME = self.config["PROMPT_FILENAME"]
+        self.PROMPT_PATH = self.PROMPTS_PATH + self.PROMPT_FILENAME
         if self.config["COMPARISON_TYPE"] == "single_run":
             self.setup_single_run()
         elif self.config["COMPARISON_TYPE"] == "batch_run":
@@ -182,26 +185,25 @@ class Comparison:
         return master_comparison_dict, tallies, run_errors 
 
     def get_blank_results_dict(self, spreadname):
-        return   {"run": spreadname, "ground truth source": self.GROUND_TRUTH_FILENAME, "configuration source": self.config_source}  |   \
+        return   {"run": spreadname, "ground truth source": self.GROUND_TRUTH_FILENAME, "prompt name": self.PROMPT_FILENAME, "configuration source": self.config_source}  |   \
                  {fieldname: [0,0,0] for fieldname in self.fieldnames}        
 
-    def get_fieldnames_intersection(self, sample_reference_dict, sample_saved_results_dict):
-        return [fieldname for fieldname, val in sample_reference_dict.items() if val and fieldname in sample_saved_results_dict and sample_saved_results_dict[fieldname]]
+    def get_fieldnames(self):
+        prompt_text = utility.get_contents_from_txt(self.PROMPT_PATH)
+        fieldnames = utility.get_fieldnames_from_prompt(prompt_text)
+        print(f"{fieldnames = }")
+        return [fieldname for fieldname in fieldnames if fieldname not in self.SKIP_LIST]       
 
-    def get_fieldnames(self, sample_reference_dict, sample_saved_results_dict):
-        return [fieldname for fieldname in self.get_fieldnames_intersection(sample_reference_dict, sample_saved_results_dict) if fieldname not in self.SKIP_LIST]       
-
-    def set_fields_to_be_compared(self, sample_reference_dict, sample_saved_results_dict):
-        self.fieldnames = self.SELECTED_FIELDS_LIST if self.USE_SELECTED_FIELDS_ONLY else self.get_fieldnames(sample_reference_dict, sample_saved_results_dict)
+    def set_fields_to_be_compared(self):
+        self.fieldnames = self.SELECTED_FIELDS_LIST if self.USE_SELECTED_FIELDS_ONLY else self.get_fieldnames()
         self.fieldnames.sort()
 
     def process(self, run_spreadname, transcription_values_dicts):
-        self.set_fields_to_be_compared(self.target_values_dicts[0], transcription_values_dicts[0])
+        self.set_fields_to_be_compared()
         blank_results_dict = self.get_blank_results_dict(run_spreadname)
         results_dict, tallies, run_errors = self.compare_and_tally(transcription_values_dicts, blank_results_dict)  
         return run_errors, self.calculate_accuracy(results_dict, tallies) 
     
-
     def set_record_refs(self, reference_dicts):
         if self.RECORD_REF_FIELDNAME in reference_dicts[0]:
             self.RECORD_REFS = [ref_dict[self.RECORD_REF_FIELDNAME] for ref_dict in reference_dicts] 

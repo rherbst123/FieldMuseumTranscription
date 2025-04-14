@@ -5,7 +5,14 @@ import yaml
 import logging
 import time
 
+def striplines(text):
+    return [s.strip() for s in text.splitlines()]
+    
 
+def get_fieldnames_from_prompt(prompt_text):
+    prompt_text = "\n".join(striplines(prompt_text))
+    fieldnames = re.findall(r"(^\w+):", prompt_text, flags=re.MULTILINE)
+    return fieldnames
 
 def get_contents_from_csv(csv_file_path):
     with open(csv_file_path, 'r', encoding='utf-8', newline='') as csvfile:
