@@ -68,7 +68,7 @@ class Comparison:
         comparison_name = self.config["COMPARISON_NAME"]
         results_name = f"{batch_name}-{comparison_name}" if comparison_name else batch_name
         self.RUN_NAMES = self.config["RUN_NAMES"]
-        if type (self.RUN_NAMES) == list:
+        if type (self.RUN_NAMES[0]) == list:
             self.RUN_SPREADNAMES = self.get_run_names_for_2D_batch_run()
         else:    
             self.RUN_SPREADNAMES = [f"{run_name}-transcriptions.csv" for run_name in self.config["RUN_NAMES"]] 
