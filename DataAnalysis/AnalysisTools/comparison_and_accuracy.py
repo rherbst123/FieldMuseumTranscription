@@ -68,11 +68,17 @@ class Comparison:
         comparison_name = self.config["COMPARISON_NAME"]
         results_name = f"{batch_name}-{comparison_name}" if comparison_name else batch_name
         self.RUN_NAMES = self.config["RUN_NAMES"]
-        self.RUN_SPREADNAMES = [f"{run_name}-transcriptions.csv" for run_name in self.config["RUN_NAMES"]] 
+        if type (self.RUN_NAMES) == list:
+            self.RUN_SPREADNAMES = self.get_run_names_for_2D_batch_run()
+        else:    
+            self.RUN_SPREADNAMES = [f"{run_name}-transcriptions.csv" for run_name in self.config["RUN_NAMES"]] 
         self.COMPARISONS_PATH = self.config["COMPARISONS_PATH"] + "BatchComparisons/"
         self.COMPARISONS_FILENAME = f"{results_name}-comparisons.csv"
         self.ERRORS_PATH = self.config["COMPARISONS_PATH"] + "Errors/"
-        self.ERRORS_FILENAME = f"{results_name}-errors.txt"    
+        self.ERRORS_FILENAME = f"{results_name}-errors.txt"
+
+    def get_run_names_for_2D_batch_run(self):
+        return [[f"{run_name}-transcriptions.csv" for run_name in batch_list] for batch_list in self.config["RUN_NAMES"]]        
 
 
     def setup_other_configs(self, config):

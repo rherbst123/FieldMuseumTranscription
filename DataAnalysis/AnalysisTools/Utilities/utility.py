@@ -35,10 +35,10 @@ def save_to_txt(text_file_path, data):
 
 def load_json(filename):
     with open(filename, 'r', encoding='utf-8') as f:
-            return json.load(f)
+        return json.load(f)
 
 def remove_csv_extension(fname):
-        return re.match("(.+).csv", fname).group(1)
+    return re.match("(.+).csv", fname).group(1)
 
 def load_yaml(filename):
     with open(filename, 'r', encoding="utf-8") as f:

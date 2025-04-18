@@ -1,6 +1,6 @@
-# this template was created on 2024-11-09
+# this config was created on 04/18/2025
 
-# enter the name of this file into `comparison_and_accuracy.py`, 'end_to_end_comparison_and_accuracy.py', `llm_agreement_and_accuracy.py` or `postprocessor.py`
+# enter the name of this file into `cross_validationX2_and_accuracy.py`
 # the only modifications needed to run those scripts are in the COMPARISON_CONFIG
 # the other configurations are optional
 
@@ -8,21 +8,15 @@
 COMPARISON_CONFIG:
     COMPARISON_TYPE: "batch_run"
     RUN_NAMES: [
-                "gpt-4o-2024-06-11-1050",
-                "gpt-4o-2024-06-11-1110",
-                "post_gpt-4o-2024-06-11-1050",
-                "post_gpt-4o-2024-06-11-1110",
-                "gemini-1.5-pro-2024-06-20-0153",
-                "gemini-1.5-pro-2024-06-26-1108",
-                "post_gemini-1.5-pro-2024-06-20-0153",
-                "post_gemini-1.5-pro-2024-06-26-1108",
-                ]  # e,g,. ["gpt-4o-2024-06-11-1050", "gpt-4o-2024-06-11-1110"]
-                                  # see DataAnalsis/README.md for run naming conventions
-    BATCH_NAME: "gpt-4o-gemini-agreement" # this name is NOT optional; 
+                ["gpt-4o-2024-06-11-1050", "gpt-4o-2024-06-11-1110"],
+                ["gemini-1.5-pro-2024-06-20-0153", "gemini-1.5-pro-2024-06-26-1108"],
+                ["claude-3.5-sonnet-2024-06-21-1043", "claude-3.5-sonnet-2024-06-26-1050"],
+                ]
+    BATCH_NAME: "gpt-4o-gemini-sonnet-agreement" # this name is NOT optional; 
                                 # BATCH_NAME will be used instead of RUN_NAMES for the comparison filename.
                                     # individual run names will be listed in the comparison file: e.g., "gpt-4o-2024-06-11-1050"
 
-    COMPARISON_NAME: "postprocessed"  # this name is optional
+    COMPARISON_NAME: ""  # this name is optional
                                         # the comparison name will be appended to BATCH_NAME for comparison files.
                                         # for example: BATCH_NAME: "gpt-4o-2024-repeats"
                                         #              COMPARISON_NAME: "skeleton_fields"

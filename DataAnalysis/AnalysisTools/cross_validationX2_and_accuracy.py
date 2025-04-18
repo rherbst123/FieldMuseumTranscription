@@ -15,51 +15,50 @@ class CrossValidationX2(Comparison):
     
     def get_image_agreement_dict(self, img_results1, img_results2, modelname):
         d = {}
-        for img1, img2 in zip(img_results1.items(), img_results2.items()):
-            fieldname1, observed_val1 = img1
-            fieldname2, observed_val2 = img2
-            if self.is_same(fieldname1, fieldname2) and self.is_same(observed_val1, observed_val2):
-                d[fieldname1] = observed_val1
+        for fieldname in self.fieldnames:
+            observed_val1 = img_results1[fieldname]
+            observed_val2 = img_results2[fieldname]
+            if self.is_same(observed_val1, observed_val2):
+                d[fieldname] = observed_val1
             else:
-                d[fieldname1] = "PASS"    
+                d[fieldname] = "PASS"    
         return d
     
-    
+    def remove_timestamp_and_extension(self, fname):
+        return re.match(r"(.+?)-2024|5.+", fname).group(1)
         
     def gather_data(self):
         saved_filenames = []
         for spreadname1 in self.RUN_SPREADNAMES[0]:
             for spreadname2 in self.RUN_SPREADNAMES[1]:
                 for spreadname3 in self.RUN_SPREADNAMES[2]:
-                    saved_results1: list[dict] = utility.get_contents_from_csv(self.SOURCE_PATH+spreadname1)
-                    saved_results2: list[dict] = utility.get_contents_from_csv(self.SOURCE_PATH+spreadname2)
-                    saved_results3: list[dict] = utility.get_contents_from_csv(self.SOURCE_PATH+spreadname3)
-                    observed_values_dicts1 = [self.get_fields_to_be_compared(d) for d in saved_results1]  
-                    observed_values_dicts2 = [self.get_fields_to_be_compared(d) for d in saved_results2] 
-                    observed_values_dicts3 = [self.get_fields_to_be_compared(d) for d in saved_results3]
-
-                    model1 = saved_results1[0]["modelname"]
-                    model2 = saved_results2[0]["modelname"]
-                    model3 = saved_results3[0]["modelname"]
+                    saved_results1: list[dict] = utility.get_contents_from_csv(self.TRANSCRIPTIONS_PATH+spreadname1)
+                    saved_results2: list[dict] = utility.get_contents_from_csv(self.TRANSCRIPTIONS_PATH+spreadname2)
+                    saved_results3: list[dict] = utility.get_contents_from_csv(self.TRANSCRIPTIONS_PATH+spreadname3)
+                    self.set_fields_to_be_compared()
+                    model1 = self.remove_timestamp_and_extension(spreadname1)
+                    model2 = self.remove_timestamp_and_extension(spreadname2)
+                    model3 = self.remove_timestamp_and_extension(spreadname3)
                     modelname = f"{model1}_{model2}_{model3}"
-                    agreement_values1 = [self.get_image_agreement_dict(d1, d2, modelname) for d1, d2 in zip(observed_values_dicts1, observed_values_dicts2)]
-                    agreement_values2 = [self.get_image_agreement_dict(d1, d2, modelname) for d1, d2 in zip(agreement_values1, observed_values_dicts3)] 
+                    print(f"{modelname = }")    
+                    agreement_values1 = [self.get_image_agreement_dict(d1, d2, modelname) for d1, d2 in zip(saved_results1, saved_results2)]
+                    agreement_values2 = [self.get_image_agreement_dict(d1, d2, modelname) for d1, d2 in zip(saved_results1, saved_results3)] 
                     agreement_values2 = [{"modelname": modelname} | d for d in agreement_values2]
                     bare_spreadname1 = utility.remove_csv_extension(spreadname1)
                     bare_spreadname2 = utility.remove_csv_extension(spreadname2)
                     bare_spreadname3 =  utility.remove_csv_extension(spreadname3)
                     fname = f"agreement_{bare_spreadname1}_{bare_spreadname2}_{bare_spreadname3}.csv"
-                    utility.save_to_csv(self.SOURCE_PATH+fname, agreement_values2)
+                    utility.save_to_csv(self.TRANSCRIPTIONS_PATH+fname, agreement_values2)
                     print(f"prelimary results saved to {fname}")
                     saved_filenames += [fname]
         return saved_filenames       
     
 if __name__ == "__main__":
-    CONFIG_PATH = "DataAnalysis/Configurations/"
+    CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
     # copy in the name of the configuration file to be used below
-    config_filename = "" 
-    
-    cv = CrossValidationX2(CONFIG_PATH, config_filename)
+    config_filename = "multi_agreement.yaml" 
+    configuration = Comparison.read_configuration_from_yaml(CONFIG_PATH, config_filename)
+    cv = CrossValidationX2(configuration, config_filename)
     saved_filenames = cv.gather_data()
     cv.RUN_SPREADNAMES = saved_filenames
     cv.run()
