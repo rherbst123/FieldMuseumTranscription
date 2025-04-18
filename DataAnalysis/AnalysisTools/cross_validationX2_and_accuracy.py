@@ -13,7 +13,7 @@ class CrossValidationX2(Comparison):
     def is_same(self, s1, s2):
         return s1.strip().lower()==s2.strip().lower()
     
-    def get_image_agreement_dict(self, img_results1, img_results2, modelname):
+    def get_image_agreement_dict(self, img_results1, img_results2):
         d = {}
         for fieldname in self.fieldnames:
             observed_val1 = img_results1[fieldname]
@@ -36,13 +36,13 @@ class CrossValidationX2(Comparison):
                     saved_results2: list[dict] = utility.get_contents_from_csv(self.TRANSCRIPTIONS_PATH+spreadname2)
                     saved_results3: list[dict] = utility.get_contents_from_csv(self.TRANSCRIPTIONS_PATH+spreadname3)
                     self.set_fields_to_be_compared()
-                    model1 = self.remove_timestamp_and_extension(spreadname1)
-                    model2 = self.remove_timestamp_and_extension(spreadname2)
-                    model3 = self.remove_timestamp_and_extension(spreadname3)
+                    model1 = "sonnet-3.5"#self.remove_timestamp_and_extension(spreadname1)
+                    model2 = "gpt-4o-cropped"#self.remove_timestamp_and_extension(spreadname2)
+                    model3 = "gpt-4o-collage"#self.remove_timestamp_and_extension(spreadname3)
                     modelname = f"{model1}_{model2}_{model3}"
                     print(f"{modelname = }")    
-                    agreement_values1 = [self.get_image_agreement_dict(d1, d2, modelname) for d1, d2 in zip(saved_results1, saved_results2)]
-                    agreement_values2 = [self.get_image_agreement_dict(d1, d2, modelname) for d1, d2 in zip(saved_results1, saved_results3)] 
+                    agreement_values1 = [self.get_image_agreement_dict(d1, d2) for d1, d2 in zip(saved_results1, saved_results2)]
+                    agreement_values2 = [self.get_image_agreement_dict(d1, d2) for d1, d2 in zip(agreement_values1, saved_results3)] 
                     agreement_values2 = [{"modelname": modelname} | d for d in agreement_values2]
                     bare_spreadname1 = utility.remove_csv_extension(spreadname1)
                     bare_spreadname2 = utility.remove_csv_extension(spreadname2)
@@ -56,7 +56,7 @@ class CrossValidationX2(Comparison):
 if __name__ == "__main__":
     CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
     # copy in the name of the configuration file to be used below
-    config_filename = "multi_agreement.yaml" 
+    config_filename = "multi_agreement_image_manipulation.yaml" 
     configuration = Comparison.read_configuration_from_yaml(CONFIG_PATH, config_filename)
     cv = CrossValidationX2(configuration, config_filename)
     saved_filenames = cv.gather_data()
