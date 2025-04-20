@@ -8,3 +8,10 @@ gemini-1.5-pro-2025-01-23-1314,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.
 claude-3.5-sonnet-2025-01-26-1800,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,claude-3.5-sonnet,claude-3-5-sonnet-20240620,test transcript object,DanS,,,,
 gpt-4o-2025-01-26-1838,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gpt-4o,gpt-4o-2024-08-06,test transcript object,DanS,,,,
 gpt-4o-2025-03-19-1415,Prompt 1.5.2.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gpt-4o,gpt-4o-2024-08-06,test transcript object,DanS,,,,
+gemini-1.5-pro-2025-04-18-2227,Prompt 1.5.4.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gemini-1.5-pro,gemini-1.5-pro-latest,test end-to-end processing,DanS,5,113.23 seconds,9035,1276
+gemini-1.5-pro-2025-04-18-2231,Prompt 1.5.4.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gemini-1.5-pro,gemini-1.5-pro-latest,test end-to-end processing,DanS,5,112.30 seconds,9035,1278
+gemini-1.5-pro-2025-04-18-2241,Prompt 1.5.4.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gemini-1.5-pro,gemini-1.5-pro-latest,test end-to-end processing,DanS,5,109.98 seconds,9035,1264
+gpt-4o-2025-04-18-2254,Prompt 1.5.4.txt,5-bryophytes-typed-testing-urls.txt,5-bryophytes-typed-testing.csv,gpt-4o,gpt-4o-2024-08-06,demo,DanS,5,32.07 seconds,13245,829
+gpt-4o-2025-04-18-2305,Prompt 1.5.4.txt,trillo-dataset.txt,18-mixed-trillo.csv,gpt-4o,gpt-4o-2024-08-06,compare to trillo,DanS,18,114.70 seconds,47342,3535
+gpt-4o-2025-04-18-2319,Prompt 1.5.4.txt,trillo-dataset.txt,18-mixed-trillo.csv,gpt-4o,gpt-4o-2024-08-06,compare to trillo,DanS,18,105.74 seconds,47342,3197
+gpt-4o-2025-04-20-0924,Prompt 1.5.2.txt,trillo-dataset.txt,18-mixed-trillo.csv,gpt-4o,gpt-4o-2024-08-06,compare to trillo,DanS,18,127.58 seconds,46730,3524

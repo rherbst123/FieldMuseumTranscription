@@ -1,34 +1,17 @@
-# this template was created on 2024-11-09
-
-# enter the name of this file into `comparison_and_accuracy.py`, 'end_to_end_comparison_and_accuracy.py', `llm_agreement_and_accuracy.py` or `postprocessor.py`
-# the only modifications needed to run those scripts are in the COMPARISON_CONFIG
-# the other configurations are optional
-
 
 COMPARISON_CONFIG:
     COMPARISON_TYPE: "batch_run"
-    RUN_NAMES: []  # e,g,. ["gpt-4o-2024-06-11-1050", "gpt-4o-2024-06-11-1110"]
-                   # see DataAnalsis/README.md for run naming conventions
-    BATCH_NAME: "" # this name is NOT optional; 
-                                # BATCH_NAME will be used instead of RUN_NAMES for the comparison filename.
-                                    # individual run names will be listed in the comparison file: e.g., "gpt-4o-2024-06-11-1050"
-
-    COMPARISON_NAME: ""  # this name is optional
-                                        # the comparison name will be appended to BATCH_NAME for comparison files.
-                                        # for example: BATCH_NAME: "gpt-4o-2024-repeats"
-                                        #              COMPARISON_NAME: "skeleton_fields"
-                                        # will produce the file: "gpt-4o-repeats-skeleton_fields-comparsions.csv" 
-                                                    
-                                
-                            
-    RECORD_REF_FIELDNAME: "accessURI"   # this is the fieldname used for reference in the errors file, here a URL
-    PROMPT_FILENAME: ""
-    SKIP_LIST: []   # these are any fields you wish to exclude
-    SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
-    USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
-    GROUND_TRUTH_FILENAME: ""    # "100-bryophytes-typed.csv"
-    TRANSCRIPTIONS_PATH: "DataAnalysis/Transcriptions/"
-    COMPARISONS_PATH: "DataAnalysis/Comparisons/"
+    RUN_NAMES: ["partial-gpt-4o-2025-04-18-2319", "partial-18-mixed-trillo"]
+    BATCH_NAME: "18-mixed-trillo-gpt-4o" 
+    COMPARISON_NAME: "partial"   
+    RECORD_REF_FIELDNAME: "accessURI"  
+    PROMPT_FILENAME: "Prompt 1.5.4.txt"
+    SKIP_LIST: [] 
+    SELECTED_FIELDS_LIST: []     
+    USE_SELECTED_FIELDS_ONLY: False   
+    GROUND_TRUTH_FILENAME: "partial-18-mixed-trillo.csv"   
+    TRANSCRIPTIONS_PATH: "DataAnalysis/Trillo/Transcriptions/"
+    COMPARISONS_PATH: "DataAnalysis/Trillo/Comparisons/"
     PROMPTS_PATH: "Prompts/"
 
 # THE FOLLOWING CONFIGURATIONS ARE OPTIONAL

@@ -26,6 +26,10 @@ class CrossValidationX2(Comparison):
     
     def remove_timestamp_and_extension(self, fname):
         return re.match(r"(.+?)-2024|5.+", fname).group(1)
+
+    def shorten_filename(self, fname):
+        return re.sub("-transcriptions.csv", "", fname)
+    
         
     def gather_data(self):
         saved_filenames = []
@@ -44,10 +48,11 @@ class CrossValidationX2(Comparison):
                     agreement_values1 = [self.get_image_agreement_dict(d1, d2) for d1, d2 in zip(saved_results1, saved_results2)]
                     agreement_values2 = [self.get_image_agreement_dict(d1, d2) for d1, d2 in zip(agreement_values1, saved_results3)] 
                     agreement_values2 = [{"modelname": modelname} | d for d in agreement_values2]
-                    bare_spreadname1 = utility.remove_csv_extension(spreadname1)
-                    bare_spreadname2 = utility.remove_csv_extension(spreadname2)
-                    bare_spreadname3 =  utility.remove_csv_extension(spreadname3)
-                    fname = f"agreement_{bare_spreadname1}_{bare_spreadname2}_{bare_spreadname3}.csv"
+                    bare_spreadname1 = self.shorten_filename(spreadname1)
+                    bare_spreadname2 = self.shorten_filename(spreadname2)
+                    bare_spreadname3 =  self.shorten_filename(spreadname3)
+                    fname = f"{bare_spreadname1}_{bare_spreadname2}_{bare_spreadname3}-transcriptions.csv"
+                    print(f"saving: {fname = }")
                     utility.save_to_csv(self.TRANSCRIPTIONS_PATH+fname, agreement_values2)
                     print(f"prelimary results saved to {fname}")
                     saved_filenames += [fname]

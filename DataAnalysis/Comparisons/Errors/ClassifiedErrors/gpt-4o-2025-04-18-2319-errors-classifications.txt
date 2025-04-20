@@ -1,0 +1,107 @@
+grand total mismatches: 280
+grand total mismatches accounted for: 9
+overall percentage mismatches accounted for: 3.2
+accessionNumber
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 10
+associatedTaxa
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 11
+collectedBy
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 10
+country
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 8
+firstPoliticalUnit
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 10
+habitat
+    percentage mismatches accounted for: 21.4
+    total mismatches: 14
+    dash: 1
+    spacing, comma: 2
+    1. spacing, comma: Wet ground North exposure___Wet ground, north exposure
+                       WetgroundNorthexposure___Wetgroundnorthexposure
+    2. dash: Lichter Lärchen-Bestand auf Almgelände. An der Stammbasis und an leicht geneigten Stämmen von Lärchen in Menge___Lichter Lärchen-Bestand auf Almgelände. An der Stamm-basis und an leicht geneigten Stämmen von Lärchen in Menge
+             Lichter LärchenBestand auf Almgelände. An der Stammbasis und an leicht geneigten Stämmen von Lärchen in Menge___Lichter LärchenBestand auf Almgelände. An der Stammbasis und an leicht geneigten Stämmen von Lärchen in Menge
+    3. spacing, comma: alpine Matten Auf Silikatgestein___Alpine Matten, auf Silikatgestein
+                       alpineMattenAufSilikatgestein___AlpineMattenaufSilikatgestein
+identifiedBy
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 12
+latestScientificName
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 11
+locality
+    percentage mismatches accounted for: 6.2
+    total mismatches: 16
+    spacing, comma: 1
+    1. spacing, comma: Vicinity of Finca San Roque sierra east of Jinotega___Vicinity of Finca San Roque, sierra east of Jinotega
+                       VicinityofFincaSanRoquesierraeastofJinotega___VicinityofFincaSanRoquesierraeastofJinotega
+maximumEventDate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 7
+minimumEventDate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 10
+municipality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 9
+originalMethod
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 8
+otherCatalogNumbers
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 11
+plantDescription
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 9
+recordNumber
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 8
+secondPoliticalUnit
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 9
+secondaryCollectors
+    percentage mismatches accounted for: 11.1
+    total mismatches: 9
+    spacing: 1
+    1. spacing: H. Hertel | H. Kilias___H. Hertel|H. Kilias
+                H.Hertel|H.Kilias___H.Hertel|H.Kilias
+typeStatus
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 17
+verbatimCollectors
+    percentage mismatches accounted for: 15.4
+    total mismatches: 13
+    extraneous preface: 1
+    spacing, extraneous preface: 1
+    1. extraneous preface: leg. T. Feuerer, H. Hertel & H. Kilias___T. Feuerer, H. Hertel & H. Kilias
+                            T. Feuerer, H. Hertel & H. Kilias___T. Feuerer, H. Hertel & H. Kilias
+    2. spacing, extraneous preface: leg. H.T. Lumbsch___H. T. Lumbsch
+                                    H.T.Lumbsch___H.T.Lumbsch
+verbatimCoordinates
+    percentage mismatches accounted for: 10.0
+    total mismatches: 10
+    spacing: 1
+    1. spacing: 77°33'N, 68°35'W___77°33' N,68°35' W
+                77°33'N,68°35'W___77°33'N,68°35'W
+verbatimDateIdentified
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 9
+verbatimElevation
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 9
+verbatimEventDate
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 10
+verbatimIdentification
+    percentage mismatches accounted for: 8.3
+    total mismatches: 12
+    period: 1
+    1. period: Cratoneuron filicinum (L.) Loeske v. elatum Schimp___Cratoneuron filicinum (L.) Loeske v. elatum Schimp.
+               Cratoneuron filicinum (L) Loeske v elatum Schimp___Cratoneuron filicinum (L) Loeske v elatum Schimp
+verbatimLocality
+    percentage mismatches accounted for: No error combinations can account for mismatches!
+    total mismatches: 18

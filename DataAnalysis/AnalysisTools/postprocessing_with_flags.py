@@ -23,7 +23,7 @@ class PostProcessor(Comparison):
     def check_for_correction(self, original_val, post_val, target_val):
         field_method = self.field_method.__name__
         if original_val == target_val and post_val != target_val:
-            print(f"MISCORRECTION!!! {field_method = }, {target_val = }, {original_val = }, {post_val = }")
+            print(f"MISCORRECTION!!! {self.current_image_ref = }, {field_method = }, {target_val = }, {original_val = }, {post_val = }")
         elif post_val == target_val and original_val != target_val:
             pass
             #print("YAY!!!") 
@@ -66,10 +66,11 @@ class PostProcessor(Comparison):
         return val
 
     def post_process(self, results):
-        self.set_fields_to_be_compared(self.target_values_dicts[0], results[0])
+        self.set_fields_to_be_compared()
         post_results = []
         for image, target_values_dict in zip(results, self.target_values_dicts):
             d = {}
+            self.current_image_ref = image[self.RECORD_REF_FIELDNAME] if self.RECORD_REF_FIELDNAME in image else image["Image"]
             for fieldname in self.fieldnames:
                 transcription_val = image[fieldname]
                 target_val = target_values_dict[fieldname]
@@ -86,6 +87,7 @@ class PostProcessor(Comparison):
             post_processed_results = self.post_process(transcription_values_dicts)
             post_name = f"post_{spreadname}"
             utility.save_to_csv(self.TRANSCRIPTIONS_PATH+post_name, post_processed_results)
+            print(f"saved {self.TRANSCRIPTIONS_PATH+post_name = }")
             master_runs += [spreadname, post_name]
         self.RUN_SPREADNAMES = master_runs
         self.run()
@@ -96,7 +98,7 @@ if __name__ == "__main__":
 
     ##############################################################
     # copy in the name of the configuration file to be used below
-    config_filename = "latest_prompt_runs.yaml"
+    config_filename = "post_processing_image_manipulation.yaml"
     ##############################################################
     
     config = PostProcessor.read_configuration_from_yaml(CONFIG_PATH, config_filename)

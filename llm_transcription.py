@@ -10,7 +10,7 @@ from ModelInterfaces.Utilities import utility, update_spreadsheet
 from ModelInterfaces.gemini_interface import GeminiInterface
 from ModelInterfaces.claude_interface import ClaudeInterface
 from ModelInterfaces.openai_interface import OpenAI_Interface
-from DataAnalysis.AnalysisTools import end_to_end_comparison_and_accuracy
+import end_to_end_comparison_and_accuracy
 
 
 class Transcriber:
@@ -93,6 +93,7 @@ class Transcriber:
                         print(f"TypeError encountered: {e}")
                         file.write(f"Image: {image_name}\nResponse: {response_data}\n")
                         file.write(f"\nURL: {url}\n")
+           
                         print(f"Image: {image_name}\nResponse: {response_data}\n")
                     file.write("=" * 50 + "\n")
                     print(f"Completed processing: {image_name}")
@@ -136,7 +137,7 @@ class Transcriber:
 
 if __name__ == "__main__":
     gemini_config = {
-                    "prompt filename": "Prompt 1.5.2.txt",
+                    "prompt filename": "Prompt 1.5.4.txt",
                     "dataset urls filename": "5-bryophytes-typed-testing-urls.txt",
                     "ground_truth_filename": "5-bryophytes-typed-testing.csv",
                     "modelname": "gemini-1.5-pro",
@@ -146,7 +147,7 @@ if __name__ == "__main__":
                     }
 
     sonnet_config = {
-                    "prompt filename": "Prompt 1.5.2.txt",
+                    "prompt filename": "Prompt 1.5.4.txt",
                     "dataset urls filename": "5-bryophytes-typed-testing-urls.txt",
                     "ground_truth_filename": "5-bryophytes-typed-testing.csv",
                     "modelname": "claude-3.5-sonnet",
@@ -157,18 +158,18 @@ if __name__ == "__main__":
 
     gpt_config = {
                     "prompt filename": "Prompt 1.5.2.txt",
-                    "dataset urls filename": "5-bryophytes-typed-testing-urls.txt",
-                    "ground_truth_filename": "5-bryophytes-typed-testing.csv",
+                    "dataset urls filename": "trillo-dataset.txt",
+                    "ground_truth_filename": "18-mixed-trillo.csv",
                     "modelname": "gpt-4o",
                     "model": "gpt-4o-2024-08-06",
-                    "reason for run": "demo",
+                    "reason for run": "compare to trillo",
                     "run by": "DanS"
                     }
 
     ############################################                
     # Complete and/or modify one of the above configurations and
     # enter the name of the configuration to be run below.
-    llm_configuration = sonnet_config   # replace None
+    llm_configuration = gpt_config   # replace None
     # This is all that is needed to run this script
     #############################################
     transcriber = Transcriber(llm_configuration)

@@ -8,11 +8,11 @@
 COMPARISON_CONFIG:
     COMPARISON_TYPE: "batch_run"
     RUN_NAMES: [
-                ["Claude260"],
-                ["260Images_4_10_25_Cropped_Full_Images_GPT4o"],
-                ["260Images_4_10_25_Only_Collage_GPT4o"],
+                ["claude-3.7-sonnet-2025-04-10", "post_claude-3.7-sonnet-2025-04-10"],
+                ["gpt-4.1-2025-04-10-cropped", "post_gpt-4.1-2025-04-10-cropped"],
+                ["gpt-4.1-2025-04-10-collage", "post_gpt-4.1-2025-04-10-collage"],
                 ]
-    BATCH_NAME: "claude-3.7-sonnet-gpt-4o-agreement" # this name is NOT optional; 
+    BATCH_NAME: "260-claude-3.7-sonnet-gpt-4o-agreement-with_post" # this name is NOT optional; 
                                 # BATCH_NAME will be used instead of RUN_NAMES for the comparison filename.
                                     # individual run names will be listed in the comparison file: e.g., "gpt-4o-2024-06-11-1050"
 
@@ -30,8 +30,8 @@ COMPARISON_CONFIG:
     SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
     USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
     GROUND_TRUTH_FILENAME: "260ImagesGroundTruth.csv"    # "100-bryophytes-typed.csv"
-    TRANSCRIPTIONS_PATH: "DataAnalysis/Transcriptions/"
-    COMPARISONS_PATH: "DataAnalysis/Comparisons/"
+    TRANSCRIPTIONS_PATH: "DataAnalysis/RileyImageManipulation/Transcriptions/"
+    COMPARISONS_PATH: "DataAnalysis/RileyImageManipulation/Comparisons/"
     PROMPTS_PATH: "Prompts/"
 
 # THE FOLLOWING CONFIGURATIONS ARE OPTIONAL

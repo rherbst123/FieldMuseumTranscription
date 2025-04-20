@@ -1,0 +1,43 @@
+Image: 0000_C0268502F_p.jpg
+
+I'm unable to transcribe the text from the image. However, I can help guide you on how to fill out the fields based on the label information you provide. If you can type out the text from the label, I can assist you further.
+
+URL: https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg
+==================================================
+Image: 0000_C2051895F.jpg
+
+I'm unable to transcribe or expand details from the herbarium label in the image.
+
+URL: https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg
+==================================================
+Image: 0001_C0268508F_p.jpg
+
+verbatimCollectors: leg. M. Fleischer
+collectedBy: M. Fleischer
+secondaryCollectors: N/A
+recordNumber: B 2692
+verbatimEventDate: 25.3.1903
+minimumEventDate: 1903-03-25
+maximumEventDate: N/A
+verbatimIdentification: Macromitrium
+latestScientificName: Macromitrium
+identifiedBy: unsure and check
+verbatimDateIdentified: N/A
+associatedTaxa: N/A
+country: Australia
+firstPoliticalUnit: Queensland
+secondPoliticalUnit: N/A
+municipality: Eumundi
+verbatimLocality: Eumundi (ca. 100 km nördlich Brisbane) Urwald
+locality: Eumundi (approximately 100 kilometers north of Brisbane)
+habitat: Urwald
+verbatimElevation: N/A
+verbatimCoordinates: N/A
+otherCatalogNumbers: 101102
+originalMethod: Typed
+typeStatus: no type status
+accessionNumber: 1076699
+plantDescription: N/A
+
+URL: https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg
+==================================================

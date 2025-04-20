@@ -61,7 +61,7 @@ class Comparison:
         self.COMPARISONS_PATH = self.config["COMPARISONS_PATH"] + "SingleComparisons/"
         self.COMPARISONS_FILENAME = f"{results_name}-comparisons.csv"
         self.ERRORS_PATH = self.config["COMPARISONS_PATH"] + "Errors/"
-        self.ERRORS_FILENAME = f"{results_name}-errors.csv"
+        self.ERRORS_FILENAME = f"{results_name}-errors.txt"
 
     def setup_batch_run(self):
         batch_name = self.config["BATCH_NAME"]
@@ -197,7 +197,6 @@ class Comparison:
     def get_fieldnames(self):
         prompt_text = utility.get_contents_from_txt(self.PROMPT_PATH)
         fieldnames = utility.get_fieldnames_from_prompt(prompt_text)
-        print(f"{fieldnames = }")
         return [fieldname for fieldname in fieldnames if fieldname not in self.SKIP_LIST]       
 
     def set_fields_to_be_compared(self):
@@ -238,7 +237,7 @@ if __name__ == "__main__":
     
     ###########################################################
     # copy in the name of the configuration file to be used below
-    config_filename = "template_single_runs.yaml" 
+    config_filename = "18-mixed-trillo-gpt-4o.yaml" 
     ###########################################################
     CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
     configuration = Comparison.read_configuration_from_yaml(CONFIG_PATH, config_filename)

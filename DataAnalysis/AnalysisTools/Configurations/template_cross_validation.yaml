@@ -1,14 +1,20 @@
-# this template was created on 2024-11-09
+# this config was created on 04/18/2025
 
-# enter the name of this file into `comparison_and_accuracy.py`, 'end_to_end_comparison_and_accuracy.py', `llm_agreement_and_accuracy.py` or `postprocessor.py`
+
+# enter the name of this file into `cross_validation_and_accuracy.py` or `cross_validationX2_and_accuracy.py`
+# each run of a list will be cross-validated against each run in the other list(s)
+
 # the only modifications needed to run those scripts are in the COMPARISON_CONFIG
 # the other configurations are optional
 
 
 COMPARISON_CONFIG:
     COMPARISON_TYPE: "batch_run"
-    RUN_NAMES: []  # e,g,. ["gpt-4o-2024-06-11-1050", "gpt-4o-2024-06-11-1110"]
-                   # see DataAnalsis/README.md for run naming conventions
+    RUN_NAMES: [
+                [], # e.g. ["gpt-4.1-2025-04-10-cropped", "post_gpt-4.1-2025-04-10-cropped"],
+                [],     #  ["gpt-4.1-2025-04-10-collage", "post_gpt-4.1-2025-04-10-collage"],
+                #[], # <-- you will need a 3rd list if running `cross_validation_and_accuracyX2.py`
+                ]
     BATCH_NAME: "" # this name is NOT optional; 
                                 # BATCH_NAME will be used instead of RUN_NAMES for the comparison filename.
                                     # individual run names will be listed in the comparison file: e.g., "gpt-4o-2024-06-11-1050"
@@ -23,7 +29,7 @@ COMPARISON_CONFIG:
                             
     RECORD_REF_FIELDNAME: "accessURI"   # this is the fieldname used for reference in the errors file, here a URL
     PROMPT_FILENAME: ""
-    SKIP_LIST: []   # these are any fields you wish to exclude
+    SKIP_LIST: []  # these are any fields you wish to exclude
     SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
     USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
     GROUND_TRUTH_FILENAME: ""    # "100-bryophytes-typed.csv"
@@ -79,7 +85,12 @@ TOLERANCES_CONFIG:
                 VALUE:               # a scaled value less than VALUE will be within tolerances
 
 POST_PROCESSING_CONFIG:    # this is a list of fieldnames, the data for which can be post-processed in `post_processor.py`
-    - RANDO_FIELDNAME1   #  - verbatimCollectors
+    - collectedBy
+    - identifiedBy
+    - verbatimCollectors
+    - secondaryCollectors
+    - locality   #  - verbatimCollectors
+    - verbatimElevation
     - RANDO_FIELDNAME2   #  - verbatimCoordinates
 
                         

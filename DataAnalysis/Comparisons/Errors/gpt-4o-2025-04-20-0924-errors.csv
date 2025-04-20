@@ -1,0 +1,390 @@
+
+comparison_config = {'COMPARISON_TYPE': 'single_run', 'RUN_NAME': 'gpt-4o-2025-04-20-0924', 'COMPARISON_NAME': '', 'RECORD_REF_FIELDNAME': 'accessURI', 'SKIP_LIST': [], 'SELECTED_FIELDS_LIST': [], 'USE_SELECTED_FIELDS_ONLY': False, 'GROUND_TRUTH_FILENAME': '18-mixed-trillo.csv', 'PROMPT_FILENAME': 'Prompt 1.5.4.txt', 'TRANSCRIPTIONS_PATH': 'DataAnalysis/Transcriptions/', 'COMPARISONS_PATH': 'DataAnalysis/Comparisons/', 'PROMPTS_PATH': 'Prompts/'}
+edit_distance_config = {'USE_FIELDNAMES_EXCLUSIVELY': False, 'FIELDNAMES_COSTS': {}, 'DEFAULT_FIELDS_CUSTOM_COSTS': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}
+tolerances_config = {'TOLERANCES_ALLOWED': False, 'TOLS': {'ENABLE_EDIT_DISTANCE_THRESHOLD': False, 'EDIT_DISTANCE_THRESHOLDS': {'DEFAULT': {'SCALED': None, 'VALUE': None}}}}
+
+
+spreadsource = 'gpt-4o-2025-04-20-0924-transcriptions.csv'
+
+accessionNumber: 18
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 1.0: ___973420
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___1053922
+https://fm-digital-assets.fieldmuseum.org/2674/351/C2078136F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/105/C2037874F.jpg, gradedNoMatchValid = 1.0: ___1071170
+https://fm-digital-assets.fieldmuseum.org/440/996/C1048926F.jpg, gradedNoMatchValid = 0: ___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00798/C0079851F_lg.jpg, gradedNoMatchValid = 0: ___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00717/C0071775F_lg.jpg, gradedNoMatchValid = 0: ___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/444/536/C0020053F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___1039028
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___2201362
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___779919
+https://fm-digital-assets.fieldmuseum.org/2116/004/C0090341F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2117/162/C0095075F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2541/809/C0090105F.jpg, gradedNoMatchValid = 0: ___N/A
+
+associatedTaxa: 11
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2674/351/C2078136F.jpg, gradedNoMatchValid = 0.2: Sterile Eulodon___sterile Entodon
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/444/536/C0020053F.jpg, gradedNoMatchValid = 0.18: Tritomaria 5-dentata | Blepharostoma trichophyllum breviere | Anthelia juratzkana | Odontoschisma macounii___Tritomaria quinquedentata, Blepharostoma trichophyllum var. brevirete, Anthelia juratzkana, Odonthoschisma macounii
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2116/004/C0090341F.jpg, gradedNoMatchValid = 0: Larix decidua___N/A
+https://fm-digital-assets.fieldmuseum.org/2117/162/C0095075F.jpg, gradedNoMatchValid = 0: Acer___N/A
+
+collectedBy: 9
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 1.0: ___E. Bescherelle
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 1.0: ___C. Fitzgerald
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___R. Ochyra
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 1.0: ___I. Hagen
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 0.1: Å. Hovgard___A. Hovgard
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 1: N/A___Chester
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___H. R. L. T. Perraudière
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___M. F. Carvalho
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___A. N. Steward
+
+country: 8
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 1.0: ___France
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 1.0: ___France
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___N/A?claimed by England/Argentina/Chile
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 1.0: ___Norway
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 0.07: United States___United States?
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___France
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___Equatorial Guinea
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___China
+
+firstPoliticalUnit: 10
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 1.0: ___Søndre Trondhjems
+https://fm-digital-assets.fieldmuseum.org/2669/105/C2037874F.jpg, gradedNoMatchValid = 0: Kraków___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 0.73: Indiana___California?
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___Pays de la Loire
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2116/004/C0090341F.jpg, gradedNoMatchValid = 0.55: Südtirol___South Tyrol
+
+habitat: 14
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___Soil over rock ledges, in dry situation
+https://fm-digital-assets.fieldmuseum.org/2674/351/C2078136F.jpg, gradedNoMatchValid = 0.36: Chiefly in dense wet mixed forest___Dense wet mixed forest
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/105/C2037874F.jpg, gradedNoMatchValid = 0.17: On wet calcareous rocks___Wet calcareous rocks
+https://fm-digital-assets.fieldmuseum.org/440/996/C1048926F.jpg, gradedNoMatchValid = 0.1: On damp sandy ground in a shady thicket___Damp sandy ground in a shady thicket
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00798/C0079851F_lg.jpg, gradedNoMatchValid = 0.08: Wet ground. North exposure___Wet ground, north exposure
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00717/C0071775F_lg.jpg, gradedNoMatchValid = 1: N/A___Wooded canyon
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___Márgenes de la carretera
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___Moist brushy slope
+https://fm-digital-assets.fieldmuseum.org/2116/004/C0090341F.jpg, gradedNoMatchValid = 0.01: Lichter Lärchen-Bestand auf Almgelände. An der Stammbasis und an leicht geneigten Stämmen von Lärchen in Menge___Lichter Lärchen-Bestand auf Almgelände. An der Stamm-basis und an leicht geneigten Stämmen von Lärchen in Menge
+https://fm-digital-assets.fieldmuseum.org/2541/809/C0090105F.jpg, gradedNoMatchValid = 0.09: alpine Matten Auf Silikatgestein___Alpine Matten, auf Silikatgestein
+
+identifiedBy: 11
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 1.0: ___W. C. Steere
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___R. Ochyra
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 0: Å. Hovgard___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00717/C0071775F_lg.jpg, gradedNoMatchValid = 0.92: H. A. Imshaug___Habeeb
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 0: Chester A. Arnold___N/A
+https://fm-digital-assets.fieldmuseum.org/444/536/C0020053F.jpg, gradedNoMatchValid = 0.14: R. M. Schuster___R. M. Schultes
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 0: ___N/A
+
+latestScientificName: 12
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 1.0: ___Crossidium squamigerum
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 1.0: ___Pottia latifolia
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___Tortula fuscoviridis
+https://fm-digital-assets.fieldmuseum.org/2674/351/C2078136F.jpg, gradedNoMatchValid = 0.04: Mittenothamnium diminutivum___Mittenothammium diminutivum
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 1.0: ___Cratoneuron filicinum var. curvicaule
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 0.36: Cratoneuron filicinum___Cratoneuron filicinum var. elatum
+https://fm-digital-assets.fieldmuseum.org/2669/105/C2037874F.jpg, gradedNoMatchValid = 0.67: Ctenidium molluscum___Cratoneuron filicinum
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 0.1: Pieranum heteromallum___Dicranum heteromallum
+https://fm-digital-assets.fieldmuseum.org/444/536/C0020053F.jpg, gradedNoMatchValid = 0.38: Anastrophyllum minutus___Anastrophyllum minuts var. grandis
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___Fontinalis antipyretica
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___Lycopodiella cernua
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___Thelypteris esquirolii
+
+maximumEventDate: 7
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 0: ___N/A
+
+minimumEventDate: 11
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 1.0: ___1878-00-00
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___1980-02-11
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 1.0: ___1903-07-20
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 0.1: 1937-06-06___1937-05-06
+https://fm-digital-assets.fieldmuseum.org/2669/105/C2037874F.jpg, gradedNoMatchValid = 0.1: 1976-06-00___1876-06-00
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00798/C0079851F_lg.jpg, gradedNoMatchValid = 0.1: 1939-09-15___1989-09-15
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 0: 0000-00-00___N/A
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___1857-03-28
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___1986-07-25
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___1931-09-04
+
+municipality: 8
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 0: ___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 1.0: Cambira___
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___Mortagne
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 0: ___N/A
+
+originalMethod: 8
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 1.0: ___Mix of Handwritten and Typed
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 1.0: ___Handwritten
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___Typed
+https://fm-digital-assets.fieldmuseum.org/2674/351/C2078136F.jpg, gradedNoMatchValid = 0.82: Typed___Mix of Handwritten and Typed
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 1.0: ___Mix of Handwritten and Typed
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___Handwritten
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___Typed
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___Mix of Handwritten and Typed
+
+otherCatalogNumbers: 15
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2674/351/C2078136F.jpg, gradedNoMatchValid = 0: C2078136F___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 0: C0074110F___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/105/C2037874F.jpg, gradedNoMatchValid = 0: 1033115___N/A
+https://fm-digital-assets.fieldmuseum.org/440/996/C1048926F.jpg, gradedNoMatchValid = 0: C1048926F___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00798/C0079851F_lg.jpg, gradedNoMatchValid = 0: C0079851F___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00717/C0071775F_lg.jpg, gradedNoMatchValid = 0: C0071775F___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 0: C0079440F___N/A
+https://fm-digital-assets.fieldmuseum.org/444/536/C0020053F.jpg, gradedNoMatchValid = 0: 45811b, 45811a, 45811c-e___N/A
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 0: ___N/A
+
+plantDescription: 18
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2674/351/C2078136F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/105/C2037874F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/440/996/C1048926F.jpg, gradedNoMatchValid = 0: ___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00798/C0079851F_lg.jpg, gradedNoMatchValid = 0: ___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00717/C0071775F_lg.jpg, gradedNoMatchValid = 0: ___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/444/536/C0020053F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___Postrada, forma pequeñas colonias dispersas
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___Sori black
+https://fm-digital-assets.fieldmuseum.org/2116/004/C0090341F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2117/162/C0095075F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2541/809/C0090105F.jpg, gradedNoMatchValid = 0: ___N/A
+
+recordNumber: 8
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 1.0: ___s.n.
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 1.0: ___s.n.
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___1578/80
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 1.0: ___s.n.
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 1.0: s.n.___209
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___s.n.
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___2092
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___344
+
+secondPoliticalUnit: 9
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 1.0: Gladsax___Skåne
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 1: N/A___
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___Vendée
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 0: ___N/A
+
+secondaryCollectors: 9
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 1.0: ___H. R. L. T. Perraudière
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 0: ___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 1: N/A___Philard
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___C. Y. Chiao|H. C. Cheo
+https://fm-digital-assets.fieldmuseum.org/2116/004/C0090341F.jpg, gradedNoMatchValid = 0.1: H. Hertel | H. Kilias___H. Hertel|H. Kilias
+
+typeStatus: 18
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2674/351/C2078136F.jpg, gradedNoMatchValid = 0: No type status___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 0: no type status___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/105/C2037874F.jpg, gradedNoMatchValid = 0: no type status___N/A
+https://fm-digital-assets.fieldmuseum.org/440/996/C1048926F.jpg, gradedNoMatchValid = 0: no type status___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00798/C0079851F_lg.jpg, gradedNoMatchValid = 0: no type status___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00717/C0071775F_lg.jpg, gradedNoMatchValid = 0: no type status___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 0: no type status___N/A
+https://fm-digital-assets.fieldmuseum.org/444/536/C0020053F.jpg, gradedNoMatchValid = 0: no type status___N/A
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2116/004/C0090341F.jpg, gradedNoMatchValid = 0: no type status___N/A
+https://fm-digital-assets.fieldmuseum.org/2117/162/C0095075F.jpg, gradedNoMatchValid = 0: no type status___N/A
+https://fm-digital-assets.fieldmuseum.org/2541/809/C0090105F.jpg, gradedNoMatchValid = 0: no type status___N/A
+
+verbatimCollectors: 12
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 1.0: ___Bescherelle La Perraudière
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 1.0: ___Fitz-Gerald
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___R. Ochyra
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 1.0: ___I. Hagen
+https://fm-digital-assets.fieldmuseum.org/440/996/C1048926F.jpg, gradedNoMatchValid = 0.41: coll. by W. J. Eyerdam___W. J. Eyerdam
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00798/C0079851F_lg.jpg, gradedNoMatchValid = 0.19: By Walter Kiener___Walter Kiener
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 1: N/A___Chester & Philard
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___la Perraudière
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___Carvalho
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___Albert N. Steward, C. Y. Chiao, and H. C. Cheo
+https://fm-digital-assets.fieldmuseum.org/2116/004/C0090341F.jpg, gradedNoMatchValid = 0.13: leg. T. Feuerer, H. Hertel & H. Kilias___T. Feuerer, H. Hertel & H. Kilias
+https://fm-digital-assets.fieldmuseum.org/2541/809/C0090105F.jpg, gradedNoMatchValid = 0.29: leg. H.T. Lumbsch___H. T. Lumbsch
+
+verbatimCoordinates: 10
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___62° 09' 45" S, 58° 33' 45" W
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 0: ___N/A
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00798/C0079851F_lg.jpg, gradedNoMatchValid = 0.55: Lat. 40° N.___40° N
+https://fm-digital-assets.fieldmuseum.org/444/536/C0020053F.jpg, gradedNoMatchValid = 0.17: 77°33'N, 68°35' W.___77°33' N,68°35' W
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___32NMK7808
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2117/162/C0095075F.jpg, gradedNoMatchValid = 0.55: 46° 01' N and 83° 44' W___Sec. 25, T. 42 N., R. 5 E. 46° 01' N and 83° 44' W.
+
+verbatimDateIdentified: 8
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 0: 6.7.1937___N/A
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 0: ___N/A
+
+verbatimElevation: 11
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 1.0: ___2800 m
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___4 m
+https://fm-digital-assets.fieldmuseum.org/2674/351/C2078136F.jpg, gradedNoMatchValid = 0.09: 1300–1500 m___1300-1500 m
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 1.0: ___ca. 900
+https://fm-digital-assets.fieldmuseum.org/2669/105/C2037874F.jpg, gradedNoMatchValid = 1: N/A___
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00717/C0071775F_lg.jpg, gradedNoMatchValid = 0.39: Altitude ca. 2,200 feet___ca. 2,200 feet
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 0: ___N/A
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___390 m
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___980 m.
+https://fm-digital-assets.fieldmuseum.org/2541/809/C0090105F.jpg, gradedNoMatchValid = 0.5: 1400 m alt___1440 m
+
+verbatimEventDate: 11
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 1.0: ___12 Avril
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 1.0: ___C-78
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___11/II/1980
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 1.0: ___20/7 1903
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 0.38: 6/6 1937___6.V.1937
+https://fm-digital-assets.fieldmuseum.org/2669/105/C2037874F.jpg, gradedNoMatchValid = 0.11: June 1976___June 1876
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00798/C0079851F_lg.jpg, gradedNoMatchValid = 0.14: Sept. 15, 1939___Sep. 15, 1989
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 1: N/A___s.d.
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___28/3/57
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___25-VII-1986
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___Sep. 4, 1931
+
+verbatimIdentification: 13
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 1.0: ___Barbula membranifolia
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 1.0: ___Pottia latifolia C. Müll
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___Tortula fuscoviridis Card.
+https://fm-digital-assets.fieldmuseum.org/2674/351/C2078136F.jpg, gradedNoMatchValid = 0.06: Mittenothamnium diminutivum (Hpe.) E. G. Britt.___Mittenothammium diminutivum (Hpe.) E.G Britt.
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 1.0: ___Amblystegium curvicaule (Jur.)
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 0.02: Cratoneuron filicinum (L.) Loeske v. elatum Schimp___Cratoneuron filicinum (L.) Loeske v. elatum Schimp.
+https://fm-digital-assets.fieldmuseum.org/2669/105/C2037874F.jpg, gradedNoMatchValid = 0.39: Ctenidium molluscum (Hedw.) Spruce___Cratoneuron filicinum (Hedw.) Spruce
+https://fm-digital-assets.fieldmuseum.org/440/996/C1048926F.jpg, gradedNoMatchValid = 0.09: Pellia endiviifolia (Dicks) Dum.___Pellia endiviaefolia (Dicks) Drum.
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00717/C0071775F_lg.jpg, gradedNoMatchValid = 0.51: Ceratodon purpureus (Hedw.) Brid. (some plants approach C. conicus)___Ceratodon purpureus (Hedw.) Brid.
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 0.34: Pieranum heteromallum___Dicranum heteromallum var, Hw
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___Fontinalis antipyretica
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___Lycopodiella cernua (L.) Pic.-Serm.
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___Dryopteris esquirolii Christ
+
+verbatimLocality: 18
+
+https://fm-digital-assets.fieldmuseum.org/2523/698/C2051895F.jpg, gradedNoMatchValid = 1.0: ___Burre? près Angers
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 1.0: ___Pic du Midi Mts. Pyr.
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___ANTARCTICA, SOUTH SHETLAND ISLANDS - KING GEORGE ISLAND: Admiralty Bay, Ezcurra Inlet, Dufavel Island: SOPOT PEAK, at NW foot of the mount
+https://fm-digital-assets.fieldmuseum.org/2674/351/C2078136F.jpg, gradedNoMatchValid = 0.24: Vicinity of Finca San Roque, sierra east of Jinotega___Dept. Jinotega: Vicinity of Finca San Roque, sierra east of Jinotega
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 1.0: ___Søndre Trondhjems amt, Opdal Kongsvold
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 0.7: Baskemölla___Skåne: Gladsax parish, Baskemölla
+https://fm-digital-assets.fieldmuseum.org/2669/105/C2037874F.jpg, gradedNoMatchValid = 0.81: 15 km west of Kraków on wet calcareous rocks___S POLAND, Kraków-Częstochowa Upland: Czerna 15 km west of Kraków
+https://fm-digital-assets.fieldmuseum.org/440/996/C1048926F.jpg, gradedNoMatchValid = 0.35: Revillagigedo island___Ketchikan, Revillagigedo island
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00798/C0079851F_lg.jpg, gradedNoMatchValid = 0.81: LONGS PEAK___Rocky Mountain National Park LONGS PEAK. Larimer Co.
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00717/C0071775F_lg.jpg, gradedNoMatchValid = 0.82: In the wooded canyon of the Sacramento river___Sacramento river, Dunsmuir
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 0.41: Cambira Indiana___Cambria, Siviana?
+https://fm-digital-assets.fieldmuseum.org/444/536/C0020053F.jpg, gradedNoMatchValid = 0.27: Kangerdlluarssuk, w. side of Bowdoin Bay, Inglefield Bredning___NORTHWEST GREENLAND: Kangerdluarssuk, w. side of Bowdoin Bay, Inglefield Bredning
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___Rivière de Sèvre Mortagne Vendée
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___BIOCO: Malabo - Basilé road, km 13, cerca de Basilé
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___Ta Ho Yen, Fan Ching Shan
+https://fm-digital-assets.fieldmuseum.org/2116/004/C0090341F.jpg, gradedNoMatchValid = 0.11: Dolomiten, Rosengarten-Gruppe Purgametsch-Tal (an der Autostraße zwischen Nigerpaß und Tiers), nahe der Abzweigung des Sträßchens ins Tschamin-Tal bei Rungun___ITALIEN, Südtirol: Dolemiten, Rosengarten-Gruppe Purgametsch-Tal (an der Autostraße zwischen Nigerpaß und Tiers), nahe der Abzweigung des Sträßchens ins Tschamin-Tal bei Rungun
+https://fm-digital-assets.fieldmuseum.org/2117/162/C0095075F.jpg, gradedNoMatchValid = 0.88: Along road at Drummond airport Sec. 25 T. 42 N. R. 5 E.___CHIPPEWA COUNTY (DRUMMOND ISLAND): Along road at Drummond airport
+https://fm-digital-assets.fieldmuseum.org/2541/809/C0090105F.jpg, gradedNoMatchValid = 0.29: Jotunheimen alpine Matten an der Straße 55 zwischen Turtegrö und Hervassbu___NOWERGEN. Sogn og Fjordane. Jotunheimen, alpine Matten and der Straße 55 zwischen Turtegrö und Hervassbu
+
+locality: 15
+
+https://fm-digital-assets.fieldmuseum.org/2521/207/C2026385F.jpg, gradedNoMatchValid = 1.0: ___Pyrénées, Pic du Midi
+https://fm-digital-assets.fieldmuseum.org/2726/069/C2036209F.jpg, gradedNoMatchValid = 1.0: ___Antarctica, South Shetland Islands, King George Island, Admiralty Bay, Ezcurra Inlet, Dufavel Island, Sopot Peak, at NW foot of the mount
+https://fm-digital-assets.fieldmuseum.org/2669/168/C2047133F.jpg, gradedNoMatchValid = 1.0: ___Opddal, Kongsvold
+https://fm-digital-assets.fieldmuseum.org/2669/142/C2047118F.jpg, gradedNoMatchValid = 0.62: Baskemölla___Gladsax Parish, Baskemölla
+https://fm-digital-assets.fieldmuseum.org/2669/105/C2037874F.jpg, gradedNoMatchValid = 0.65: 15 kilometers west of Kraków___Kraków-Częstochowa Upland, Czerna, 15 km west of Kraków
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00798/C0079851F_lg.jpg, gradedNoMatchValid = 0.75: Longs Peak___Rocky Mountain National Park, Longs Peak
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00717/C0071775F_lg.jpg, gradedNoMatchValid = 0.66: In the wooded canyon of the Sacramento river___Sacramento River
+https://bryophyteportal.org/imglib/storage/f/bryophytes/C00794/C0079440F_lg.jpg, gradedNoMatchValid = 0.88: Cambira___Siviana?
+https://fm-digital-assets.fieldmuseum.org/444/536/C0020053F.jpg, gradedNoMatchValid = 0.19: Kangerdlluarssuk, west side of Bowdoin Bay, Inglefield Bredning___Kangerlussuak, west side of Bowdoin Bay, Inglefield Bay
+https://fm-digital-assets.fieldmuseum.org/2527/647/C2046783F.jpg, gradedNoMatchValid = 1.0: ___Rivière de Sèvre
+https://fm-digital-assets.fieldmuseum.org/1847/445/C0363985F.jpg, gradedNoMatchValid = 1.0: ___Bioco Island: Malabo-Basilé road, Km 13, cerca de Basilé
+https://fm-digital-assets.fieldmuseum.org/1904/108/C0377881F.jpg, gradedNoMatchValid = 1.0: ___Ta Ho Yen, Fan Ching Shan
+https://fm-digital-assets.fieldmuseum.org/2116/004/C0090341F.jpg, gradedNoMatchValid = 0.46: Dolomiten, Rosengarten-Gruppe Purgametsch-Tal near the junction of the path into Tschamin-Tal at Rungun___Dolemiten, Rosengarten-Gruppe Purgametsch-Tal (an der Autostraße zwischen Nigerpaß und Tiers), nahe der Abzweigung des Sträßchens ins Tschamin-Tal bei Rungun
+https://fm-digital-assets.fieldmuseum.org/2117/162/C0095075F.jpg, gradedNoMatchValid = 0.35: Along road at Drummond airport___Drummond Island|Along road at Drummond airport
+https://fm-digital-assets.fieldmuseum.org/2541/809/C0090105F.jpg, gradedNoMatchValid = 0.47: Jotunheimen between Turtegrö and Hervassbu___Sogn og Fjordane. Jotunheimen, Straße 55 zwischen Turtegrö und Hervassbu
+
+--------------------------------------------------
+
