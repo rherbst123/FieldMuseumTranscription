@@ -8,15 +8,15 @@
 COMPARISON_CONFIG:
     COMPARISON_TYPE: "batch_run"
     RUN_NAMES: [
-                ["claude-3.7-sonnet-2025-04-10", "post_claude-3.7-sonnet-2025-04-10"],
-                ["gpt-4.1-2025-04-10-cropped", "post_gpt-4.1-2025-04-10-cropped"],
-                ["gpt-4.1-2025-04-10-collage", "post_gpt-4.1-2025-04-10-collage"],
+                ["post_claude-3.7-sonnet-2025-04-10"],
+                ["post_gpt-4.1-2025-04-10-cropped"],
+                ["post_gpt-4.1-2025-04-10-collage"],
                 ]
-    BATCH_NAME: "260-claude-3.7-sonnet-gpt-4o-agreement-with_post" # this name is NOT optional; 
+    BATCH_NAME: "image_manipulation-cross_validation-with-tolerances" # this name is NOT optional; 
                                 # BATCH_NAME will be used instead of RUN_NAMES for the comparison filename.
                                     # individual run names will be listed in the comparison file: e.g., "gpt-4o-2024-06-11-1050"
 
-    COMPARISON_NAME: "image_manipulation"  # this name is optional
+    COMPARISON_NAME: ""  # this name is optional
                                         # the comparison name will be appended to BATCH_NAME for comparison files.
                                         # for example: BATCH_NAME: "gpt-4o-2024-repeats"
                                         #              COMPARISON_NAME: "skeleton_fields"
@@ -61,11 +61,38 @@ EDIT_DISTANCE_CONFIG:  # fieldnames have precedence over defaults, just in case 
         TRANSPOSITON_CHAR_COSTS: [[]]
 
 TOLERANCES_CONFIG: 
-    TOLERANCES_ALLOWED: False  # enter True to enable tolerances for comparisons
+    TOLERANCES_ALLOWED: True  # enter True to enable tolerances for comparisons
     TOLS: 
-        RANDO_FIELDNAME1:  # verbatimLocality:
-            -                   # - double_space
-            -                   #  - missing_abbreviation_point 
+        verbatimLocality:
+            - double_space
+            - missing_abbreviation_point
+            - missing_commas
+            - misaligned_spacing
+        verbatimIdentification:
+            - double_space
+            - missing_abbreviation_point
+            - missing_commas
+            - misaligned_spacing    
+        collectedBy:
+            - misaligned_spacing 
+        verbatimDateIdentified:
+            - misaligned_spacing
+            - double_space
+        identifiedBy:
+            - misaligned_spacing    
+        verbatimElevation:
+            - misaligned_spacing
+            - double_space
+            - missing_abbreviation_point
+        verbatimCoordinates:
+            - misaligned_spacing
+            - double_space
+        recordNumber:
+            - misaligned_spacing
+
+        RANDO_FIELDNAME1:  #  verbatimCollectors:
+            -                   #  - misaligned_spacing
+            -        
         RANDO_FIELDNAME2:  #  verbatimCoordinates:
             -                   #  - misaligned_spacing
         ENABLE_EDIT_DISTANCE_THRESHOLD: False   # enter True to allow using Levenshtein distance among the tolerances     

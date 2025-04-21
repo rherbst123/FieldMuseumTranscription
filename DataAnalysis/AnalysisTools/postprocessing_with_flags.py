@@ -48,7 +48,7 @@ class PostProcessor(Comparison):
                   
     def remove_name_identifiers(self, val, target_val):
         words = val.split()
-        temp_val =  " ".join([w.strip() for w in words if w.strip() not in ["coll.", "coll", "Coll.", "Coll", "leg.", "leg", "Leg.", "Leg", "det.", "det", "Det.", "Det"]]) 
+        temp_val =  " ".join([w.strip() for w in words if w.strip().lower() not in ["coll.", "coll", "leg.", "leg", "det.", "det"]])
         self.check_for_correction(val, temp_val, target_val)
         return temp_val
 

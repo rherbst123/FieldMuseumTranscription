@@ -58,7 +58,7 @@ class PostProcessor(Comparison):
 
     def remove_name_identifiers(self, val):
         words = val.split()
-        return " ".join([w.strip() for w in words if w.strip() not in ["coll.", "coll", "Coll.", "Coll", "leg.", "leg", "Leg.", "Leg", "det.", "det", "Det.", "Det"]]) 
+        return " ".join([w.strip() for w in words if w.strip().lower() not in ["coll.", "coll", "leg.", "leg", "det.", "det"]]) 
 
     def clean_verbatim_coordinates(self, val):
         val = self.collapse_spacing(val)
@@ -104,7 +104,7 @@ if __name__ == "__main__":
 
     #############################################################
     # copy in the name of the configuration file to be used below
-    config_filename = "latest_prompt_runs.yaml"
+    config_filename = "post_processing_image_manipulation.yaml"
     ##############################################################
     
     config = PostProcessor.read_configuration_from_yaml(CONFIG_PATH, config_filename)

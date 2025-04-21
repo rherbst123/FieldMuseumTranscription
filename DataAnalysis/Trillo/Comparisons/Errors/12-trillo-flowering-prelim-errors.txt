@@ -1,0 +1,275 @@
+
+comparison_config = {'COMPARISON_TYPE': 'single_run', 'RUN_NAME': '12-trillo-flowering', 'COMPARISON_NAME': 'prelim', 'RECORD_REF_FIELDNAME': 'imageName', 'PROMPT_FILENAME': 'Prompt 1.5.4.txt', 'SKIP_LIST': [], 'SELECTED_FIELDS_LIST': [], 'USE_SELECTED_FIELDS_ONLY': False, 'GROUND_TRUTH_FILENAME': '12-trillo-flowering.csv', 'TRANSCRIPTIONS_PATH': 'DataAnalysis/Trillo/Transcriptions/', 'COMPARISONS_PATH': 'DataAnalysis/Trillo/Comparisons/', 'PROMPTS_PATH': 'Prompts/'}
+edit_distance_config = {'USE_FIELDNAMES_EXCLUSIVELY': False, 'FIELDNAMES_COSTS': {'RANDO_FIELDNAME1': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}, 'RANDO_FIELDNAME2': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}, 'DEFAULT_FIELDS_CUSTOM_COSTS': {'INSERT_CHAR_COSTS': [[]], 'DELETE_CHAR_COSTS': [[]], 'SUBSTITUTION_CHAR_COSTS': [[]], 'TRANSPOSITON_CHAR_COSTS': [[]]}}
+tolerances_config = {'TOLERANCES_ALLOWED': False, 'TOLS': {'RANDO_FIELDNAME1': [None, None], 'RANDO_FIELDNAME2': [None], 'ENABLE_EDIT_DISTANCE_THRESHOLD': False, 'EDIT_DISTANCE_THRESHOLDS': {'RANDO_FIELDNAME1': {'SCALED': None, 'VALUE': None}, 'RANDO_FIELDNAME2': {'SCALED': None, 'VALUE': None}, 'DEFAULT': {'SCALED': None, 'VALUE': None}}}}
+
+
+spreadsource = '12-trillo-flowering-transcriptions.csv'
+
+associatedTaxa: 5
+
+V0057262F, gradedNoMatchValid = 0: Lepidium virginicum___N/A
+V0613170F, gradedNoMatchValid = 0: Stachytarpheta canescens___N/A
+V0613176F, gradedNoMatchValid = 0: Liquidambar | Camellia | Lagerstroemia___N/A
+V0362457F, gradedNoMatchValid = 0: Lonchocarpus obtinus___N/A
+V0574012F, gradedNoMatchValid = 0: Phaeosphaerion persicariaefolium___N/A
+
+identifiedBy: 7
+
+V0057262F, gradedNoMatchValid = 0: C. L. Hitchc.___N/A
+V0613170F, gradedNoMatchValid = 0: R. Liesner___N/A
+V0613171F, gradedNoMatchValid = 0: V. Tikhomirov___N/A
+V0613172F, gradedNoMatchValid = 0: M. J. M. Christenhusz___N/A
+V0613173F, gradedNoMatchValid = 0: G. (G) Barriera___N/A
+V0613176F, gradedNoMatchValid = 0: T. N. Ninh___N/A
+V0362457F, gradedNoMatchValid = 0: M. Sousa___N/A
+
+latestScientificName: 12
+
+V0057262F, gradedNoMatchValid = 0.73: Lepidium ruderale___Lepidium virginicum var. tepicense C. L. Hitchc.
+V0469088F, gradedNoMatchValid = 0.58: Piper variegatum___Piper cf. arboreum Aubl.
+V0558575F, gradedNoMatchValid = 0.43: Peperomia serpens___Peperomia serpens (Sw.) Loudon
+V0571031F, gradedNoMatchValid = 0.24: Frankenia corymbosa___Frankenia corymbosa Desf.
+V0613170F, gradedNoMatchValid = 0.21: Stachytarpheta pohliana___Stachytarpheta pohliana Cham.
+V0613171F, gradedNoMatchValid = 0.4: Turgenia latifolia___Turgenia latifolia (L.) Hoffm.
+V0613172F, gradedNoMatchValid = 0.53: Ilex quianensis___Ilex guianensis (Aubl.) Kuntze
+V0613173F, gradedNoMatchValid = 0.32: Ilex berteroi___Ilex berteroi Loes.
+V0613174F, gradedNoMatchValid = 0.38: Frankenia hirsuta___Frankenia hispida DC.
+V0613176F, gradedNoMatchValid = 0.4: Lagerstroemia ovalifolia___Lagerstroemia ovalifolia Teijsm. & Binn.
+V0362457F, gradedNoMatchValid = 0.33: Lonchocarpus parviflorus___Lonchocarpus orotinus
+V0574012F, gradedNoMatchValid = 0.29: Commelina erecta___Commelina robusta
+
+minimumEventDate: 12
+
+V0057262F, gradedNoMatchValid = 0.91: 1927-02-16___16 Feb 1927
+V0469088F, gradedNoMatchValid = 0.91: 1970-03-30___30 Mar 1970
+V0558575F, gradedNoMatchValid = 0.91: 1946-08-26___26 Aug 1946
+V0571031F, gradedNoMatchValid = 0.91: 1880-05-01___10 May 1880
+V0613170F, gradedNoMatchValid = 1.0: 1990-09-22___22 Sep 1990
+V0613171F, gradedNoMatchValid = 0.91: 1968-06-13___13 Jun 1968
+V0613172F, gradedNoMatchValid = 0.91: 1976-04-14___14 Apr 1976
+V0613173F, gradedNoMatchValid = 0.82: 1929-01-22___22 Jan 1929
+V0613174F, gradedNoMatchValid = 0.91: 1893-05-29___29 May 1893
+V0613176F, gradedNoMatchValid = 0.91: 2000-04-22___22 Apr 2000
+V0362457F, gradedNoMatchValid = 0.9: 1989-06-06___Jun 1890
+V0574012F, gradedNoMatchValid = 1.0: 1969-12-08___8 Dec 1969
+
+municipality: 6
+
+V0057262F, gradedNoMatchValid = 0: Tepic___N/A
+V0469088F, gradedNoMatchValid = 0: Mitu___N/A
+V0571031F, gradedNoMatchValid = 0: Arzew___N/A
+V0613174F, gradedNoMatchValid = 0: Phalerum___N/A
+V0613176F, gradedNoMatchValid = 0: Ban Namphao___N/A
+V0574012F, gradedNoMatchValid = 0: Esquipulas___N/A
+
+originalMethod: 12
+
+V0057262F, gradedNoMatchValid = 0: Mix of Handwritten and Typed___N/A
+V0469088F, gradedNoMatchValid = 0: Typed___N/A
+V0558575F, gradedNoMatchValid = 0: Mix of Handwritten and Typed___N/A
+V0571031F, gradedNoMatchValid = 0: Handwritten___N/A
+V0613170F, gradedNoMatchValid = 0: Typed___N/A
+V0613171F, gradedNoMatchValid = 0: Mix of Handwritten and Typed___N/A
+V0613172F, gradedNoMatchValid = 0: Typed___N/A
+V0613173F, gradedNoMatchValid = 0: Mix of Handwritten and Typed___N/A
+V0613174F, gradedNoMatchValid = 0: Handwritten___N/A
+V0613176F, gradedNoMatchValid = 0: Typed___N/A
+V0362457F, gradedNoMatchValid = 0: Mix of Handwritten and Typed___N/A
+V0574012F, gradedNoMatchValid = 0: Typed___N/A
+
+otherCatalogNumbers: 4
+
+V0057262F, gradedNoMatchValid = 0.5: 701318|22840___701318
+V0571031F, gradedNoMatchValid = 0.54: 835959|835958___835959
+V0613176F, gradedNoMatchValid = 0.94: 0GHA1731-T | 0GHA1732-U | GHA1733-V___2224146
+V0362457F, gradedNoMatchValid = 0.65: 576895|2781|54555___576895
+
+recordNumber: 8
+
+V0057262F, gradedNoMatchValid = 1.0: s.n.___22840
+V0469088F, gradedNoMatchValid = 0.2: 24663___2466
+V0558575F, gradedNoMatchValid = 0.4: 438___34438
+V0571031F, gradedNoMatchValid = 0: s.n.___N/A
+V0613171F, gradedNoMatchValid = 0: s.n.___N/A
+V0613172F, gradedNoMatchValid = 0.38: No 35707___35707
+V0613173F, gradedNoMatchValid = 1.0: s.n.___11287
+V0362457F, gradedNoMatchValid = 1.0: JB-IBUNAH___2731
+
+verbatimCollectors: 11
+
+V0057262F, gradedNoMatchValid = 0: Marcus E Jones A M___N/A
+V0469088F, gradedNoMatchValid = 0: Djaja D Soejarto & T E Lockwood___N/A
+V0558575F, gradedNoMatchValid = 0: Felix Woytkowski___N/A
+V0571031F, gradedNoMatchValid = 0: Leg't DEBEAUX___N/A
+V0613170F, gradedNoMatchValid = 0: Marko Lewis & Robin Clark___N/A
+V0613171F, gradedNoMatchValid = 0: О Л Ловелиус, А П Мишенкова, Ю Л Меницкий, Н Г Челинцев, В Н Сипливинский___N/A
+V0613172F, gradedNoMatchValid = 0: George R Proctor___N/A
+V0613173F, gradedNoMatchValid = 0: leg E L Ekman___N/A
+V0613176F, gradedNoMatchValid = 0: D D Soejarto, S Bouamanivong, M Sensanang, S Vorasing___N/A
+V0362457F, gradedNoMatchValid = 0: P Martinez A y C Bernal G___N/A
+V0574012F, gradedNoMatchValid = 0: Antonio Molina R Albertina R Molina___N/A
+
+verbatimDateIdentified: 7
+
+V0057262F, gradedNoMatchValid = 0: 1945___N/A
+V0558575F, gradedNoMatchValid = 0: 26 AGO 1946___N/A
+V0613170F, gradedNoMatchValid = 0: 2009___N/A
+V0613172F, gradedNoMatchValid = 0: 2014___N/A
+V0613173F, gradedNoMatchValid = 0: 2021___N/A
+V0613176F, gradedNoMatchValid = 0: August 08, 2000___N/A
+V0362457F, gradedNoMatchValid = 0: Oct 1987___N/A
+
+verbatimEventDate: 12
+
+V0057262F, gradedNoMatchValid = 0: Teple, Nayarit, Feb, 16 1927___N/A
+V0469088F, gradedNoMatchValid = 0: March 30, 1970___N/A
+V0558575F, gradedNoMatchValid = 0: August 26, 1946___N/A
+V0571031F, gradedNoMatchValid = 0: To mai 1880___N/A
+V0613170F, gradedNoMatchValid = 0: 22 September 1990___N/A
+V0613171F, gradedNoMatchValid = 0: 13-14 июня 1968 г___N/A
+V0613172F, gradedNoMatchValid = 0: April 14, 1976___N/A
+V0613173F, gradedNoMatchValid = 0: 22 I 1929___N/A
+V0613174F, gradedNoMatchValid = 0: 2 29 Maj 1893___N/A
+V0613176F, gradedNoMatchValid = 0: April 22, 2000___N/A
+V0362457F, gradedNoMatchValid = 0: 6 junio 1989___N/A
+V0574012F, gradedNoMatchValid = 0: Dec 8, 1969___N/A
+
+verbatimIdentification: 12
+
+V0057262F, gradedNoMatchValid = 0: Lepidium ruderale___N/A
+V0469088F, gradedNoMatchValid = 0: Piper cf variegatum HBK___N/A
+V0558575F, gradedNoMatchValid = 0: Peperomia serpens___N/A
+V0571031F, gradedNoMatchValid = 0: Frankenia corymbosa Dufp___N/A
+V0613170F, gradedNoMatchValid = 0: Stachytarpheta pohliana vel sp nov Cham Stachytarpheta canescens Humb Bonpl & Kunth___N/A
+V0613171F, gradedNoMatchValid = 0: Turgenia latifolia (L.) Hoffm___N/A
+V0613172F, gradedNoMatchValid = 0: Ilex quianensis (Aubl) Ktze___N/A
+V0613173F, gradedNoMatchValid = 0: Ilex Berteroi Loes___N/A
+V0613174F, gradedNoMatchValid = 0: Frankenia hissida DC. Fr hirsuta Lin, Flor Graec tab 343!___N/A
+V0613176F, gradedNoMatchValid = 0: Lagerstroemia ovalifolia Teijsm & Binn___N/A
+V0362457F, gradedNoMatchValid = 0: Lonchocarpus parviflorus Benth incluyendo como sinonimo a: L obtinus Pittier___N/A
+V0574012F, gradedNoMatchValid = 0: Commeline volosta Kunth phaeosphaerion persicariaefolium (DC) Clarke Commelina erecta L___N/A
+
+verbatimLocality: 11
+
+V0057262F, gradedNoMatchValid = 0.71: Teple, Nayarit___Tepic
+V0469088F, gradedNoMatchValid = 0.72: vicinity of Mitu, tropical rain forest cut, alt 200 m___Vicinity of Mitu
+V0571031F, gradedNoMatchValid = 0.26: a l'embouchure de l'oved___Arzew: a l'embouchure de l'oued
+V0613170F, gradedNoMatchValid = 0: "Cerro Amboró" - During this trip I climbed up the Río Isama to the summit of Cerro Amboró in Parque Nacional de Amboró As the trail is not established and winds over ridges and dense forest I have little idea of the exact locality Nevertheless today I collected between the camp used to reach the summit and the edge of the grasslands about 3 km E of the summit 60 km W of Santa Cruz A number of habitats collected Loma forest at Woodland tangled with bamboo tangled Clusia woodland Ericaceous-Clusia scrub upper riverine woodlands___N/A
+V0613171F, gradedNoMatchValid = 0: оз Барманцак Степные склоны Западный берег озера___N/A
+V0613172F, gradedNoMatchValid = 0: Near junction of All Pines road & Southern Highway___N/A
+V0613173F, gradedNoMatchValid = 0: pror Sto Do maiga, & l. Maviedute, day Sillaide___N/A
+V0613174F, gradedNoMatchValid = 0: In arenosis maritimes sukhumidir ad Phalerum frez___N/A
+V0613176F, gradedNoMatchValid = 0.34: ca 5 km east of town proper___Ban Namphao, ca. 5 km east of town proper
+V0362457F, gradedNoMatchValid = 0: Zone littorale de la baie de Salinas___N/A
+V0574012F, gradedNoMatchValid = 0: Occasional on dry slopes Pine-oak forest of Quebrada Obscura vicinity of Esquipulas village___N/A
+
+collectedBy: 7
+
+V0469088F, gradedNoMatchValid = 0.24: D. D. Soejarto___Djaja D. Soejarto
+V0558575F, gradedNoMatchValid = 0.25: F. Woytkowski___Felix Woytkowski
+V0571031F, gradedNoMatchValid = 0.9: D. DEBEAUX___Debeaux
+V0613170F, gradedNoMatchValid = 0.27: M. Lewis___M. A. Lewis
+V0613174F, gradedNoMatchValid = 1: N/A___de Heldreich
+V0362457F, gradedNoMatchValid = 0.93: P. Martinez A.___Tonduz
+V0574012F, gradedNoMatchValid = 0.39: A. Molina R.___Antonio Molina R. 
+
+typeStatus: 11
+
+V0469088F, gradedNoMatchValid = 0: no type status___N/A
+V0558575F, gradedNoMatchValid = 0: no type status___N/A
+V0571031F, gradedNoMatchValid = 0: no type status___N/A
+V0613170F, gradedNoMatchValid = 0: no type status___N/A
+V0613171F, gradedNoMatchValid = 0: no type status___N/A
+V0613172F, gradedNoMatchValid = 0: no type status___N/A
+V0613173F, gradedNoMatchValid = 0: no type status___N/A
+V0613174F, gradedNoMatchValid = 0: no type status___N/A
+V0613176F, gradedNoMatchValid = 0: no type status___N/A
+V0362457F, gradedNoMatchValid = 0: Isotype___N/A
+V0574012F, gradedNoMatchValid = 0: no type status___N/A
+
+verbatimElevation: 5
+
+V0469088F, gradedNoMatchValid = 0.44: alt 200 m___200 m
+V0558575F, gradedNoMatchValid = 0.8: 180 m. Ht. of Pl. 0.35 m.___170-180 m
+V0613170F, gradedNoMatchValid = 0: 900-1150 m 900-950 m 950-1050 m 1050-1200 m 1150-1200 m 1150 m 900-1200 m___N/A
+V0613172F, gradedNoMatchValid = 0: C. 45 ft.___N/A
+V0613176F, gradedNoMatchValid = 0.57: ca 500m___500 m
+
+plantDescription: 7
+
+V0558575F, gradedNoMatchValid = 0.47: Flower green Leaves soft flashy___Perennial herb 0.35 m. Flowers green. Leaves soft, fleshy
+V0613170F, gradedNoMatchValid = 0: 2 m high thin shrub along riverbed Flowers deep purple___N/A
+V0613171F, gradedNoMatchValid = 0: ___N/A
+V0613172F, gradedNoMatchValid = 0: Shrub 3 m tall; flowers white___N/A
+V0613173F, gradedNoMatchValid = 0: slack small or even medium sized tree; fl white tetrame female___N/A
+V0613176F, gradedNoMatchValid = 0.02: Tree 7m tall, dbh 10cm, bark gray, slash dull purplish white, wood pale brown, flowers deep pink to violet, stamens deep yellow, filaments pink-red, fruits dull reddish brown___Tree 7 m tall, dbh 10 cm, bark gray, slash dull purplish white, wood pale brown, flowers deep pink to violet, stames deep yellow, filaments pink-red, fruits dull reddish brown
+V0362457F, gradedNoMatchValid = 0: Plante contarienses exsiccatæ___N/A
+
+secondaryCollectors: 6
+
+V0558575F, gradedNoMatchValid = 0.29: D. Tuesta Diaz | J. Woytkowski___Diego Tuesta Diaz, Jorge Woytkowski
+V0613170F, gradedNoMatchValid = 0: R. Clark___N/A
+V0613171F, gradedNoMatchValid = 0: A. P. Mishenkova | Yu. L. Menitskii | N. G. Chelintsev | V. N. Siplivinskii___N/A
+V0613176F, gradedNoMatchValid = 0.09: S. Bouamanivong | M. Sensanang | S. Vorasing___S. Bouamanivong, M. Sensanang, S. Vorasing
+V0362457F, gradedNoMatchValid = 0: C. Bernal G.___N/A
+V0574012F, gradedNoMatchValid = 0.42: A. R. Molina___Albertina R. Molina
+
+habitat: 8
+
+V0571031F, gradedNoMatchValid = 1: N/A___a l'embouchure de l'oued
+V0613170F, gradedNoMatchValid = 0: As the trail is not established and winds over ridges and dense forest A number of habitats collected Loma forest Woodland tangled with bamboo tangled Clusia woodland Ericaceous-Clusia scrub upper riverine woodlands___N/A
+V0613171F, gradedNoMatchValid = 0: Shrubs___N/A
+V0613172F, gradedNoMatchValid = 0: Thickets in scrubby pine savanna___N/A
+V0613174F, gradedNoMatchValid = 1: N/A___in arenosis maritimis
+V0613176F, gradedNoMatchValid = 0.01: Tropical rain forest; a mosaic of cleared lands, previously logged forest with an open canopy, and little disturbed closed canopy forest, with Liquidambar, Camellia, and Lagerstroemia association___Tropical rain forest; a mosaic of cleared lands, previously logged forest with an open canopy, and little disturbed closed canopy forest with Liquidambar, Camellia, and Lagerstroemia association 
+V0362457F, gradedNoMatchValid = 0.81: Plantae costaricenses exsiccatæ___Zone littorale
+V0574012F, gradedNoMatchValid = 0.9: Occasional on dry slopes Pine-oak forest of Quebrada Obscura vicinity of Esquipulas village___Dry slopes
+
+locality: 6
+
+V0571031F, gradedNoMatchValid = 0.68: at the mouth of the oved___Arzew: a l'embouchure de l'oued
+V0613170F, gradedNoMatchValid = 0: Cerro Amboró in Parque Nacional de Amboró about 3 km E of the summit 60 km W of Santa Cruz___N/A
+V0613171F, gradedNoMatchValid = 0: Barmanacak lake Steppe slopes Western shore of the lake___N/A
+V0613172F, gradedNoMatchValid = 0: Near junction of All Pines road & Southern Highway___N/A
+V0613174F, gradedNoMatchValid = 0: In arenosis maritimes sukhumidir ad Phalerum___N/A
+V0613176F, gradedNoMatchValid = 0.46: 5 kilometers east of town proper___Ban Namphao, ca. 5 km east of town proper
+
+country: 5
+
+V0613170F, gradedNoMatchValid = 0: Bolivia___N/A
+V0613171F, gradedNoMatchValid = 0: Russia___N/A
+V0613172F, gradedNoMatchValid = 0: Belize___N/A
+V0613173F, gradedNoMatchValid = 0: Dominican Republic___N/A
+V0362457F, gradedNoMatchValid = 0.8: Mexico___Costa Rica
+
+firstPoliticalUnit: 5
+
+V0613170F, gradedNoMatchValid = 0: Santa Cruz___N/A
+V0613171F, gradedNoMatchValid = 0: Kalmykia___N/A
+V0613172F, gradedNoMatchValid = 0: Stann Creek___N/A
+V0613173F, gradedNoMatchValid = 0: Santo Domingo___N/A
+V0613176F, gradedNoMatchValid = 0.45: Bolikhamsay Province___Bolikhamsay
+
+secondPoliticalUnit: 3
+
+V0613170F, gradedNoMatchValid = 0: Ichilo Province___N/A
+V0613173F, gradedNoMatchValid = 0: Hana Castera___N/A
+V0613176F, gradedNoMatchValid = 0.59: Khamkeut District___Khamheut
+
+verbatimCoordinates: 2
+
+V0613170F, gradedNoMatchValid = 0: 17°50'S 63°48′W___N/A
+V0613176F, gradedNoMatchValid = 0.31: 18°10′N 05°00'E___18 10 N, 05 00 E
+
+accessionNumber: 2
+
+V0613171F, gradedNoMatchValid = 0: ___N/A
+V0613176F, gradedNoMatchValid = 0: 2224146___N/A
+
+maximumEventDate: 1
+
+V0613171F, gradedNoMatchValid = 0: 1968-06-14___N/A
+
+--------------------------------------------------
+

@@ -70,10 +70,7 @@ class FieldTolerances:
         if fieldname not in self.tols:
             return False
         tols = self.tols[fieldname]
-        passes_threshold = self.is_within_threshold(fieldname, observed_val, true_val) 
-        if passes_threshold:
-            self.logger.info(f"{fieldname = }, {observed_val = }, {true_val = }")
-        passing_grade = self.use_edit_distance_threshold and passes_threshold
+        passing_grade = self.use_edit_distance_threshold and self.is_within_threshold(fieldname, observed_val, true_val) 
         for tol in tols + self.defaults:
             func_name = self.functions_dict[tol]
             observed_val, true_val = func_name(observed_val, true_val)   

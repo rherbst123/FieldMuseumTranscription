@@ -1,37 +1,21 @@
-# this config was created on 04/18/2025
-
-# enter the name of this file into `cross_validationX2_and_accuracy.py`
-# the only modifications needed to run those scripts are in the COMPARISON_CONFIG
-# the other configurations are optional
-
 
 COMPARISON_CONFIG:
-    COMPARISON_TYPE: "batch_run"
-    RUN_NAMES: [
-                "claude-3.7-sonnet-2025-04-10",
-                "gpt-4.1-2025-04-10-cropped",
-                "gpt-4.1-2025-04-10-collage",
-                ]
-    BATCH_NAME: "260-image_manipulation-with-tolerances" # this name is NOT optional; 
-                                # BATCH_NAME will be used instead of RUN_NAMES for the comparison filename.
-                                    # individual run names will be listed in the comparison file: e.g., "gpt-4o-2024-06-11-1050"
-
-    COMPARISON_NAME: ""  # this name is optional
-                                        # the comparison name will be appended to BATCH_NAME for comparison files.
-                                        # for example: BATCH_NAME: "gpt-4o-2024-repeats"
-                                        #              COMPARISON_NAME: "skeleton_fields"
-                                        # will produce the file: "gpt-4o-repeats-skeleton_fields-comparsions.csv" 
-                                                    
-                                
-                            
-    RECORD_REF_FIELDNAME: "accessURI"   # this is the fieldname used for reference in the errors file, here a URL
-    PROMPT_FILENAME: "Prompt 1.5.2.txt"
-    SKIP_LIST: []  # these are any fields you wish to exclude
+    COMPARISON_TYPE: "single_run"
+    RUN_NAME: "12-trillo-flowering"  # e.g., "claude-3.5-sonnet-2024-08-02-1600-prompt1.5.2",
+                  #see DataAnalsis/README.md for run naming conventions
+    COMPARISON_NAME: "prelim"    # this name is optional; 
+                                # the comparison name will be appended to RUN_NAME for comparison files.
+                                # for example: RUN_NAME: "gpt-4o-2024-06-11-1050"
+                                #              COMPARISON_NAME: "skeleton_fields"
+                                # will produce the file: "gpt-4o-2024-06-11-1050-skeleton_fields-comparsions.csv"
+    RECORD_REF_FIELDNAME: "imageName"   # this is the fieldname used for reference in the errors file, here a URL
+    PROMPT_FILENAME: "Prompt 1.5.4.txt"
+    SKIP_LIST: [] # these are any fields you wish to exclude
     SELECTED_FIELDS_LIST: []      # if you want to use only certain fields, add them to "SELECTED_FIELDS_LIST"                       
     USE_SELECTED_FIELDS_ONLY: False    # and set "USE_SELECTED_FIELDS_ONLY" to True
-    GROUND_TRUTH_FILENAME: "260ImagesGroundTruth.csv"    # "100-bryophytes-typed.csv"
-    TRANSCRIPTIONS_PATH: "DataAnalysis/RileyImageManipulation/Transcriptions/"
-    COMPARISONS_PATH: "DataAnalysis/RileyImageManipulation/Comparisons/"
+    GROUND_TRUTH_FILENAME: "12-trillo-flowering.csv"    # "100-bryophytes-typed.csv"
+    TRANSCRIPTIONS_PATH: "DataAnalysis/Trillo/Transcriptions/"
+    COMPARISONS_PATH: "DataAnalysis/Trillo/Comparisons/"
     PROMPTS_PATH: "Prompts/"
 
 # THE FOLLOWING CONFIGURATIONS ARE OPTIONAL
@@ -61,38 +45,11 @@ EDIT_DISTANCE_CONFIG:  # fieldnames have precedence over defaults, just in case 
         TRANSPOSITON_CHAR_COSTS: [[]]
 
 TOLERANCES_CONFIG: 
-    TOLERANCES_ALLOWED: True  # enter True to enable tolerances for comparisons
+    TOLERANCES_ALLOWED: False  # enter True to enable tolerances for comparisons
     TOLS: 
-        verbatimLocality:
-            - double_space
-            - missing_abbreviation_point
-            - missing_commas
-            - misaligned_spacing
-        verbatimIdentification:
-            - double_space
-            - missing_abbreviation_point
-            - missing_commas
-            - misaligned_spacing    
-        collectedBy:
-            - misaligned_spacing 
-        verbatimDateIdentified:
-            - misaligned_spacing
-            - double_space
-        identifiedBy:
-            - misaligned_spacing    
-        verbatimElevation:
-            - misaligned_spacing
-            - double_space
-            - missing_abbreviation_point
-        verbatimCoordinates:
-            - misaligned_spacing
-            - double_space
-        recordNumber:
-            - misaligned_spacing
-
-        RANDO_FIELDNAME1:  #  verbatimCollectors:
-            -                   #  - misaligned_spacing
-            -        
+        RANDO_FIELDNAME1:  # verbatimLocality:
+            -                   # - double_space
+            -                   #  - missing_abbreviation_point 
         RANDO_FIELDNAME2:  #  verbatimCoordinates:
             -                   #  - misaligned_spacing
         ENABLE_EDIT_DISTANCE_THRESHOLD: False   # enter True to allow using Levenshtein distance among the tolerances     
@@ -109,12 +66,7 @@ TOLERANCES_CONFIG:
                 VALUE:               # a scaled value less than VALUE will be within tolerances
 
 POST_PROCESSING_CONFIG:    # this is a list of fieldnames, the data for which can be post-processed in `post_processor.py`
-    - collectedBy
-    - identifiedBy
-    - verbatimCollectors
-    - secondaryCollectors
-    - locality   #  - verbatimCollectors
-    - verbatimElevation
+    - RANDO_FIELDNAME1   #  - verbatimCollectors
     - RANDO_FIELDNAME2   #  - verbatimCoordinates
 
                         

@@ -237,7 +237,7 @@ if __name__ == "__main__":
     
     ###########################################################
     # copy in the name of the configuration file to be used below
-    config_filename = "18-mixed-trillo-gpt-4o.yaml" 
+    config_filename = "trillo-flowering.yaml" 
     ###########################################################
     CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
     configuration = Comparison.read_configuration_from_yaml(CONFIG_PATH, config_filename)
