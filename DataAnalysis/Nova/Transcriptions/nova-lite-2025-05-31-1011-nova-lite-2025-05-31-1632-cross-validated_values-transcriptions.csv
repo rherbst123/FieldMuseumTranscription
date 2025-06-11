@@ -1,0 +1,101 @@
+associatedTaxa,collectedBy,country,firstPoliticalUnit,habitat,identifiedBy,latestScientificName,locality,maximumEventDate,minimumEventDate,municipality,originalMethod,otherCatalogNumbers,recordNumber,secondPoliticalUnit,secondaryCollectors,typeStatus,verbatimCollectors,verbatimCoordinates,verbatimDateIdentified,verbatimElevation,verbatimEventDate,verbatimIdentification,verbatimLocality
+N/A,M. Fleischer,Australia,Queensland,N/A,PASS,Macromitrium,PASS,N/A,1903-03-25,PASS,Typed,PASS,PASS,PASS,nr. B 2734,no type status,PASS,N/A,N/A,N/A,25.3.1903,Macromitrium,PASS
+N/A,M. Fleischer,Australia,Queensland,N/A,N/A,Macromitrium,PASS,N/A,1903-03-25,N/A,Typed,PASS,PASS,N/A,PASS,PASS,PASS,N/A,N/A,N/A,25.3.1903,Macromitrium,PASS
+PASS,M. Fleischer,Australia,New South Wales,N/A,N/A,Macromitrium,PASS,N/A,1903-04-06,PASS,Typed,PASS,1076824,PASS,,no type status,PASS,N/A,N/A,N/A,6.4.1903,Macromitrium,"Blue Mountains bei Sydney, Wentworth Falls."
+N/A,M. Fleischer,Australia,Queensland,N/A,N/A,Macromitrium,PASS,PASS,1903-03-20,N/A,Typed,N/A,1076705,N/A,B 2697,no type status,leg. M. Fleischer nr. B 2697,N/A,N/A,N/A,20.3.1903,Macromitrium,bei Brisbane.
+PASS,T. Nakajima,Japan,PASS,PASS,PASS,Macromitrium gymnostomum,PASS,N/A,1971-03-27,PASS,Typed,C0288544F,1043494,PASS,PASS,no type status,PASS,N/A,"Mar. 27, 1971",330 m alt.,"Mar. 27, 1971",PASS,PASS
+PASS,PASS,Japan,PASS,PASS,A. Noguchi,Macromitrium gymnostomum,PASS,1958-05-04,1958-05-04,,PASS,PASS,1043492,,PASS,no type status,T. Nakajima,,PASS,PASS,PASS,Macromitrium gymnostomum Sull. et Lesq.,PASS
+N/A,PASS,Japan,Wakayama,PASS,A. Noguchi,Macromitrium gymnostomum,PASS,N/A,PASS,PASS,Typed,C0288546F,1043491,N/A,N/A,no type status,PASS,N/A,PASS,PASS,PASS,Musci Japonici,PASS
+N/A,PASS,Japan,Miyazaki,N/A,PASS,Macromitrium gymnostomum,PASS,N/A,1948-10-01,PASS,Typed,PASS,1285078,PASS,PASS,no type status,PASS,N/A,PASS,PASS,Oct 1948,PASS,PASS
+N/A,PASS,Japan,PASS,N/A,PASS,Macromitrium gymnostomum,PASS,PASS,1898-04-20,PASS,Typed,PASS,1000415,N/A,PASS,no type status,PASS,N/A,N/A,N/A,20.4.1898,Macromitrium gymnostomum S. L.,PASS
+N/A,PASS,Japan,N/A,N/A,PASS,Macromitrium gymnostomum,PASS,1898-11-00,1898-10-00,N/A,Typed,PASS,1000416,N/A,PASS,no type status,PASS,N/A,N/A,N/A,PASS,PASS,PASS
+N/A,PASS,Papua New Guinea,Morobe,N/A,D. H. Vitt,Macromitrium incurvifolium,PASS,PASS,1975-09-03,PASS,Typed,PASS,PASS,N/A,PASS,no type status,PASS,N/A,N/A,PASS,9-3 - 1975,PASS,"Papua New Guinea, Morobe Distr., Lae. In fork of Plumeria tree in garden."
+PASS,PASS,Papua New Guinea,Sepik Distr.,PASS,PASS,Macromitrium longicaule,PASS,N/A,1975-05-20,PASS,Typed,PASS,18543,PASS,PASS,no type status,PASS,PASS,N/A,PASS,20.5.1975,PASS,PASS
+N/A,PASS,Papua New Guinea,PASS,N/A,D. H. Vitt,Macromitrium macrosporum,PASS,N/A,1975-05-08,N/A,Typed,PASS,PASS,N/A,N/A,no type status,PASS,PASS,N/A,Alt.: c. 3900 m.,PASS,PASS,PASS
+PASS,PASS,PASS,PASS,PASS,PASS,Macromitrium macrosporum,PASS,N/A,1975-04-17,PASS,Typed,PASS,1142178,PASS,PASS,no type status,PASS,PASS,N/A,PASS,17.4.1975,PASS,PASS
+N/A,PASS,PASS,PASS,N/A,D. H. Vitt,Macromitrium macrosporum,PASS,N/A,1975-05-08,N/A,Typed,1142156,17312,PASS,N/A,no type status,PASS,N/A,N/A,PASS,8.5. 1975,PASS,PASS
+PASS,D. H. Vitt,Papua New Guinea,PASS,PASS,D. H. Vitt,Macromitrium macrosporum,PASS,N/A,1975-04-19,PASS,Typed,PASS,PASS,PASS,PASS,no type status,PASS,PASS,N/A,3900 m.,PASS,Macromitrium macrosporum Brot.,PASS
+N/A,D. H. Vitt,Papua New Guinea,West Sepik,N/A,D. H. Vitt,PASS,PASS,N/A,1975-05-05,N/A,Typed,PASS,17205,N/A,N/A,no type status,PASS,PASS,N/A,PASS,5. 5. 1975,PASS,PASS
+PASS,PASS,Papua New Guinea,West Sepik Distr.,PASS,PASS,Macromitrium megalocladon,PASS,PASS,1975-05-14,PASS,Typed,C0268863F,1142187,PASS,PASS,no type status,PASS,PASS,N/A,PASS,14.5.1975,PASS,PASS
+,PASS,PASS,PASS,PASS,D.H. Vitt,Macromitrium megalocladon,PASS,N/A,1975-04-21,,Typed,PASS,16555,PASS,,no type status,PASS,,,PASS,21. 4. 1975,Macromitrium megalocladon Fleisch.,PASS
+PASS,D. H. Vitt,Papua New Guinea,West Sepik Distr.,PASS,PASS,Macromitrium megalocladon,PASS,N/A,1975-04-07,PASS,Typed,PASS,PASS,PASS,PASS,no type status,PASS,PASS,PASS,PASS,7. 4. 1975,PASS,PASS
+PASS,S. Hattori,Japan,PASS,PASS,A. Noguchi,Macromitrium incurvum,PASS,PASS,1946-08-00,PASS,Typed,PASS,PASS,PASS,PASS,no type status,leg. S. Hattori,PASS,OCT 1948,PASS,VIII. 1946,PASS,PASS
+N/A,K. Mayebara,Japan,PASS,N/A,A. Noguchi,Macromitrium incurvum,PASS,N/A,1951-12-25,PASS,Typed,C0268560F,1043529,N/A,N/A,no type status,PASS,N/A,N/A,N/A,"December 25, 1951",Macromitrium incurvum (Lindb.) Par.,PASS
+PASS,K. Mayebara,Japan,PASS,PASS,A. Noguchi,Macromitrium gymnostomum,PASS,N/A,1952-02-11,N/A,Typed,PASS,1043490,N/A,PASS,no type status,PASS,PASS,PASS,100 m. above sea,"February 11, 1952",Macromitrium gymnostomum Sull. et Lesq.,"On rocks, ca. 100 m. above sea, Koonose, Kumamoto Prefecture"
+N/A,PASS,Japan,Kumamoto,N/A,A. Noguchi,PASS,PASS,N/A,PASS,PASS,PASS,PASS,1043493,N/A,N/A,no type status,PASS,N/A,PASS,PASS,PASS,PASS,PASS
+PASS,H. H. CHUNG,China,PASS,PASS,Theriot,Macromitrium gymnostomum,PASS,PASS,PASS,PASS,Typed,PASS,B.206,PASS,PASS,no type status,H. H. CHUNG,PASS,PASS,altitude 500 m.,PASS,PASS,PASS
+N/A,H. H. CHUNG,China,PASS,N/A,PASS,Macromitrium gymostomum,PASS,N/A,PASS,N/A,Typed,PASS,PASS,N/A,N/A,no type status,H. H. CHUNG,N/A,PASS,N/A,PASS,Macromitrium gymostomum Sull. det. Theriot,PASS
+,Dale H. Vitt,Papua New Guinea,PASS,PASS,Dale H. Vitt,Macromitrium longicaule,PASS,N/A,1981-07-23,,Typed,PASS,PASS,,,no type status,PASS,PASS,PASS,PASS,23 July 1981,PASS,Wamba 5 km S of Teptep airstrip. Rather open montane forest with dominating Pandanus tregs 1 km S of lake. alt. 2400 m.
+PASS,PASS,China,PASS,PASS,PASS,Macromitrium japonicum,PASS,PASS,PASS,PASS,Typed,PASS,PASS,PASS,PASS,no type status,PASS,PASS,PASS,PASS,PASS,PASS,PASS
+PASS,Timo Koponen,Papua New Guinea,PASS,PASS,Dale H. Vitt,Macromitrium macrosporum,PASS,N/A,1981-07-09,PASS,Typed,PASS,1142666,PASS,PASS,no type status,PASS,PASS,1989,3550 m,9 July 1981,PASS,PASS
+N/A,M. Mizutani,Japan,PASS,N/A,PASS,Macromitrium gymnostomum,PASS,PASS,1975-01-23,N/A,Typed,N/A,PASS,N/A,I. Yoshimura,PASS,PASS,N/A,PASS,PASS,"Jan. 23, 1975",PASS,PASS
+N/A,PASS,Japan,Honshu,N/A,PASS,Macromitrium incurvum,PASS,N/A,PASS,PASS,Typed,PASS,1356480,Musashi,N/A,no type status,PASS,N/A,N/A,N/A,JUL 1950,PASS,PASS
+N/A,PASS,Japan,Kagoshima,N/A,PASS,Macromitrium gymnostomum,On rock; elevation about 120 m.,N/A,1970-04-03,Amami-oshima,Typed,N/A,1051109,N/A,N/A,no type status,PASS,N/A,N/A,PASS,"April 3, 1970",PASS,On rock; elevation about 120 m.
+PASS,PASS,Portugal,PASS,N/A,PASS,PASS,PASS,PASS,1937-06-14,N/A,Typed,PASS,1181624,N/A,PASS,no type status,PASS,N/A,PASS,PASS,PASS,PASS,PASS
+PASS,Marko Lewis,Bolivia,PASS,PASS,PASS,Philonotis,PASS,N/A,1983-01-20,PASS,Typed,PASS,PASS,PASS,PASS,no type status,PASS,"15°36'S, 68°39'W",PASS,PASS,20 Jan 1983,Philonotis,PASS
+N/A,N/A,Bolivia,PASS,N/A,N/A,PASS,PASS,N/A,1979-03-29,PASS,Typed,PASS,1078795,PASS,N/A,no type status,N/A,PASS,N/A,2740 m.,29 March 1979,Philonotis fide Crum,PASS
+N/A,Marko Lewis,Bolivia,Cochabamba,PASS,N/A,Philonotis,PASS,N/A,1979-06-01,N/A,Typed,PASS,PASS,N/A,N/A,no type status,"Marko Lewis, no. 79-2315",PASS,N/A,3030 m.,1 June 1979,Philonotis,PASS
+N/A,PASS,Bolivia,PASS,N/A,N/A,PASS,PASS,N/A,PASS,PASS,Typed,PASS,PASS,N/A,PASS,no type status,PASS,N/A,N/A,10000 ft.,PASS,PASS,UNDUAVI
+N/A,PASS,Bolivia,Unduavi,N/A,N/A,PASS,PASS,N/A,1950-10-13,N/A,Typed,1013012,6865,N/A,PASS,no type status,PASS,N/A,N/A,10000 ft.,13 Oct. 1950,PASS,UNDUAVI
+N/A,Marko Lewis,Bolivia,Cochabamba,"On stones and banks of seepy creek in cloud forest ravine, with tree ferns.",N/A,PHILONOTIS,PASS,N/A,1979-06-01,N/A,Typed,C0341051F,1050327,PASS,N/A,no type status,"Marko Lewis, no. 79-2315","17° 11' S, 65° 54' W",N/A,3030 m,1 June 1979,PHILONOTIS,PASS
+N/A,PASS,Peru,Amazonas,PASS,Dana Griffin III,Philonotis sphaerocarpa,PASS,N/A,1973-08-31,N/A,Typed,PASS,PASS,N/A,PASS,PASS,PASS,N/A,N/A,PASS,31.8.1973,Philonotis sphaerocarpa (Hedw.) Brid.,PASS
+N/A,PASS,United States of America,California,N/A,Efrain De Luna,Braunia secunda,PASS,N/A,1973-12-25,PASS,Typed,PASS,PASS,PASS,"Claudio Delgado M. | Paul Somers, Jr.",no type status,"Frank D.Bowers, Claudio Delgado M. & Paul Somers, Jr.",N/A,1992,Alt. ca. 6300 ft.,25 December 1973,Braunia secunda (Hook.) B.S.G.,PASS
+N/A,PASS,Mexico,Oaxaca,PASS,A. J. Sparp,PASS,PASS,N/A,1973-06-23,N/A,Typed,C0541164F,1045248,N/A,PASS,no type status,PASS,N/A,N/A,1625 m.,"June 23, 1973",PASS,PASS
+PASS,A. J. Sharp,Mexico,Jalisco,"Partial shade, moist, vert. surface of boulder.",PASS,Braunia secunda,PASS,N/A,1973-07-04,PASS,Typed,PASS,2736,N/A,J. and E. B. Sharp | E. C. Clebsch | K. R. Thornburgh,no type status,"A.J. and E.B. Sharp, E.C. Clebsch, K.R. Thornburgh",N/A,1992,1750 m.,"July 4, 1973",PASS,PASS
+N/A,PASS,Mexico,Jalisco,N/A,PASS,PASS,PASS,N/A,PASS,N/A,Typed,PASS,10619,N/A,N/A,no type status,PASS,N/A,1992,"6,000 ft.",PASS,PASS,"On rocks near Guadalajara, 6,000 ft."
+N/A,Donald Richards,Mexico,Hidalgo,N/A,PASS,PASS,PASS,N/A,PASS,N/A,Typed,CC041180F,1045265,N/A,PASS,no type status,Donald Richards,N/A,1992,N/A,PASS,PASS,PASS
+N/A,Efrain De Luna,Mexico,Veracruz,N/A,Efrain De Luna,Braunia secunda,PASS,N/A,PASS,PASS,Typed,C0341205F,1031423,N/A,N/A,no type status,PASS,N/A,1992,PASS,PASS,Braunia secunda (Hook.) Bruch & Schimp.,PASS
+N/A,PASS,PASS,PASS,PASS,PASS,Braunia secunda,PASS,N/A,PASS,N/A,Typed,N/A,1036945,N/A,PASS,no type status,PASS,N/A,PASS,PASS,PASS,Braunia secunda (Hook.) Bruch & Schimp.,PASS
+N/A,A. J. Sharp,Mexico,Durango,PASS,PASS,Braunia secunda,PASS,N/A,PASS,N/A,Typed,00341213F,1145,N/A,N/A,PASS,PASS,N/A,PASS,N/A,PASS,PASS,PASS
+N/A,Efrain De Luna,Mexico,PASS,PASS,F. Bowers,PASS,PASS,N/A,1972-12-19,PASS,Typed,PASS,1045274,N/A,N/A,no type status,PASS,N/A,N/A,PASS,"Dec. 19, 1972",PASS,PASS
+N/A,Efrain De Luna,Mexico,Chiapas,N/A,F. J. Hermann,PASS,PASS,N/A,1975-02-09,PASS,Typed,C0341228F,PASS,N/A,N/A,PASS,Efrain De Luna,N/A,PASS,alt. 6800 ft.,PASS,Braunia squarrulosa (Hampe) C. Muell.,PASS
+N/A,A.J. Sharp,Mexico,Oaxaca,PASS,Efrain De Luna,Braunia squarrulosa,PASS,N/A,1972-12-23,N/A,Typed,PASS,2980-a,N/A,PASS,no type status,PASS,N/A,1992,6000 ft.,"Dec. 23, 1972",Braunia squarrulosa (Hampe) C. Muell.,PASS
+N/A,PASS,Mexico,Jalisco,"On dead limb, fallen. 7300 feet, Oak forest.",PASS,Braunia squarrulosa,PASS,N/A,1953-04-00,N/A,Typed,PASS,1089541,N/A,N/A,no type status,PASS,N/A,N/A,7300 feet,APR 1953,Braunia squarrulosa (Hampe) C. Muell.,PASS
+N/A,Donald Richards,Mexico,PASS,N/A,PASS,Braunia squarrulosa,PASS,N/A,1945-12-00,N/A,PASS,PASS,1172449,N/A,N/A,no type status,Donald Richards,N/A,PASS,"10,000 ft.",DEC 1945,PASS,PASS
+N/A,PASS,Mexico,Chiapas,N/A,PASS,PASS,PASS,N/A,N/A,N/A,Typed,C034128F,1031467,N/A,PASS,no type status,PASS,N/A,1992,2250 MSM,N/A,PASS,PASS
+N/A,Efrain De Luna,Mexico,Chiapas,N/A,Efrain De Luna,Braunia squarrulosa,PASS,N/A,N/A,N/A,Typed,PASS,1031495,N/A,N/A,no type status,"Det. Efrain De Luna, 1992",N/A,1992,PASS,s.d.,Braunia squarrulosa (Hampe) C. Muell.,PASS
+N/A,F. J. Hermann,Mexico,Chiapas,N/A,PASS,Braunia squarrulosa,PASS,N/A,1975-02-09,San Cristobal de las Casas,Typed,C0341242F,1045277,N/A,N/A,no type status,PASS,N/A,1992,PASS,"February 9, 1975",PASS,PASS
+N/A,PASS,Costa Rica,San Jose,PASS,PASS,PASS,PASS,N/A,PASS,N/A,Typed,PASS,1029423,N/A,PASS,no type status,PASS,N/A,PASS,PASS,PASS,PASS,PASS
+,S. Churchill,Bolivia,PASS,,C. Müller,PASS,PASS,2001-08-04,2001-08-04,,Typed,PASS,1183435,,,no type status,S. Churchill 20792,21°25'S 64°19'W,PASS,2300 m,4 Ago 2001,PASS,PASS
+N/A,PASS,Argentina,PASS,"Subtropical rainforest, epiphyte",PASS,Braunia cirrhofolia,PASS,N/A,1946-11-27,N/A,Typed,C0341251F,1136355,N/A,N/A,no type status,PASS,N/A,N/A,1000 m a.s.l.,27 November 1946,PASS,PASS
+N/A,Efrain De Luna,Bolivia,PASS,"In ravine with waterfall, 3250 m.",PASS,Braunia cirrifilolia,PASS,N/A,1979-04-06,Canyon 1 km. E. of Cachicata,Typed,PASS,1032380,PASS,N/A,no type status,PASS,N/A,PASS,3250 m.,6 April 1979,Braunia cirrifilolia (Mitt.) Jaeg.,PASS
+,PASS,Bolivia,La Paz,PASS,Dana Griffin III,Braunia plicata,PASS,N/A,1982-12-09,,Typed,PASS,1091412,PASS,,no type status,PASS,PASS,1990,PASS,9 Dec 1982,PASS,PASS
+N/A,Marko Lewis,Bolivia,La Paz,"Abundant on exposed rock face, 2600 m.",PASS,Braunia plicata,PASS,N/A,1979-03-22,N/A,Typed,C0341255F,1032384,Larecaja,N/A,no type status,PASS,PASS,1992,2600 m.,22 March 1979,PASS,"DEPTO. LA PAZ, PROV. LARECAJA: Near large red out-crop 2 mi. from Sorata down Rio Consata, 15° 41' S., 68° 43' W."
+N/A,PASS,Bolivia,PASS,PASS,PASS,Braunia plicata,PASS,PASS,1979-03-05,PASS,Typed,C0041257F,1032341,PASS,PASS,no type status,PASS,PASS,1992,PASS,5 March 1979,Braunia plicata (Mitt.) Jaeg.,PASS
+N/A,Efrain De Luna,Bolivia,La Paz,N/A,Efrain De Luna,Braunia plicata,PASS,N/A,1979-03-05,Charasani,Typed,PASS,1032381,Saavedra,N/A,no type status,PASS,PASS,PASS,3200 m.,5 March 1979,Braunia plicata (Mitt.) Jaeg.,PASS
+PASS,PASS,Bolivia,LA PAZ,N/A,PASS,PASS,PASS,N/A,1979-03-05,PASS,Typed,C0341283F,1032366,PASS,N/A,no type status,PASS,PASS,PASS,3200 m.,5 March 1979,PASS,PASS
+N/A,PASS,Bolivia,Tarija,PASS,PASS,PASS,PASS,N/A,PASS,N/A,Typed,PASS,1032358,N/A,N/A,no type status,PASS,N/A,PASS,N/A,PASS,PASS,"DEPTO. TARJA, PROV. MENDEZ. 5 mi. NE of Iscayachi, E. slope of mountains (hike from summit of road into canyon N. of Tarija-Iscayachi Hwy.), 21° 27' S., 64° 54' W."
+PASS,PASS,Peru,Depto. Ancash: Prov. Yungay,Growing on branches.,PASS,Braunia secunda,PASS,PASS,PASS,PASS,Typed,PASS,1111862,PASS,PASS,no type status,PASS,PASS,28 Jan. 1983,PASS,PASS,PASS,PASS
+N/A,PASS,Venezuela,Estado Merida,PASS,Dana Griffin III,Braunia secunda,PASS,PASS,1985-03-01,N/A,Typed,PV-1113,577,N/A,PASS,no type status,PASS,N/A,PASS,N/A,3.100-3.200 1985,PASS,PASS
+PASS,Efrain De Luna,Bolivia,PASS,PASS,Efrain De Luna,PASS,PASS,PASS,1979-02-02,PASS,Typed,PASS,1032377,PASS,PASS,no type status,Efrain De Luna,PASS,1992,1750 m.,2 February 1979,PASS,PASS
+N/A,PASS,Bolivia,PASS,N/A,PASS,Braunia subincana,PASS,N/A,PASS,N/A,Typed,PASS,PASS,N/A,N/A,no type status,PASS,N/A,1992,alt. ca. 9500 ft.,PASS,PASS,PASS
+PASS,S.R. Gradstein,Bolivia,PASS,PASS,S. Rob Gradstein,PASS,PASS,N/A,1989-11-12,PASS,Typed,PASS,PASS,PASS,M. Lewis,no type status,PASS,PASS,12 November 1989,alt. 2300 m.,12 November 1989,PASS,PASS
+N/A,Marko Lewis,Bolivia,La Paz,Fruit and coffee plantations. On rocks in shady fruit orchard.,PASS,Racopilum tomentosum,PASS,N/A,1983-02-07,PASS,Typed,PASS,PASS,PASS,PASS,no type status,PASS,PASS,PASS,PASS,7 Feb 1983,Racopilum tomentosum (Hedw.) Brid.,PASS
+PASS,PASS,Brazil,Minas Gerais,PASS,PASS,PASS,Fazenda de F. Lopez. Cut over woods. On rotting log.,PASS,1930-11-11,PASS,Typed,PASS,5281-a,PASS,PASS,no type status,PASS,PASS,PASS,Alt. 720 m.,"Nov. 11, 1930",PASS,Fazenda de F. Lopez. Cut over woods. On rotting log.
+N/A,PASS,PASS,PASS,PASS,PASS,PASS,PASS,N/A,1976-04-24,N/A,Typed,PASS,1023912,N/A,PASS,no type status,PASS,N/A,N/A,PASS,24.IV.1976,PASS,PASS
+N/A,PASS,Peru,Amazonas,PASS,PASS,Racopilum tomentosum,PASS,PASS,1973-08-31,N/A,Typed,PASS,1026724,N/A,PASS,no type status,PASS,N/A,PASS,PASS,PASS,PASS,PASS
+N/A,J. Florschutz,Suriname,N/A,PASS,PASS,Racopilum tomentosum,PASS,N/A,1975-12-18,N/A,Typed,PASS,PASS,N/A,PASS,no type status,J. & P. A. Florschutz,N/A,PASS,N/A,PASS,Racopilum tomentosum (Hedw.) Brid.,PASS
+PASS,E. Linares,Colombia,Meta,On log in forest.,S. Rob Gradstein,PASS,PASS,PASS,1984-09-26,Villavicencio,Typed,PASS,1065598,N/A,PASS,no type status,"E. Linares, S.R. Gradstein and B.O. van Zanten 1543",N/A,PASS,alt. 600 m.,26 Sept. 1984,PASS,"COLOMBIA. Dept. Meta, Villavicencio, forest of the Bavaria brewery near rio Guaitiquia, alt. 600 m."
+PASS,Marko Lewis,Bolivia,PASS,Fruit and coffee plantations. Bark of fruit trees in orchard.,N/A,Racopilum tomentosum,PASS,PASS,1983-02-07,Prov. Nor Yungas,Typed,PASS,1100344,N/A,PASS,no type status,PASS,PASS,N/A,ca. 1650 m.,7 Feb 1983,Racopilum tomentosum (Hedw.) Brid.,PASS
+N/A,Y. Mexia,Peru,PASS,PASS,PASS,PASS,PASS,N/A,1936-09-15,N/A,Typed,C0341805F,PASS,N/A,N/A,no type status,Ynes Mexia,N/A,N/A,PASS,PASS,PASS,PASS
+N/A,Ynes Mexia,Peru,Departamento and Provincia Huanuco,PASS,Bartram,PASS,PASS,N/A,1936-09-09,PASS,Typed,PASS,8165a,PASS,N/A,no type status,PASS,N/A,N/A,Alt. 1100 m.,"Sept. 9, 1936",PASS,PASS
+N/A,PASS,Peru,PASS,N/A,Bartram,PASS,PASS,N/A,1936-09-09,PASS,Typed,1036248,PASS,N/A,N/A,no type status,PASS,N/A,PASS,Alt. 1100 m.,"Sept. 9, 1936",PASS,PASS
+PASS,PASS,Colombia,Amazonas,"On wet, fallen log.",H. A. Crum,PASS,PASS,PASS,PASS,PASS,Typed,PASS,16563,PASS,PASS,no type status,PASS,PASS,PASS,PASS,PASS,PASS,PASS
+N/A,Dana Griffin,Colombia,Departamento de Magdalena,N/A,PASS,Leucomium lignicola,PASS,1977-08-31,1977-07-01,N/A,Typed,PASS,1029476,N/A,Orlando Rangel | Guido van Reenen,no type status,"Dana Griffin, III, Orlando Rangel y Guido van Reenen",N/A,PASS,PASS,Julio-Agosto 1977,PASS,PASS
+,S. P. Churchill,Colombia,Antioquia,PASS,S. P. Churchill,PASS,PASS,N/A,1987-07-06,Mun. de la Union,Typed,PASS,1139980,N/A,PASS,no type status,S.P. Churchill et al. 15466,PASS,6 July 1987,alt. 2460-2620 m.,6 July 1987,PASS,PASS
+N/A,Dana Griffin,Costa Rica,Cartago,PASS,N/A,PASS,PASS,1977-07-04,1977-07-03,PASS,Typed,PASS,1025621,PASS,PASS,no type status,PASS,N/A,N/A,PASS,PASS,PASS,PASS
+PASS,PASS,Venezuela,Estado Bolivar,N/A,E. B. Bartram,Hypnella cymbifolia,frequent on fallen logs in forest between Camps 3 and 2,N/A,1953-02-11,N/A,Typed,PASS,34365,N/A,PASS,no type status,PASS,PASS,February 11 1953,elev. 1250 - 1200 m.,PASS,Hypnella cymbifolia (Hpe.) Jaeg.,PASS
+N/A,PASS,Brazil,Amazonas,PASS,N/A,Hookeriopsis parkeriana,PASS,1979-07-12,1979-07-09,N/A,Typed,PASS,PASS,N/A,PASS,no type status,William R. Buck 2445,N/A,N/A,PASS,9-12 July 1979,Hookeriopsis parkeriana (Hook. & Grev.) Jaeg.,PASS
+N/A,PASS,Peru,PASCO,N/A,PASS,PASS,PASS,N/A,1981-07-30,N/A,Typed,PASS,1059405,N/A,N/A,no type status,PASS,"10°30'S, 75°30'W",30 July 1981,1900 m.,30 July 1981,PASS,PASS
+N/A,J. W. Fitzpatrick,Peru,PASS,Extremely mossy elfin cloud forest near shallow ravine.,W. C. Steere,PASS,PASS,N/A,1981-12-04,N/A,Typed,PASS,C0342123F,N/A,PASS,no type status,PASS,PASS,4 Dec. 1981,2850 m.,4 Dec. 1981,PASS,PASS
+PASS,PASS,Colombia,Antioquia,PASS,PASS,Hypnella diversifolia,PASS,PASS,1992-07-11,PASS,Typed,PASS,1139992,PASS,et al.,no type status,S.P. Churchill et al.,PASS,PASS,PASS,11 July 1992,PASS,PASS
+PASS,PASS,Venezuela,PASS,PASS,E. B. Bartram,PASS,PASS,PASS,PASS,N/A,Typed,1026299,34056,N/A,PASS,no type status,PASS,N/A,N/A,1200-1250 m.,PASS,PASS,PASS
+PASS,Robin B. Foster,Peru,PASS,PASS,W. C. Steere,PASS,PASS,N/A,1981-07-30,N/A,Typed,C0342164F,1059403,PASS,PASS,no type status,Robin B. Foster 4720,PASS,30 July 1981,1900 m.,30 July 1981,HYPNELLLA PALLESCENS (Hook.) Jaeg.,PASS
+N/A,PASS,Venezuela,PASS,PASS,E. B. Bartram,Hypnella cymbifolia,PASS,N/A,PASS,N/A,Typed,PASS,PASS,N/A,N/A,no type status,PASS,N/A,PASS,elev. 1250 - 1200 m.,PASS,PASS,PASS
+N/A,PASS,PASS,N/A,N/A,PASS,PASS,PASS,PASS,PASS,N/A,Typed,PASS,PASS,N/A,PASS,no type status,PASS,PASS,PASS,PASS,PASS,PASS,PASS
+N/A,PASS,Japan,PASS,N/A,PASS,Macromitrium japonicum,PASS,N/A,1973-01-11,N/A,Typed,PASS,PASS,N/A,N/A,no type status,PASS,N/A,N/A,elevation about 10 m.,PASS,Macromitrium japonicum Doz. et Molk.,PASS
+PASS,E. R. Reitz,Brazil,Santa Catarina,PASS,PASS,PASS,PASS,N/A,1948-12-17,PASS,Typed,PASS,PASS,PASS,PASS,no type status,PASS,PASS,PASS,PASS,17.12.1948,PASS,PASS
+PASS,Frahm,Brazil,São Paulo,PASS,Frahm,PASS,PASS,N/A,1977-07-22,PASS,Typed,1026026,PASS,PASS,PASS,no type status,PASS,PASS,22.7.1977,PASS,22.7.1977,PASS,PASS
+PASS,PASS,Brazil,Santa Catarina,PASS,PASS,Campylopus arctocarpus,PASS,N/A,PASS,PASS,Typed,PASS,C0399191F,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,Campylopus arctocarpus (Hornsch.) Mitt.,PASS
+N/A,Jan-Peter Frahm,Brazil,São Paulo,PASS,Jan-Peter Frahm,Campylopus griseus,PASS,N/A,N/A,N/A,Typed,PASS,1097651,N/A,N/A,no type status,Jan-Peter Frahm,N/A,PASS,PASS,s.d.,PASS,PASS
+N/A,Jan-Peter Frahm,Peru,Amazonas,N/A,N/A,Campylopus heterostichus,PASS,N/A,PASS,N/A,Typed,C0679841F,1053590,N/A,N/A,no type status,Jan-Peter Frahm,N/A,N/A,PASS,PASS,PASS,PASS

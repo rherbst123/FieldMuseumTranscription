@@ -237,7 +237,7 @@ if __name__ == "__main__":
     
     ###########################################################
     # copy in the name of the configuration file to be used below
-    config_filename = "trillo-flowering.yaml" 
+    config_filename = "nova_repeats.yaml" 
     ###########################################################
     CONFIG_PATH = "DataAnalysis/AnalysisTools/Configurations/"
     configuration = Comparison.read_configuration_from_yaml(CONFIG_PATH, config_filename)
